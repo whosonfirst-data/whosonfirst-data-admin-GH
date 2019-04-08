@@ -1,0 +1,71 @@
+{
+  "id": 1276883097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.88185,5.73074,-0.88185,5.73074",
+    "geom:latitude":5.73074,
+    "geom:longitude":-0.88185,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ochwidua",
+    "gn:country_code":"GH",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296568,
+    "gn:latitude":5.73074,
+    "gn:longitude":-0.88185,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ochwidua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Otwerdua",
+        "Ochwidua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296568
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"4c8a3a83c332d102c6c52f172309e3d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759847,
+            "locality_id":1276883097,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1276883097,
+    "wof:lastmodified":1537623501,
+    "wof:name":"Ochwidua",
+    "wof:parent_id":1108759847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.88185,
+    5.73074,
+    -0.88185,
+    5.73074
+],
+  "geometry": {"coordinates":[-0.88185,5.73074],"type":"Point"}
+}

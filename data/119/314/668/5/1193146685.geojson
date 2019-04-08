@@ -1,0 +1,67 @@
+{
+  "id": 1193146685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.6,5.58333,-0.6,5.58333",
+    "geom:latitude":5.58333,
+    "geom:longitude":-0.6,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Asumen",
+    "gn:country_code":"GH",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303975,
+    "gn:latitude":5.58333,
+    "gn:longitude":-0.6,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Asumen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303975
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"9dfa449d96b06587b7f5e19dba7b33a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759853,
+            "locality_id":1193146685,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1193146685,
+    "wof:lastmodified":1536382626,
+    "wof:name":"Asumen",
+    "wof:parent_id":1108759853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.6,
+    5.58333,
+    -0.6,
+    5.58333
+],
+  "geometry": {"coordinates":[-0.6,5.58333],"type":"Point"}
+}

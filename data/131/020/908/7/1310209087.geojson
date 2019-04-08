@@ -1,0 +1,67 @@
+{
+  "id": 1310209087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.48752,5.79551,-0.48752,5.79551",
+    "geom:latitude":5.79551,
+    "geom:longitude":-0.48752,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Adaiso",
+    "gn:country_code":"GH",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305991,
+    "gn:latitude":5.79551,
+    "gn:longitude":-0.48752,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Adaiso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305991
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"9f8cd7abce4b096c0087408e8bd9251c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759897,
+            "locality_id":1310209087,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1310209087,
+    "wof:lastmodified":1536845963,
+    "wof:name":"Adaiso",
+    "wof:parent_id":1108759897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.48752,
+    5.79551,
+    -0.48752,
+    5.79551
+],
+  "geometry": {"coordinates":[-0.48752,5.79551],"type":"Point"}
+}

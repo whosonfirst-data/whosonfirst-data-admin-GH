@@ -1,0 +1,72 @@
+{
+  "id": 1327449759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.46667,6.01667,-1.46667,6.01667",
+    "geom:latitude":6.01667,
+    "geom:longitude":-1.46667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Meyenwaikosimeyie",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298032,
+    "gn:latitude":6.01667,
+    "gn:longitude":-1.46667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Meyenwaikosimeyie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Meyenwaikosimayio",
+        "Meyenwaikosimeyie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298032
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"f5c6516aa1bc8a9bd28bf585d3f2ead6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759771,
+            "locality_id":1327449759,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1327449759,
+    "wof:lastmodified":1537623554,
+    "wof:name":"Meyenwaikosimeyie",
+    "wof:parent_id":1108759771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.46667,
+    6.01667,
+    -1.46667,
+    6.01667
+],
+  "geometry": {"coordinates":[-1.46667,6.01667],"type":"Point"}
+}

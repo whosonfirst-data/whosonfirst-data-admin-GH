@@ -1,0 +1,71 @@
+{
+  "id": 1326639755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.18317,10.82404,-0.18317,10.82404",
+    "geom:latitude":10.82404,
+    "geom:longitude":-0.18317,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Wurichongo",
+    "gn:country_code":"GH",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293959,
+    "gn:latitude":10.82404,
+    "gn:longitude":-0.18317,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Wurichongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Werichingu",
+        "Wurichongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293959
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"07dd6e40f8eb65a4c41cd6a850237137",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759943,
+            "locality_id":1326639755,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1326639755,
+    "wof:lastmodified":1537623409,
+    "wof:name":"Wurichongo",
+    "wof:parent_id":1108759943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.18317,
+    10.82404,
+    -0.18317,
+    10.82404
+],
+  "geometry": {"coordinates":[-0.18317,10.82404],"type":"Point"}
+}

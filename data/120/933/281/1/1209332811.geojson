@@ -1,0 +1,67 @@
+{
+  "id": 1209332811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.92589,6.9578,-1.92589,6.9578",
+    "geom:latitude":6.9578,
+    "geom:longitude":-1.92589,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Betinko",
+    "gn:country_code":"GH",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303094,
+    "gn:latitude":6.9578,
+    "gn:longitude":-1.92589,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Betinko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Betinko"
+    ],
+    "name:eng_x_variant":[
+        "Betinku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303094
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"8f288b280f8c74ff28a661a4633d577f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209332811
+        }
+    ],
+    "wof:id":1209332811,
+    "wof:lastmodified":1537623739,
+    "wof:name":"Betinko",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.92589,
+    6.9578,
+    -1.92589,
+    6.9578
+],
+  "geometry": {"coordinates":[-1.92589,6.9578],"type":"Point"}
+}

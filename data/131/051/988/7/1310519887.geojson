@@ -1,0 +1,71 @@
+{
+  "id": 1310519887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.92443,5.79995,0.92443,5.79995",
+    "geom:latitude":5.79995,
+    "geom:longitude":0.92443,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Avume",
+    "gn:country_code":"GH",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303692,
+    "gn:latitude":5.79995,
+    "gn:longitude":0.92443,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Avume",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Awuno",
+        "Avume"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303692
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ea893ac5ce0acfcc5f83ab259c432fda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759981,
+            "locality_id":1310519887,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1310519887,
+    "wof:lastmodified":1537623758,
+    "wof:name":"Avume",
+    "wof:parent_id":1108759981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.92443,
+    5.79995,
+    0.92443,
+    5.79995
+],
+  "geometry": {"coordinates":[0.92443,5.79995],"type":"Point"}
+}

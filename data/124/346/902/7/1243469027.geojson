@@ -1,0 +1,71 @@
+{
+  "id": 1243469027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.76609,10.38913,-2.76609,10.38913",
+    "geom:latitude":10.38913,
+    "geom:longitude":-2.76609,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kunche",
+    "gn:country_code":"GH",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2298857,
+    "gn:latitude":10.38913,
+    "gn:longitude":-2.76609,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Kunche",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Konne",
+        "Kunche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298857
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"314e09ddb907fc6fbb3b92b36a0a96fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759961,
+            "locality_id":1243469027,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1243469027,
+    "wof:lastmodified":1537623582,
+    "wof:name":"Kunche",
+    "wof:parent_id":1108759961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.76609,
+    10.38913,
+    -2.76609,
+    10.38913
+],
+  "geometry": {"coordinates":[-2.76609,10.38913],"type":"Point"}
+}

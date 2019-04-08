@@ -1,0 +1,67 @@
+{
+  "id": 1225854669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.55,5.68333,-2.55,5.68333",
+    "geom:latitude":5.68333,
+    "geom:longitude":-2.55,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Yayaso",
+    "gn:country_code":"GH",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293816,
+    "gn:latitude":5.68333,
+    "gn:longitude":-2.55,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Yayaso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293816
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"b0e7b3602a6106dcc6ac2e252ebfede4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760015,
+            "locality_id":1225854669,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1225854669,
+    "wof:lastmodified":1536999977,
+    "wof:name":"Yayaso",
+    "wof:parent_id":1108760015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.55,
+    5.68333,
+    -2.55,
+    5.68333
+],
+  "geometry": {"coordinates":[-2.55,5.68333],"type":"Point"}
+}

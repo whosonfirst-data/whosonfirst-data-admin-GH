@@ -1,0 +1,77 @@
+{
+  "id": 1260294821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.63158,5.92488,-1.63158,5.92488",
+    "geom:latitude":5.92488,
+    "geom:longitude":-1.63158,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Badowa Number One",
+    "gn:country_code":"GH",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303514,
+    "gn:latitude":5.92488,
+    "gn:longitude":-1.63158,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Badowa Number One",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Badowa Number One"
+    ],
+    "name:eng_x_variant":[
+        "Badowa Number 1"
+    ],
+    "name:und_x_variant":[
+        "Baadowa",
+        "Badoa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303514
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a4b4af4f967a50e789f460f838f66aa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759865,
+            "locality_id":1260294821,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1260294821,
+    "wof:lastmodified":1537623753,
+    "wof:name":"Badowa Number One",
+    "wof:parent_id":1108759865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.63158,
+    5.92488,
+    -1.63158,
+    5.92488
+],
+  "geometry": {"coordinates":[-1.63158,5.92488],"type":"Point"}
+}

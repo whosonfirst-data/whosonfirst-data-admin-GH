@@ -1,0 +1,65 @@
+{
+  "id": 1209629893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.93567,5.39975,-0.93567,5.39975",
+    "geom:latitude":5.39975,
+    "geom:longitude":-0.93567,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Owang",
+    "gn:country_code":"GH",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296220,
+    "gn:latitude":5.39975,
+    "gn:longitude":-0.93567,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Owang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Owan",
+        "Owang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296220
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"551c47a64225be77fe4ae1f10a1e7799",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209629893
+        }
+    ],
+    "wof:id":1209629893,
+    "wof:lastmodified":1537623487,
+    "wof:name":"Owang",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.93567,
+    5.39975,
+    -0.93567,
+    5.39975
+],
+  "geometry": {"coordinates":[-0.93567,5.39975],"type":"Point"}
+}

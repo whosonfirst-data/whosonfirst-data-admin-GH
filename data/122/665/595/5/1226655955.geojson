@@ -1,0 +1,71 @@
+{
+  "id": 1226655955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.09527,5.13061,-2.09527,5.13061",
+    "geom:latitude":5.13061,
+    "geom:longitude":-2.09527,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dajwin",
+    "gn:country_code":"GH",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302049,
+    "gn:latitude":5.13061,
+    "gn:longitude":-2.09527,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dajwin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dadwin",
+        "Dajwin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302049
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"fcef874801f99e00b27add6f11eed0fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760017,
+            "locality_id":1226655955,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1226655955,
+    "wof:lastmodified":1537623702,
+    "wof:name":"Dajwin",
+    "wof:parent_id":1108760017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.09527,
+    5.13061,
+    -2.09527,
+    5.13061
+],
+  "geometry": {"coordinates":[-2.09527,5.13061],"type":"Point"}
+}

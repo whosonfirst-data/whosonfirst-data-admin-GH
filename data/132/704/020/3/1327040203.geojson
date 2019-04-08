@@ -1,0 +1,71 @@
+{
+  "id": 1327040203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.98213,5.31119,-0.98213,5.31119",
+    "geom:latitude":5.31119,
+    "geom:longitude":-0.98213,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nyapa",
+    "gn:country_code":"GH",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296785,
+    "gn:latitude":5.31119,
+    "gn:longitude":-0.98213,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nyapa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Enyan Apaa",
+        "Nyapa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296785
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ffd022059ee3ad7524ee4d79d9e40391",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759845,
+            "locality_id":1327040203,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1327040203,
+    "wof:lastmodified":1537623507,
+    "wof:name":"Nyapa",
+    "wof:parent_id":1108759845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.98213,
+    5.31119,
+    -0.98213,
+    5.31119
+],
+  "geometry": {"coordinates":[-0.98213,5.31119],"type":"Point"}
+}

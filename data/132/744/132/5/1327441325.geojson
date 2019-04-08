@@ -1,0 +1,71 @@
+{
+  "id": 1327441325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.97192,10.83527,-0.97192,10.83527",
+    "geom:latitude":10.83527,
+    "geom:longitude":-0.97192,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kulbia",
+    "gn:country_code":"GH",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298950,
+    "gn:latitude":10.83527,
+    "gn:longitude":-0.97192,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kulbia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sumbrungo Kilbia",
+        "Kulbia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298950
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"9c15da6b92af91aaea789e6d71c32cb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759947,
+            "locality_id":1327441325,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1327441325,
+    "wof:lastmodified":1537623585,
+    "wof:name":"Kulbia",
+    "wof:parent_id":1108759947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.97192,
+    10.83527,
+    -0.97192,
+    10.83527
+],
+  "geometry": {"coordinates":[-0.97192,10.83527],"type":"Point"}
+}

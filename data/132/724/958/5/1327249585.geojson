@@ -1,0 +1,71 @@
+{
+  "id": 1327249585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.30534,7.08248,0.30534,7.08248",
+    "geom:latitude":7.08248,
+    "geom:longitude":0.30534,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dafo",
+    "gn:country_code":"GH",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302068,
+    "gn:latitude":7.08248,
+    "gn:longitude":0.30534,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dafo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dafor",
+        "Dafo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302068
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"68e4da03df5f6e741fb8c827ab9a3a2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759985,
+            "locality_id":1327249585,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1327249585,
+    "wof:lastmodified":1537623703,
+    "wof:name":"Dafo",
+    "wof:parent_id":1108759985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.30534,
+    7.08248,
+    0.30534,
+    7.08248
+],
+  "geometry": {"coordinates":[0.30534,7.08248],"type":"Point"}
+}

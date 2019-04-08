@@ -1,0 +1,71 @@
+{
+  "id": 1293404839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.68919,5.38615,-2.68919,5.38615",
+    "geom:latitude":5.38615,
+    "geom:longitude":-2.68919,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Asamkrom",
+    "gn:country_code":"GH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304215,
+    "gn:latitude":5.38615,
+    "gn:longitude":-2.68919,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Asamkrom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Asemkrom",
+        "Asamkrom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108759997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304215
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"8561c3051018ce2aa585d8a1f4a30dc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759997,
+            "locality_id":1293404839,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1293404839,
+    "wof:lastmodified":1537623778,
+    "wof:name":"Asamkrom",
+    "wof:parent_id":1108759997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.68919,
+    5.38615,
+    -2.68919,
+    5.38615
+],
+  "geometry": {"coordinates":[-2.68919,5.38615],"type":"Point"}
+}

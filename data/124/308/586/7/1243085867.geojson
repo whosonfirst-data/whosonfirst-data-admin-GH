@@ -1,0 +1,71 @@
+{
+  "id": 1243085867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.17542,11.0816,-0.17542,11.0816",
+    "geom:latitude":11.0816,
+    "geom:longitude":-0.17542,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nenkogo",
+    "gn:country_code":"GH",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297451,
+    "gn:latitude":11.0816,
+    "gn:longitude":-0.17542,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nenkogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nkawgo",
+        "Nenkogo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297451
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"9ac950657b44ba218bd082ee7004d2b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759943,
+            "locality_id":1243085867,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1243085867,
+    "wof:lastmodified":1537623531,
+    "wof:name":"Nenkogo",
+    "wof:parent_id":1108759943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.17542,
+    11.0816,
+    -0.17542,
+    11.0816
+],
+  "geometry": {"coordinates":[-0.17542,11.0816],"type":"Point"}
+}

@@ -1,0 +1,108 @@
+{
+  "id": 890432193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.98577,5.92665,-0.98577,5.92665",
+    "geom:latitude":5.92665,
+    "geom:longitude":-0.98577,
+    "gn:country":"GH",
+    "gn:fcode":"PPL",
+    "gn:pop":43399,
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:aka_x_preferred":[
+        "Akim Oda"
+    ],
+    "name:dut_x_preferred":[
+        "Akim Oda"
+    ],
+    "name:eng_x_preferred":[
+        "Akim Oda"
+    ],
+    "name:fre_x_preferred":[
+        "Akim Oda"
+    ],
+    "name:ger_x_preferred":[
+        "Akim Oda"
+    ],
+    "name:ita_x_preferred":[
+        "Akim Oda"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30ad\u30e0\u30fb\u30aa\u30c0"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u06a9\u06cc\u0645 \u0627\u0648\u062f\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Oda"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0434\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Akim Oda"
+    ],
+    "name:unk_x_variant":[
+        "Nsuaem"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06a9\u06cc\u0645 \u0627\u0648\u062f\u0627"
+    ],
+    "qs:name":"Akim Oda",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":423,
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296564,
+        "gp:id":1332051,
+        "qs:id":278375,
+        "wd:id":"Q418402",
+        "wk:page":"Akim Oda"
+    },
+    "wof:country":"GH",
+    "wof:created":1469051932,
+    "wof:geomhash":"e88bb9003ed516a56f0587ca29acb055",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759879,
+            "locality_id":890432193,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":890432193,
+    "wof:lastmodified":1553816395,
+    "wof:name":"Akim Oda",
+    "wof:parent_id":1108759879,
+    "wof:placetype":"locality",
+    "wof:population":43399,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.98577,
+    5.92665,
+    -0.98577,
+    5.92665
+],
+  "geometry": {"coordinates":[-0.98577,5.92665],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1327249495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.3,6.8,0.3,6.8",
+    "geom:latitude":6.8,
+    "geom:longitude":0.3,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Vakpo",
+    "gn:country_code":"GH",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294280,
+    "gn:latitude":6.8,
+    "gn:longitude":0.3,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Vakpo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294280,
+        "wk:page":"Vakpo"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"3c96bd6abba318e95023726d99b6d73c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759985,
+            "locality_id":1327249495,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1327249495,
+    "wof:lastmodified":1537563024,
+    "wof:name":"Vakpo",
+    "wof:parent_id":1108759985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.3,
+    6.8,
+    0.3,
+    6.8
+],
+  "geometry": {"coordinates":[0.3,6.8],"type":"Point"}
+}

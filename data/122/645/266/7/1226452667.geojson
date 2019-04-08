@@ -1,0 +1,72 @@
+{
+  "id": 1226452667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.23333,5.86667,-0.23333,5.86667",
+    "geom:latitude":5.86667,
+    "geom:longitude":-0.23333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Apantem",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304383,
+    "gn:latitude":5.86667,
+    "gn:longitude":-0.23333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Apantem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ampentem",
+        "Apantem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304383
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"2f7ff40e2d8f694ba183c8b3c784aa05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759873,
+            "locality_id":1226452667,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1226452667,
+    "wof:lastmodified":1537623783,
+    "wof:name":"Apantem",
+    "wof:parent_id":1108759873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.23333,
+    5.86667,
+    -0.23333,
+    5.86667
+],
+  "geometry": {"coordinates":[-0.23333,5.86667],"type":"Point"}
+}

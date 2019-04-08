@@ -1,0 +1,70 @@
+{
+  "id": 1310519607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.58236,6.91669,-1.58236,6.91669",
+    "geom:latitude":6.91669,
+    "geom:longitude":-1.58236,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Duaponko",
+    "gn:country_code":"GH",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301469,
+    "gn:latitude":6.91669,
+    "gn:longitude":-1.58236,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Duaponko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Duaponkaw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301469
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"57a56fddee3fcdb12cfbff8ca82de9f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759775,
+            "locality_id":1310519607,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1310519607,
+    "wof:lastmodified":1537623681,
+    "wof:name":"Duaponko",
+    "wof:parent_id":1108759775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.58236,
+    6.91669,
+    -1.58236,
+    6.91669
+],
+  "geometry": {"coordinates":[-1.58236,6.91669],"type":"Point"}
+}

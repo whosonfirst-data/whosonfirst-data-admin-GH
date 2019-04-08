@@ -1,0 +1,71 @@
+{
+  "id": 1343776821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.82537,6.34021,-2.82537,6.34021",
+    "geom:latitude":6.34021,
+    "geom:longitude":-2.82537,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gyabeso",
+    "gn:country_code":"GH",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300274,
+    "gn:latitude":6.34021,
+    "gn:longitude":-2.82537,
+    "gn:modification_date":"2012-05-04",
+    "gn:name":"Gyabeso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jabeso",
+        "Juabeso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300274
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"31514ad31daa54447adc1907f733f18d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760003,
+            "locality_id":1343776821,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1343776821,
+    "wof:lastmodified":1537623633,
+    "wof:name":"Gyabeso",
+    "wof:parent_id":1108760003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.82537,
+    6.34021,
+    -2.82537,
+    6.34021
+],
+  "geometry": {"coordinates":[-2.82537,6.34021],"type":"Point"}
+}

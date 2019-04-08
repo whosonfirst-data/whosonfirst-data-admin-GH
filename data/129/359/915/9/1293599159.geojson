@@ -1,0 +1,67 @@
+{
+  "id": 1293599159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.7578,6.64109,-0.7578,6.64109",
+    "geom:latitude":6.64109,
+    "geom:longitude":-0.7578,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Aduamoa",
+    "gn:country_code":"GH",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305789,
+    "gn:latitude":6.64109,
+    "gn:longitude":-0.7578,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Aduamoa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305789
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"02dc27aa44498f206fa552aaa5b0554b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759889,
+            "locality_id":1293599159,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1293599159,
+    "wof:lastmodified":1536624048,
+    "wof:name":"Aduamoa",
+    "wof:parent_id":1108759889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.7578,
+    6.64109,
+    -0.7578,
+    6.64109
+],
+  "geometry": {"coordinates":[-0.7578,6.64109],"type":"Point"}
+}

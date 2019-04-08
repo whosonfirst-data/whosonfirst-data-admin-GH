@@ -1,0 +1,67 @@
+{
+  "id": 1293603895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.4921,5.25859,-1.4921,5.25859",
+    "geom:latitude":5.25859,
+    "geom:longitude":-1.4921,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bomodin",
+    "gn:country_code":"GH",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302794,
+    "gn:latitude":5.25859,
+    "gn:longitude":-1.4921,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Bomodin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302794
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"47b6b96ca98181ec5e301923e4041700",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760005,
+            "locality_id":1293603895,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1293603895,
+    "wof:lastmodified":1536617013,
+    "wof:name":"Bomodin",
+    "wof:parent_id":1108760005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.4921,
+    5.25859,
+    -1.4921,
+    5.25859
+],
+  "geometry": {"coordinates":[-1.4921,5.25859],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259897475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.31554,5.74221,-0.31554,5.74221",
+    "geom:latitude":5.74221,
+    "geom:longitude":-0.31554,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Nkuntunse",
+    "gn:country_code":"GH",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297286,
+    "gn:latitude":5.74221,
+    "gn:longitude":-0.31554,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Nkuntunse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nkuntunse"
+    ],
+    "name:und_x_variant":[
+        "Nkotunse",
+        "Nkotunsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671353,
+        1108759909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297286
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"5a520e55d7cb56f82246b7e4dce5ad0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759909,
+            "locality_id":1259897475,
+            "region_id":85671353
+        }
+    ],
+    "wof:id":1259897475,
+    "wof:lastmodified":1537623526,
+    "wof:name":"Nkuntunse",
+    "wof:parent_id":1108759909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.31554,
+    5.74221,
+    -0.31554,
+    5.74221
+],
+  "geometry": {"coordinates":[-0.31554,5.74221],"type":"Point"}
+}

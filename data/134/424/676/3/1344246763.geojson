@@ -1,0 +1,72 @@
+{
+  "id": 1344246763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.02871,4.76275,-2.02871,4.76275",
+    "geom:latitude":4.76275,
+    "geom:longitude":-2.02871,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Akyenmu",
+    "gn:country_code":"GH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306086,
+    "gn:latitude":4.76275,
+    "gn:longitude":-2.02871,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Akyenmu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akyinim",
+        "Akyenmu",
+        "Achenim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108759993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306086
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"56d546ad8a65c6e711c7811696b8565c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759993,
+            "locality_id":1344246763,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1344246763,
+    "wof:lastmodified":1537623844,
+    "wof:name":"Akyenmu",
+    "wof:parent_id":1108759993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.02871,
+    4.76275,
+    -2.02871,
+    4.76275
+],
+  "geometry": {"coordinates":[-2.02871,4.76275],"type":"Point"}
+}

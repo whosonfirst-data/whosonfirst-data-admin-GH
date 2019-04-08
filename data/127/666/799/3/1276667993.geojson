@@ -1,0 +1,71 @@
+{
+  "id": 1276667993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.44827,6.65465,-1.44827,6.65465",
+    "geom:latitude":6.65465,
+    "geom:longitude":-1.44827,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Asiempong",
+    "gn:country_code":"GH",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304099,
+    "gn:latitude":6.65465,
+    "gn:longitude":-1.44827,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Asiempong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Asienimpon",
+        "Asiempong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304099
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"4a2819d9b520a197b808e2ac6fa8bad1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759795,
+            "locality_id":1276667993,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1276667993,
+    "wof:lastmodified":1537623773,
+    "wof:name":"Asiempong",
+    "wof:parent_id":1108759795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.44827,
+    6.65465,
+    -1.44827,
+    6.65465
+],
+  "geometry": {"coordinates":[-1.44827,6.65465],"type":"Point"}
+}

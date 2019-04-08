@@ -1,0 +1,71 @@
+{
+  "id": 1327044661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.45575,6.7505,-1.45575,6.7505",
+    "geom:latitude":6.7505,
+    "geom:longitude":-1.45575,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Asuchwi",
+    "gn:country_code":"GH",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303995,
+    "gn:latitude":6.7505,
+    "gn:longitude":-1.45575,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Asuchwi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Asotwe",
+        "Asuchwi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303995
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"6a512db426bea76068054f8c4d65dab6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759795,
+            "locality_id":1327044661,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1327044661,
+    "wof:lastmodified":1537623768,
+    "wof:name":"Asuchwi",
+    "wof:parent_id":1108759795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.45575,
+    6.7505,
+    -1.45575,
+    6.7505
+],
+  "geometry": {"coordinates":[-1.45575,6.7505],"type":"Point"}
+}

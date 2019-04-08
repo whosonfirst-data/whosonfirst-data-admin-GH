@@ -1,0 +1,67 @@
+{
+  "id": 1243274045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.0,6.45,-1.0,6.45",
+    "geom:latitude":6.45,
+    "geom:longitude":-1.0,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Aseni Akrofunso",
+    "gn:country_code":"GH",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304131,
+    "gn:latitude":6.45,
+    "gn:longitude":-1.0,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Aseni Akrofunso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304131
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"eb91fc18afc9caf50bfb2bca42f7e9f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759877,
+            "locality_id":1243274045,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1243274045,
+    "wof:lastmodified":1537051780,
+    "wof:name":"Aseni Akrofunso",
+    "wof:parent_id":1108759877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.0,
+    6.45,
+    -1.0,
+    6.45
+],
+  "geometry": {"coordinates":[-1.0,6.45],"type":"Point"}
+}

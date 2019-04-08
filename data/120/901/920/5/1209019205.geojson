@@ -1,0 +1,71 @@
+{
+  "id": 1209019205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.0194,6.369,-2.0194,6.369",
+    "geom:latitude":6.369,
+    "geom:longitude":-2.0194,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kaniago",
+    "gn:country_code":"GH",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301569,
+    "gn:latitude":6.369,
+    "gn:longitude":-2.0194,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Kaniago",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kaniago"
+    ],
+    "name:eng_x_variant":[
+        "Dome Kaniago"
+    ],
+    "name:und_x_variant":[
+        "Dome Keniago",
+        "Domi Keniago"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301569
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"4c121650ad2e79143070b959a2ef069d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209019205
+        }
+    ],
+    "wof:id":1209019205,
+    "wof:lastmodified":1537623686,
+    "wof:name":"Kaniago",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.0194,
+    6.369,
+    -2.0194,
+    6.369
+],
+  "geometry": {"coordinates":[-2.0194,6.369],"type":"Point"}
+}

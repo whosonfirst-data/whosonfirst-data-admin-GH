@@ -1,0 +1,73 @@
+{
+  "id": 1343776505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.9,6.11667,0.9,6.11667",
+    "geom:latitude":6.11667,
+    "geom:longitude":0.9,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bokuve",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302826,
+    "gn:latitude":6.11667,
+    "gn:longitude":0.9,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bokuve",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kpokuve",
+        "Kporkuve",
+        "Bokuve"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302826
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ae30915d64a94f28249ee2520a9aa2fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759983,
+            "locality_id":1343776505,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1343776505,
+    "wof:lastmodified":1537623729,
+    "wof:name":"Bokuve",
+    "wof:parent_id":1108759983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.9,
+    6.11667,
+    0.9,
+    6.11667
+],
+  "geometry": {"coordinates":[0.9,6.11667],"type":"Point"}
+}

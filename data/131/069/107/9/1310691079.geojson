@@ -1,0 +1,73 @@
+{
+  "id": 1310691079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.16275,4.92188,-2.16275,4.92188",
+    "geom:latitude":4.92188,
+    "geom:longitude":-2.16275,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Avrebo",
+    "gn:country_code":"GH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305647,
+    "gn:latitude":4.92188,
+    "gn:longitude":-2.16275,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Avrebo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Avrebo"
+    ],
+    "name:eng_x_variant":[
+        "Afrebo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305647
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"476ed62f4eec49b93c44ff4bbdb9bf20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760007,
+            "locality_id":1310691079,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1310691079,
+    "wof:lastmodified":1537623828,
+    "wof:name":"Avrebo",
+    "wof:parent_id":1108760007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.16275,
+    4.92188,
+    -2.16275,
+    4.92188
+],
+  "geometry": {"coordinates":[-2.16275,4.92188],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327149265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.86466,8.04894,-1.86466,8.04894",
+    "geom:latitude":8.04894,
+    "geom:longitude":-1.86466,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Temebabi",
+    "gn:country_code":"GH",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2294696,
+    "gn:latitude":8.04894,
+    "gn:longitude":-1.86466,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Temebabi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Temebaabi",
+        "Temebabi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294696
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"3daa7aa63d7014ca05a4d7b51c9210fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759825,
+            "locality_id":1327149265,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1327149265,
+    "wof:lastmodified":1537623435,
+    "wof:name":"Temebabi",
+    "wof:parent_id":1108759825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.86466,
+    8.04894,
+    -1.86466,
+    8.04894
+],
+  "geometry": {"coordinates":[-1.86466,8.04894],"type":"Point"}
+}

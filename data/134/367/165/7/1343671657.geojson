@@ -1,0 +1,67 @@
+{
+  "id": 1343671657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.69467,7.70754,-1.69467,7.70754",
+    "geom:latitude":7.70754,
+    "geom:longitude":-1.69467,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Boaben",
+    "gn:country_code":"GH",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302931,
+    "gn:latitude":7.70754,
+    "gn:longitude":-1.69467,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Boaben",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302931
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"17f0484cb79efe4cbaacc9796f12fad4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759827,
+            "locality_id":1343671657,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1343671657,
+    "wof:lastmodified":1536939537,
+    "wof:name":"Boaben",
+    "wof:parent_id":1108759827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.69467,
+    7.70754,
+    -1.69467,
+    7.70754
+],
+  "geometry": {"coordinates":[-1.69467,7.70754],"type":"Point"}
+}

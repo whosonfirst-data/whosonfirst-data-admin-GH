@@ -1,0 +1,67 @@
+{
+  "id": 1309923763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.26547,5.67443,-1.26547,5.67443",
+    "geom:latitude":5.67443,
+    "geom:longitude":-1.26547,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Atonsu",
+    "gn:country_code":"GH",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303801,
+    "gn:latitude":5.67443,
+    "gn:longitude":-1.26547,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Atonsu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303801
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"284bcff2bba27d70a073a7932eb8840e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759849,
+            "locality_id":1309923763,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1309923763,
+    "wof:lastmodified":1536761303,
+    "wof:name":"Atonsu",
+    "wof:parent_id":1108759849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.26547,
+    5.67443,
+    -1.26547,
+    5.67443
+],
+  "geometry": {"coordinates":[-1.26547,5.67443],"type":"Point"}
+}

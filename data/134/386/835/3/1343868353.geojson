@@ -1,0 +1,73 @@
+{
+  "id": 1343868353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.99438,10.9065,-0.99438,10.9065",
+    "geom:latitude":10.9065,
+    "geom:longitude":-0.99438,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mirigu",
+    "gn:country_code":"GH",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297985,
+    "gn:latitude":10.9065,
+    "gn:longitude":-0.99438,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mirigu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mirigu Central",
+        "Medigo",
+        "Mirigu Achobise",
+        "Mirigu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297985
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ab8381e95c49274115335f2bf98c36de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759953,
+            "locality_id":1343868353,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1343868353,
+    "wof:lastmodified":1537623553,
+    "wof:name":"Mirigu",
+    "wof:parent_id":1108759953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.99438,
+    10.9065,
+    -0.99438,
+    10.9065
+],
+  "geometry": {"coordinates":[-0.99438,10.9065],"type":"Point"}
+}

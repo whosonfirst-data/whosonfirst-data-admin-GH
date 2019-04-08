@@ -1,0 +1,71 @@
+{
+  "id": 1209928847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.30846,7.09228,-1.30846,7.09228",
+    "geom:latitude":7.09228,
+    "geom:longitude":-1.30846,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ankumadua",
+    "gn:country_code":"GH",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304554,
+    "gn:latitude":7.09228,
+    "gn:longitude":-1.30846,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ankumadua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ankamadoa",
+        "Ankumadua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304554
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"fa45cb6d634cd65d59a5f6d43e71d90c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759809,
+            "locality_id":1209928847,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1209928847,
+    "wof:lastmodified":1537623789,
+    "wof:name":"Ankumadua",
+    "wof:parent_id":1108759809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.30846,
+    7.09228,
+    -1.30846,
+    7.09228
+],
+  "geometry": {"coordinates":[-1.30846,7.09228],"type":"Point"}
+}

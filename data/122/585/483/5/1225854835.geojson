@@ -1,0 +1,73 @@
+{
+  "id": 1225854835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.27836,10.84999,-1.27836,10.84999",
+    "geom:latitude":10.84999,
+    "geom:longitude":-1.27836,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Chana",
+    "gn:country_code":"GH",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302331,
+    "gn:latitude":10.84999,
+    "gn:longitude":-1.27836,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chiana",
+        "Chiana Asunia",
+        "Chiana Central",
+        "Chana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302331
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"fce77e5a2950f54f91c66b30e120ec09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759953,
+            "locality_id":1225854835,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1225854835,
+    "wof:lastmodified":1537623713,
+    "wof:name":"Chana",
+    "wof:parent_id":1108759953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.27836,
+    10.84999,
+    -1.27836,
+    10.84999
+],
+  "geometry": {"coordinates":[-1.27836,10.84999],"type":"Point"}
+}

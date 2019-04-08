@@ -1,0 +1,61 @@
+{
+  "id": 1209530271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.78333,9.48333,-0.78333,9.48333",
+    "geom:latitude":9.48333,
+    "geom:longitude":-0.78333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kopiong",
+    "gn:country_code":"GH",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299332,
+    "gn:latitude":9.48333,
+    "gn:longitude":-0.78333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Kopiong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299332
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"cf5e9bf33540ad30e2cc129606b77dd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209530271
+        }
+    ],
+    "wof:id":1209530271,
+    "wof:lastmodified":1536284302,
+    "wof:name":"Kopiong",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.78333,
+    9.48333,
+    -0.78333,
+    9.48333
+],
+  "geometry": {"coordinates":[-0.78333,9.48333],"type":"Point"}
+}

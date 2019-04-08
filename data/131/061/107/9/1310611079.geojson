@@ -1,0 +1,67 @@
+{
+  "id": 1310611079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.07641,6.07838,1.07641,6.07838",
+    "geom:latitude":6.07838,
+    "geom:longitude":1.07641,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tagbakofe",
+    "gn:country_code":"GH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294934,
+    "gn:latitude":6.07838,
+    "gn:longitude":1.07641,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Tagbakofe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294934
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"f596cd543025170f4df2d340a88273ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759983,
+            "locality_id":1310611079,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1310611079,
+    "wof:lastmodified":1536764918,
+    "wof:name":"Tagbakofe",
+    "wof:parent_id":1108759983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.07641,
+    6.07838,
+    1.07641,
+    6.07838
+],
+  "geometry": {"coordinates":[1.07641,6.07838],"type":"Point"}
+}

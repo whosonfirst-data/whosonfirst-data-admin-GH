@@ -1,0 +1,66 @@
+{
+  "id": 1209633413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.04105,10.82207,-0.04105,10.82207",
+    "geom:latitude":10.82207,
+    "geom:longitude":-0.04105,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nisom",
+    "gn:country_code":"GH",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297347,
+    "gn:latitude":10.82207,
+    "gn:longitude":-0.04105,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nisom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ninsumu",
+        "Nesom",
+        "Nisom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297347
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"083df1ed5701183867509c270d3a1155",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209633413
+        }
+    ],
+    "wof:id":1209633413,
+    "wof:lastmodified":1537623528,
+    "wof:name":"Nisom",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.04105,
+    10.82207,
+    -0.04105,
+    10.82207
+],
+  "geometry": {"coordinates":[-0.04105,10.82207],"type":"Point"}
+}

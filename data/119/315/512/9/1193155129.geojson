@@ -1,0 +1,67 @@
+{
+  "id": 1193155129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.48802,6.50014,0.48802,6.50014",
+    "geom:latitude":6.50014,
+    "geom:longitude":0.48802,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Agblife",
+    "gn:country_code":"GH",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305582,
+    "gn:latitude":6.50014,
+    "gn:longitude":0.48802,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Agblife",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305582
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"855ec828769e7908c431068e84abfbe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759971,
+            "locality_id":1193155129,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1193155129,
+    "wof:lastmodified":1536374055,
+    "wof:name":"Agblife",
+    "wof:parent_id":1108759971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.48802,
+    6.50014,
+    0.48802,
+    6.50014
+],
+  "geometry": {"coordinates":[0.48802,6.50014],"type":"Point"}
+}

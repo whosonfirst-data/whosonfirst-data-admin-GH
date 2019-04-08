@@ -1,0 +1,71 @@
+{
+  "id": 1276999597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.8968,6.60699,-0.8968,6.60699",
+    "geom:latitude":6.60699,
+    "geom:longitude":-0.8968,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bisiasi",
+    "gn:country_code":"GH",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302966,
+    "gn:latitude":6.60699,
+    "gn:longitude":-0.8968,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bisiasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Besease",
+        "Bisiasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302966
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"eb631652c8fd63cfa04a2825b6d21769",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759889,
+            "locality_id":1276999597,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1276999597,
+    "wof:lastmodified":1537623734,
+    "wof:name":"Bisiasi",
+    "wof:parent_id":1108759889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8968,
+    6.60699,
+    -0.8968,
+    6.60699
+],
+  "geometry": {"coordinates":[-0.8968,6.60699],"type":"Point"}
+}

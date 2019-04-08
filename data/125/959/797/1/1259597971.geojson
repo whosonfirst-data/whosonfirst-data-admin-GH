@@ -1,0 +1,71 @@
+{
+  "id": 1259597971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.89249,10.75332,-1.89249,10.75332",
+    "geom:latitude":10.75332,
+    "geom:longitude":-1.89249,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bujan",
+    "gn:country_code":"GH",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302493,
+    "gn:latitude":10.75332,
+    "gn:longitude":-1.89249,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bujan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bujang",
+        "Bujan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302493
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"c479776e915c8e2a84aecb68959918e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759963,
+            "locality_id":1259597971,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1259597971,
+    "wof:lastmodified":1537623718,
+    "wof:name":"Bujan",
+    "wof:parent_id":1108759963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.89249,
+    10.75332,
+    -1.89249,
+    10.75332
+],
+  "geometry": {"coordinates":[-1.89249,10.75332],"type":"Point"}
+}

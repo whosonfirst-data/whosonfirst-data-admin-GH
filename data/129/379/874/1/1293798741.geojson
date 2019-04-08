@@ -1,0 +1,71 @@
+{
+  "id": 1293798741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.5578,10.26099,-2.5578,10.26099",
+    "geom:latitude":10.26099,
+    "geom:longitude":-2.5578,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Sambo",
+    "gn:country_code":"GH",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2295653,
+    "gn:latitude":10.26099,
+    "gn:longitude":-2.5578,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Sambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sambaw",
+        "Sambo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2295653
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"39a0d7cd3076e9ade771f42815f94ae1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759961,
+            "locality_id":1293798741,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1293798741,
+    "wof:lastmodified":1537623468,
+    "wof:name":"Sambo",
+    "wof:parent_id":1108759961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.5578,
+    10.26099,
+    -2.5578,
+    10.26099
+],
+  "geometry": {"coordinates":[-2.5578,10.26099],"type":"Point"}
+}

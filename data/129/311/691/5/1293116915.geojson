@@ -1,0 +1,75 @@
+{
+  "id": 1293116915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.9096,6.85803,-1.9096,6.85803",
+    "geom:latitude":6.85803,
+    "geom:longitude":-1.9096,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kroase",
+    "gn:country_code":"GH",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296363,
+    "gn:latitude":6.85803,
+    "gn:longitude":-1.9096,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Kroase",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kroase"
+    ],
+    "name:und_x_variant":[
+        "Ekorasi",
+        "Okroase",
+        "Okrawasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296363
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"942cf1d87009323ae5294427e32f7de3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759781,
+            "locality_id":1293116915,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1293116915,
+    "wof:lastmodified":1537623493,
+    "wof:name":"Kroase",
+    "wof:parent_id":1108759781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.9096,
+    6.85803,
+    -1.9096,
+    6.85803
+],
+  "geometry": {"coordinates":[-1.9096,6.85803],"type":"Point"}
+}

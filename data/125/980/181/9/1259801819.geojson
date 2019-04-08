@@ -1,0 +1,75 @@
+{
+  "id": 1259801819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.68739,5.02304,-1.68739,5.02304",
+    "geom:latitude":5.02304,
+    "geom:longitude":-1.68739,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Komfeku",
+    "gn:country_code":"GH",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299389,
+    "gn:latitude":5.02304,
+    "gn:longitude":-1.68739,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Komfeku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Komfoeku"
+    ],
+    "name:und_x_variant":[
+        "Konfueku",
+        "Komseku",
+        "Komfeku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299389
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"84fd33927b3897b67c0d8590baecf0ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760011,
+            "locality_id":1259801819,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1259801819,
+    "wof:lastmodified":1537623599,
+    "wof:name":"Komfeku",
+    "wof:parent_id":1108760011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.68739,
+    5.02304,
+    -1.68739,
+    5.02304
+],
+  "geometry": {"coordinates":[-1.68739,5.02304],"type":"Point"}
+}

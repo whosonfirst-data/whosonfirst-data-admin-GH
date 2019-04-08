@@ -1,0 +1,68 @@
+{
+  "id": 1209332827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.67162,6.64468,-1.67162,6.64468",
+    "geom:latitude":6.64468,
+    "geom:longitude":-1.67162,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Heman",
+    "gn:country_code":"GH",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300392,
+    "gn:latitude":6.64468,
+    "gn:longitude":-1.67162,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Heman",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Heman"
+    ],
+    "name:und_x_variant":[
+        "Himan",
+        "Himang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300392
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"6805746269cdf12a1e77d7a00a1278ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209332827
+        }
+    ],
+    "wof:id":1209332827,
+    "wof:lastmodified":1537623639,
+    "wof:name":"Heman",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.67162,
+    6.64468,
+    -1.67162,
+    6.64468
+],
+  "geometry": {"coordinates":[-1.67162,6.64468],"type":"Point"}
+}

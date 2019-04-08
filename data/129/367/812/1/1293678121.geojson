@@ -1,0 +1,73 @@
+{
+  "id": 1293678121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.1375,10.77917,-0.1375,10.77917",
+    "geom:latitude":10.77917,
+    "geom:longitude":-0.1375,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Warikambo",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293996,
+    "gn:latitude":10.77917,
+    "gn:longitude":-0.1375,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Warikambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Woricombo",
+        "Woricambo",
+        "Warikambo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293996
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"2a7c3c8c598a7701ba378688a06811db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759943,
+            "locality_id":1293678121,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1293678121,
+    "wof:lastmodified":1537623410,
+    "wof:name":"Warikambo",
+    "wof:parent_id":1108759943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.1375,
+    10.77917,
+    -0.1375,
+    10.77917
+],
+  "geometry": {"coordinates":[-0.1375,10.77917],"type":"Point"}
+}

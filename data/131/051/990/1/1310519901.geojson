@@ -1,0 +1,67 @@
+{
+  "id": 1310519901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.32124,9.80384,-1.32124,9.80384",
+    "geom:latitude":9.80384,
+    "geom:longitude":-1.32124,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Salugu",
+    "gn:country_code":"GH",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2295670,
+    "gn:latitude":9.80384,
+    "gn:longitude":-1.32124,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Salugu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2295670
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"33b550e027b28bd83b62aa043a29bdc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759921,
+            "locality_id":1310519901,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1310519901,
+    "wof:lastmodified":1536895939,
+    "wof:name":"Salugu",
+    "wof:parent_id":1108759921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.32124,
+    9.80384,
+    -1.32124,
+    9.80384
+],
+  "geometry": {"coordinates":[-1.32124,9.80384],"type":"Point"}
+}

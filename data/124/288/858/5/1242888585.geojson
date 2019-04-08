@@ -1,0 +1,71 @@
+{
+  "id": 1242888585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.82833,6.53787,-1.82833,6.53787",
+    "geom:latitude":6.53787,
+    "geom:longitude":-1.82833,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Hiakwasi",
+    "gn:country_code":"GH",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300406,
+    "gn:latitude":6.53787,
+    "gn:longitude":-1.82833,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Hiakwasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hiakose",
+        "Hiakwasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300406
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"08aa498df913ad637c87305a1c90e99d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759785,
+            "locality_id":1242888585,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1242888585,
+    "wof:lastmodified":1537623639,
+    "wof:name":"Hiakwasi",
+    "wof:parent_id":1108759785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.82833,
+    6.53787,
+    -1.82833,
+    6.53787
+],
+  "geometry": {"coordinates":[-1.82833,6.53787],"type":"Point"}
+}

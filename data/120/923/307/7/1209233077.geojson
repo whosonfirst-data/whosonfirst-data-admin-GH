@@ -1,0 +1,66 @@
+{
+  "id": 1209233077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.50809,7.72545,0.50809,7.72545",
+    "geom:latitude":7.72545,
+    "geom:longitude":0.50809,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dodi Papase",
+    "gn:country_code":"GH",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301673,
+    "gn:latitude":7.72545,
+    "gn:longitude":0.50809,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dodi Papase",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Papase",
+        "Dodi Papase"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301673,
+        "wk:page":"Dodi_Papase"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"687b6a9af96a6e0b7de17b8fb7820e90",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209233077
+        }
+    ],
+    "wof:id":1209233077,
+    "wof:lastmodified":1537623690,
+    "wof:name":"Dodi Papase",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.50809,
+    7.72545,
+    0.50809,
+    7.72545
+],
+  "geometry": {"coordinates":[0.50809,7.72545],"type":"Point"}
+}

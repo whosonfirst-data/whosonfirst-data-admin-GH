@@ -1,0 +1,67 @@
+{
+  "id": 1226432161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.429,4.95401,-2.429,4.95401",
+    "geom:latitude":4.95401,
+    "geom:longitude":-2.429,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Bakanta",
+    "gn:country_code":"GH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303485,
+    "gn:latitude":4.95401,
+    "gn:longitude":-2.429,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Bakanta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303485
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"3a8841b6a767b537d52f11116da50689",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760007,
+            "locality_id":1226432161,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1226432161,
+    "wof:lastmodified":1536665082,
+    "wof:name":"Bakanta",
+    "wof:parent_id":1108760007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.429,
+    4.95401,
+    -2.429,
+    4.95401
+],
+  "geometry": {"coordinates":[-2.429,4.95401],"type":"Point"}
+}

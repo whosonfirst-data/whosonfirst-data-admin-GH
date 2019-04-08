@@ -1,0 +1,65 @@
+{
+  "id": 1209116219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.7,10.1,-2.7,10.1",
+    "geom:latitude":10.1,
+    "geom:longitude":-2.7,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Mahotanga",
+    "gn:country_code":"GH",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298316,
+    "gn:latitude":10.1,
+    "gn:longitude":-2.7,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Mahotanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mansitanga",
+        "Mahotanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298316
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"bc07793c472190b8563be1586a3d483a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209116219
+        }
+    ],
+    "wof:id":1209116219,
+    "wof:lastmodified":1537623564,
+    "wof:name":"Mahotanga",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.7,
+    10.1,
+    -2.7,
+    10.1
+],
+  "geometry": {"coordinates":[-2.7,10.1],"type":"Point"}
+}

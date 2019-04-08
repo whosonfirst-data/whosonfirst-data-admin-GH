@@ -1,0 +1,61 @@
+{
+  "id": 1209533849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.46818,10.3899,-2.46818,10.3899",
+    "geom:latitude":10.3899,
+    "geom:longitude":-2.46818,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Fian",
+    "gn:country_code":"GH",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300939,
+    "gn:latitude":10.3899,
+    "gn:longitude":-2.46818,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Fian",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300939
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"f53343c9e502ccd2f39b70c525b4017d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209533849
+        }
+    ],
+    "wof:id":1209533849,
+    "wof:lastmodified":1536284201,
+    "wof:name":"Fian",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.46818,
+    10.3899,
+    -2.46818,
+    10.3899
+],
+  "geometry": {"coordinates":[-2.46818,10.3899],"type":"Point"}
+}

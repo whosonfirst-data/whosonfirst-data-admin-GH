@@ -1,0 +1,61 @@
+{
+  "id": 1209014545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.2,6.76667,-1.2,6.76667",
+    "geom:latitude":6.76667,
+    "geom:longitude":-1.2,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Awiakrom",
+    "gn:country_code":"GH",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303658,
+    "gn:latitude":6.76667,
+    "gn:longitude":-1.2,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Awiakrom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303658
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"42b3319e1994a8f97a7349efd177ef6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209014545
+        }
+    ],
+    "wof:id":1209014545,
+    "wof:lastmodified":1536300338,
+    "wof:name":"Awiakrom",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.2,
+    6.76667,
+    -1.2,
+    6.76667
+],
+  "geometry": {"coordinates":[-1.2,6.76667],"type":"Point"}
+}

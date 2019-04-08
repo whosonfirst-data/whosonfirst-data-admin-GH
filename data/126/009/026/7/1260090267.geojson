@@ -1,0 +1,71 @@
+{
+  "id": 1260090267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.74541,9.56863,-0.74541,9.56863",
+    "geom:latitude":9.56863,
+    "geom:longitude":-0.74541,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Panno",
+    "gn:country_code":"GH",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296111,
+    "gn:latitude":9.56863,
+    "gn:longitude":-0.74541,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Panno",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kpano",
+        "Panno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296111
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"d561db804bae9f833b6c1d6bb5ca810a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759931,
+            "locality_id":1260090267,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1260090267,
+    "wof:lastmodified":1537623484,
+    "wof:name":"Panno",
+    "wof:parent_id":1108759931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.74541,
+    9.56863,
+    -0.74541,
+    9.56863
+],
+  "geometry": {"coordinates":[-0.74541,9.56863],"type":"Point"}
+}

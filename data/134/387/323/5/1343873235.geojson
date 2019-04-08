@@ -1,0 +1,71 @@
+{
+  "id": 1343873235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.98045,9.21098,-0.98045,9.21098",
+    "geom:latitude":9.21098,
+    "geom:longitude":-0.98045,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Patinya",
+    "gn:country_code":"GH",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296066,
+    "gn:latitude":9.21098,
+    "gn:longitude":-0.98045,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Patinya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kpantinya",
+        "Patinya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296066
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"033d6fc0e51b37fedf5af5979bef58ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759921,
+            "locality_id":1343873235,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1343873235,
+    "wof:lastmodified":1537623482,
+    "wof:name":"Patinya",
+    "wof:parent_id":1108759921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.98045,
+    9.21098,
+    -0.98045,
+    9.21098
+],
+  "geometry": {"coordinates":[-0.98045,9.21098],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310124047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.85,10.73333,-1.85,10.73333",
+    "geom:latitude":10.73333,
+    "geom:longitude":-1.85,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kwelejan",
+    "gn:country_code":"GH",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298556,
+    "gn:latitude":10.73333,
+    "gn:longitude":-1.85,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Kwelejan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298556
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"99ea1ead984fcce4407d3c871dd41ef7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759963,
+            "locality_id":1310124047,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1310124047,
+    "wof:lastmodified":1536969430,
+    "wof:name":"Kwelejan",
+    "wof:parent_id":1108759963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.85,
+    10.73333,
+    -1.85,
+    10.73333
+],
+  "geometry": {"coordinates":[-1.85,10.73333],"type":"Point"}
+}

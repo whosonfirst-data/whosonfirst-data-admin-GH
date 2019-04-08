@@ -1,0 +1,67 @@
+{
+  "id": 1343968307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.05787,6.3434,0.05787,6.3434",
+    "geom:latitude":6.3434,
+    "geom:longitude":0.05787,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Aglobo",
+    "gn:country_code":"GH",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305555,
+    "gn:latitude":6.3434,
+    "gn:longitude":0.05787,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Aglobo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305555
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"811284e10e8242f737a940abba4d308a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759875,
+            "locality_id":1343968307,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1343968307,
+    "wof:lastmodified":1537007851,
+    "wof:name":"Aglobo",
+    "wof:parent_id":1108759875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.05787,
+    6.3434,
+    0.05787,
+    6.3434
+],
+  "geometry": {"coordinates":[0.05787,6.3434],"type":"Point"}
+}

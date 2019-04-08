@@ -1,0 +1,72 @@
+{
+  "id": 1343676367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.09117,5.94235,-2.09117,5.94235",
+    "geom:latitude":5.94235,
+    "geom:longitude":-2.09117,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Krobo Abrokyire",
+    "gn:country_code":"GH",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299086,
+    "gn:latitude":5.94235,
+    "gn:longitude":-2.09117,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Krobo Abrokyire",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abrocheri",
+        "Krobo Abrokyire",
+        "Krobo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299086
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"9bb4a4451c688fe92e18f760cee0dcaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760015,
+            "locality_id":1343676367,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1343676367,
+    "wof:lastmodified":1537623589,
+    "wof:name":"Krobo Abrokyire",
+    "wof:parent_id":1108760015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.09117,
+    5.94235,
+    -2.09117,
+    5.94235
+],
+  "geometry": {"coordinates":[-2.09117,5.94235],"type":"Point"}
+}

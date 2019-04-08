@@ -1,0 +1,71 @@
+{
+  "id": 1225854741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.34227,7.04074,-1.34227,7.04074",
+    "geom:latitude":7.04074,
+    "geom:longitude":-1.34227,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mpantuasi",
+    "gn:country_code":"GH",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297896,
+    "gn:latitude":7.04074,
+    "gn:longitude":-1.34227,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mpantuasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mpantasua",
+        "Mpantuasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297896
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"48bbebd43a57a4aff6ada78114c0ddc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759809,
+            "locality_id":1225854741,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1225854741,
+    "wof:lastmodified":1537623550,
+    "wof:name":"Mpantuasi",
+    "wof:parent_id":1108759809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.34227,
+    7.04074,
+    -1.34227,
+    7.04074
+],
+  "geometry": {"coordinates":[-1.34227,7.04074],"type":"Point"}
+}

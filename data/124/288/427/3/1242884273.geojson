@@ -1,0 +1,71 @@
+{
+  "id": 1242884273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.57953,6.68168,0.57953,6.68168",
+    "geom:latitude":6.68168,
+    "geom:longitude":0.57953,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Aviepe",
+    "gn:country_code":"GH",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303703,
+    "gn:latitude":6.68168,
+    "gn:longitude":0.57953,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Aviepe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hodzo Aviepe",
+        "Aviepe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303703
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"cd0074d09c46d451cbec00f9feaa2d20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759971,
+            "locality_id":1242884273,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1242884273,
+    "wof:lastmodified":1537623759,
+    "wof:name":"Aviepe",
+    "wof:parent_id":1108759971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.57953,
+    6.68168,
+    0.57953,
+    6.68168
+],
+  "geometry": {"coordinates":[0.57953,6.68168],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243373149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.59727,5.79505,-0.59727,5.79505",
+    "geom:latitude":5.79505,
+    "geom:longitude":-0.59727,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mepom",
+    "gn:country_code":"GH",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298059,
+    "gn:latitude":5.79505,
+    "gn:longitude":-0.59727,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Mepom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Meponi",
+        "Mepom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298059
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"63e8ab5f8e058735e5d6fa49819f8b8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759897,
+            "locality_id":1243373149,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1243373149,
+    "wof:lastmodified":1537623555,
+    "wof:name":"Mepom",
+    "wof:parent_id":1108759897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.59727,
+    5.79505,
+    -0.59727,
+    5.79505
+],
+  "geometry": {"coordinates":[-0.59727,5.79505],"type":"Point"}
+}

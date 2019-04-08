@@ -1,0 +1,61 @@
+{
+  "id": 1209022409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.0,10.55,-1.0,10.55",
+    "geom:latitude":10.55,
+    "geom:longitude":-1.0,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tondongo",
+    "gn:country_code":"GH",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294470,
+    "gn:latitude":10.55,
+    "gn:longitude":-1.0,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Tondongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294470
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"78cff56e87d66747bd7a7becd53322bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209022409
+        }
+    ],
+    "wof:id":1209022409,
+    "wof:lastmodified":1536300107,
+    "wof:name":"Tondongo",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.0,
+    10.55,
+    -1.0,
+    10.55
+],
+  "geometry": {"coordinates":[-1.0,10.55],"type":"Point"}
+}

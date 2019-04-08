@@ -1,0 +1,74 @@
+{
+  "id": 1343271803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.02934,6.60943,-3.02934,6.60943",
+    "geom:latitude":6.60943,
+    "geom:longitude":-3.02934,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kwametawiakrom",
+    "gn:country_code":"GH",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298641,
+    "gn:latitude":6.60943,
+    "gn:longitude":-3.02934,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Kwametawiakrom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kwametawiakrom"
+    ],
+    "name:und_x_variant":[
+        "Kwame Tawia Krom",
+        "Kwamteyakrom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298641
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"c78c38b46a0bbcbe9358f267b12de3ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760003,
+            "locality_id":1343271803,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1343271803,
+    "wof:lastmodified":1537623574,
+    "wof:name":"Kwametawiakrom",
+    "wof:parent_id":1108760003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.02934,
+    6.60943,
+    -3.02934,
+    6.60943
+],
+  "geometry": {"coordinates":[-3.02934,6.60943],"type":"Point"}
+}

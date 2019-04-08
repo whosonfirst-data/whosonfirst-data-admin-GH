@@ -1,0 +1,70 @@
+{
+  "id": 1243187113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.08564,4.81189,-2.08564,4.81189",
+    "geom:latitude":4.81189,
+    "geom:longitude":-2.08564,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Nkwantanan",
+    "gn:country_code":"GH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297212,
+    "gn:latitude":4.81189,
+    "gn:longitude":-2.08564,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Nkwantanan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nkwantanang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108759993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297212
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"f1eb76baf8dd5e93860a9bc8fffce8ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759993,
+            "locality_id":1243187113,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1243187113,
+    "wof:lastmodified":1537623523,
+    "wof:name":"Nkwantanan",
+    "wof:parent_id":1108759993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.08564,
+    4.81189,
+    -2.08564,
+    4.81189
+],
+  "geometry": {"coordinates":[-2.08564,4.81189],"type":"Point"}
+}

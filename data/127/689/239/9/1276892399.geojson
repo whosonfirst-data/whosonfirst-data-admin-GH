@@ -1,0 +1,72 @@
+{
+  "id": 1276892399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.65,6.7,0.65,6.7",
+    "geom:latitude":6.7,
+    "geom:longitude":0.65,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Devime",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301783,
+    "gn:latitude":6.7,
+    "gn:longitude":0.65,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Devime",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Davime",
+        "Devime"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678531,
+        421171045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301783
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"3f8c657b5254b5a32b28af201fbbe71b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421171045,
+            "locality_id":1276892399,
+            "region_id":85678531
+        }
+    ],
+    "wof:id":1276892399,
+    "wof:lastmodified":1537623694,
+    "wof:name":"Devime",
+    "wof:parent_id":421171045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.65,
+    6.7,
+    0.65,
+    6.7
+],
+  "geometry": {"coordinates":[0.65,6.7],"type":"Point"}
+}

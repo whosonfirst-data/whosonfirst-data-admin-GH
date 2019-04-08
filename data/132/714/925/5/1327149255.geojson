@@ -1,0 +1,67 @@
+{
+  "id": 1327149255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.48873,7.3646,0.48873,7.3646",
+    "geom:latitude":7.3646,
+    "geom:longitude":0.48873,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Borada",
+    "gn:country_code":"GH",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302692,
+    "gn:latitude":7.3646,
+    "gn:longitude":0.48873,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Borada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302692
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"aeefa1e4f3d158e356ee58ece4ef39ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759975,
+            "locality_id":1327149255,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1327149255,
+    "wof:lastmodified":1537086363,
+    "wof:name":"Borada",
+    "wof:parent_id":1108759975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.48873,
+    7.3646,
+    0.48873,
+    7.3646
+],
+  "geometry": {"coordinates":[0.48873,7.3646],"type":"Point"}
+}

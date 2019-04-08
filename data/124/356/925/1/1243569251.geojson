@@ -1,0 +1,70 @@
+{
+  "id": 1243569251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.90749,5.08364,-2.90749,5.08364",
+    "geom:latitude":5.08364,
+    "geom:longitude":-2.90749,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Baire",
+    "gn:country_code":"GH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303492,
+    "gn:latitude":5.08364,
+    "gn:longitude":-2.90749,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Baire",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Baire"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303492
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"1ae8d93aed38b17511f6757c56d87b15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760001,
+            "locality_id":1243569251,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1243569251,
+    "wof:lastmodified":1537623753,
+    "wof:name":"Baire",
+    "wof:parent_id":1108760001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.90749,
+    5.08364,
+    -2.90749,
+    5.08364
+],
+  "geometry": {"coordinates":[-2.90749,5.08364],"type":"Point"}
+}

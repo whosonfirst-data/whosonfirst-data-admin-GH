@@ -1,0 +1,67 @@
+{
+  "id": 1260305777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.05444,6.19806,1.05444,6.19806",
+    "geom:latitude":6.19806,
+    "geom:longitude":1.05444,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Akpotoenu New Town",
+    "gn:country_code":"GH",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2589852,
+    "gn:latitude":6.19806,
+    "gn:longitude":1.05444,
+    "gn:modification_date":"1998-01-27",
+    "gn:name":"Akpotoenu New Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2589852
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"774f4058cac7ac364c5767d4796dbfb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759983,
+            "locality_id":1260305777,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1260305777,
+    "wof:lastmodified":1536682023,
+    "wof:name":"Akpotoenu New Town",
+    "wof:parent_id":1108759983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.05444,
+    6.19806,
+    1.05444,
+    6.19806
+],
+  "geometry": {"coordinates":[1.05444,6.19806],"type":"Point"}
+}

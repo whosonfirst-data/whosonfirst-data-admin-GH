@@ -1,0 +1,67 @@
+{
+  "id": 1242792185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.97178,7.45873,-1.97178,7.45873",
+    "geom:latitude":7.45873,
+    "geom:longitude":-1.97178,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tanoso",
+    "gn:country_code":"GH",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294798,
+    "gn:latitude":7.45873,
+    "gn:longitude":-1.97178,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Tanoso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294798
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"acedd9784a25a90be14c33ad1ddb330f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759837,
+            "locality_id":1242792185,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1242792185,
+    "wof:lastmodified":1536754512,
+    "wof:name":"Tanoso",
+    "wof:parent_id":1108759837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.97178,
+    7.45873,
+    -1.97178,
+    7.45873
+],
+  "geometry": {"coordinates":[-1.97178,7.45873],"type":"Point"}
+}

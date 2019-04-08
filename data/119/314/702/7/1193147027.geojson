@@ -1,0 +1,74 @@
+{
+  "id": 1193147027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.2029,5.84584,-2.2029,5.84584",
+    "geom:latitude":5.84584,
+    "geom:longitude":-2.2029,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Aserewadze",
+    "gn:country_code":"GH",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304126,
+    "gn:latitude":5.84584,
+    "gn:longitude":-2.2029,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Aserewadze",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Aserewadze"
+    ],
+    "name:und_x_variant":[
+        "Aserewadi",
+        "Aserowedi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304126
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"e9a8cadb0bac139872f3782b6a559aef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760015,
+            "locality_id":1193147027,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1193147027,
+    "wof:lastmodified":1537623774,
+    "wof:name":"Aserewadze",
+    "wof:parent_id":1108760015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.2029,
+    5.84584,
+    -2.2029,
+    5.84584
+],
+  "geometry": {"coordinates":[-2.2029,5.84584],"type":"Point"}
+}

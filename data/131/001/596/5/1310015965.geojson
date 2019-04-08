@@ -1,0 +1,72 @@
+{
+  "id": 1310015965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.54481,9.22302,-1.54481,9.22302",
+    "geom:latitude":9.22302,
+    "geom:longitude":-1.54481,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Langantre",
+    "gn:country_code":"GH",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298463,
+    "gn:latitude":9.22302,
+    "gn:longitude":-1.54481,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Langantre",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lakantere",
+        "Lankatere",
+        "Langantre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298463
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"acf30fa39e89a3f8b953cb6ae98adb3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759921,
+            "locality_id":1310015965,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1310015965,
+    "wof:lastmodified":1537623569,
+    "wof:name":"Langantre",
+    "wof:parent_id":1108759921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.54481,
+    9.22302,
+    -1.54481,
+    9.22302
+],
+  "geometry": {"coordinates":[-1.54481,9.22302],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343280129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.20405,6.12536,0.20405,6.12536",
+    "geom:latitude":6.12536,
+    "geom:longitude":0.20405,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Avakpe",
+    "gn:country_code":"GH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303744,
+    "gn:latitude":6.12536,
+    "gn:longitude":0.20405,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Avakpe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Awake",
+        "Avakpe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303744
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"da72fe3701a662134db01ef37164bc4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759967,
+            "locality_id":1343280129,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1343280129,
+    "wof:lastmodified":1537623761,
+    "wof:name":"Avakpe",
+    "wof:parent_id":1108759967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.20405,
+    6.12536,
+    0.20405,
+    6.12536
+],
+  "geometry": {"coordinates":[0.20405,6.12536],"type":"Point"}
+}

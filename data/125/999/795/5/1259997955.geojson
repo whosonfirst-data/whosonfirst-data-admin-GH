@@ -1,0 +1,71 @@
+{
+  "id": 1259997955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.62351,6.43917,-1.62351,6.43917",
+    "geom:latitude":6.43917,
+    "geom:longitude":-1.62351,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Apaso",
+    "gn:country_code":"GH",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304372,
+    "gn:latitude":6.43917,
+    "gn:longitude":-1.62351,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Apaso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Apaaso",
+        "Apaso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304372
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"cd5d2b706cbabc279f5419442f94714c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759783,
+            "locality_id":1259997955,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1259997955,
+    "wof:lastmodified":1537623783,
+    "wof:name":"Apaso",
+    "wof:parent_id":1108759783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.62351,
+    6.43917,
+    -1.62351,
+    6.43917
+],
+  "geometry": {"coordinates":[-1.62351,6.43917],"type":"Point"}
+}

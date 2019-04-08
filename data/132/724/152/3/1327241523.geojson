@@ -1,0 +1,71 @@
+{
+  "id": 1327241523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.4365,7.21822,-0.4365,7.21822",
+    "geom:latitude":7.21822,
+    "geom:longitude":-0.4365,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Surukrom",
+    "gn:country_code":"GH",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294992,
+    "gn:latitude":7.21822,
+    "gn:longitude":-0.4365,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Surukrom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Surukom",
+        "Surukrom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294992
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"db7341f8ee1ee0a6c4be85706bb5ee38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759807,
+            "locality_id":1327241523,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1327241523,
+    "wof:lastmodified":1537623445,
+    "wof:name":"Surukrom",
+    "wof:parent_id":1108759807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4365,
+    7.21822,
+    -0.4365,
+    7.21822
+],
+  "geometry": {"coordinates":[-0.4365,7.21822],"type":"Point"}
+}

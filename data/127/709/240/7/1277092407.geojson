@@ -1,0 +1,67 @@
+{
+  "id": 1277092407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.28159,6.50339,-2.28159,6.50339",
+    "geom:latitude":6.50339,
+    "geom:longitude":-2.28159,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Donkoto",
+    "gn:country_code":"GH",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301540,
+    "gn:latitude":6.50339,
+    "gn:longitude":-2.28159,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Donkoto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301540
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"e84748e7468e630a3cbd6c820f883873",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759791,
+            "locality_id":1277092407,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1277092407,
+    "wof:lastmodified":1536753675,
+    "wof:name":"Donkoto",
+    "wof:parent_id":1108759791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.28159,
+    6.50339,
+    -2.28159,
+    6.50339
+],
+  "geometry": {"coordinates":[-2.28159,6.50339],"type":"Point"}
+}

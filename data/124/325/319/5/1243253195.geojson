@@ -1,0 +1,70 @@
+{
+  "id": 1243253195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.14583,4.80386,-2.14583,4.80386",
+    "geom:latitude":4.80386,
+    "geom:longitude":-2.14583,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Anchenin",
+    "gn:country_code":"GH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304643,
+    "gn:latitude":4.80386,
+    "gn:longitude":-2.14583,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Anchenin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Anchenin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108759993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304643
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a58881b2a3d37e422c95e817ea2b5988",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759993,
+            "locality_id":1243253195,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1243253195,
+    "wof:lastmodified":1537623792,
+    "wof:name":"Anchenin",
+    "wof:parent_id":1108759993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.14583,
+    4.80386,
+    -2.14583,
+    4.80386
+],
+  "geometry": {"coordinates":[-2.14583,4.80386],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293901943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.98954,7.12235,-1.98954,7.12235",
+    "geom:latitude":7.12235,
+    "geom:longitude":-1.98954,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mensin",
+    "gn:country_code":"GH",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298066,
+    "gn:latitude":7.12235,
+    "gn:longitude":-1.98954,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Mensin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mansin",
+        "Mensin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298066
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"cebf4c6e9a5bd31413316a2bc6a0cfbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759835,
+            "locality_id":1293901943,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1293901943,
+    "wof:lastmodified":1537623555,
+    "wof:name":"Mensin",
+    "wof:parent_id":1108759835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.98954,
+    7.12235,
+    -1.98954,
+    7.12235
+],
+  "geometry": {"coordinates":[-1.98954,7.12235],"type":"Point"}
+}

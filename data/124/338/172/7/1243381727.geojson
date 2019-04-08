@@ -1,0 +1,73 @@
+{
+  "id": 1243381727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.65,5.68333,-2.65,5.68333",
+    "geom:latitude":5.68333,
+    "geom:longitude":-2.65,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ajum",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305262,
+    "gn:latitude":5.68333,
+    "gn:longitude":-2.65,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ajum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ajum Menu",
+        "Adwum",
+        "Ajum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108759997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305262
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"73d164d69eb1be17c03acc578ea140dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759997,
+            "locality_id":1243381727,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1243381727,
+    "wof:lastmodified":1537623815,
+    "wof:name":"Ajum",
+    "wof:parent_id":1108759997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.65,
+    5.68333,
+    -2.65,
+    5.68333
+],
+  "geometry": {"coordinates":[-2.65,5.68333],"type":"Point"}
+}

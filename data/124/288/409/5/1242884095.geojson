@@ -1,0 +1,71 @@
+{
+  "id": 1242884095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.60281,5.70789,-1.60281,5.70789",
+    "geom:latitude":5.70789,
+    "geom:longitude":-1.60281,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Breman",
+    "gn:country_code":"GH",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302608,
+    "gn:latitude":5.70789,
+    "gn:longitude":-1.60281,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Breman",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bremang",
+        "Breman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302608
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"93a2ea37d14e5886d7705ae565a4b6d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759863,
+            "locality_id":1242884095,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1242884095,
+    "wof:lastmodified":1537623723,
+    "wof:name":"Breman",
+    "wof:parent_id":1108759863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.60281,
+    5.70789,
+    -1.60281,
+    5.70789
+],
+  "geometry": {"coordinates":[-1.60281,5.70789],"type":"Point"}
+}

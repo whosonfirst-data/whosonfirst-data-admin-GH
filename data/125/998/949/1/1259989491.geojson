@@ -1,0 +1,68 @@
+{
+  "id": 1259989491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.8182,4.89138,-1.8182,4.89138",
+    "geom:latitude":4.89138,
+    "geom:longitude":-1.8182,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Apowa",
+    "gn:country_code":"GH",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304305,
+    "gn:latitude":4.89138,
+    "gn:longitude":-1.8182,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Apowa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108759993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304305,
+        "wk:page":"Apowa%2C_Ghana"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"94725705716c31ce23f50af91c93d722",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759993,
+            "locality_id":1259989491,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1259989491,
+    "wof:lastmodified":1537563058,
+    "wof:name":"Apowa",
+    "wof:parent_id":1108759993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.8182,
+    4.89138,
+    -1.8182,
+    4.89138
+],
+  "geometry": {"coordinates":[-1.8182,4.89138],"type":"Point"}
+}

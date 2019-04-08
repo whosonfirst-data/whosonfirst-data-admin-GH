@@ -1,0 +1,61 @@
+{
+  "id": 1209429685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.03499,9.40988,-1.03499,9.40988",
+    "geom:latitude":9.40988,
+    "geom:longitude":-1.03499,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dingoni",
+    "gn:country_code":"GH",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301733,
+    "gn:latitude":9.40988,
+    "gn:longitude":-1.03499,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Dingoni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301733
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a0bafa462b5e80fa563a072271284cdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209429685
+        }
+    ],
+    "wof:id":1209429685,
+    "wof:lastmodified":1536287272,
+    "wof:name":"Dingoni",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.03499,
+    9.40988,
+    -1.03499,
+    9.40988
+],
+  "geometry": {"coordinates":[-1.03499,9.40988],"type":"Point"}
+}

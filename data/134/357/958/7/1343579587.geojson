@@ -1,0 +1,73 @@
+{
+  "id": 1343579587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.84801,5.21071,-0.84801,5.21071",
+    "geom:latitude":5.21071,
+    "geom:longitude":-0.84801,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sarafa",
+    "gn:country_code":"GH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2295542,
+    "gn:latitude":5.21071,
+    "gn:longitude":-0.84801,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sarafa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sasra",
+        "Serafa Beach",
+        "Serfampan",
+        "Sarafa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2295542
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"1f8f343f299d0e635f8db81ebbc911be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759861,
+            "locality_id":1343579587,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1343579587,
+    "wof:lastmodified":1537623463,
+    "wof:name":"Sarafa",
+    "wof:parent_id":1108759861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.84801,
+    5.21071,
+    -0.84801,
+    5.21071
+],
+  "geometry": {"coordinates":[-0.84801,5.21071],"type":"Point"}
+}

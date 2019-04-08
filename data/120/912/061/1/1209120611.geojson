@@ -1,0 +1,64 @@
+{
+  "id": 1209120611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.612,5.75399,-1.612,5.75399",
+    "geom:latitude":5.75399,
+    "geom:longitude":-1.612,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Amakofikrom",
+    "gn:country_code":"GH",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304872,
+    "gn:latitude":5.75399,
+    "gn:longitude":-1.612,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Amakofikrom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Amakofikrom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304872
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"51201f906dd25cb350f1394a0184189b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209120611
+        }
+    ],
+    "wof:id":1209120611,
+    "wof:lastmodified":1537623800,
+    "wof:name":"Amakofikrom",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.612,
+    5.75399,
+    -1.612,
+    5.75399
+],
+  "geometry": {"coordinates":[-1.612,5.75399],"type":"Point"}
+}

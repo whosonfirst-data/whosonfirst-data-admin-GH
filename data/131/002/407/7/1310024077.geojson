@@ -1,0 +1,70 @@
+{
+  "id": 1310024077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.91892,5.62185,-1.91892,5.62185",
+    "geom:latitude":5.62185,
+    "geom:longitude":-1.91892,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Bedukrom",
+    "gn:country_code":"GH",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303244,
+    "gn:latitude":5.62185,
+    "gn:longitude":-1.91892,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Bedukrom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bedukrom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303244
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"2403d3647ca76db4ef5e6f120d5c63a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760017,
+            "locality_id":1310024077,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1310024077,
+    "wof:lastmodified":1537623743,
+    "wof:name":"Bedukrom",
+    "wof:parent_id":1108760017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.91892,
+    5.62185,
+    -1.91892,
+    5.62185
+],
+  "geometry": {"coordinates":[-1.91892,5.62185],"type":"Point"}
+}

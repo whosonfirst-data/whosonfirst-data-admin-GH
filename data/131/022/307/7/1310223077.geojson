@@ -1,0 +1,74 @@
+{
+  "id": 1310223077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.6712,10.86019,-1.6712,10.86019",
+    "geom:latitude":10.86019,
+    "geom:longitude":-1.6712,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kunchogu",
+    "gn:country_code":"GH",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298515,
+    "gn:latitude":10.86019,
+    "gn:longitude":-1.6712,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Kunchogu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kunchoggo",
+        "Kwunchogow",
+        "Kwunchogaw",
+        "Kunchogu",
+        "Kwanehogo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298515
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"5885d020cf705b2c177b7dbef0a5627a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759963,
+            "locality_id":1310223077,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1310223077,
+    "wof:lastmodified":1537623570,
+    "wof:name":"Kunchogu",
+    "wof:parent_id":1108759963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.6712,
+    10.86019,
+    -1.6712,
+    10.86019
+],
+  "geometry": {"coordinates":[-1.6712,10.86019],"type":"Point"}
+}

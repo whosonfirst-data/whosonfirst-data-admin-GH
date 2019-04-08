@@ -1,0 +1,65 @@
+{
+  "id": 1209629701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.10398,10.47206,-0.10398,10.47206",
+    "geom:latitude":10.47206,
+    "geom:longitude":-0.10398,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kudjawen",
+    "gn:country_code":"GH",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299010,
+    "gn:latitude":10.47206,
+    "gn:longitude":-0.10398,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kudjawen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kudjanoe",
+        "Kudjawen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299010
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"77c6a3203795983d8f18c70d785ec7d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209629701
+        }
+    ],
+    "wof:id":1209629701,
+    "wof:lastmodified":1537623587,
+    "wof:name":"Kudjawen",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.10398,
+    10.47206,
+    -0.10398,
+    10.47206
+],
+  "geometry": {"coordinates":[-0.10398,10.47206],"type":"Point"}
+}

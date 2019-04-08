@@ -1,0 +1,71 @@
+{
+  "id": 1242592397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.82346,10.8205,-0.82346,10.8205",
+    "geom:latitude":10.8205,
+    "geom:longitude":-0.82346,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Yepala",
+    "gn:country_code":"GH",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293794,
+    "gn:latitude":10.8205,
+    "gn:longitude":-0.82346,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yepala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yorogo Yipala",
+        "Yepala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293794
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"1c0eea19dd0d03ca6e0be51d40f72519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759947,
+            "locality_id":1242592397,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1242592397,
+    "wof:lastmodified":1537623402,
+    "wof:name":"Yepala",
+    "wof:parent_id":1108759947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.82346,
+    10.8205,
+    -0.82346,
+    10.8205
+],
+  "geometry": {"coordinates":[-0.82346,10.8205],"type":"Point"}
+}

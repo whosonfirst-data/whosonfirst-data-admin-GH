@@ -1,0 +1,71 @@
+{
+  "id": 1276999827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.82687,5.71693,-0.82687,5.71693",
+    "geom:latitude":5.71693,
+    "geom:longitude":-0.82687,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Otinkoran",
+    "gn:country_code":"GH",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296241,
+    "gn:latitude":5.71693,
+    "gn:longitude":-0.82687,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Otinkoran",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Otsinkoran",
+        "Otinkoran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296241
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"47330b5330545d869f50750c7ed78eca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759843,
+            "locality_id":1276999827,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1276999827,
+    "wof:lastmodified":1537623488,
+    "wof:name":"Otinkoran",
+    "wof:parent_id":1108759843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.82687,
+    5.71693,
+    -0.82687,
+    5.71693
+],
+  "geometry": {"coordinates":[-0.82687,5.71693],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293015197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.18333,11.13333,-0.18333,11.13333",
+    "geom:latitude":11.13333,
+    "geom:longitude":-0.18333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kulupielugu",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298909,
+    "gn:latitude":11.13333,
+    "gn:longitude":-0.18333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kulupielugu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kulupielegu",
+        "Kulupielugu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298909
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"6e4461cbe60116c2053c9e121b0d40a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759943,
+            "locality_id":1293015197,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1293015197,
+    "wof:lastmodified":1537623584,
+    "wof:name":"Kulupielugu",
+    "wof:parent_id":1108759943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.18333,
+    11.13333,
+    -0.18333,
+    11.13333
+],
+  "geometry": {"coordinates":[-0.18333,11.13333],"type":"Point"}
+}

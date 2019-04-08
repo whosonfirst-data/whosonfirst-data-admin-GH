@@ -1,0 +1,72 @@
+{
+  "id": 1310619419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.21881,8.36326,-0.21881,8.36326",
+    "geom:latitude":8.36326,
+    "geom:longitude":-0.21881,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nangjuri",
+    "gn:country_code":"GH",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297586,
+    "gn:latitude":8.36326,
+    "gn:longitude":-0.21881,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nangjuri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nangjero",
+        "Nengjura",
+        "Nangjuri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297586
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"64c5ed154ecdf7f9940ba91976ee5862",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759919,
+            "locality_id":1310619419,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1310619419,
+    "wof:lastmodified":1537623537,
+    "wof:name":"Nangjuri",
+    "wof:parent_id":1108759919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.21881,
+    8.36326,
+    -0.21881,
+    8.36326
+],
+  "geometry": {"coordinates":[-0.21881,8.36326],"type":"Point"}
+}

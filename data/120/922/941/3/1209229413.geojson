@@ -1,0 +1,64 @@
+{
+  "id": 1209229413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.88426,10.58571,-2.88426,10.58571",
+    "geom:latitude":10.58571,
+    "geom:longitude":-2.88426,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Tolibri",
+    "gn:country_code":"GH",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294486,
+    "gn:latitude":10.58571,
+    "gn:longitude":-2.88426,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Tolibri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tolibri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294486
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"5d602c2b45ed9de3bd19dede13d6ebe2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209229413
+        }
+    ],
+    "wof:id":1209229413,
+    "wof:lastmodified":1537623427,
+    "wof:name":"Tolibri",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.88426,
+    10.58571,
+    -2.88426,
+    10.58571
+],
+  "geometry": {"coordinates":[-2.88426,10.58571],"type":"Point"}
+}

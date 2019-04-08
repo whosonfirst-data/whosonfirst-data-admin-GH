@@ -1,0 +1,66 @@
+{
+  "id": 1209232895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.31885,10.46654,-0.31885,10.46654",
+    "geom:latitude":10.46654,
+    "geom:longitude":-0.31885,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tuzia",
+    "gn:country_code":"GH",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294320,
+    "gn:latitude":10.46654,
+    "gn:longitude":-0.31885,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tuzia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kokpelibobgu",
+        "Kpikparibobgu",
+        "Tuzia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294320
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"b72b36bd3c9abbe8b09c7352c511d59e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209232895
+        }
+    ],
+    "wof:id":1209232895,
+    "wof:lastmodified":1537623421,
+    "wof:name":"Tuzia",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.31885,
+    10.46654,
+    -0.31885,
+    10.46654
+],
+  "geometry": {"coordinates":[-0.31885,10.46654],"type":"Point"}
+}

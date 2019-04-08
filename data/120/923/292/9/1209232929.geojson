@@ -1,0 +1,61 @@
+{
+  "id": 1209232929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.47981,5.67155,-1.47981,5.67155",
+    "geom:latitude":5.67155,
+    "geom:longitude":-1.47981,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mpeasem",
+    "gn:country_code":"GH",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297873,
+    "gn:latitude":5.67155,
+    "gn:longitude":-1.47981,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Mpeasem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297873
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"491123036c36a6d915983355f4b614d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209232929
+        }
+    ],
+    "wof:id":1209232929,
+    "wof:lastmodified":1536293580,
+    "wof:name":"Mpeasem",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.47981,
+    5.67155,
+    -1.47981,
+    5.67155
+],
+  "geometry": {"coordinates":[-1.47981,5.67155],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276118815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.99582,5.59233,-0.99582,5.59233",
+    "geom:latitude":5.59233,
+    "geom:longitude":-0.99582,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Breman Asikuma",
+    "gn:country_code":"GH",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10400448,
+    "gn:latitude":5.59233,
+    "gn:longitude":-0.99582,
+    "gn:modification_date":"2015-07-27",
+    "gn:name":"Breman Asikuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10400448
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"41a9434a1479d4570e66d1931b490db8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759847,
+            "locality_id":1276118815,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1276118815,
+    "wof:lastmodified":1537063267,
+    "wof:name":"Breman Asikuma",
+    "wof:parent_id":1108759847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.99582,
+    5.59233,
+    -0.99582,
+    5.59233
+],
+  "geometry": {"coordinates":[-0.99582,5.59233],"type":"Point"}
+}

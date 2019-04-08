@@ -1,0 +1,70 @@
+{
+  "id": 1276892275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.62108,5.49627,-1.62108,5.49627",
+    "geom:latitude":5.49627,
+    "geom:longitude":-1.62108,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Asuoanjo",
+    "gn:country_code":"GH",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303952,
+    "gn:latitude":5.49627,
+    "gn:longitude":-1.62108,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Asuoanjo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Asuoanjo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303952
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"51113a482676c32e589f6597771cf7b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760005,
+            "locality_id":1276892275,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1276892275,
+    "wof:lastmodified":1537623767,
+    "wof:name":"Asuoanjo",
+    "wof:parent_id":1108760005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.62108,
+    5.49627,
+    -1.62108,
+    5.49627
+],
+  "geometry": {"coordinates":[-1.62108,5.49627],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343579303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.5729,5.43291,-1.5729,5.43291",
+    "geom:latitude":5.43291,
+    "geom:longitude":-1.5729,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tafrojoa",
+    "gn:country_code":"GH",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294937,
+    "gn:latitude":5.43291,
+    "gn:longitude":-1.5729,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Tafrojoa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tafrojoa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294937
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"d3e70213421c904004755a107f363983",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759863,
+            "locality_id":1343579303,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1343579303,
+    "wof:lastmodified":1537623444,
+    "wof:name":"Tafrojoa",
+    "wof:parent_id":1108759863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.5729,
+    5.43291,
+    -1.5729,
+    5.43291
+],
+  "geometry": {"coordinates":[-1.5729,5.43291],"type":"Point"}
+}

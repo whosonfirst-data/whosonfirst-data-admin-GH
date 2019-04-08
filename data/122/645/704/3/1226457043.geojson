@@ -1,0 +1,67 @@
+{
+  "id": 1226457043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.27182,6.52066,-0.27182,6.52066",
+    "geom:latitude":6.52066,
+    "geom:longitude":-0.27182,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Abuoso",
+    "gn:country_code":"GH",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306133,
+    "gn:latitude":6.52066,
+    "gn:longitude":-0.27182,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Abuoso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306133
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"5cd6b1c3324d0a3555cc9e733c55be67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759883,
+            "locality_id":1226457043,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1226457043,
+    "wof:lastmodified":1536627358,
+    "wof:name":"Abuoso",
+    "wof:parent_id":1108759883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.27182,
+    6.52066,
+    -0.27182,
+    6.52066
+],
+  "geometry": {"coordinates":[-0.27182,6.52066],"type":"Point"}
+}

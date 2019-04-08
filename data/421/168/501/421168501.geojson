@@ -1,0 +1,99 @@
+{
+  "id": 421168501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.77995,5.96562,-1.77995,5.96562",
+    "geom:latitude":5.96562,
+    "geom:longitude":-1.77995,
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Dunkwa-on-Offin"
+    ],
+    "name:eng_x_preferred":[
+        "Dunkwa-on-Offin"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30a5\u30f3\u30af\u30ef\u30fb\u30aa\u30f3\u30fb\u30aa\u30d5\u30a3\u30f3"
+    ],
+    "name:swe_x_preferred":[
+        "Dunkwa-on-Offin"
+    ],
+    "name:unk_x_variant":[
+        "Dunkwa-on-Offin"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u0646\u06a9\u0648\u0627-\u0622\u0646-\u0627\u0648\u0641\u0646"
+    ],
+    "qs:gn_country":"GH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2301400,
+    "qs:gn_pop":25410,
+    "qs:name":"Dunkwa",
+    "qs:name_adm0":"Ghana",
+    "qs:name_adm1":"Central",
+    "qs:photos":29,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":29,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":139412,
+    "qs:woe_adm0":23424824,
+    "qs:woe_id":1485045,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301400,
+        "gp:id":1485045,
+        "qs:id":139412,
+        "wd:id":"Q5315398",
+        "wk:page":"Dunkwa-on-Offin"
+    },
+    "wof:country":"GH",
+    "wof:created":1459008767,
+    "wof:geomhash":"ef65fa5a722931915ed578fcd99b0e7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759865,
+            "locality_id":421168501,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":421168501,
+    "wof:lastmodified":1514443696,
+    "wof:name":"Dunkwa",
+    "wof:parent_id":1108759865,
+    "wof:placetype":"locality",
+    "wof:population":25410,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.77995,
+    5.96562,
+    -1.77995,
+    5.96562
+],
+  "geometry": {"coordinates":[-1.77995,5.96562],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226357031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.84016,10.7006,-0.84016,10.7006",
+    "geom:latitude":10.7006,
+    "geom:longitude":-0.84016,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gorogu",
+    "gn:country_code":"GH",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300585,
+    "gn:latitude":10.7006,
+    "gn:longitude":-0.84016,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gorogu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gurugu",
+        "Gorogu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300585
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"0deb17495331d15bd7db5016235e5c39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759947,
+            "locality_id":1226357031,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1226357031,
+    "wof:lastmodified":1537623647,
+    "wof:name":"Gorogu",
+    "wof:parent_id":1108759947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.84016,
+    10.7006,
+    -0.84016,
+    10.7006
+],
+  "geometry": {"coordinates":[-0.84016,10.7006],"type":"Point"}
+}

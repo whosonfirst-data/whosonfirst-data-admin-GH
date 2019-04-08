@@ -1,0 +1,65 @@
+{
+  "id": 1209629919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.43222,6.61714,-1.43222,6.61714",
+    "geom:latitude":6.61714,
+    "geom:longitude":-1.43222,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Okroasi",
+    "gn:country_code":"GH",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296362,
+    "gn:latitude":6.61714,
+    "gn:longitude":-1.43222,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Okroasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Okorase",
+        "Okroasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296362
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"d187348e116e6506b0aa8b79669242e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209629919
+        }
+    ],
+    "wof:id":1209629919,
+    "wof:lastmodified":1537623492,
+    "wof:name":"Okroasi",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.43222,
+    6.61714,
+    -1.43222,
+    6.61714
+],
+  "geometry": {"coordinates":[-1.43222,6.61714],"type":"Point"}
+}

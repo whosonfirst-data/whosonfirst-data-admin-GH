@@ -1,0 +1,73 @@
+{
+  "id": 1309822061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.64732,4.97287,-1.64732,4.97287",
+    "geom:latitude":4.97287,
+    "geom:longitude":-1.64732,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Aboadi",
+    "gn:country_code":"GH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306311,
+    "gn:latitude":4.97287,
+    "gn:longitude":-1.64732,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Aboadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aboadze",
+        "Aboaddi",
+        "Aboadi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306311,
+        "wk:page":"Aboadze"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"9f6648ed8e7f6760eca66e6f90d1c7da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760011,
+            "locality_id":1309822061,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1309822061,
+    "wof:lastmodified":1537623851,
+    "wof:name":"Aboadi",
+    "wof:parent_id":1108760011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.64732,
+    4.97287,
+    -1.64732,
+    4.97287
+],
+  "geometry": {"coordinates":[-1.64732,4.97287],"type":"Point"}
+}

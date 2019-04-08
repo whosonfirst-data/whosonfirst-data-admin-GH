@@ -1,0 +1,70 @@
+{
+  "id": 1210034627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.91726,6.33887,-2.91726,6.33887",
+    "geom:latitude":6.33887,
+    "geom:longitude":-2.91726,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Krokosuo",
+    "gn:country_code":"GH",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299061,
+    "gn:latitude":6.33887,
+    "gn:longitude":-2.91726,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Krokosuo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Krokosue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299061
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"b71d9f4abc57d5b86a52507d13353dee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760003,
+            "locality_id":1210034627,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1210034627,
+    "wof:lastmodified":1537623589,
+    "wof:name":"Krokosuo",
+    "wof:parent_id":1108760003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.91726,
+    6.33887,
+    -2.91726,
+    6.33887
+],
+  "geometry": {"coordinates":[-2.91726,6.33887],"type":"Point"}
+}

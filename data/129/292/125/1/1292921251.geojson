@@ -1,0 +1,73 @@
+{
+  "id": 1292921251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.26748,5.74408,-0.26748,5.74408",
+    "geom:latitude":5.74408,
+    "geom:longitude":-0.26748,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Adusu",
+    "gn:country_code":"GH",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305743,
+    "gn:latitude":5.74408,
+    "gn:longitude":-0.26748,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Adusu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Adusu"
+    ],
+    "name:eng_x_variant":[
+        "Adusa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671353,
+        1108759909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305743
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"21c2b76566d9ba8ded42251c41cac22e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759909,
+            "locality_id":1292921251,
+            "region_id":85671353
+        }
+    ],
+    "wof:id":1292921251,
+    "wof:lastmodified":1537623831,
+    "wof:name":"Adusu",
+    "wof:parent_id":1108759909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.26748,
+    5.74408,
+    -0.26748,
+    5.74408
+],
+  "geometry": {"coordinates":[-0.26748,5.74408],"type":"Point"}
+}

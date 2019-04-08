@@ -1,0 +1,71 @@
+{
+  "id": 1310315209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.13656,5.55128,-1.13656,5.55128",
+    "geom:latitude":5.55128,
+    "geom:longitude":-1.13656,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tehinite",
+    "gn:country_code":"GH",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294712,
+    "gn:latitude":5.55128,
+    "gn:longitude":-1.13656,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tehinite",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsihintsi",
+        "Tehinite"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294712
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"5456058d9b07f0f8fd5a153d73823d39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759849,
+            "locality_id":1310315209,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1310315209,
+    "wof:lastmodified":1537623436,
+    "wof:name":"Tehinite",
+    "wof:parent_id":1108759849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.13656,
+    5.55128,
+    -1.13656,
+    5.55128
+],
+  "geometry": {"coordinates":[-1.13656,5.55128],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209233113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.73246,6.69598,-0.73246,6.69598",
+    "geom:latitude":6.69598,
+    "geom:longitude":-0.73246,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Pepiasi",
+    "gn:country_code":"GH",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296001,
+    "gn:latitude":6.69598,
+    "gn:longitude":-0.73246,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pepiasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pepease",
+        "Pepiasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296001,
+        "wk:page":"Pepease"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"1a05ba8e32cf1d4bf42f3c3fe19ce732",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209233113
+        }
+    ],
+    "wof:id":1209233113,
+    "wof:lastmodified":1537623480,
+    "wof:name":"Pepiasi",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.73246,
+    6.69598,
+    -0.73246,
+    6.69598
+],
+  "geometry": {"coordinates":[-0.73246,6.69598],"type":"Point"}
+}

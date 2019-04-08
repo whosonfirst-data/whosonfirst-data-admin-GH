@@ -1,0 +1,70 @@
+{
+  "id": 1293019135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.66635,6.90652,-1.66635,6.90652",
+    "geom:latitude":6.90652,
+    "geom:longitude":-1.66635,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ayensua Kokoo",
+    "gn:country_code":"GH",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303590,
+    "gn:latitude":6.90652,
+    "gn:longitude":-1.66635,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Ayensua Kokoo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ayensua Kawkaw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303590
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"1966f0a6299e28e0a792e07d40523ce8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759805,
+            "locality_id":1293019135,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1293019135,
+    "wof:lastmodified":1537623756,
+    "wof:name":"Ayensua Kokoo",
+    "wof:parent_id":1108759805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.66635,
+    6.90652,
+    -1.66635,
+    6.90652
+],
+  "geometry": {"coordinates":[-1.66635,6.90652],"type":"Point"}
+}

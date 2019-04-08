@@ -1,0 +1,71 @@
+{
+  "id": 1243378339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.53584,5.075,-2.53584,5.075",
+    "geom:latitude":5.075,
+    "geom:longitude":-2.53584,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nvelenu",
+    "gn:country_code":"GH",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296958,
+    "gn:latitude":5.075,
+    "gn:longitude":-2.53584,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nvelenu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nvelenu-Bewia",
+        "Nvelenu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296958
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"c017983b9fb1a703f272a1ceb761ae36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760001,
+            "locality_id":1243378339,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1243378339,
+    "wof:lastmodified":1537623514,
+    "wof:name":"Nvelenu",
+    "wof:parent_id":1108760001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.53584,
+    5.075,
+    -2.53584,
+    5.075
+],
+  "geometry": {"coordinates":[-2.53584,5.075],"type":"Point"}
+}

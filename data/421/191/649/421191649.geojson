@@ -1,0 +1,112 @@
+{
+  "id": 421191649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.8253,9.62441,-0.8253,9.62441",
+    "geom:latitude":9.62441,
+    "geom:longitude":-0.8253,
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u0432\u0435\u043b\u0443\u0433\u0443"
+    ],
+    "name:ceb_x_preferred":[
+        "Savelugu"
+    ],
+    "name:deu_x_preferred":[
+        "Savelugu"
+    ],
+    "name:dut_x_preferred":[
+        "Savelugu"
+    ],
+    "name:eng_x_preferred":[
+        "Savelugu"
+    ],
+    "name:ger_x_preferred":[
+        "Savelugu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30d9\u30eb\u30b0"
+    ],
+    "name:swe_x_preferred":[
+        "Savelugu"
+    ],
+    "name:unk_x_variant":[
+        "Saveluga"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u06cc\u0644\u0648\u06af\u0648"
+    ],
+    "qs:gn_country":"GH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2295517,
+    "qs:gn_pop":29310,
+    "qs:name":"Savelugu",
+    "qs:name_adm0":"Ghana",
+    "qs:name_adm1":"Northern",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1150067,
+    "qs:woe_adm0":23424824,
+    "qs:woe_id":1332732,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":82,
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2295517,
+        "gp:id":1332732,
+        "qs:id":1150067,
+        "wd:id":"Q2228059",
+        "wk:page":"Savelugu"
+    },
+    "wof:country":"GH",
+    "wof:created":1459009700,
+    "wof:geomhash":"6f368f906789274138dd0bb1f3279dae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759931,
+            "locality_id":421191649,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":421191649,
+    "wof:lastmodified":1527716383,
+    "wof:name":"Savelugu",
+    "wof:parent_id":1108759931,
+    "wof:placetype":"locality",
+    "wof:population":29310,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8253,
+    9.62441,
+    -0.8253,
+    9.62441
+],
+  "geometry": {"coordinates":[-0.8253,9.62441],"type":"Point"}
+}

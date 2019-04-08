@@ -1,0 +1,71 @@
+{
+  "id": 1343575855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.36199,6.81051,-1.36199,6.81051",
+    "geom:latitude":6.81051,
+    "geom:longitude":-1.36199,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ntunkumso",
+    "gn:country_code":"GH",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297005,
+    "gn:latitude":6.81051,
+    "gn:longitude":-1.36199,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ntunkumso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ntumkumso",
+        "Ntunkumso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297005
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"5cac70871c672ff35f93a84d2b164335",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759807,
+            "locality_id":1343575855,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1343575855,
+    "wof:lastmodified":1537623515,
+    "wof:name":"Ntunkumso",
+    "wof:parent_id":1108759807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.36199,
+    6.81051,
+    -1.36199,
+    6.81051
+],
+  "geometry": {"coordinates":[-1.36199,6.81051],"type":"Point"}
+}

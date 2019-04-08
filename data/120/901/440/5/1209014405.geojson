@@ -1,0 +1,65 @@
+{
+  "id": 1209014405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.55708,5.42272,-0.55708,5.42272",
+    "geom:latitude":5.42272,
+    "geom:longitude":-0.55708,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kwekrom",
+    "gn:country_code":"GH",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298563,
+    "gn:latitude":5.42272,
+    "gn:longitude":-0.55708,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kwekrom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kweikrom",
+        "Kwekrom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298563
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"57ac3fc838b0d433f5b17bda24f70fa5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209014405
+        }
+    ],
+    "wof:id":1209014405,
+    "wof:lastmodified":1537623572,
+    "wof:name":"Kwekrom",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.55708,
+    5.42272,
+    -0.55708,
+    5.42272
+],
+  "geometry": {"coordinates":[-0.55708,5.42272],"type":"Point"}
+}

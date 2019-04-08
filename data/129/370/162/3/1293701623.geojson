@@ -1,0 +1,67 @@
+{
+  "id": 1293701623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.7347,5.1603,-2.7347,5.1603",
+    "geom:latitude":5.1603,
+    "geom:longitude":-2.7347,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Esujo",
+    "gn:country_code":"GH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301074,
+    "gn:latitude":5.1603,
+    "gn:longitude":-2.7347,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Esujo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301074
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"32ac00fd0ba929f3c338e056a29abb94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760001,
+            "locality_id":1293701623,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1293701623,
+    "wof:lastmodified":1536975074,
+    "wof:name":"Esujo",
+    "wof:parent_id":1108760001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.7347,
+    5.1603,
+    -2.7347,
+    5.1603
+],
+  "geometry": {"coordinates":[-2.7347,5.1603],"type":"Point"}
+}

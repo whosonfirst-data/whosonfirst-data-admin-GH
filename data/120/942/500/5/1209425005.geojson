@@ -1,0 +1,65 @@
+{
+  "id": 1209425005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.72903,6.48566,0.72903,6.48566",
+    "geom:latitude":6.48566,
+    "geom:longitude":0.72903,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Agadji",
+    "gn:country_code":"GH",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305630,
+    "gn:latitude":6.48566,
+    "gn:longitude":0.72903,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Agadji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agadzi",
+        "Agadji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305630
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"b54002720198987d358c847e576ca91d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209425005
+        }
+    ],
+    "wof:id":1209425005,
+    "wof:lastmodified":1537623827,
+    "wof:name":"Agadji",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.72903,
+    6.48566,
+    0.72903,
+    6.48566
+],
+  "geometry": {"coordinates":[0.72903,6.48566],"type":"Point"}
+}

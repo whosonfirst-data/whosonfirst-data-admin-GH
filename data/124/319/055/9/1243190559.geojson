@@ -1,0 +1,71 @@
+{
+  "id": 1243190559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.96022,4.86133,-1.96022,4.86133",
+    "geom:latitude":4.86133,
+    "geom:longitude":-1.96022,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Bonsokrom",
+    "gn:country_code":"GH",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302724,
+    "gn:latitude":4.86133,
+    "gn:longitude":-1.96022,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Bonsokrom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bonsakrom",
+        "Bonsokrom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108759993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302724
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"4961883e7e8cd489e1ec85d49566ea31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759993,
+            "locality_id":1243190559,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1243190559,
+    "wof:lastmodified":1537623727,
+    "wof:name":"Bonsokrom",
+    "wof:parent_id":1108759993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.96022,
+    4.86133,
+    -1.96022,
+    4.86133
+],
+  "geometry": {"coordinates":[-1.96022,4.86133],"type":"Point"}
+}

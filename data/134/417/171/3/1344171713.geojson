@@ -1,0 +1,70 @@
+{
+  "id": 1344171713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.64681,6.79723,-1.64681,6.79723",
+    "geom:latitude":6.79723,
+    "geom:longitude":-1.64681,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Nkukua Buoho",
+    "gn:country_code":"GH",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297194,
+    "gn:latitude":6.79723,
+    "gn:longitude":-1.64681,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Nkukua Buoho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nkwikwia Boahung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297194
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"c7ab364656c254eafb75f640383d57ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759803,
+            "locality_id":1344171713,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1344171713,
+    "wof:lastmodified":1537623522,
+    "wof:name":"Nkukua Buoho",
+    "wof:parent_id":1108759803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.64681,
+    6.79723,
+    -1.64681,
+    6.79723
+],
+  "geometry": {"coordinates":[-1.64681,6.79723],"type":"Point"}
+}

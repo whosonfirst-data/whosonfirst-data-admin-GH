@@ -1,0 +1,72 @@
+{
+  "id": 1209833733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.98266,6.61691,-1.98266,6.61691",
+    "geom:latitude":6.61691,
+    "geom:longitude":-1.98266,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Nkroma",
+    "gn:country_code":"GH",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297262,
+    "gn:latitude":6.61691,
+    "gn:longitude":-1.98266,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Nkroma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Senikrom",
+        "Nkroma Seni",
+        "Nkroma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297262
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"e57c65efc6a10a443e5c8913a791853e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759791,
+            "locality_id":1209833733,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1209833733,
+    "wof:lastmodified":1537623525,
+    "wof:name":"Nkroma",
+    "wof:parent_id":1108759791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.98266,
+    6.61691,
+    -1.98266,
+    6.61691
+],
+  "geometry": {"coordinates":[-1.98266,6.61691],"type":"Point"}
+}

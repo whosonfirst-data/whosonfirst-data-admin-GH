@@ -1,0 +1,68 @@
+{
+  "id": 1310315287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.6383,6.70067,-1.6383,6.70067",
+    "geom:latitude":6.70067,
+    "geom:longitude":-1.6383,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bantama",
+    "gn:country_code":"GH",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303361,
+    "gn:latitude":6.70067,
+    "gn:longitude":-1.6383,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Bantama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303361,
+        "wk:page":"Bantama"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"830acb037c9d66a9062d53d5d8fb2196",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759801,
+            "locality_id":1310315287,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1310315287,
+    "wof:lastmodified":1537563055,
+    "wof:name":"Bantama",
+    "wof:parent_id":1108759801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.6383,
+    6.70067,
+    -1.6383,
+    6.70067
+],
+  "geometry": {"coordinates":[-1.6383,6.70067],"type":"Point"}
+}

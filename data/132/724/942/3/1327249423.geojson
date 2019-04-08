@@ -1,0 +1,67 @@
+{
+  "id": 1327249423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.17138,9.83346,-0.17138,9.83346",
+    "geom:latitude":9.83346,
+    "geom:longitude":-0.17138,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gungula",
+    "gn:country_code":"GH",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300528,
+    "gn:latitude":9.83346,
+    "gn:longitude":-0.17138,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Gungula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300528
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"8a6c6cde28ba1d15e111069d76cb5acd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759925,
+            "locality_id":1327249423,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1327249423,
+    "wof:lastmodified":1536945400,
+    "wof:name":"Gungula",
+    "wof:parent_id":1108759925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.17138,
+    9.83346,
+    -0.17138,
+    9.83346
+],
+  "geometry": {"coordinates":[-0.17138,9.83346],"type":"Point"}
+}

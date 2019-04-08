@@ -1,0 +1,71 @@
+{
+  "id": 1343280229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.21196,7.09125,-1.21196,7.09125",
+    "geom:latitude":7.09125,
+    "geom:longitude":-1.21196,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Jadiako",
+    "gn:country_code":"GH",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300260,
+    "gn:latitude":7.09125,
+    "gn:longitude":-1.21196,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jadiako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gyeduako",
+        "Jadiako"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300260
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ed9b43ff72f9d14fc1e5fb63e169df56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759809,
+            "locality_id":1343280229,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1343280229,
+    "wof:lastmodified":1537623633,
+    "wof:name":"Jadiako",
+    "wof:parent_id":1108759809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.21196,
+    7.09125,
+    -1.21196,
+    7.09125
+],
+  "geometry": {"coordinates":[-1.21196,7.09125],"type":"Point"}
+}

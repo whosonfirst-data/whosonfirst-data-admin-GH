@@ -1,0 +1,70 @@
+{
+  "id": 1292921733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.61641,6.39877,-1.61641,6.39877",
+    "geom:latitude":6.39877,
+    "geom:longitude":-1.61641,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Amponya",
+    "gn:country_code":"GH",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304699,
+    "gn:latitude":6.39877,
+    "gn:longitude":-1.61641,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Amponya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Amponya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304699
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"484f037e625ecfbcbf1ac976dc566e27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759783,
+            "locality_id":1292921733,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1292921733,
+    "wof:lastmodified":1537623794,
+    "wof:name":"Amponya",
+    "wof:parent_id":1108759783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.61641,
+    6.39877,
+    -1.61641,
+    6.39877
+],
+  "geometry": {"coordinates":[-1.61641,6.39877],"type":"Point"}
+}

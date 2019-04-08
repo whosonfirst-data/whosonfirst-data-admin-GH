@@ -1,0 +1,71 @@
+{
+  "id": 1343868433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.64624,5.73927,-0.64624,5.73927",
+    "geom:latitude":5.73927,
+    "geom:longitude":-0.64624,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Abamkrom",
+    "gn:country_code":"GH",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306450,
+    "gn:latitude":5.73927,
+    "gn:longitude":-0.64624,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Abamkrom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abamkurom",
+        "Abamkrom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306450
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"16eba723bc3628825f5d10779953a6f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759897,
+            "locality_id":1343868433,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1343868433,
+    "wof:lastmodified":1537623855,
+    "wof:name":"Abamkrom",
+    "wof:parent_id":1108759897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.64624,
+    5.73927,
+    -0.64624,
+    5.73927
+],
+  "geometry": {"coordinates":[-0.64624,5.73927],"type":"Point"}
+}

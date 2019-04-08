@@ -1,0 +1,70 @@
+{
+  "id": 1225954205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.74905,10.82892,-2.74905,10.82892",
+    "geom:latitude":10.82892,
+    "geom:longitude":-2.74905,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Burutu",
+    "gn:country_code":"GH",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302397,
+    "gn:latitude":10.82892,
+    "gn:longitude":-2.74905,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Burutu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Burufu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302397
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"cd3640fe4aa5e3f3988c9277faa1c0d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759957,
+            "locality_id":1225954205,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1225954205,
+    "wof:lastmodified":1537623714,
+    "wof:name":"Burutu",
+    "wof:parent_id":1108759957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.74905,
+    10.82892,
+    -2.74905,
+    10.82892
+],
+  "geometry": {"coordinates":[-2.74905,10.82892],"type":"Point"}
+}

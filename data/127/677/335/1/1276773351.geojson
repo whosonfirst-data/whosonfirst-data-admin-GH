@@ -1,0 +1,67 @@
+{
+  "id": 1276773351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.4237,6.82257,0.4237,6.82257",
+    "geom:latitude":6.82257,
+    "geom:longitude":0.4237,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Vane",
+    "gn:country_code":"GH",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294277,
+    "gn:latitude":6.82257,
+    "gn:longitude":0.4237,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Vane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294277
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"b8e45f366845e331676efdd0c47260d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759971,
+            "locality_id":1276773351,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1276773351,
+    "wof:lastmodified":1536686150,
+    "wof:name":"Vane",
+    "wof:parent_id":1108759971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.4237,
+    6.82257,
+    0.4237,
+    6.82257
+],
+  "geometry": {"coordinates":[0.4237,6.82257],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293015207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.05494,10.87475,-1.05494,10.87475",
+    "geom:latitude":10.87475,
+    "geom:longitude":-1.05494,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Naiagnia",
+    "gn:country_code":"GH",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297707,
+    "gn:latitude":10.87475,
+    "gn:longitude":-1.05494,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Naiagnia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nayagnia",
+        "Naiagnia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297707
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ce244b89ebdf2ca9716d261d8b85b717",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759953,
+            "locality_id":1293015207,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1293015207,
+    "wof:lastmodified":1537623542,
+    "wof:name":"Naiagnia",
+    "wof:parent_id":1108759953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.05494,
+    10.87475,
+    -1.05494,
+    10.87475
+],
+  "geometry": {"coordinates":[-1.05494,10.87475],"type":"Point"}
+}

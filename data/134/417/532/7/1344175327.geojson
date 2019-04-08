@@ -1,0 +1,71 @@
+{
+  "id": 1344175327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.38046,6.67478,-1.38046,6.67478",
+    "geom:latitude":6.67478,
+    "geom:longitude":-1.38046,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ahwiriso",
+    "gn:country_code":"GH",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305386,
+    "gn:latitude":6.67478,
+    "gn:longitude":-1.38046,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ahwiriso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hwereso",
+        "Ahwiriso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305386
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"7d8f2c30e54e87757b8538ce926b50f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759795,
+            "locality_id":1344175327,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1344175327,
+    "wof:lastmodified":1537623819,
+    "wof:name":"Ahwiriso",
+    "wof:parent_id":1108759795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.38046,
+    6.67478,
+    -1.38046,
+    6.67478
+],
+  "geometry": {"coordinates":[-1.38046,6.67478],"type":"Point"}
+}

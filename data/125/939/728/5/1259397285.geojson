@@ -1,0 +1,74 @@
+{
+  "id": 1259397285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.75681,7.86019,-2.75681,7.86019",
+    "geom:latitude":7.86019,
+    "geom:longitude":-2.75681,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kokosua Number One",
+    "gn:country_code":"GH",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298686,
+    "gn:latitude":7.86019,
+    "gn:longitude":-2.75681,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Kokosua Number One",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kokosua Number One"
+    ],
+    "name:und_x_variant":[
+        "Kokosua Number 1",
+        "Kwakusesiem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298686
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"42a8ac4b4891d7cf242a236d2b50b110",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759823,
+            "locality_id":1259397285,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1259397285,
+    "wof:lastmodified":1537623576,
+    "wof:name":"Kokosua Number One",
+    "wof:parent_id":1108759823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.75681,
+    7.86019,
+    -2.75681,
+    7.86019
+],
+  "geometry": {"coordinates":[-2.75681,7.86019],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209534027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.49861,5.92926,0.49861,5.92926",
+    "geom:latitude":5.92926,
+    "geom:longitude":0.49861,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Adichrekope",
+    "gn:country_code":"GH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305893,
+    "gn:latitude":5.92926,
+    "gn:longitude":0.49861,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Adichrekope",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aditsre Korpe",
+        "Adechrekope",
+        "Adichrekope"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305893
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"399e2e24a194ee1f814e7993a695368e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209534027
+        }
+    ],
+    "wof:id":1209534027,
+    "wof:lastmodified":1537623836,
+    "wof:name":"Adichrekope",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.49861,
+    5.92926,
+    0.49861,
+    5.92926
+],
+  "geometry": {"coordinates":[0.49861,5.92926],"type":"Point"}
+}

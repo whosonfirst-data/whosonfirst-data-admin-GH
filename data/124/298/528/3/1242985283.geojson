@@ -1,0 +1,71 @@
+{
+  "id": 1242985283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.43796,5.00812,-2.43796,5.00812",
+    "geom:latitude":5.00812,
+    "geom:longitude":-2.43796,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Amishibiebokaso",
+    "gn:country_code":"GH",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304768,
+    "gn:latitude":5.00812,
+    "gn:longitude":-2.43796,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Amishibiebokaso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abbobokazo",
+        "Amishibiebokaso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304768
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"0bf6cfa61e57893115452c452ef37f8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760007,
+            "locality_id":1242985283,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1242985283,
+    "wof:lastmodified":1537623796,
+    "wof:name":"Amishibiebokaso",
+    "wof:parent_id":1108760007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.43796,
+    5.00812,
+    -2.43796,
+    5.00812
+],
+  "geometry": {"coordinates":[-2.43796,5.00812],"type":"Point"}
+}

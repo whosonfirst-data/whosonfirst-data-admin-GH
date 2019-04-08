@@ -1,0 +1,72 @@
+{
+  "id": 1293108619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.30173,6.83699,-1.30173,6.83699",
+    "geom:latitude":6.83699,
+    "geom:longitude":-1.30173,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Atakrom",
+    "gn:country_code":"GH",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303914,
+    "gn:latitude":6.83699,
+    "gn:longitude":-1.30173,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Atakrom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Atokrom",
+        "Atakurom",
+        "Atakrom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303914
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"cccf9f15a8c750a22ab8deb00a832625",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759807,
+            "locality_id":1293108619,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1293108619,
+    "wof:lastmodified":1537623766,
+    "wof:name":"Atakrom",
+    "wof:parent_id":1108759807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.30173,
+    6.83699,
+    -1.30173,
+    6.83699
+],
+  "geometry": {"coordinates":[-1.30173,6.83699],"type":"Point"}
+}

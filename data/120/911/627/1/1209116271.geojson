@@ -1,0 +1,61 @@
+{
+  "id": 1209116271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.6,9.41667,-1.6,9.41667",
+    "geom:latitude":9.41667,
+    "geom:longitude":-1.6,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kodengu",
+    "gn:country_code":"GH",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299562,
+    "gn:latitude":9.41667,
+    "gn:longitude":-1.6,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Kodengu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299562
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a41e1143c6dc402850b6fe73ae0fa086",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209116271
+        }
+    ],
+    "wof:id":1209116271,
+    "wof:lastmodified":1536297243,
+    "wof:name":"Kodengu",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.6,
+    9.41667,
+    -1.6,
+    9.41667
+],
+  "geometry": {"coordinates":[-1.6,9.41667],"type":"Point"}
+}

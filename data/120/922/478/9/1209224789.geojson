@@ -1,0 +1,67 @@
+{
+  "id": 1209224789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.48333,6.38333,-1.48333,6.38333",
+    "geom:latitude":6.38333,
+    "geom:longitude":-1.48333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ejwinasi",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301215,
+    "gn:latitude":6.38333,
+    "gn:longitude":-1.48333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ejwinasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ejwinasa",
+        "Edwenase",
+        "Ejwinasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301215
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"5d5aa574fb8cf2e21dd84da7c6bba238",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209224789
+        }
+    ],
+    "wof:id":1209224789,
+    "wof:lastmodified":1537623669,
+    "wof:name":"Ejwinasi",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.48333,
+    6.38333,
+    -1.48333,
+    6.38333
+],
+  "geometry": {"coordinates":[-1.48333,6.38333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1242795977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.27115,5.90004,-1.27115,5.90004",
+    "geom:latitude":5.90004,
+    "geom:longitude":-1.27115,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Achiasewa",
+    "gn:country_code":"GH",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306076,
+    "gn:latitude":5.90004,
+    "gn:longitude":-1.27115,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Achiasewa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akyeasewa",
+        "Achiasewa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306076
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"576e178f8d506494011922154059344a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759849,
+            "locality_id":1242795977,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1242795977,
+    "wof:lastmodified":1537623843,
+    "wof:name":"Achiasewa",
+    "wof:parent_id":1108759849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.27115,
+    5.90004,
+    -1.27115,
+    5.90004
+],
+  "geometry": {"coordinates":[-1.27115,5.90004],"type":"Point"}
+}

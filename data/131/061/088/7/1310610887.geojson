@@ -1,0 +1,71 @@
+{
+  "id": 1310610887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.34403,6.06315,0.34403,6.06315",
+    "geom:latitude":6.06315,
+    "geom:longitude":0.34403,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kolokpo",
+    "gn:country_code":"GH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299407,
+    "gn:latitude":6.06315,
+    "gn:longitude":0.34403,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kolokpo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Korlokpo",
+        "Kolokpo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299407
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"b4e38e663333abff08386a904681948a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759967,
+            "locality_id":1310610887,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1310610887,
+    "wof:lastmodified":1537623600,
+    "wof:name":"Kolokpo",
+    "wof:parent_id":1108759967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.34403,
+    6.06315,
+    0.34403,
+    6.06315
+],
+  "geometry": {"coordinates":[0.34403,6.06315],"type":"Point"}
+}

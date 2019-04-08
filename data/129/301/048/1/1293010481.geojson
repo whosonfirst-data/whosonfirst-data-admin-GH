@@ -1,0 +1,67 @@
+{
+  "id": 1293010481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.36667,6.36667,-1.36667,6.36667",
+    "geom:latitude":6.36667,
+    "geom:longitude":-1.36667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nsuaem Penin",
+    "gn:country_code":"GH",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297110,
+    "gn:latitude":6.36667,
+    "gn:longitude":-1.36667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Nsuaem Penin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297110
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"900e2fce598ab52973f603335fb00115",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759783,
+            "locality_id":1293010481,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1293010481,
+    "wof:lastmodified":1536977019,
+    "wof:name":"Nsuaem Penin",
+    "wof:parent_id":1108759783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.36667,
+    6.36667,
+    -1.36667,
+    6.36667
+],
+  "geometry": {"coordinates":[-1.36667,6.36667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260098565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.35625,8.16572,-2.35625,8.16572",
+    "geom:latitude":8.16572,
+    "geom:longitude":-2.35625,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Samina Kuu",
+    "gn:country_code":"GH",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303417,
+    "gn:latitude":8.16572,
+    "gn:longitude":-2.35625,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Samina Kuu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Banna",
+        "Banda",
+        "Samina Kuu",
+        "Bandafie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303417
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"5ee58cbb8db951b7d229e242fae94043",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759839,
+            "locality_id":1260098565,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1260098565,
+    "wof:lastmodified":1537623750,
+    "wof:name":"Samina Kuu",
+    "wof:parent_id":1108759839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.35625,
+    8.16572,
+    -2.35625,
+    8.16572
+],
+  "geometry": {"coordinates":[-2.35625,8.16572],"type":"Point"}
+}

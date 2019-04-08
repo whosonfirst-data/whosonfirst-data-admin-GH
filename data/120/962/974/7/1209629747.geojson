@@ -1,0 +1,66 @@
+{
+  "id": 1209629747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.61428,5.82324,0.61428,5.82324",
+    "geom:latitude":5.82324,
+    "geom:longitude":0.61428,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Big Ada",
+    "gn:country_code":"GH",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303041,
+    "gn:latitude":5.82324,
+    "gn:longitude":0.61428,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Big Ada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Big Adda",
+        "Big Ada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303041,
+        "wk:page":"Big_Ada"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a26690d773e1b305a31c1de7ed2af700",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209629747
+        }
+    ],
+    "wof:id":1209629747,
+    "wof:lastmodified":1537623737,
+    "wof:name":"Big Ada",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.61428,
+    5.82324,
+    0.61428,
+    5.82324
+],
+  "geometry": {"coordinates":[0.61428,5.82324],"type":"Point"}
+}

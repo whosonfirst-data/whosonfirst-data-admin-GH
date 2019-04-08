@@ -1,0 +1,65 @@
+{
+  "id": 1209229275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.36004,10.40588,-1.36004,10.40588",
+    "geom:latitude":10.40588,
+    "geom:longitude":-1.36004,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bechisi",
+    "gn:country_code":"GH",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303255,
+    "gn:latitude":10.40588,
+    "gn:longitude":-1.36004,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bechisi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fumbisi Bacheesa",
+        "Bechisi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303255
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"f67606ff0ef966b00e1af837f12fda48",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209229275
+        }
+    ],
+    "wof:id":1209229275,
+    "wof:lastmodified":1537623744,
+    "wof:name":"Bechisi",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.36004,
+    10.40588,
+    -1.36004,
+    10.40588
+],
+  "geometry": {"coordinates":[-1.36004,10.40588],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276883429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.23444,10.84733,-0.23444,10.84733",
+    "geom:latitude":10.84733,
+    "geom:longitude":-0.23444,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Yalugu",
+    "gn:country_code":"GH",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293887,
+    "gn:latitude":10.84733,
+    "gn:longitude":-0.23444,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yalugu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yalaga",
+        "Yalugu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293887
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"8eafc95b504015579e24f97a9b7fc37d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759943,
+            "locality_id":1276883429,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1276883429,
+    "wof:lastmodified":1537623405,
+    "wof:name":"Yalugu",
+    "wof:parent_id":1108759943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.23444,
+    10.84733,
+    -0.23444,
+    10.84733
+],
+  "geometry": {"coordinates":[-0.23444,10.84733],"type":"Point"}
+}

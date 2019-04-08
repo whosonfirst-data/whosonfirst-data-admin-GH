@@ -1,0 +1,75 @@
+{
+  "id": 1259997951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.50427,5.11297,-1.50427,5.11297",
+    "geom:latitude":5.11297,
+    "geom:longitude":-1.50427,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Besiasi",
+    "gn:country_code":"GH",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303112,
+    "gn:latitude":5.11297,
+    "gn:longitude":-1.50427,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Besiasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kwesiase"
+    ],
+    "name:und_x_variant":[
+        "Besease",
+        "Bisiasi",
+        "Besiasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303112
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"b083a6102ea26e3f9f155c660821aadc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759859,
+            "locality_id":1259997951,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1259997951,
+    "wof:lastmodified":1537623739,
+    "wof:name":"Besiasi",
+    "wof:parent_id":1108759859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.50427,
+    5.11297,
+    -1.50427,
+    5.11297
+],
+  "geometry": {"coordinates":[-1.50427,5.11297],"type":"Point"}
+}

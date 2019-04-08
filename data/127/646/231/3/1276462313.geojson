@@ -1,0 +1,67 @@
+{
+  "id": 1276462313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.56412,5.87498,0.56412,5.87498",
+    "geom:latitude":5.87498,
+    "geom:longitude":0.56412,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dogo",
+    "gn:country_code":"GH",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301654,
+    "gn:latitude":5.87498,
+    "gn:longitude":0.56412,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Dogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671353,
+        1108759903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301654
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a6572748d7fda71548dd75680a74e433",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759903,
+            "locality_id":1276462313,
+            "region_id":85671353
+        }
+    ],
+    "wof:id":1276462313,
+    "wof:lastmodified":1536602821,
+    "wof:name":"Dogo",
+    "wof:parent_id":1108759903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.56412,
+    5.87498,
+    0.56412,
+    5.87498
+],
+  "geometry": {"coordinates":[0.56412,5.87498],"type":"Point"}
+}

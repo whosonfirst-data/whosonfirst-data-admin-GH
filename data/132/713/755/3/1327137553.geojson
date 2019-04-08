@@ -1,0 +1,67 @@
+{
+  "id": 1327137553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.6138,6.70639,-1.6138,6.70639",
+    "geom:latitude":6.70639,
+    "geom:longitude":-1.6138,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Manhyia",
+    "gn:country_code":"GH",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11280827,
+    "gn:latitude":6.70639,
+    "gn:longitude":-1.6138,
+    "gn:modification_date":"2016-10-24",
+    "gn:name":"Manhyia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11280827
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"2f98bfa091c106fb7319c15540e35f57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759801,
+            "locality_id":1327137553,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1327137553,
+    "wof:lastmodified":1536605681,
+    "wof:name":"Manhyia",
+    "wof:parent_id":1108759801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.6138,
+    6.70639,
+    -1.6138,
+    6.70639
+],
+  "geometry": {"coordinates":[-1.6138,6.70639],"type":"Point"}
+}

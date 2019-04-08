@@ -1,0 +1,70 @@
+{
+  "id": 1343876753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.84274,5.71978,-1.84274,5.71978",
+    "geom:latitude":5.71978,
+    "geom:longitude":-1.84274,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Mamanhu",
+    "gn:country_code":"GH",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298297,
+    "gn:latitude":5.71978,
+    "gn:longitude":-1.84274,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Mamanhu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mamanhu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298297
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"aa941a56c0ba3af9cf68068077520a0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760015,
+            "locality_id":1343876753,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1343876753,
+    "wof:lastmodified":1537623564,
+    "wof:name":"Mamanhu",
+    "wof:parent_id":1108760015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.84274,
+    5.71978,
+    -1.84274,
+    5.71978
+],
+  "geometry": {"coordinates":[-1.84274,5.71978],"type":"Point"}
+}

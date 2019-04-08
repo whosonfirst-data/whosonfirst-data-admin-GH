@@ -1,0 +1,73 @@
+{
+  "id": 1209928901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.0906,6.64394,-3.0906,6.64394",
+    "geom:latitude":6.64394,
+    "geom:longitude":-3.0906,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Esuepiri",
+    "gn:country_code":"GH",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2295665,
+    "gn:latitude":6.64394,
+    "gn:longitude":-3.0906,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Esuepiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Esuepiri"
+    ],
+    "name:eng_x_variant":[
+        "Samakro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2295665
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"35f5dd75300a2e535efa4632e39da01d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760003,
+            "locality_id":1209928901,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1209928901,
+    "wof:lastmodified":1537623468,
+    "wof:name":"Esuepiri",
+    "wof:parent_id":1108760003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.0906,
+    6.64394,
+    -3.0906,
+    6.64394
+],
+  "geometry": {"coordinates":[-3.0906,6.64394],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209733833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.63153,5.98499,-1.63153,5.98499",
+    "geom:latitude":5.98499,
+    "geom:longitude":-1.63153,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kofigyamekurom",
+    "gn:country_code":"GH",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298242,
+    "gn:latitude":5.98499,
+    "gn:longitude":-1.63153,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Kofigyamekurom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kofigyamekurom"
+    ],
+    "name:eng_x_variant":[
+        "Manesuso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298242
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"0b82b722b2a278eb47e9dd769c4119ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759773,
+            "locality_id":1209733833,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1209733833,
+    "wof:lastmodified":1537623562,
+    "wof:name":"Kofigyamekurom",
+    "wof:parent_id":1108759773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.63153,
+    5.98499,
+    -1.63153,
+    5.98499
+],
+  "geometry": {"coordinates":[-1.63153,5.98499],"type":"Point"}
+}

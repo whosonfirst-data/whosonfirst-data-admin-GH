@@ -1,0 +1,71 @@
+{
+  "id": 1276667769,
+  "type": "Feature",
+  "properties": {
+    "abrv:eng_x_preferred":[
+        "Bosumoiso"
+    ],
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.46129,6.19778,-2.46129,6.19778",
+    "geom:latitude":6.19778,
+    "geom:longitude":-2.46129,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bosumuoso",
+    "gn:country_code":"GH",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302656,
+    "gn:latitude":6.19778,
+    "gn:longitude":-2.46129,
+    "gn:modification_date":"2016-10-20",
+    "gn:name":"Bosumuoso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302656
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"5d76a4d05119f3eb01963fe1dc1bec34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760009,
+            "locality_id":1276667769,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1276667769,
+    "wof:lastmodified":1537550679,
+    "wof:name":"Bosumuoso",
+    "wof:parent_id":1108760009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:shortcode":"Bosumoiso",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.46129,
+    6.19778,
+    -2.46129,
+    6.19778
+],
+  "geometry": {"coordinates":[-2.46129,6.19778],"type":"Point"}
+}

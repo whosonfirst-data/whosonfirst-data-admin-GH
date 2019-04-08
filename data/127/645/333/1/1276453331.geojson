@@ -1,0 +1,70 @@
+{
+  "id": 1276453331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.81565,5.77437,0.81565,5.77437",
+    "geom:latitude":5.77437,
+    "geom:longitude":0.81565,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Atokogblefo",
+    "gn:country_code":"GH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303808,
+    "gn:latitude":5.77437,
+    "gn:longitude":0.81565,
+    "gn:modification_date":"2014-10-14",
+    "gn:name":"Atokogblefo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Atokawblofu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303808
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"99d5649f1b7f18ae6d8aba8c11c523fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759981,
+            "locality_id":1276453331,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1276453331,
+    "wof:lastmodified":1537623763,
+    "wof:name":"Atokogblefo",
+    "wof:parent_id":1108759981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.81565,
+    5.77437,
+    0.81565,
+    5.77437
+],
+  "geometry": {"coordinates":[0.81565,5.77437],"type":"Point"}
+}

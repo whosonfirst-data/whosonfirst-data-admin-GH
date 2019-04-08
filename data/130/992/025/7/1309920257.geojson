@@ -1,0 +1,78 @@
+{
+  "id": 1309920257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.8069,7.19735,-2.8069,7.19735",
+    "geom:latitude":7.19735,
+    "geom:longitude":-2.8069,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Aboabo Number Four",
+    "gn:country_code":"GH",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302416,
+    "gn:latitude":7.19735,
+    "gn:longitude":-2.8069,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Aboabo Number Four",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Aboabo Number Four"
+    ],
+    "name:eng_x_variant":[
+        "Mireku"
+    ],
+    "name:und_x_variant":[
+        "Aboabo",
+        "Aboabo Number 4",
+        "Buokrom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302416
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"e050aade553ee8ac895fc5610c35de79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759821,
+            "locality_id":1309920257,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1309920257,
+    "wof:lastmodified":1537623715,
+    "wof:name":"Aboabo Number Four",
+    "wof:parent_id":1108759821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.8069,
+    7.19735,
+    -2.8069,
+    7.19735
+],
+  "geometry": {"coordinates":[-2.8069,7.19735],"type":"Point"}
+}

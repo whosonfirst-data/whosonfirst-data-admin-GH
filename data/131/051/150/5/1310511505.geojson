@@ -1,0 +1,73 @@
+{
+  "id": 1310511505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.15458,5.4029,-2.15458,5.4029",
+    "geom:latitude":5.4029,
+    "geom:longitude":-2.15458,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bondai",
+    "gn:country_code":"GH",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302775,
+    "gn:latitude":5.4029,
+    "gn:longitude":-2.15458,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bondai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Asisitre",
+        "Bondaye",
+        "Asasitre",
+        "Bondai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302775
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"e3356af5f6ec212ae97aeb2e11cb8612",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760017,
+            "locality_id":1310511505,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1310511505,
+    "wof:lastmodified":1537623728,
+    "wof:name":"Bondai",
+    "wof:parent_id":1108760017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.15458,
+    5.4029,
+    -2.15458,
+    5.4029
+],
+  "geometry": {"coordinates":[-2.15458,5.4029],"type":"Point"}
+}

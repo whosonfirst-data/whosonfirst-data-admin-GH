@@ -1,0 +1,72 @@
+{
+  "id": 1209725675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.65757,5.75612,-2.65757,5.75612",
+    "geom:latitude":5.75612,
+    "geom:longitude":-2.65757,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Yuabra",
+    "gn:country_code":"GH",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293732,
+    "gn:latitude":5.75612,
+    "gn:longitude":-2.65757,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yuabra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yiraberi",
+        "Yiwabra",
+        "Yuabra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108759997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293732
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"17ea2b527e2aa53b55c3bb1e9999847a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759997,
+            "locality_id":1209725675,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1209725675,
+    "wof:lastmodified":1537623400,
+    "wof:name":"Yuabra",
+    "wof:parent_id":1108759997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.65757,
+    5.75612,
+    -2.65757,
+    5.75612
+],
+  "geometry": {"coordinates":[-2.65757,5.75612],"type":"Point"}
+}

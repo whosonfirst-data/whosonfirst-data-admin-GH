@@ -1,0 +1,71 @@
+{
+  "id": 1242595693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.93675,5.46943,-0.93675,5.46943",
+    "geom:latitude":5.46943,
+    "geom:longitude":-0.93675,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ba",
+    "gn:country_code":"GH",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303541,
+    "gn:latitude":5.46943,
+    "gn:longitude":-0.93675,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baa",
+        "Ba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303541
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"79348be5502935053f190a0f9457e9da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759845,
+            "locality_id":1242595693,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1242595693,
+    "wof:lastmodified":1537623754,
+    "wof:name":"Ba",
+    "wof:parent_id":1108759845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.93675,
+    5.46943,
+    -0.93675,
+    5.46943
+],
+  "geometry": {"coordinates":[-0.93675,5.46943],"type":"Point"}
+}

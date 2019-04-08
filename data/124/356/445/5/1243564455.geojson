@@ -1,0 +1,71 @@
+{
+  "id": 1243564455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.73929,10.80317,-0.73929,10.80317",
+    "geom:latitude":10.80317,
+    "geom:longitude":-0.73929,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Zanleregu",
+    "gn:country_code":"GH",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293684,
+    "gn:latitude":10.80317,
+    "gn:longitude":-0.73929,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zanleregu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zanlerigu",
+        "Zanleregu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293684
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"13b028484a5abc2a7adbf959f71b0c76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759947,
+            "locality_id":1243564455,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1243564455,
+    "wof:lastmodified":1537623398,
+    "wof:name":"Zanleregu",
+    "wof:parent_id":1108759947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.73929,
+    10.80317,
+    -0.73929,
+    10.80317
+],
+  "geometry": {"coordinates":[-0.73929,10.80317],"type":"Point"}
+}

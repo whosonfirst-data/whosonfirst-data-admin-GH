@@ -1,0 +1,67 @@
+{
+  "id": 1243539023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.76672,4.89997,-1.76672,4.89997",
+    "geom:latitude":4.89997,
+    "geom:longitude":-1.76672,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Bonsu Nkwanta",
+    "gn:country_code":"GH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9165831,
+    "gn:latitude":4.89997,
+    "gn:longitude":-1.76672,
+    "gn:modification_date":"2014-06-11",
+    "gn:name":"Bonsu Nkwanta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9165831
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"7a54cbde05b9a6b7a7367aebe96a1ace",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760011,
+            "locality_id":1243539023,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1243539023,
+    "wof:lastmodified":1536672090,
+    "wof:name":"Bonsu Nkwanta",
+    "wof:parent_id":1108760011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.76672,
+    4.89997,
+    -1.76672,
+    4.89997
+],
+  "geometry": {"coordinates":[-1.76672,4.89997],"type":"Point"}
+}

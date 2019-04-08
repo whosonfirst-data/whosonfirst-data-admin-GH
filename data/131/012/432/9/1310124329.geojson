@@ -1,0 +1,71 @@
+{
+  "id": 1310124329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.24142,10.03031,-1.24142,10.03031",
+    "geom:latitude":10.03031,
+    "geom:longitude":-1.24142,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Pataragu",
+    "gn:country_code":"GH",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296071,
+    "gn:latitude":10.03031,
+    "gn:longitude":-1.24142,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pataragu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kpatarigu",
+        "Pataragu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296071
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"f2ba1c7083cf9dbcb3eb1d7f59bf1e1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759935,
+            "locality_id":1310124329,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1310124329,
+    "wof:lastmodified":1537623482,
+    "wof:name":"Pataragu",
+    "wof:parent_id":1108759935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.24142,
+    10.03031,
+    -1.24142,
+    10.03031
+],
+  "geometry": {"coordinates":[-1.24142,10.03031],"type":"Point"}
+}

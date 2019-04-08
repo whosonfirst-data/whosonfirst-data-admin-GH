@@ -1,0 +1,71 @@
+{
+  "id": 1226257239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.57107,5.01569,-2.57107,5.01569",
+    "geom:latitude":5.01569,
+    "geom:longitude":-2.57107,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Myejina",
+    "gn:country_code":"GH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297777,
+    "gn:latitude":5.01569,
+    "gn:longitude":-2.57107,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Myejina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Miegyinla",
+        "Myejina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297777
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"bb37a5bca5ad5b06d1b2a76206fbf122",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760001,
+            "locality_id":1226257239,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1226257239,
+    "wof:lastmodified":1537623545,
+    "wof:name":"Myejina",
+    "wof:parent_id":1108760001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.57107,
+    5.01569,
+    -2.57107,
+    5.01569
+],
+  "geometry": {"coordinates":[-2.57107,5.01569],"type":"Point"}
+}

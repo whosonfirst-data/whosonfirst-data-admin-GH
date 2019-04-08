@@ -1,0 +1,70 @@
+{
+  "id": 1226253007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.97408,5.46088,-1.97408,5.46088",
+    "geom:latitude":5.46088,
+    "geom:longitude":-1.97408,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Akotom",
+    "gn:country_code":"GH",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305100,
+    "gn:latitude":5.46088,
+    "gn:longitude":-1.97408,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Akotom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Akotom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305100
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"3db752331441a0c564c6d30aa27ce6a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760017,
+            "locality_id":1226253007,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1226253007,
+    "wof:lastmodified":1537623808,
+    "wof:name":"Akotom",
+    "wof:parent_id":1108760017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.97408,
+    5.46088,
+    -1.97408,
+    5.46088
+],
+  "geometry": {"coordinates":[-1.97408,5.46088],"type":"Point"}
+}

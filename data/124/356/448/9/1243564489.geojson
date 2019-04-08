@@ -1,0 +1,71 @@
+{
+  "id": 1243564489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.93924,6.73099,-0.93924,6.73099",
+    "geom:latitude":6.73099,
+    "geom:longitude":-0.93924,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Abetim",
+    "gn:country_code":"GH",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306389,
+    "gn:latitude":6.73099,
+    "gn:longitude":-0.93924,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Abetim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abetem Dwerebease",
+        "Abetim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306389
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"86e6a31a2c9d0cd6085c13f87b200fb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759889,
+            "locality_id":1243564489,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1243564489,
+    "wof:lastmodified":1537623853,
+    "wof:name":"Abetim",
+    "wof:parent_id":1108759889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.93924,
+    6.73099,
+    -0.93924,
+    6.73099
+],
+  "geometry": {"coordinates":[-0.93924,6.73099],"type":"Point"}
+}

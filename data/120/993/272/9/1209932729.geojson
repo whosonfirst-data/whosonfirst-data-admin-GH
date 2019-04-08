@@ -1,0 +1,67 @@
+{
+  "id": 1209932729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.0,5.28333,-1.0,5.28333",
+    "geom:latitude":5.28333,
+    "geom:longitude":-1.0,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Swedru",
+    "gn:country_code":"GH",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294964,
+    "gn:latitude":5.28333,
+    "gn:longitude":-1.0,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Swedru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294964
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"43112067ef25f4bad3e8c8fa4237ab1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759861,
+            "locality_id":1209932729,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1209932729,
+    "wof:lastmodified":1536392009,
+    "wof:name":"Swedru",
+    "wof:parent_id":1108759861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.0,
+    5.28333,
+    -1.0,
+    5.28333
+],
+  "geometry": {"coordinates":[-1.0,5.28333],"type":"Point"}
+}

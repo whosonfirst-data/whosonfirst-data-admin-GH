@@ -1,0 +1,71 @@
+{
+  "id": 1293210553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.39966,6.97681,-1.39966,6.97681",
+    "geom:latitude":6.97681,
+    "geom:longitude":-1.39966,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Abayisua",
+    "gn:country_code":"GH",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306423,
+    "gn:latitude":6.97681,
+    "gn:longitude":-1.39966,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Abayisua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abasua",
+        "Abayisua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306423
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ac05f2fc695d874980ffecadc5ac69a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759809,
+            "locality_id":1293210553,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1293210553,
+    "wof:lastmodified":1537623854,
+    "wof:name":"Abayisua",
+    "wof:parent_id":1108759809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.39966,
+    6.97681,
+    -1.39966,
+    6.97681
+],
+  "geometry": {"coordinates":[-1.39966,6.97681],"type":"Point"}
+}

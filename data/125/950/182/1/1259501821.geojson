@@ -1,0 +1,72 @@
+{
+  "id": 1259501821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.28333,6.38333,-1.28333,6.38333",
+    "geom:latitude":6.38333,
+    "geom:longitude":-1.28333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ofuasi",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296425,
+    "gn:latitude":6.38333,
+    "gn:longitude":-1.28333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ofuasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ofoase",
+        "Ofuasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296425
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"8178042dd2ad2d1dde3c4b9b56aeb4da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759789,
+            "locality_id":1259501821,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1259501821,
+    "wof:lastmodified":1537623495,
+    "wof:name":"Ofuasi",
+    "wof:parent_id":1108759789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.28333,
+    6.38333,
+    -1.28333,
+    6.38333
+],
+  "geometry": {"coordinates":[-1.28333,6.38333],"type":"Point"}
+}

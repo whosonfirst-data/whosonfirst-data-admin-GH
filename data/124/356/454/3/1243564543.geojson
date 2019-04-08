@@ -1,0 +1,67 @@
+{
+  "id": 1243564543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.61667,9.38333,-2.61667,9.38333",
+    "geom:latitude":9.38333,
+    "geom:longitude":-2.61667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Glinikula",
+    "gn:country_code":"GH",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300633,
+    "gn:latitude":9.38333,
+    "gn:longitude":-2.61667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Glinikula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300633
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"1ba36a1045396f6105f508a235ddaad6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759913,
+            "locality_id":1243564543,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1243564543,
+    "wof:lastmodified":1536633910,
+    "wof:name":"Glinikula",
+    "wof:parent_id":1108759913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.61667,
+    9.38333,
+    -2.61667,
+    9.38333
+],
+  "geometry": {"coordinates":[-2.61667,9.38333],"type":"Point"}
+}

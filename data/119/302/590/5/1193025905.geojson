@@ -1,0 +1,71 @@
+{
+  "id": 1193025905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.2656,6.14941,-2.2656,6.14941",
+    "geom:latitude":6.14941,
+    "geom:longitude":-2.2656,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Humjibre",
+    "gn:country_code":"GH",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300333,
+    "gn:latitude":6.14941,
+    "gn:longitude":-2.2656,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Humjibre",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Humgyibre",
+        "Humjibre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108759999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300333
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"fabc5f40f65bac9ad8db081b84435f3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759999,
+            "locality_id":1193025905,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1193025905,
+    "wof:lastmodified":1537623636,
+    "wof:name":"Humjibre",
+    "wof:parent_id":1108759999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.2656,
+    6.14941,
+    -2.2656,
+    6.14941
+],
+  "geometry": {"coordinates":[-2.2656,6.14941],"type":"Point"}
+}

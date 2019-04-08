@@ -1,0 +1,70 @@
+{
+  "id": 1327351857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.92238,10.64446,-2.92238,10.64446",
+    "geom:latitude":10.64446,
+    "geom:longitude":-2.92238,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Dikpe",
+    "gn:country_code":"GH",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301747,
+    "gn:latitude":10.64446,
+    "gn:longitude":-2.92238,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Dikpe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dikpwie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301747
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"e66601ad18e0f263416c4fa5051fec01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759957,
+            "locality_id":1327351857,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1327351857,
+    "wof:lastmodified":1537623693,
+    "wof:name":"Dikpe",
+    "wof:parent_id":1108759957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.92238,
+    10.64446,
+    -2.92238,
+    10.64446
+],
+  "geometry": {"coordinates":[-2.92238,10.64446],"type":"Point"}
+}

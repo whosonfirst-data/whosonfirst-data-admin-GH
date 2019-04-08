@@ -1,0 +1,71 @@
+{
+  "id": 1344175291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.45579,7.06707,-1.45579,7.06707",
+    "geom:latitude":7.06707,
+    "geom:longitude":-1.45579,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ninamampong",
+    "gn:country_code":"GH",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297370,
+    "gn:latitude":7.06707,
+    "gn:longitude":-1.45579,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ninamampong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nyinampon",
+        "Ninamampong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297370
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"e12e0879b0927ebc002e68d70ed18e3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759809,
+            "locality_id":1344175291,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1344175291,
+    "wof:lastmodified":1537623529,
+    "wof:name":"Ninamampong",
+    "wof:parent_id":1108759809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.45579,
+    7.06707,
+    -1.45579,
+    7.06707
+],
+  "geometry": {"coordinates":[-1.45579,7.06707],"type":"Point"}
+}

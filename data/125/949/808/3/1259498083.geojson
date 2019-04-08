@@ -1,0 +1,67 @@
+{
+  "id": 1259498083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.43441,6.36062,-2.43441,6.36062",
+    "geom:latitude":6.36062,
+    "geom:longitude":-2.43441,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Asanwinso",
+    "gn:country_code":"GH",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304190,
+    "gn:latitude":6.36062,
+    "gn:longitude":-2.43441,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Asanwinso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304190
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"65109fa119095724055f8fed3e13f5e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760009,
+            "locality_id":1259498083,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1259498083,
+    "wof:lastmodified":1536836716,
+    "wof:name":"Asanwinso",
+    "wof:parent_id":1108760009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.43441,
+    6.36062,
+    -2.43441,
+    6.36062
+],
+  "geometry": {"coordinates":[-2.43441,6.36062],"type":"Point"}
+}

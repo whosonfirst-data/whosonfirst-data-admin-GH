@@ -1,0 +1,67 @@
+{
+  "id": 1310116033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.92485,5.59828,-0.92485,5.59828",
+    "geom:latitude":5.59828,
+    "geom:longitude":-0.92485,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nsawam",
+    "gn:country_code":"GH",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297142,
+    "gn:latitude":5.59828,
+    "gn:longitude":-0.92485,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Nsawam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297142
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"bf4b645c6656d043feb7bde7b048fbae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759847,
+            "locality_id":1310116033,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1310116033,
+    "wof:lastmodified":1536980524,
+    "wof:name":"Nsawam",
+    "wof:parent_id":1108759847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.92485,
+    5.59828,
+    -0.92485,
+    5.59828
+],
+  "geometry": {"coordinates":[-0.92485,5.59828],"type":"Point"}
+}

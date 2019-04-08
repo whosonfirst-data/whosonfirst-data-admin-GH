@@ -1,0 +1,71 @@
+{
+  "id": 1310423899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.26341,5.25542,-1.26341,5.25542",
+    "geom:latitude":5.25542,
+    "geom:longitude":-1.26341,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Papaja",
+    "gn:country_code":"GH",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296104,
+    "gn:latitude":5.25542,
+    "gn:longitude":-1.26341,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Papaja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Papagya",
+        "Papaja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296104
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"82532f7b599cfb9184d1a4f6b9191552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759841,
+            "locality_id":1310423899,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1310423899,
+    "wof:lastmodified":1537623484,
+    "wof:name":"Papaja",
+    "wof:parent_id":1108759841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.26341,
+    5.25542,
+    -1.26341,
+    5.25542
+],
+  "geometry": {"coordinates":[-1.26341,5.25542],"type":"Point"}
+}

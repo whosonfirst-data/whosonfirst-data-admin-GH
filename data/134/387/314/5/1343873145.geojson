@@ -1,0 +1,67 @@
+{
+  "id": 1343873145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.11149,9.42838,-1.11149,9.42838",
+    "geom:latitude":9.42838,
+    "geom:longitude":-1.11149,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kurufuyayiri",
+    "gn:country_code":"GH",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298788,
+    "gn:latitude":9.42838,
+    "gn:longitude":-1.11149,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Kurufuyayiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298788
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"5bf03cd9a11ba33f86973694a20827f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759935,
+            "locality_id":1343873145,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1343873145,
+    "wof:lastmodified":1536647845,
+    "wof:name":"Kurufuyayiri",
+    "wof:parent_id":1108759935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.11149,
+    9.42838,
+    -1.11149,
+    9.42838
+],
+  "geometry": {"coordinates":[-1.11149,9.42838],"type":"Point"}
+}

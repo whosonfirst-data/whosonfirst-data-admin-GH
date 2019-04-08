@@ -1,0 +1,61 @@
+{
+  "id": 1209429523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.45694,9.91067,-2.45694,9.91067",
+    "geom:latitude":9.91067,
+    "geom:longitude":-2.45694,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tanina",
+    "gn:country_code":"GH",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294827,
+    "gn:latitude":9.91067,
+    "gn:longitude":-2.45694,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Tanina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294827
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"14c2376a30846a533d650acbaa44e2d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209429523
+        }
+    ],
+    "wof:id":1209429523,
+    "wof:lastmodified":1536287277,
+    "wof:name":"Tanina",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.4569400000000003,
+    9.91067,
+    -2.4569400000000003,
+    9.91067
+],
+  "geometry": {"coordinates":[-2.45694,9.91067],"type":"Point"}
+}

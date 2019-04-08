@@ -1,0 +1,71 @@
+{
+  "id": 1343876475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.96703,5.61475,-0.96703,5.61475",
+    "geom:latitude":5.61475,
+    "geom:longitude":-0.96703,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Obosumasi",
+    "gn:country_code":"GH",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296628,
+    "gn:latitude":5.61475,
+    "gn:longitude":-0.96703,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Obosumasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bosomase",
+        "Obosumasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296628
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a8d06932625f6be18bad0b1324565f7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759847,
+            "locality_id":1343876475,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1343876475,
+    "wof:lastmodified":1537623503,
+    "wof:name":"Obosumasi",
+    "wof:parent_id":1108759847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.96703,
+    5.61475,
+    -0.96703,
+    5.61475
+],
+  "geometry": {"coordinates":[-0.96703,5.61475],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1360202785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.57807,8.78684,-2.57807,8.78684",
+    "geom:latitude":8.78684,
+    "geom:longitude":-2.57807,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ntereso",
+    "gn:country_code":"GH",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297043,
+    "gn:latitude":8.78684,
+    "gn:longitude":-2.57807,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Ntereso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ntoreso",
+        "Ntereso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297043
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"8a2b290ef93c87c0a0fe3e08c841463c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759913,
+            "locality_id":1360202785,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1360202785,
+    "wof:lastmodified":1537623516,
+    "wof:name":"Ntereso",
+    "wof:parent_id":1108759913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.57807,
+    8.78684,
+    -2.57807,
+    8.78684
+],
+  "geometry": {"coordinates":[-2.57807,8.78684],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360095073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.13333,5.05,-2.13333,5.05",
+    "geom:latitude":5.05,
+    "geom:longitude":-2.13333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Asakwam",
+    "gn:country_code":"GH",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304247,
+    "gn:latitude":5.05,
+    "gn:longitude":-2.13333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Asakwam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304247
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"c680116bc260172b205df1ddc2b0092c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760007,
+            "locality_id":1360095073,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1360095073,
+    "wof:lastmodified":1536931892,
+    "wof:name":"Asakwam",
+    "wof:parent_id":1108760007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.13333,
+    5.05,
+    -2.13333,
+    5.05
+],
+  "geometry": {"coordinates":[-2.13333,5.05],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293404727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.75164,6.14492,-1.75164,6.14492",
+    "geom:latitude":6.14492,
+    "geom:longitude":-1.75164,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ebo Number Two",
+    "gn:country_code":"GH",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301343,
+    "gn:latitude":6.14492,
+    "gn:longitude":-1.75164,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Ebo Number Two",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ebo Number Two"
+    ],
+    "name:eng_x_variant":[
+        "Ebo Number 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301343
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"05e65b1bc19c8ac2143a88db3f0d3984",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759783,
+            "locality_id":1293404727,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1293404727,
+    "wof:lastmodified":1537623675,
+    "wof:name":"Ebo Number Two",
+    "wof:parent_id":1108759783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.75164,
+    6.14492,
+    -1.75164,
+    6.14492
+],
+  "geometry": {"coordinates":[-1.75164,6.14492],"type":"Point"}
+}

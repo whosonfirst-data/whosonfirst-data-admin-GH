@@ -1,0 +1,67 @@
+{
+  "id": 1259400849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.02259,6.09417,-0.02259,6.09417",
+    "geom:latitude":6.09417,
+    "geom:longitude":-0.02259,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sra",
+    "gn:country_code":"GH",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2295193,
+    "gn:latitude":6.09417,
+    "gn:longitude":-0.02259,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Sra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2295193
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ad6a29375459a51ac4b90fde700cc11f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759899,
+            "locality_id":1259400849,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1259400849,
+    "wof:lastmodified":1536976835,
+    "wof:name":"Sra",
+    "wof:parent_id":1108759899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.02259,
+    6.09417,
+    -0.02259,
+    6.09417
+],
+  "geometry": {"coordinates":[-0.02259,6.09417],"type":"Point"}
+}

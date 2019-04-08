@@ -1,0 +1,82 @@
+{
+  "id": 1259477025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.80301,10.99321,-0.80301,10.99321",
+    "geom:latitude":10.99321,
+    "geom:longitude":-0.80301,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Feo Nabisi",
+    "gn:country_code":"GH",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300916,
+    "gn:latitude":10.99321,
+    "gn:longitude":-0.80301,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Feo Nabisi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fiogu",
+        "Fiagu",
+        "Feo Nabisi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805699,
+        890413159,
+        85632189,
+        85671323,
+        1108759949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300916
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"82330746a6d40487fa5cf7f0d350c29c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413159,
+            "locality_id":1259477025,
+            "region_id":1108805699
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759949,
+            "locality_id":1259477025,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1259477025,
+    "wof:lastmodified":1537623658,
+    "wof:name":"Feo Nabisi",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.80301,
+    10.99321,
+    -0.80301,
+    10.99321
+],
+  "geometry": {"coordinates":[-0.80301,10.99321],"type":"Point"}
+}

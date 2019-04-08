@@ -1,0 +1,64 @@
+{
+  "id": 1209120991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.56077,5.37024,-1.56077,5.37024",
+    "geom:latitude":5.37024,
+    "geom:longitude":-1.56077,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Antimua",
+    "gn:country_code":"GH",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304520,
+    "gn:latitude":5.37024,
+    "gn:longitude":-1.56077,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Antimua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Antimua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304520
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"fd3264c53e52df1897b8ea6b614040bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209120991
+        }
+    ],
+    "wof:id":1209120991,
+    "wof:lastmodified":1537623788,
+    "wof:name":"Antimua",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.56077,
+    5.37024,
+    -1.56077,
+    5.37024
+],
+  "geometry": {"coordinates":[-1.56077,5.37024],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1309822085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.68933,6.95613,-1.68933,6.95613",
+    "geom:latitude":6.95613,
+    "geom:longitude":-1.68933,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Amowi",
+    "gn:country_code":"GH",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304723,
+    "gn:latitude":6.95613,
+    "gn:longitude":-1.68933,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Amowi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amoyu",
+        "Amowi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304723,
+        "wk:page":"Amowi"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"8976e1bbf9931a291d03c138b4b63c07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759805,
+            "locality_id":1309822085,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1309822085,
+    "wof:lastmodified":1537623795,
+    "wof:name":"Amowi",
+    "wof:parent_id":1108759805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.68933,
+    6.95613,
+    -1.68933,
+    6.95613
+],
+  "geometry": {"coordinates":[-1.68933,6.95613],"type":"Point"}
+}

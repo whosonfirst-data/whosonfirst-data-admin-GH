@@ -1,0 +1,67 @@
+{
+  "id": 1243378029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.32481,5.6386,-1.32481,5.6386",
+    "geom:latitude":5.6386,
+    "geom:longitude":-1.32481,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ababuom",
+    "gn:country_code":"GH",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306463,
+    "gn:latitude":5.6386,
+    "gn:longitude":-1.32481,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Ababuom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306463
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"957d70c5264e6fa5ebb72e194da031bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759849,
+            "locality_id":1243378029,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1243378029,
+    "wof:lastmodified":1536904353,
+    "wof:name":"Ababuom",
+    "wof:parent_id":1108759849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.32481,
+    5.6386,
+    -1.32481,
+    5.6386
+],
+  "geometry": {"coordinates":[-1.32481,5.6386],"type":"Point"}
+}

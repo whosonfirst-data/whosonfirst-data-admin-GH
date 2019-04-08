@@ -1,0 +1,72 @@
+{
+  "id": 1293704863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.46219,10.97886,-0.46219,10.97886",
+    "geom:latitude":10.97886,
+    "geom:longitude":-0.46219,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tampizalga",
+    "gn:country_code":"GH",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294854,
+    "gn:latitude":10.97886,
+    "gn:longitude":-0.46219,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tampizalga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amkpaliga",
+        "Tampisaliga",
+        "Tampizalga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294854
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"d06d312fc8d282e943befd9142e60841",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759945,
+            "locality_id":1293704863,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1293704863,
+    "wof:lastmodified":1537623441,
+    "wof:name":"Tampizalga",
+    "wof:parent_id":1108759945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.46219,
+    10.97886,
+    -0.46219,
+    10.97886
+],
+  "geometry": {"coordinates":[-0.46219,10.97886],"type":"Point"}
+}

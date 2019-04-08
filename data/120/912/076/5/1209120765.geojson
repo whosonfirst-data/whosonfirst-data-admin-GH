@@ -1,0 +1,66 @@
+{
+  "id": 1209120765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.15202,8.14417,-0.15202,8.14417",
+    "geom:latitude":8.14417,
+    "geom:longitude":-0.15202,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Chindiri",
+    "gn:country_code":"GH",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302211,
+    "gn:latitude":8.14417,
+    "gn:longitude":-0.15202,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chindiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyinderi",
+        "Chiadiri",
+        "Chindiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302211
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"67057c4e39be72e965e4fa4b5566e8a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209120765
+        }
+    ],
+    "wof:id":1209120765,
+    "wof:lastmodified":1537623707,
+    "wof:name":"Chindiri",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.15202,
+    8.14417,
+    -0.15202,
+    8.14417
+],
+  "geometry": {"coordinates":[-0.15202,8.14417],"type":"Point"}
+}

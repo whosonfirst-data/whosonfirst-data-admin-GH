@@ -1,0 +1,74 @@
+{
+  "id": 1259701981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.86503,6.37133,-1.86503,6.37133",
+    "geom:latitude":6.37133,
+    "geom:longitude":-1.86503,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Akotopeso",
+    "gn:country_code":"GH",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305099,
+    "gn:latitude":6.37133,
+    "gn:longitude":-1.86503,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Akotopeso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Akotopeso"
+    ],
+    "name:und_x_variant":[
+        "Akotopeso Number 2",
+        "Akotopesa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305099
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"b856a7a15236f4aef4d50260fcca6c0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759785,
+            "locality_id":1259701981,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1259701981,
+    "wof:lastmodified":1537623808,
+    "wof:name":"Akotopeso",
+    "wof:parent_id":1108759785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.86503,
+    6.37133,
+    -1.86503,
+    6.37133
+],
+  "geometry": {"coordinates":[-1.86503,6.37133],"type":"Point"}
+}

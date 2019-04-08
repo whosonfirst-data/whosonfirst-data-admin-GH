@@ -1,0 +1,75 @@
+{
+  "id": 1343571009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.8746,4.84246,-1.8746,4.84246",
+    "geom:latitude":4.84246,
+    "geom:longitude":-1.8746,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Mpatono",
+    "gn:country_code":"GH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297885,
+    "gn:latitude":4.84246,
+    "gn:longitude":-1.8746,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Mpatono",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mpatono"
+    ],
+    "name:und_x_variant":[
+        "Ampatano",
+        "Mpatanu",
+        "Mpatano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108759993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297885
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"1d020980e101daccf62b9a420bd70c94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759993,
+            "locality_id":1343571009,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1343571009,
+    "wof:lastmodified":1537623549,
+    "wof:name":"Mpatono",
+    "wof:parent_id":1108759993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.8746,
+    4.84246,
+    -1.8746,
+    4.84246
+],
+  "geometry": {"coordinates":[-1.8746,4.84246],"type":"Point"}
+}

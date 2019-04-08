@@ -1,0 +1,72 @@
+{
+  "id": 1276461901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.16667,5.05,-2.16667,5.05",
+    "geom:latitude":5.05,
+    "geom:longitude":-2.16667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ajesokese",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305294,
+    "gn:latitude":5.05,
+    "gn:longitude":-2.16667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ajesokese",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ajeso",
+        "Ajesokese"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305294
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"088cd7db5b406e0e67964dac6813f78a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760007,
+            "locality_id":1276461901,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1276461901,
+    "wof:lastmodified":1537623816,
+    "wof:name":"Ajesokese",
+    "wof:parent_id":1108760007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.16667,
+    5.05,
+    -2.16667,
+    5.05
+],
+  "geometry": {"coordinates":[-2.16667,5.05],"type":"Point"}
+}

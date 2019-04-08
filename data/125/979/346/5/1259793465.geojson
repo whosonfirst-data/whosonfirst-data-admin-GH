@@ -1,0 +1,67 @@
+{
+  "id": 1259793465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.26243,5.44641,-2.26243,5.44641",
+    "geom:latitude":5.44641,
+    "geom:longitude":-2.26243,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mesokram",
+    "gn:country_code":"GH",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298046,
+    "gn:latitude":5.44641,
+    "gn:longitude":-2.26243,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Mesokram",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298046
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"9afddf694958b7f5411d9d2d5d861017",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760015,
+            "locality_id":1259793465,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1259793465,
+    "wof:lastmodified":1536909009,
+    "wof:name":"Mesokram",
+    "wof:parent_id":1108760015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.26243,
+    5.44641,
+    -2.26243,
+    5.44641
+],
+  "geometry": {"coordinates":[-2.26243,5.44641],"type":"Point"}
+}

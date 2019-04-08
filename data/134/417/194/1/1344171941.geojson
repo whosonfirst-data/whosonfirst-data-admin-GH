@@ -1,0 +1,67 @@
+{
+  "id": 1344171941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.80382,6.05878,0.80382,6.05878",
+    "geom:latitude":6.05878,
+    "geom:longitude":0.80382,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Duepe",
+    "gn:country_code":"GH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301452,
+    "gn:latitude":6.05878,
+    "gn:longitude":0.80382,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Duepe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301452
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"fc185b021bc6670afb766e5754177198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759969,
+            "locality_id":1344171941,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1344171941,
+    "wof:lastmodified":1536714968,
+    "wof:name":"Duepe",
+    "wof:parent_id":1108759969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.80382,
+    6.05878,
+    0.80382,
+    6.05878
+],
+  "geometry": {"coordinates":[0.80382,6.05878],"type":"Point"}
+}

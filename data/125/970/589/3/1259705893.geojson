@@ -1,0 +1,73 @@
+{
+  "id": 1259705893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.53135,9.51978,-0.53135,9.51978",
+    "geom:latitude":9.51978,
+    "geom:longitude":-0.53135,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Tijo",
+    "gn:country_code":"GH",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294607,
+    "gn:latitude":9.51978,
+    "gn:longitude":-0.53135,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tijo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tidjo",
+        "Tudjoe",
+        "Tijaw",
+        "Tijo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294607
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"17d8940ed83a40cf1aa3a0ea7d379d7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759915,
+            "locality_id":1259705893,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1259705893,
+    "wof:lastmodified":1537623432,
+    "wof:name":"Tijo",
+    "wof:parent_id":1108759915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.53135,
+    9.51978,
+    -0.53135,
+    9.51978
+],
+  "geometry": {"coordinates":[-0.53135,9.51978],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293802253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.42818,9.34532,-0.42818,9.34532",
+    "geom:latitude":9.34532,
+    "geom:longitude":-0.42818,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Cheogu",
+    "gn:country_code":"GH",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302272,
+    "gn:latitude":9.34532,
+    "gn:longitude":-0.42818,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cheogu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chegu",
+        "Cheogu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302272
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"6ff231fb252f74183a4ace523fdb66b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759915,
+            "locality_id":1293802253,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1293802253,
+    "wof:lastmodified":1537623710,
+    "wof:name":"Cheogu",
+    "wof:parent_id":1108759915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.42818,
+    9.34532,
+    -0.42818,
+    9.34532
+],
+  "geometry": {"coordinates":[-0.42818,9.34532],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276672551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.92808,5.78267,-1.92808,5.78267",
+    "geom:latitude":5.78267,
+    "geom:longitude":-1.92808,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Akumakrom",
+    "gn:country_code":"GH",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305221,
+    "gn:latitude":5.78267,
+    "gn:longitude":-1.92808,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Akumakrom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Akumakrom"
+    ],
+    "name:und_x_variant":[
+        "Akamakrom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305221
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"8dc48eddc8d52cd92d5affea784db003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760015,
+            "locality_id":1276672551,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1276672551,
+    "wof:lastmodified":1537623813,
+    "wof:name":"Akumakrom",
+    "wof:parent_id":1108760015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.92808,
+    5.78267,
+    -1.92808,
+    5.78267
+],
+  "geometry": {"coordinates":[-1.92808,5.78267],"type":"Point"}
+}

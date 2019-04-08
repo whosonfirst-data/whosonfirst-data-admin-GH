@@ -1,0 +1,72 @@
+{
+  "id": 1343676553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.41086,10.68512,-0.41086,10.68512",
+    "geom:latitude":10.68512,
+    "geom:longitude":-0.41086,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bulunga",
+    "gn:country_code":"GH",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302461,
+    "gn:latitude":10.68512,
+    "gn:longitude":-0.41086,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bulunga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lunga",
+        "Buliga",
+        "Bulunga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302461
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"20166927aae0105e56ac64776a94b27f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759945,
+            "locality_id":1343676553,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1343676553,
+    "wof:lastmodified":1537623716,
+    "wof:name":"Bulunga",
+    "wof:parent_id":1108759945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.41086,
+    10.68512,
+    -0.41086,
+    10.68512
+],
+  "geometry": {"coordinates":[-0.41086,10.68512],"type":"Point"}
+}

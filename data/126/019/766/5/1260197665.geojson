@@ -1,0 +1,72 @@
+{
+  "id": 1260197665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.72987,10.72303,-1.72987,10.72303",
+    "geom:latitude":10.72303,
+    "geom:longitude":-1.72987,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Somboro",
+    "gn:country_code":"GH",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2295233,
+    "gn:latitude":10.72303,
+    "gn:longitude":-1.72987,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Somboro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sumboru",
+        "Somburo",
+        "Somboro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2295233
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"07e34779e3643d00c0d14d53ab36bc6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759963,
+            "locality_id":1260197665,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1260197665,
+    "wof:lastmodified":1537623451,
+    "wof:name":"Somboro",
+    "wof:parent_id":1108759963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.72987,
+    10.72303,
+    -1.72987,
+    10.72303
+],
+  "geometry": {"coordinates":[-1.72987,10.72303],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259493419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.79427,6.0546,-0.79427,6.0546",
+    "geom:latitude":6.0546,
+    "geom:longitude":-0.79427,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bawdua",
+    "gn:country_code":"GH",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303295,
+    "gn:latitude":6.0546,
+    "gn:longitude":-0.79427,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Bawdua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303295
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"1f2243e89969fd016ad5078c48203420",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759885,
+            "locality_id":1259493419,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1259493419,
+    "wof:lastmodified":1536843372,
+    "wof:name":"Bawdua",
+    "wof:parent_id":1108759885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.79427,
+    6.0546,
+    -0.79427,
+    6.0546
+],
+  "geometry": {"coordinates":[-0.79427,6.0546],"type":"Point"}
+}

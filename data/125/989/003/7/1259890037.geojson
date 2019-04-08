@@ -1,0 +1,71 @@
+{
+  "id": 1259890037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.11304,6.1953,-2.11304,6.1953",
+    "geom:latitude":6.1953,
+    "geom:longitude":-2.11304,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mawbonyo",
+    "gn:country_code":"GH",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298137,
+    "gn:latitude":6.1953,
+    "gn:longitude":-2.11304,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mawbonyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mawbonyn",
+        "Mawbonyo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298137
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"f2c9049e41d1a75a0bbec8914c993d55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759865,
+            "locality_id":1259890037,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1259890037,
+    "wof:lastmodified":1537623558,
+    "wof:name":"Mawbonyo",
+    "wof:parent_id":1108759865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.11304,
+    6.1953,
+    -2.11304,
+    6.1953
+],
+  "geometry": {"coordinates":[-2.11304,6.1953],"type":"Point"}
+}

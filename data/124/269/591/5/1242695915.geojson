@@ -1,0 +1,70 @@
+{
+  "id": 1242695915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.79472,6.76605,-1.79472,6.76605",
+    "geom:latitude":6.76605,
+    "geom:longitude":-1.79472,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Adankwame",
+    "gn:country_code":"GH",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305965,
+    "gn:latitude":6.76605,
+    "gn:longitude":-1.79472,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Adankwame",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adankwami"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305965
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"f9cabfc3ea3f0fb6a0a9ec955a485698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759791,
+            "locality_id":1242695915,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1242695915,
+    "wof:lastmodified":1537623838,
+    "wof:name":"Adankwame",
+    "wof:parent_id":1108759791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.79472,
+    6.76605,
+    -1.79472,
+    6.76605
+],
+  "geometry": {"coordinates":[-1.79472,6.76605],"type":"Point"}
+}

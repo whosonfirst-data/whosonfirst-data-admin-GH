@@ -1,0 +1,70 @@
+{
+  "id": 1193151569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.57031,5.1954,-1.57031,5.1954",
+    "geom:latitude":5.1954,
+    "geom:longitude":-1.57031,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Hemang",
+    "gn:country_code":"GH",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300423,
+    "gn:latitude":5.1954,
+    "gn:longitude":-1.57031,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Hemang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sekyere Heman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300423
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"53cc41d083fba0ef12d74356f5c65684",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760005,
+            "locality_id":1193151569,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1193151569,
+    "wof:lastmodified":1537623640,
+    "wof:name":"Hemang",
+    "wof:parent_id":1108760005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.57031,
+    5.1954,
+    -1.57031,
+    5.1954
+],
+  "geometry": {"coordinates":[-1.57031,5.1954],"type":"Point"}
+}

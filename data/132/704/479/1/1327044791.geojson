@@ -1,0 +1,70 @@
+{
+  "id": 1327044791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.83599,6.75714,-2.83599,6.75714",
+    "geom:latitude":6.75714,
+    "geom:longitude":-2.83599,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Goroso",
+    "gn:country_code":"GH",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300584,
+    "gn:latitude":6.75714,
+    "gn:longitude":-2.83599,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Goroso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Goroso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300584
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"7e96b468dae38bedc208882fb2ca6fe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759811,
+            "locality_id":1327044791,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1327044791,
+    "wof:lastmodified":1537623647,
+    "wof:name":"Goroso",
+    "wof:parent_id":1108759811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.83599,
+    6.75714,
+    -2.83599,
+    6.75714
+],
+  "geometry": {"coordinates":[-2.83599,6.75714],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1225863079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.76129,10.85204,-2.76129,10.85204",
+    "geom:latitude":10.85204,
+    "geom:longitude":-2.76129,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Nandom",
+    "gn:country_code":"GH",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297598,
+    "gn:latitude":10.85204,
+    "gn:longitude":-2.76129,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Nandom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297598,
+        "wk:page":"Nandom"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"162d8f0578361476b0c31742b38de096",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759957,
+            "locality_id":1225863079,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1225863079,
+    "wof:lastmodified":1537563035,
+    "wof:name":"Nandom",
+    "wof:parent_id":1108759957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.76129,
+    10.85204,
+    -2.76129,
+    10.85204
+],
+  "geometry": {"coordinates":[-2.76129,10.85204],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343772071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.25,8.75,-1.25,8.75",
+    "geom:latitude":8.75,
+    "geom:longitude":-1.25,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kpansera",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299225,
+    "gn:latitude":8.75,
+    "gn:longitude":-1.25,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kpansera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pasara",
+        "Kpasara",
+        "Kpansera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299225
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"1a7ca1d17ca529d4a3ae46d8122bcff4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759921,
+            "locality_id":1343772071,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1343772071,
+    "wof:lastmodified":1537623594,
+    "wof:name":"Kpansera",
+    "wof:parent_id":1108759921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.25,
+    8.75,
+    -1.25,
+    8.75
+],
+  "geometry": {"coordinates":[-1.25,8.75],"type":"Point"}
+}

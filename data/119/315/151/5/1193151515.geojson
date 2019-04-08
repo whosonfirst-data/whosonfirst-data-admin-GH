@@ -1,0 +1,67 @@
+{
+  "id": 1193151515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.11667,6.88333,-1.11667,6.88333",
+    "geom:latitude":6.88333,
+    "geom:longitude":-1.11667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Asunafo",
+    "gn:country_code":"GH",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303963,
+    "gn:latitude":6.88333,
+    "gn:longitude":-1.11667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Asunafo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303963
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"2c20e96e131fe52ebe22f39ed6cb6d34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759787,
+            "locality_id":1193151515,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1193151515,
+    "wof:lastmodified":1536377728,
+    "wof:name":"Asunafo",
+    "wof:parent_id":1108759787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.11667,
+    6.88333,
+    -1.11667,
+    6.88333
+],
+  "geometry": {"coordinates":[-1.11667,6.88333],"type":"Point"}
+}

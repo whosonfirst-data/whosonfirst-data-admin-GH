@@ -1,0 +1,71 @@
+{
+  "id": 1326540041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.27419,8.23763,-2.27419,8.23763",
+    "geom:latitude":8.23763,
+    "geom:longitude":-2.27419,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bungasi",
+    "gn:country_code":"GH",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302443,
+    "gn:latitude":8.23763,
+    "gn:longitude":-2.27419,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bungasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bungase",
+        "Bungasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302443
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"c7dd00b04a103fd7aa74022f06c6f322",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759839,
+            "locality_id":1326540041,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1326540041,
+    "wof:lastmodified":1537623716,
+    "wof:name":"Bungasi",
+    "wof:parent_id":1108759839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.27419,
+    8.23763,
+    -2.27419,
+    8.23763
+],
+  "geometry": {"coordinates":[-2.27419,8.23763],"type":"Point"}
+}

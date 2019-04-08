@@ -1,0 +1,71 @@
+{
+  "id": 1293696605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.63299,5.44048,-0.63299,5.44048",
+    "geom:latitude":5.44048,
+    "geom:longitude":-0.63299,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mampong",
+    "gn:country_code":"GH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298271,
+    "gn:latitude":5.44048,
+    "gn:longitude":-0.63299,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mampong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Asin Mampon",
+        "Mampong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298271
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"116bef3106e8b3d5a097248c65cbc07e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759857,
+            "locality_id":1293696605,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1293696605,
+    "wof:lastmodified":1537623563,
+    "wof:name":"Mampong",
+    "wof:parent_id":1108759857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.63299,
+    5.44048,
+    -0.63299,
+    5.44048
+],
+  "geometry": {"coordinates":[-0.63299,5.44048],"type":"Point"}
+}

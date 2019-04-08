@@ -1,0 +1,62 @@
+{
+  "id": 1209630079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.89307,10.64239,-2.89307,10.64239",
+    "geom:latitude":10.64239,
+    "geom:longitude":-2.89307,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Lawra",
+    "gn:country_code":"GH",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298428,
+    "gn:latitude":10.64239,
+    "gn:longitude":-2.89307,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Lawra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298428,
+        "wk:page":"Lawra"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"b922d27dfc0e088f5c336e593a114aad",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209630079
+        }
+    ],
+    "wof:id":1209630079,
+    "wof:lastmodified":1537563038,
+    "wof:name":"Lawra",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.89307,
+    10.64239,
+    -2.89307,
+    10.64239
+],
+  "geometry": {"coordinates":[-2.89307,10.64239],"type":"Point"}
+}

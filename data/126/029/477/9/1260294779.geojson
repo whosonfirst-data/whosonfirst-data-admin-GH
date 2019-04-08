@@ -1,0 +1,71 @@
+{
+  "id": 1260294779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.50341,7.62805,-2.50341,7.62805",
+    "geom:latitude":7.62805,
+    "geom:longitude":-2.50341,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tainano",
+    "gn:country_code":"GH",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294926,
+    "gn:latitude":7.62805,
+    "gn:longitude":-2.50341,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tainano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Teinso",
+        "Tainano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294926
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"aa9a88eaf9949e806b62262357082488",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759839,
+            "locality_id":1260294779,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1260294779,
+    "wof:lastmodified":1537623443,
+    "wof:name":"Tainano",
+    "wof:parent_id":1108759839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.50341,
+    7.62805,
+    -2.50341,
+    7.62805
+],
+  "geometry": {"coordinates":[-2.50341,7.62805],"type":"Point"}
+}

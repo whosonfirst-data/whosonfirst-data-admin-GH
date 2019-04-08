@@ -1,0 +1,74 @@
+{
+  "id": 1259400899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.78338,6.06456,-1.78338,6.06456",
+    "geom:latitude":6.06456,
+    "geom:longitude":-1.78338,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Adamso Number Two",
+    "gn:country_code":"GH",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305972,
+    "gn:latitude":6.06456,
+    "gn:longitude":-1.78338,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Adamso Number Two",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Adamso Number Two"
+    ],
+    "name:eng_x_variant":[
+        "Adamso",
+        "Adamso Number 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305972
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"5c09f49efc4a149bd303ff6bfde6da6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759783,
+            "locality_id":1259400899,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1259400899,
+    "wof:lastmodified":1537623839,
+    "wof:name":"Adamso Number Two",
+    "wof:parent_id":1108759783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.78338,
+    6.06456,
+    -1.78338,
+    6.06456
+],
+  "geometry": {"coordinates":[-1.78338,6.06456],"type":"Point"}
+}

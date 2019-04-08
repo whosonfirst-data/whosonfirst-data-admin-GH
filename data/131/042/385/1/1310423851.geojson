@@ -1,0 +1,73 @@
+{
+  "id": 1310423851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.751,5.13018,-1.751,5.13018",
+    "geom:latitude":5.13018,
+    "geom:longitude":-1.751,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Adanse",
+    "gn:country_code":"GH",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305955,
+    "gn:latitude":5.13018,
+    "gn:longitude":-1.751,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Adanse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Adimanu"
+    ],
+    "name:und_x_variant":[
+        "Adansi Kakraba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305955
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"1132058ab1bfd5b4579a6d626d159911",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760005,
+            "locality_id":1310423851,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1310423851,
+    "wof:lastmodified":1537623838,
+    "wof:name":"Adanse",
+    "wof:parent_id":1108760005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.751,
+    5.13018,
+    -1.751,
+    5.13018
+],
+  "geometry": {"coordinates":[-1.751,5.13018],"type":"Point"}
+}

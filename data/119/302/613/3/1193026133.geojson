@@ -1,0 +1,71 @@
+{
+  "id": 1193026133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.37462,6.81677,0.37462,6.81677",
+    "geom:latitude":6.81677,
+    "geom:longitude":0.37462,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gagbefe",
+    "gn:country_code":"GH",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300786,
+    "gn:latitude":6.81677,
+    "gn:longitude":0.37462,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gagbefe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gagbepe",
+        "Gagbefe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300786
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"21dc018bb3e1c2712dbcab3293b19fca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759973,
+            "locality_id":1193026133,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1193026133,
+    "wof:lastmodified":1537623653,
+    "wof:name":"Gagbefe",
+    "wof:parent_id":1108759973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.37462,
+    6.81677,
+    0.37462,
+    6.81677
+],
+  "geometry": {"coordinates":[0.37462,6.81677],"type":"Point"}
+}

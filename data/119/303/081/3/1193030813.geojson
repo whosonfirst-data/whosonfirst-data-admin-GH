@@ -1,0 +1,67 @@
+{
+  "id": 1193030813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.71667,5.75,-1.71667,5.75",
+    "geom:latitude":5.75,
+    "geom:longitude":-1.71667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Adiembra",
+    "gn:country_code":"GH",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305870,
+    "gn:latitude":5.75,
+    "gn:longitude":-1.71667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Adiembra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305870
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"26f169ca4ce6d85a6ec0e98bece89891",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759865,
+            "locality_id":1193030813,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1193030813,
+    "wof:lastmodified":1536364373,
+    "wof:name":"Adiembra",
+    "wof:parent_id":1108759865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.71667,
+    5.75,
+    -1.71667,
+    5.75
+],
+  "geometry": {"coordinates":[-1.71667,5.75],"type":"Point"}
+}

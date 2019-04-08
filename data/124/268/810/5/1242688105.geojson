@@ -1,0 +1,72 @@
+{
+  "id": 1242688105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.54024,5.78324,0.54024,5.78324",
+    "geom:latitude":5.78324,
+    "geom:longitude":0.54024,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Pute",
+    "gn:country_code":"GH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2295791,
+    "gn:latitude":5.78324,
+    "gn:longitude":0.54024,
+    "gn:modification_date":"2014-10-14",
+    "gn:name":"Pute",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fute",
+        "Pute",
+        "Occo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671353,
+        1108759903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2295791
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"9691f72c2cec92c5ea0c56d3dd2de1c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759903,
+            "locality_id":1242688105,
+            "region_id":85671353
+        }
+    ],
+    "wof:id":1242688105,
+    "wof:lastmodified":1537623472,
+    "wof:name":"Pute",
+    "wof:parent_id":1108759903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.54024,
+    5.78324,
+    0.54024,
+    5.78324
+],
+  "geometry": {"coordinates":[0.54024,5.78324],"type":"Point"}
+}

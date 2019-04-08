@@ -1,0 +1,71 @@
+{
+  "id": 1343868267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.61305,6.2911,0.61305,6.2911",
+    "geom:latitude":6.2911,
+    "geom:longitude":0.61305,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Chakpo",
+    "gn:country_code":"GH",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302340,
+    "gn:latitude":6.2911,
+    "gn:longitude":0.61305,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chakpo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsakpo",
+        "Chakpo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302340
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"6bd84e13bc3001f3d7019e9a32412efa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759967,
+            "locality_id":1343868267,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1343868267,
+    "wof:lastmodified":1537623713,
+    "wof:name":"Chakpo",
+    "wof:parent_id":1108759967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.61305,
+    6.2911,
+    0.61305,
+    6.2911
+],
+  "geometry": {"coordinates":[0.61305,6.2911],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1344071553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.13928,6.7997,-2.13928,6.7997",
+    "geom:latitude":6.7997,
+    "geom:longitude":-2.13928,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mpasaso Number One",
+    "gn:country_code":"GH",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297850,
+    "gn:latitude":6.7997,
+    "gn:longitude":-2.13928,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Mpasaso Number One",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mpasaso Number One"
+    ],
+    "name:und_x_variant":[
+        "Mpasaso Number 1",
+        "Mpesaso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297850
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"f4af600678ede3ebf36b0b9b3432df59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759781,
+            "locality_id":1344071553,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1344071553,
+    "wof:lastmodified":1537623547,
+    "wof:name":"Mpasaso Number One",
+    "wof:parent_id":1108759781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.13928,
+    6.7997,
+    -2.13928,
+    6.7997
+],
+  "geometry": {"coordinates":[-2.13928,6.7997],"type":"Point"}
+}

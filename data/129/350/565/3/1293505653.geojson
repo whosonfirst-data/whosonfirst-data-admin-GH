@@ -1,0 +1,67 @@
+{
+  "id": 1293505653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.27509,5.93922,-1.27509,5.93922",
+    "geom:latitude":5.93922,
+    "geom:longitude":-1.27509,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kafodidi",
+    "gn:country_code":"GH",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299926,
+    "gn:latitude":5.93922,
+    "gn:longitude":-1.27509,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Kafodidi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299926
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"70fcc7be07448c41e218cdb08df2e316",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759771,
+            "locality_id":1293505653,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1293505653,
+    "wof:lastmodified":1536761073,
+    "wof:name":"Kafodidi",
+    "wof:parent_id":1108759771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.27509,
+    5.93922,
+    -1.27509,
+    5.93922
+],
+  "geometry": {"coordinates":[-1.27509,5.93922],"type":"Point"}
+}

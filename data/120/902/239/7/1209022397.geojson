@@ -1,0 +1,65 @@
+{
+  "id": 1209022397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.54137,6.19229,-0.54137,6.19229",
+    "geom:latitude":6.19229,
+    "geom:longitude":-0.54137,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tete",
+    "gn:country_code":"GH",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294659,
+    "gn:latitude":6.19229,
+    "gn:longitude":-0.54137,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tette",
+        "Tete"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294659
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"62a95af7bf631c711ff2fc72ad113188",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209022397
+        }
+    ],
+    "wof:id":1209022397,
+    "wof:lastmodified":1537623434,
+    "wof:name":"Tete",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.54137,
+    6.19229,
+    -0.54137,
+    6.19229
+],
+  "geometry": {"coordinates":[-0.54137,6.19229],"type":"Point"}
+}

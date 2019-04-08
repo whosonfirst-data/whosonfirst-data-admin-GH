@@ -1,0 +1,71 @@
+{
+  "id": 1344175321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.06467,10.89214,-1.06467,10.89214",
+    "geom:latitude":10.89214,
+    "geom:longitude":-1.06467,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Yetuonia",
+    "gn:country_code":"GH",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293787,
+    "gn:latitude":10.89214,
+    "gn:longitude":-1.06467,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yetuonia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yetonia",
+        "Yetuonia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293787
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"78237150ce07146ab123542d29c6f4bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759953,
+            "locality_id":1344175321,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1344175321,
+    "wof:lastmodified":1537623402,
+    "wof:name":"Yetuonia",
+    "wof:parent_id":1108759953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.06467,
+    10.89214,
+    -1.06467,
+    10.89214
+],
+  "geometry": {"coordinates":[-1.06467,10.89214],"type":"Point"}
+}

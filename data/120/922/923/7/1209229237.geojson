@@ -1,0 +1,65 @@
+{
+  "id": 1209229237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.48182,6.16618,-1.48182,6.16618",
+    "geom:latitude":6.16618,
+    "geom:longitude":-1.48182,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ayokua Brofoyedru",
+    "gn:country_code":"GH",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303565,
+    "gn:latitude":6.16618,
+    "gn:longitude":-1.48182,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ayokua Brofoyedru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ayokwa Brofoyeduru",
+        "Ayokua Brofoyedru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303565
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"9207a70f9b42033d0eb0b76a2b147dd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209229237
+        }
+    ],
+    "wof:id":1209229237,
+    "wof:lastmodified":1537623755,
+    "wof:name":"Ayokua Brofoyedru",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.48182,
+    6.16618,
+    -1.48182,
+    6.16618
+],
+  "geometry": {"coordinates":[-1.48182,6.16618],"type":"Point"}
+}

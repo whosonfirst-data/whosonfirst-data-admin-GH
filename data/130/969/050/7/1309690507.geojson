@@ -1,0 +1,68 @@
+{
+  "id": 1309690507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.97911,10.87645,-1.97911,10.87645",
+    "geom:latitude":10.87645,
+    "geom:longitude":-1.97911,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Tumu",
+    "gn:country_code":"GH",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294342,
+    "gn:latitude":10.87645,
+    "gn:longitude":-1.97911,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tumu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294342,
+        "wk:page":"Tumu%2C_Ghana"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"7f74a46986c4c9b67a1bbf8496458be8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759963,
+            "locality_id":1309690507,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1309690507,
+    "wof:lastmodified":1537563024,
+    "wof:name":"Tumu",
+    "wof:parent_id":1108759963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.97911,
+    10.87645,
+    -1.97911,
+    10.87645
+],
+  "geometry": {"coordinates":[-1.97911,10.87645],"type":"Point"}
+}

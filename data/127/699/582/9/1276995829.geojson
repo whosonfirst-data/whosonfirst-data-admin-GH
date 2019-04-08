@@ -1,0 +1,73 @@
+{
+  "id": 1276995829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.21667,5.71667,-2.21667,5.71667",
+    "geom:latitude":5.71667,
+    "geom:longitude":-2.21667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bunyama",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302422,
+    "gn:latitude":5.71667,
+    "gn:longitude":-2.21667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bunyama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bonuama",
+        "Bonoama",
+        "Bunyama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302422
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"80bed4091ee69d1de7ce4ecb1739ba66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760015,
+            "locality_id":1276995829,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1276995829,
+    "wof:lastmodified":1537623715,
+    "wof:name":"Bunyama",
+    "wof:parent_id":1108760015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.21667,
+    5.71667,
+    -2.21667,
+    5.71667
+],
+  "geometry": {"coordinates":[-2.21667,5.71667],"type":"Point"}
+}

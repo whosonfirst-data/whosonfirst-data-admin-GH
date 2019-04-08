@@ -1,0 +1,70 @@
+{
+  "id": 1259397111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.62009,6.22131,-1.62009,6.22131",
+    "geom:latitude":6.22131,
+    "geom:longitude":-1.62009,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Wamahin",
+    "gn:country_code":"GH",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294170,
+    "gn:latitude":6.22131,
+    "gn:longitude":-1.62009,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Wamahin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Wamahin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294170
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"54c54daceb93d7100be89ecfb38f9666",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759773,
+            "locality_id":1259397111,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1259397111,
+    "wof:lastmodified":1537623416,
+    "wof:name":"Wamahin",
+    "wof:parent_id":1108759773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.62009,
+    6.22131,
+    -1.62009,
+    6.22131
+],
+  "geometry": {"coordinates":[-1.62009,6.22131],"type":"Point"}
+}

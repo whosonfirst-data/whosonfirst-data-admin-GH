@@ -1,0 +1,71 @@
+{
+  "id": 1226057483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.22379,8.39359,-0.22379,8.39359",
+    "geom:latitude":8.39359,
+    "geom:longitude":-0.22379,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Chakori",
+    "gn:country_code":"GH",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302342,
+    "gn:latitude":8.39359,
+    "gn:longitude":-0.22379,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chakori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsch\u00e1kori",
+        "Chakori"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302342
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"18fe983f7a35ebe2ef648c5ed93371d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759919,
+            "locality_id":1226057483,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1226057483,
+    "wof:lastmodified":1537623713,
+    "wof:name":"Chakori",
+    "wof:parent_id":1108759919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.22379,
+    8.39359,
+    -0.22379,
+    8.39359
+],
+  "geometry": {"coordinates":[-0.22379,8.39359],"type":"Point"}
+}

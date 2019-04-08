@@ -1,0 +1,70 @@
+{
+  "id": 1310611087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.6228,10.75697,-2.6228,10.75697",
+    "geom:latitude":10.75697,
+    "geom:longitude":-2.6228,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kpari",
+    "gn:country_code":"GH",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299223,
+    "gn:latitude":10.75697,
+    "gn:longitude":-2.6228,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Kpari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kpari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299223
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"e112c9cab85db0018bfb113eed049761",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759955,
+            "locality_id":1310611087,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1310611087,
+    "wof:lastmodified":1537623594,
+    "wof:name":"Kpari",
+    "wof:parent_id":1108759955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.6228,
+    10.75697,
+    -2.6228,
+    10.75697
+],
+  "geometry": {"coordinates":[-2.6228,10.75697],"type":"Point"}
+}

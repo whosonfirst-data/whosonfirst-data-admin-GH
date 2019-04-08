@@ -1,0 +1,64 @@
+{
+  "id": 1209232951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.98759,5.94429,-1.98759,5.94429",
+    "geom:latitude":5.94429,
+    "geom:longitude":-1.98759,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kwajansa",
+    "gn:country_code":"GH",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298707,
+    "gn:latitude":5.94429,
+    "gn:longitude":-1.98759,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Kwajansa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kwajansa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298707
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"527211c727b6d421c365547e1b271361",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209232951
+        }
+    ],
+    "wof:id":1209232951,
+    "wof:lastmodified":1537623577,
+    "wof:name":"Kwajansa",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.98759,
+    5.94429,
+    -1.98759,
+    5.94429
+],
+  "geometry": {"coordinates":[-1.98759,5.94429],"type":"Point"}
+}

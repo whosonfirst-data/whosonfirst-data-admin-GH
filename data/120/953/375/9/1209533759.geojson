@@ -1,0 +1,65 @@
+{
+  "id": 1209533759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.18488,5.01023,-2.18488,5.01023",
+    "geom:latitude":5.01023,
+    "geom:longitude":-2.18488,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Domenasi",
+    "gn:country_code":"GH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301629,
+    "gn:latitude":5.01023,
+    "gn:longitude":-2.18488,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Domenasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dominasi",
+        "Domenasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301629
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ea3e48f90221f1adf006c12769cad1e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209533759
+        }
+    ],
+    "wof:id":1209533759,
+    "wof:lastmodified":1537623689,
+    "wof:name":"Domenasi",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.18488,
+    5.01023,
+    -2.18488,
+    5.01023
+],
+  "geometry": {"coordinates":[-2.18488,5.01023],"type":"Point"}
+}

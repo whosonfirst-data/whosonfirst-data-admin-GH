@@ -1,0 +1,71 @@
+{
+  "id": 1293497589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.85948,10.97417,-1.85948,10.97417",
+    "geom:latitude":10.97417,
+    "geom:longitude":-1.85948,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kasanpari",
+    "gn:country_code":"GH",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299760,
+    "gn:latitude":10.97417,
+    "gn:longitude":-1.85948,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kasanpari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kassenpuori",
+        "Kasanpari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299760
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"50f1b3e58551c51620af5136b94bd784",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759963,
+            "locality_id":1293497589,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1293497589,
+    "wof:lastmodified":1537623612,
+    "wof:name":"Kasanpari",
+    "wof:parent_id":1108759963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.85948,
+    10.97417,
+    -1.85948,
+    10.97417
+],
+  "geometry": {"coordinates":[-1.85948,10.97417],"type":"Point"}
+}

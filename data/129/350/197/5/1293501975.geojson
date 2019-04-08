@@ -1,0 +1,70 @@
+{
+  "id": 1293501975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.60235,6.47649,-1.60235,6.47649",
+    "geom:latitude":6.47649,
+    "geom:longitude":-1.60235,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Odumito",
+    "gn:country_code":"GH",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296467,
+    "gn:latitude":6.47649,
+    "gn:longitude":-1.60235,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Odumito",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Odumito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296467
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ab47dbf6967de3e0d5dacfd74af4fdb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759783,
+            "locality_id":1293501975,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1293501975,
+    "wof:lastmodified":1537623496,
+    "wof:name":"Odumito",
+    "wof:parent_id":1108759783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.60235,
+    6.47649,
+    -1.60235,
+    6.47649
+],
+  "geometry": {"coordinates":[-1.60235,6.47649],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1242888481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.82886,10.91749,-0.82886,10.91749",
+    "geom:latitude":10.91749,
+    "geom:longitude":-0.82886,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gurugu",
+    "gn:country_code":"GH",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300515,
+    "gn:latitude":10.91749,
+    "gn:longitude":-0.82886,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gurugu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bongo Gorogo",
+        "Gurugu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300515
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"df09a11955e317627e92c31eff27a918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759949,
+            "locality_id":1242888481,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1242888481,
+    "wof:lastmodified":1537623644,
+    "wof:name":"Gurugu",
+    "wof:parent_id":1108759949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.82886,
+    10.91749,
+    -0.82886,
+    10.91749
+],
+  "geometry": {"coordinates":[-0.82886,10.91749],"type":"Point"}
+}

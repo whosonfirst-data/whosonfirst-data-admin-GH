@@ -1,0 +1,72 @@
+{
+  "id": 1293869253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.05535,6.14387,1.05535,6.14387",
+    "geom:latitude":6.14387,
+    "geom:longitude":1.05535,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Adotokope",
+    "gn:country_code":"GH",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305804,
+    "gn:latitude":6.14387,
+    "gn:longitude":1.05535,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Adotokope",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adotekorpe",
+        "Adotekofe",
+        "Adotokope"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305804
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"3a26d57af43bee60fb1c1824e0520500",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759983,
+            "locality_id":1293869253,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1293869253,
+    "wof:lastmodified":1537623833,
+    "wof:name":"Adotokope",
+    "wof:parent_id":1108759983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.05535,
+    6.14387,
+    1.05535,
+    6.14387
+],
+  "geometry": {"coordinates":[1.05535,6.14387],"type":"Point"}
+}

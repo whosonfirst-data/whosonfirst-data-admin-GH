@@ -1,0 +1,67 @@
+{
+  "id": 1276345281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.99348,6.12319,0.99348,6.12319",
+    "geom:latitude":6.12319,
+    "geom:longitude":0.99348,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Adrume",
+    "gn:country_code":"GH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305793,
+    "gn:latitude":6.12319,
+    "gn:longitude":0.99348,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Adrume",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305793
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"434491426f26d673b84a5fce837f5fb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759983,
+            "locality_id":1276345281,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1276345281,
+    "wof:lastmodified":1536762646,
+    "wof:name":"Adrume",
+    "wof:parent_id":1108759983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.99348,
+    6.12319,
+    0.99348,
+    6.12319
+],
+  "geometry": {"coordinates":[0.99348,6.12319],"type":"Point"}
+}

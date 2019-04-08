@@ -1,0 +1,71 @@
+{
+  "id": 1193147059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.1416,10.87777,-0.1416,10.87777",
+    "geom:latitude":10.87777,
+    "geom:longitude":-0.1416,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Jelekologo",
+    "gn:country_code":"GH",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300152,
+    "gn:latitude":10.87777,
+    "gn:longitude":-0.1416,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jelekologo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gyelakologo",
+        "Jelekologo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300152
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"980b7d7029d3d40296c9c466615b7b48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759943,
+            "locality_id":1193147059,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1193147059,
+    "wof:lastmodified":1537623628,
+    "wof:name":"Jelekologo",
+    "wof:parent_id":1108759943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.1416,
+    10.87777,
+    -0.1416,
+    10.87777
+],
+  "geometry": {"coordinates":[-0.1416,10.87777],"type":"Point"}
+}

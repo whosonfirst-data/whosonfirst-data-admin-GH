@@ -1,0 +1,74 @@
+{
+  "id": 1293505435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.64366,6.7269,-1.64366,6.7269",
+    "geom:latitude":6.7269,
+    "geom:longitude":-1.64366,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Anomannye",
+    "gn:country_code":"GH",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304499,
+    "gn:latitude":6.7269,
+    "gn:longitude":-1.64366,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Anomannye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Anomannye"
+    ],
+    "name:und_x_variant":[
+        "Anomanye",
+        "Anumanye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304499
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"101dad3907f30822b189a8fcf119ed3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759801,
+            "locality_id":1293505435,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1293505435,
+    "wof:lastmodified":1537623787,
+    "wof:name":"Anomannye",
+    "wof:parent_id":1108759801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.64366,
+    6.7269,
+    -1.64366,
+    6.7269
+],
+  "geometry": {"coordinates":[-1.64366,6.7269],"type":"Point"}
+}

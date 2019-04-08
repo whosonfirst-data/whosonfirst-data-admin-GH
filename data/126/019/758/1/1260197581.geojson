@@ -1,0 +1,67 @@
+{
+  "id": 1260197581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.98301,5.86205,0.98301,5.86205",
+    "geom:latitude":5.86205,
+    "geom:longitude":0.98301,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kpovikofe",
+    "gn:country_code":"GH",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299131,
+    "gn:latitude":5.86205,
+    "gn:longitude":0.98301,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Kpovikofe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299131
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a8038e5c967f86529fc8f1589ec53013",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759981,
+            "locality_id":1260197581,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1260197581,
+    "wof:lastmodified":1536827532,
+    "wof:name":"Kpovikofe",
+    "wof:parent_id":1108759981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.98301,
+    5.86205,
+    0.98301,
+    5.86205
+],
+  "geometry": {"coordinates":[0.98301,5.86205],"type":"Point"}
+}

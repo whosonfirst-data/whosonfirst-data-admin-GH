@@ -1,0 +1,61 @@
+{
+  "id": 1209324845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.58333,5.93333,-0.58333,5.93333",
+    "geom:latitude":5.93333,
+    "geom:longitude":-0.58333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kwamitiakrom",
+    "gn:country_code":"GH",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298645,
+    "gn:latitude":5.93333,
+    "gn:longitude":-0.58333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Kwamitiakrom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298645
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"09c62616e502c0bedc106c6abcfbeb14",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209324845
+        }
+    ],
+    "wof:id":1209324845,
+    "wof:lastmodified":1536290566,
+    "wof:name":"Kwamitiakrom",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.58333,
+    5.9333300000000015,
+    -0.58333,
+    5.9333300000000015
+],
+  "geometry": {"coordinates":[-0.58333,5.93333],"type":"Point"}
+}

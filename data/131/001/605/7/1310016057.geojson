@@ -1,0 +1,71 @@
+{
+  "id": 1310016057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.16896,6.15564,-0.16896,6.15564",
+    "geom:latitude":6.15564,
+    "geom:longitude":-0.16896,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Penchiri",
+    "gn:country_code":"GH",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296018,
+    "gn:latitude":6.15564,
+    "gn:longitude":-0.16896,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Penchiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pertsire",
+        "Penchiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296018
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"f1dac11a7769f4fc041d575c0a8a8eda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759899,
+            "locality_id":1310016057,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1310016057,
+    "wof:lastmodified":1537623480,
+    "wof:name":"Penchiri",
+    "wof:parent_id":1108759899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.16896,
+    6.15564,
+    -0.16896,
+    6.15564
+],
+  "geometry": {"coordinates":[-0.16896,6.15564],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1193146985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.87718,5.88572,-1.87718,5.88572",
+    "geom:latitude":5.88572,
+    "geom:longitude":-1.87718,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Nkubetin",
+    "gn:country_code":"GH",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297255,
+    "gn:latitude":5.88572,
+    "gn:longitude":-1.87718,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Nkubetin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nkubetin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297255
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"73960a9648af8eebbd7710d3f7cfa35f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760015,
+            "locality_id":1193146985,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1193146985,
+    "wof:lastmodified":1537623525,
+    "wof:name":"Nkubetin",
+    "wof:parent_id":1108760015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.87718,
+    5.88572,
+    -1.87718,
+    5.88572
+],
+  "geometry": {"coordinates":[-1.87718,5.88572],"type":"Point"}
+}

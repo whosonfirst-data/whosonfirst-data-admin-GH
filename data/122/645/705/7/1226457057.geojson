@@ -1,0 +1,73 @@
+{
+  "id": 1226457057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.84552,5.81697,-2.84552,5.81697",
+    "geom:latitude":5.81697,
+    "geom:longitude":-2.84552,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Panyinkrom",
+    "gn:country_code":"GH",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296034,
+    "gn:latitude":5.81697,
+    "gn:longitude":-2.84552,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Panyinkrom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Panyinkrom"
+    ],
+    "name:eng_x_variant":[
+        "Peinkrom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108759997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296034
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"27254aba4b8124a8a99d78a06e3129b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759997,
+            "locality_id":1226457057,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1226457057,
+    "wof:lastmodified":1537623481,
+    "wof:name":"Panyinkrom",
+    "wof:parent_id":1108759997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.84552,
+    5.81697,
+    -2.84552,
+    5.81697
+],
+  "geometry": {"coordinates":[-2.84552,5.81697],"type":"Point"}
+}

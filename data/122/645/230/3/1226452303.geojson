@@ -1,0 +1,67 @@
+{
+  "id": 1226452303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.15,6.8,-1.15,6.8",
+    "geom:latitude":6.8,
+    "geom:longitude":-1.15,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Pentempa",
+    "gn:country_code":"GH",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296010,
+    "gn:latitude":6.8,
+    "gn:longitude":-1.15,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Pentempa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296010
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"00fac38cf55cab3c27d8d997af4f5f61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759787,
+            "locality_id":1226452303,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1226452303,
+    "wof:lastmodified":1536634643,
+    "wof:name":"Pentempa",
+    "wof:parent_id":1108759787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.15,
+    6.8,
+    -1.15,
+    6.8
+],
+  "geometry": {"coordinates":[-1.15,6.8],"type":"Point"}
+}

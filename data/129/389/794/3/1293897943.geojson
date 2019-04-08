@@ -1,0 +1,67 @@
+{
+  "id": 1293897943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.21667,5.08333,-2.21667,5.08333",
+    "geom:latitude":5.08333,
+    "geom:longitude":-2.21667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Akusuno",
+    "gn:country_code":"GH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304974,
+    "gn:latitude":5.08333,
+    "gn:longitude":-2.21667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Akusuno",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304974
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"faf2985af823b54a9300cd0af92abe07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760007,
+            "locality_id":1293897943,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1293897943,
+    "wof:lastmodified":1536692614,
+    "wof:name":"Akusuno",
+    "wof:parent_id":1108760007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.21667,
+    5.08333,
+    -2.21667,
+    5.08333
+],
+  "geometry": {"coordinates":[-2.21667,5.08333],"type":"Point"}
+}

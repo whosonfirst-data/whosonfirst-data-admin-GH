@@ -1,0 +1,70 @@
+{
+  "id": 1310116003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.53344,10.93778,-2.53344,10.93778",
+    "geom:latitude":10.93778,
+    "geom:longitude":-2.53344,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Ka",
+    "gn:country_code":"GH",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299986,
+    "gn:latitude":10.93778,
+    "gn:longitude":-2.53344,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Ka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299986
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"d991422b31959e91f85af9856ddb509d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759963,
+            "locality_id":1310116003,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1310116003,
+    "wof:lastmodified":1537623621,
+    "wof:name":"Ka",
+    "wof:parent_id":1108759963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.53344,
+    10.93778,
+    -2.53344,
+    10.93778
+],
+  "geometry": {"coordinates":[-2.53344,10.93778],"type":"Point"}
+}

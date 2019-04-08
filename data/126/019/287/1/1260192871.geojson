@@ -1,0 +1,72 @@
+{
+  "id": 1260192871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.77624,6.05613,-0.77624,6.05613",
+    "geom:latitude":6.05613,
+    "geom:longitude":-0.77624,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tapiramang",
+    "gn:country_code":"GH",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294779,
+    "gn:latitude":6.05613,
+    "gn:longitude":-0.77624,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tapiramang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Topreman",
+        "Topireming",
+        "Tapiramang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294779
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a075b4a91cac9667f367e0fb5edc5c96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759885,
+            "locality_id":1260192871,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1260192871,
+    "wof:lastmodified":1537623438,
+    "wof:name":"Tapiramang",
+    "wof:parent_id":1108759885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.77624,
+    6.05613,
+    -0.77624,
+    6.05613
+],
+  "geometry": {"coordinates":[-0.77624,6.05613],"type":"Point"}
+}

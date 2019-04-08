@@ -1,0 +1,73 @@
+{
+  "id": 1226357139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.47115,6.14528,-1.47115,6.14528",
+    "geom:latitude":6.14528,
+    "geom:longitude":-1.47115,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Adansi Anhwiaso",
+    "gn:country_code":"GH",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305956,
+    "gn:latitude":6.14528,
+    "gn:longitude":-1.47115,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Adansi Anhwiaso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adanse Anweaso",
+        "Anhwiaso",
+        "Anwiaso",
+        "Adansi Anhwiaso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305956
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"bf969db1241f454201bf006bcef09ba5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759771,
+            "locality_id":1226357139,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1226357139,
+    "wof:lastmodified":1537623838,
+    "wof:name":"Adansi Anhwiaso",
+    "wof:parent_id":1108759771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.47115,
+    6.14528,
+    -1.47115,
+    6.14528
+],
+  "geometry": {"coordinates":[-1.47115,6.14528],"type":"Point"}
+}

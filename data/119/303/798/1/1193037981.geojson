@@ -1,0 +1,78 @@
+{
+  "id": 1193037981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.19012,6.11982,1.19012,6.11982",
+    "geom:latitude":6.11982,
+    "geom:longitude":1.19012,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Aflao",
+    "gn:country_code":"GH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305677,
+    "gn:latitude":6.11982,
+    "gn:longitude":1.19012,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Aflao",
+    "gn:population":66546,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Porura",
+        "Dano",
+        "Aflahu",
+        "Afloa",
+        "Aflao"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305677,
+        "wk:page":"Aflao"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"32e9ca74415fce9e681797b3b446814c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759983,
+            "locality_id":1193037981,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1193037981,
+    "wof:lastmodified":1537623829,
+    "wof:name":"Aflao",
+    "wof:parent_id":1108759983,
+    "wof:placetype":"locality",
+    "wof:population":66546,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.19012,
+    6.11982,
+    1.19012,
+    6.11982
+],
+  "geometry": {"coordinates":[1.19012,6.11982],"type":"Point"}
+}

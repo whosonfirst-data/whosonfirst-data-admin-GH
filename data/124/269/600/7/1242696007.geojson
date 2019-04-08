@@ -1,0 +1,71 @@
+{
+  "id": 1242696007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.22884,6.53089,0.22884,6.53089",
+    "geom:latitude":6.53089,
+    "geom:longitude":0.22884,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Chameyi",
+    "gn:country_code":"GH",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302334,
+    "gn:latitude":6.53089,
+    "gn:longitude":0.22884,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chameyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Peki Tsame",
+        "Chameyi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302334
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"48797975068d40e1419f0517601d8133",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759985,
+            "locality_id":1242696007,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1242696007,
+    "wof:lastmodified":1537623713,
+    "wof:name":"Chameyi",
+    "wof:parent_id":1108759985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.22884,
+    6.53089,
+    0.22884,
+    6.53089
+],
+  "geometry": {"coordinates":[0.22884,6.53089],"type":"Point"}
+}

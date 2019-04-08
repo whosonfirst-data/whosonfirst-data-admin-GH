@@ -1,0 +1,71 @@
+{
+  "id": 1276133587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.49791,6.06262,-1.49791,6.06262",
+    "geom:latitude":6.06262,
+    "geom:longitude":-1.49791,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Anwoina",
+    "gn:country_code":"GH",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304454,
+    "gn:latitude":6.06262,
+    "gn:longitude":-1.49791,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Anwoina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anwoma",
+        "Anwoina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304454
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"979f4b0a2ed5c0ab435293e192e6f4bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759773,
+            "locality_id":1276133587,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1276133587,
+    "wof:lastmodified":1537623786,
+    "wof:name":"Anwoina",
+    "wof:parent_id":1108759773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.49791,
+    6.06262,
+    -1.49791,
+    6.06262
+],
+  "geometry": {"coordinates":[-1.49791,6.06262],"type":"Point"}
+}

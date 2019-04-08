@@ -1,0 +1,71 @@
+{
+  "id": 1309726713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.57709,5.09445,-2.57709,5.09445",
+    "geom:latitude":5.09445,
+    "geom:longitude":-2.57709,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ezuriti",
+    "gn:country_code":"GH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301037,
+    "gn:latitude":5.09445,
+    "gn:longitude":-2.57709,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ezuriti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Azuleti",
+        "Ezuriti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301037
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"4c3a72d5e664784d4d3070f9386f1bb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760001,
+            "locality_id":1309726713,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1309726713,
+    "wof:lastmodified":1537623663,
+    "wof:name":"Ezuriti",
+    "wof:parent_id":1108760001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.57709,
+    5.09445,
+    -2.57709,
+    5.09445
+],
+  "geometry": {"coordinates":[-2.57709,5.09445],"type":"Point"}
+}

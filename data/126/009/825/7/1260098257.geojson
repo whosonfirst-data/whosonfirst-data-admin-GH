@@ -1,0 +1,67 @@
+{
+  "id": 1260098257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.3,10.06667,0.3,10.06667",
+    "geom:latitude":10.06667,
+    "geom:longitude":0.3,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Chunbawso",
+    "gn:country_code":"GH",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302130,
+    "gn:latitude":10.06667,
+    "gn:longitude":0.3,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Chunbawso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302130
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"2088b9f2c87d980f5ef0831907361a23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759929,
+            "locality_id":1260098257,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1260098257,
+    "wof:lastmodified":1536966577,
+    "wof:name":"Chunbawso",
+    "wof:parent_id":1108759929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.3,
+    10.06667,
+    0.3,
+    10.06667
+],
+  "geometry": {"coordinates":[0.3,10.06667],"type":"Point"}
+}

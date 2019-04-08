@@ -1,0 +1,67 @@
+{
+  "id": 1226656069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.9,6.08333,0.9,6.08333",
+    "geom:latitude":6.08333,
+    "geom:longitude":0.9,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Vukofe",
+    "gn:country_code":"GH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294221,
+    "gn:latitude":6.08333,
+    "gn:longitude":0.9,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Vukofe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294221
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"0961b1a1ae39da44f4362335016d2409",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759983,
+            "locality_id":1226656069,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1226656069,
+    "wof:lastmodified":1536843406,
+    "wof:name":"Vukofe",
+    "wof:parent_id":1108759983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.9,
+    6.08333,
+    0.9,
+    6.08333
+],
+  "geometry": {"coordinates":[0.9,6.08333],"type":"Point"}
+}

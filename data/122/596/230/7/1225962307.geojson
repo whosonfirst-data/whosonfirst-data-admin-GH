@@ -1,0 +1,75 @@
+{
+  "id": 1225962307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.97483,10.56893,-1.97483,10.56893",
+    "geom:latitude":10.56893,
+    "geom:longitude":-1.97483,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Buguboi",
+    "gn:country_code":"GH",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302505,
+    "gn:latitude":10.56893,
+    "gn:longitude":-1.97483,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Buguboi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bughuboi",
+        "Bugobellia",
+        "Bugbuboi",
+        "Buguboi",
+        "Bugoboi",
+        "Boubeli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302505
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"391defb09960d93fa94a473eb87fcad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759963,
+            "locality_id":1225962307,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1225962307,
+    "wof:lastmodified":1537623718,
+    "wof:name":"Buguboi",
+    "wof:parent_id":1108759963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.97483,
+    10.56893,
+    -1.97483,
+    10.56893
+],
+  "geometry": {"coordinates":[-1.97483,10.56893],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276773331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.39324,6.54642,0.39324,6.54642",
+    "geom:latitude":6.54642,
+    "geom:longitude":0.39324,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Djega",
+    "gn:country_code":"GH",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301702,
+    "gn:latitude":6.54642,
+    "gn:longitude":0.39324,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Djega",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301702
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"53135c7fc1cac5b17c0a96ed9fb3048e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759971,
+            "locality_id":1276773331,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1276773331,
+    "wof:lastmodified":1536686178,
+    "wof:name":"Djega",
+    "wof:parent_id":1108759971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.39324,
+    6.54642,
+    0.39324,
+    6.54642
+],
+  "geometry": {"coordinates":[0.39324,6.54642],"type":"Point"}
+}

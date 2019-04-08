@@ -1,0 +1,74 @@
+{
+  "id": 1310491281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.08254,4.82049,-2.08254,4.82049",
+    "geom:latitude":4.82049,
+    "geom:longitude":-2.08254,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Adelazo",
+    "gn:country_code":"GH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303895,
+    "gn:latitude":4.82049,
+    "gn:longitude":-2.08254,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Adelazo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Adelazo"
+    ],
+    "name:eng_x_variant":[
+        "Ataraso",
+        "Adaraso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108759993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303895
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"e93fd545872f3e55dd4fcb7cff0b9252",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759993,
+            "locality_id":1310491281,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1310491281,
+    "wof:lastmodified":1537623766,
+    "wof:name":"Adelazo",
+    "wof:parent_id":1108759993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.08254,
+    4.82049,
+    -2.08254,
+    4.82049
+],
+  "geometry": {"coordinates":[-2.08254,4.82049],"type":"Point"}
+}

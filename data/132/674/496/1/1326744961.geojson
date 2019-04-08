@@ -1,0 +1,72 @@
+{
+  "id": 1326744961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.01728,5.73471,-1.01728,5.73471",
+    "geom:latitude":5.73471,
+    "geom:longitude":-1.01728,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Amanfupong",
+    "gn:country_code":"GH",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304837,
+    "gn:latitude":5.73471,
+    "gn:longitude":-1.01728,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Amanfupong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amanfupon",
+        "Amanfopon",
+        "Amanfupong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304837
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"b028ded9afb594722d99ebc70b7f4e71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759847,
+            "locality_id":1326744961,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1326744961,
+    "wof:lastmodified":1537623798,
+    "wof:name":"Amanfupong",
+    "wof:parent_id":1108759847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.01728,
+    5.73471,
+    -1.01728,
+    5.73471
+],
+  "geometry": {"coordinates":[-1.01728,5.73471],"type":"Point"}
+}

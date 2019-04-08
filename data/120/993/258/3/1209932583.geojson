@@ -1,0 +1,71 @@
+{
+  "id": 1209932583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.62392,6.20924,-0.62392,6.20924",
+    "geom:latitude":6.20924,
+    "geom:longitude":-0.62392,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Pameng",
+    "gn:country_code":"GH",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296138,
+    "gn:latitude":6.20924,
+    "gn:longitude":-0.62392,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pameng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pamen",
+        "Pameng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296138
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"dcd86eb36b8ef641ea69f9e65612ee84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759881,
+            "locality_id":1209932583,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1209932583,
+    "wof:lastmodified":1537623485,
+    "wof:name":"Pameng",
+    "wof:parent_id":1108759881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.62392,
+    6.20924,
+    -0.62392,
+    6.20924
+],
+  "geometry": {"coordinates":[-0.62392,6.20924],"type":"Point"}
+}

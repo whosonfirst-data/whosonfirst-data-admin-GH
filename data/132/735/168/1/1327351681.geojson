@@ -1,0 +1,67 @@
+{
+  "id": 1327351681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.51667,5.53333,-1.51667,5.53333",
+    "geom:latitude":5.53333,
+    "geom:longitude":-1.51667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Amoakukrom",
+    "gn:country_code":"GH",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304757,
+    "gn:latitude":5.53333,
+    "gn:longitude":-1.51667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Amoakukrom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304757
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"3a934571942c73a111893bbf26c9ded7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759863,
+            "locality_id":1327351681,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1327351681,
+    "wof:lastmodified":1536797551,
+    "wof:name":"Amoakukrom",
+    "wof:parent_id":1108759863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.51667,
+    5.53333,
+    -1.51667,
+    5.53333
+],
+  "geometry": {"coordinates":[-1.51667,5.53333],"type":"Point"}
+}

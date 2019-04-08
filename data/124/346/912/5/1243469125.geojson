@@ -1,0 +1,70 @@
+{
+  "id": 1243469125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.56809,5.31872,-1.56809,5.31872",
+    "geom:latitude":5.31872,
+    "geom:longitude":-1.56809,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Antu",
+    "gn:country_code":"GH",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304514,
+    "gn:latitude":5.31872,
+    "gn:longitude":-1.56809,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Antu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Antu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304514
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"e1eaa970525a08541e1c2de30c85d3e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760005,
+            "locality_id":1243469125,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1243469125,
+    "wof:lastmodified":1537623788,
+    "wof:name":"Antu",
+    "wof:parent_id":1108760005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.56809,
+    5.31872,
+    -1.56809,
+    5.31872
+],
+  "geometry": {"coordinates":[-1.56809,5.31872],"type":"Point"}
+}

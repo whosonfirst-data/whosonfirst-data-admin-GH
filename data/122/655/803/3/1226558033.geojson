@@ -1,0 +1,71 @@
+{
+  "id": 1226558033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.37793,5.04806,-2.37793,5.04806",
+    "geom:latitude":5.04806,
+    "geom:longitude":-2.37793,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tantan",
+    "gn:country_code":"GH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294790,
+    "gn:latitude":5.04806,
+    "gn:longitude":-2.37793,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tantan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tandan",
+        "Tantan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294790
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"dab14ae9440f46ca961b85ab1609b155",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760007,
+            "locality_id":1226558033,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1226558033,
+    "wof:lastmodified":1537623439,
+    "wof:name":"Tantan",
+    "wof:parent_id":1108760007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.37793,
+    5.04806,
+    -2.37793,
+    5.04806
+],
+  "geometry": {"coordinates":[-2.37793,5.04806],"type":"Point"}
+}

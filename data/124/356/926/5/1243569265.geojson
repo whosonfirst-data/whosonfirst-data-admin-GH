@@ -1,0 +1,73 @@
+{
+  "id": 1243569265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.53333,7.06667,-1.53333,7.06667",
+    "geom:latitude":7.06667,
+    "geom:longitude":-1.53333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Wiamuasi",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294061,
+    "gn:latitude":7.06667,
+    "gn:longitude":-1.53333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Wiamuasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wiamoase",
+        "Wiamuasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294061,
+        "wk:page":"Wiamoase"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"3c91fd9d4a8371668551b70ef015e3a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759775,
+            "locality_id":1243569265,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1243569265,
+    "wof:lastmodified":1537623413,
+    "wof:name":"Wiamuasi",
+    "wof:parent_id":1108759775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.53333,
+    7.06667,
+    -1.53333,
+    7.06667
+],
+  "geometry": {"coordinates":[-1.53333,7.06667],"type":"Point"}
+}

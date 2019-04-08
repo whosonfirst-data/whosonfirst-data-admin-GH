@@ -1,0 +1,71 @@
+{
+  "id": 1242892199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.96386,6.05688,0.96386,6.05688",
+    "geom:latitude":6.05688,
+    "geom:longitude":0.96386,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Atititi",
+    "gn:country_code":"GH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303833,
+    "gn:latitude":6.05688,
+    "gn:longitude":0.96386,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Atititi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Atiteta Weta",
+        "Atititi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303833
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"20c6980f8a6318f894dd443c6e8325cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759983,
+            "locality_id":1242892199,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1242892199,
+    "wof:lastmodified":1537623764,
+    "wof:name":"Atititi",
+    "wof:parent_id":1108759983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.96386,
+    6.05688,
+    0.96386,
+    6.05688
+],
+  "geometry": {"coordinates":[0.96386,6.05688],"type":"Point"}
+}

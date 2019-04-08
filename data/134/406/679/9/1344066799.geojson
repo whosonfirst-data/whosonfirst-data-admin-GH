@@ -1,0 +1,72 @@
+{
+  "id": 1344066799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.53333,9.3,-0.53333,9.3",
+    "geom:latitude":9.3,
+    "geom:longitude":-0.53333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kwari",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298604,
+    "gn:latitude":9.3,
+    "gn:longitude":-0.53333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kwari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kwani",
+        "Kwari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298604
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"214931430fa326effc42105ac33cea16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759915,
+            "locality_id":1344066799,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1344066799,
+    "wof:lastmodified":1537623573,
+    "wof:name":"Kwari",
+    "wof:parent_id":1108759915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.53333,
+    9.3,
+    -0.53333,
+    9.3
+],
+  "geometry": {"coordinates":[-0.53333,9.3],"type":"Point"}
+}

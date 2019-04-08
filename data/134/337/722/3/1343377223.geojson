@@ -1,0 +1,67 @@
+{
+  "id": 1343377223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.7168,7.48635,-1.7168,7.48635",
+    "geom:latitude":7.48635,
+    "geom:longitude":-1.7168,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Akuma",
+    "gn:country_code":"GH",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304998,
+    "gn:latitude":7.48635,
+    "gn:longitude":-1.7168,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Akuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304998
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"dadd556af298f2252ba902d69db1fed9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759827,
+            "locality_id":1343377223,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1343377223,
+    "wof:lastmodified":1536864982,
+    "wof:name":"Akuma",
+    "wof:parent_id":1108759827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.7168,
+    7.48635,
+    -1.7168,
+    7.48635
+],
+  "geometry": {"coordinates":[-1.7168,7.48635],"type":"Point"}
+}

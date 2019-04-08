@@ -1,0 +1,71 @@
+{
+  "id": 1343972535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.57942,5.83599,0.57942,5.83599",
+    "geom:latitude":5.83599,
+    "geom:longitude":0.57942,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kenaw",
+    "gn:country_code":"GH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299668,
+    "gn:latitude":5.83599,
+    "gn:longitude":0.57942,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kenaw",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Keno Dokupiti Korpe",
+        "Kenaw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671353,
+        1108759903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299668
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"43707d5e276e1ab44860a91fa61c8662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759903,
+            "locality_id":1343972535,
+            "region_id":85671353
+        }
+    ],
+    "wof:id":1343972535,
+    "wof:lastmodified":1537623609,
+    "wof:name":"Kenaw",
+    "wof:parent_id":1108759903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.57942,
+    5.83599,
+    0.57942,
+    5.83599
+],
+  "geometry": {"coordinates":[0.57942,5.83599],"type":"Point"}
+}

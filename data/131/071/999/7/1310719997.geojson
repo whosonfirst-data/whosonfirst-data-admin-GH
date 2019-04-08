@@ -1,0 +1,68 @@
+{
+  "id": 1310719997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.87803,5.63401,-0.87803,5.63401",
+    "geom:latitude":5.63401,
+    "geom:longitude":-0.87803,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Odoben",
+    "gn:country_code":"GH",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296544,
+    "gn:latitude":5.63401,
+    "gn:longitude":-0.87803,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Odoben",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296544,
+        "wk:page":"Odoben"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"132d52fe87cedc57032b30db631e5232",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759847,
+            "locality_id":1310719997,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1310719997,
+    "wof:lastmodified":1537563032,
+    "wof:name":"Odoben",
+    "wof:parent_id":1108759847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.87803,
+    5.63401,
+    -0.87803,
+    5.63401
+],
+  "geometry": {"coordinates":[-0.87803,5.63401],"type":"Point"}
+}

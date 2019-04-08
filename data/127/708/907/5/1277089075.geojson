@@ -1,0 +1,71 @@
+{
+  "id": 1277089075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.0307,5.96348,-2.0307,5.96348",
+    "geom:latitude":5.96348,
+    "geom:longitude":-2.0307,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ncherifi",
+    "gn:country_code":"GH",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297477,
+    "gn:latitude":5.96348,
+    "gn:longitude":-2.0307,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ncherifi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nkyirifi",
+        "Ncherifi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297477
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"dc13b8aba6b869e62272465f82cff6f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760015,
+            "locality_id":1277089075,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1277089075,
+    "wof:lastmodified":1537623532,
+    "wof:name":"Ncherifi",
+    "wof:parent_id":1108760015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.0307,
+    5.96348,
+    -2.0307,
+    5.96348
+],
+  "geometry": {"coordinates":[-2.0307,5.96348],"type":"Point"}
+}

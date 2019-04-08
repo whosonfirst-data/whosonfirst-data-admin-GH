@@ -1,0 +1,71 @@
+{
+  "id": 1277084359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.40297,10.61162,-1.40297,10.61162",
+    "geom:latitude":10.61162,
+    "geom:longitude":-1.40297,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Forinsa",
+    "gn:country_code":"GH",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300886,
+    "gn:latitude":10.61162,
+    "gn:longitude":-1.40297,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Forinsa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Doninga Farinsa",
+        "Forinsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300886
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a6faf4c636745d6ef85d5a8726e505e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759951,
+            "locality_id":1277084359,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1277084359,
+    "wof:lastmodified":1537623657,
+    "wof:name":"Forinsa",
+    "wof:parent_id":1108759951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.40297,
+    10.61162,
+    -1.40297,
+    10.61162
+],
+  "geometry": {"coordinates":[-1.40297,10.61162],"type":"Point"}
+}

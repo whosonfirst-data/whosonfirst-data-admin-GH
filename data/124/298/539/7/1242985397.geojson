@@ -1,0 +1,72 @@
+{
+  "id": 1242985397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.9451,9.35581,-0.9451,9.35581",
+    "geom:latitude":9.35581,
+    "geom:longitude":-0.9451,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gwalingga",
+    "gn:country_code":"GH",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300501,
+    "gn:latitude":9.35581,
+    "gn:longitude":-0.9451,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gwalingga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Golinga",
+        "Gwalingga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300501,
+        "wk:page":"Golinga"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"2c4527b63feeb1a8ac023663edd58838",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759935,
+            "locality_id":1242985397,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1242985397,
+    "wof:lastmodified":1537623643,
+    "wof:name":"Gwalingga",
+    "wof:parent_id":1108759935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.9451,
+    9.35581,
+    -0.9451,
+    9.35581
+],
+  "geometry": {"coordinates":[-0.9451,9.35581],"type":"Point"}
+}

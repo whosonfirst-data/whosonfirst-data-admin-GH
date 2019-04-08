@@ -1,0 +1,65 @@
+{
+  "id": 1209120857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.16493,6.42107,-0.16493,6.42107",
+    "geom:latitude":6.42107,
+    "geom:longitude":-0.16493,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Yidawm",
+    "gn:country_code":"GH",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293781,
+    "gn:latitude":6.42107,
+    "gn:longitude":-0.16493,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yidawm",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brepaw Yidorm",
+        "Yidawm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293781
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"4bcd7ef79854a60f2acb7b6d885ac51f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209120857
+        }
+    ],
+    "wof:id":1209120857,
+    "wof:lastmodified":1537623402,
+    "wof:name":"Yidawm",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.16493,
+    6.42107,
+    -0.16493,
+    6.42107
+],
+  "geometry": {"coordinates":[-0.16493,6.42107],"type":"Point"}
+}

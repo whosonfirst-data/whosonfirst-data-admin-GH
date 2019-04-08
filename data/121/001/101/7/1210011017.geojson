@@ -1,0 +1,70 @@
+{
+  "id": 1210011017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.08202,4.85095,-2.08202,4.85095",
+    "geom:latitude":4.85095,
+    "geom:longitude":-2.08202,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kumasi",
+    "gn:country_code":"GH",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298894,
+    "gn:latitude":4.85095,
+    "gn:longitude":-2.08202,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Kumasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kumasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108759993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298894
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"f53f7a4b3a2aa48e47beba7903904d6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759993,
+            "locality_id":1210011017,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1210011017,
+    "wof:lastmodified":1537623583,
+    "wof:name":"Kumasi",
+    "wof:parent_id":1108759993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.08202,
+    4.85095,
+    -2.08202,
+    4.85095
+],
+  "geometry": {"coordinates":[-2.08202,4.85095],"type":"Point"}
+}

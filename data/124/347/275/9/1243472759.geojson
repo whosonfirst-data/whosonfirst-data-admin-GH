@@ -1,0 +1,72 @@
+{
+  "id": 1243472759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.3,7.3,-2.3,7.3",
+    "geom:latitude":7.3,
+    "geom:longitude":-2.3,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kontrajeso",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299344,
+    "gn:latitude":7.3,
+    "gn:longitude":-2.3,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kontrajeso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kantro",
+        "Kontrajeso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299344
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"d3ac68300d0ae7b8cb1b50b2e68300fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759831,
+            "locality_id":1243472759,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1243472759,
+    "wof:lastmodified":1537623597,
+    "wof:name":"Kontrajeso",
+    "wof:parent_id":1108759831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.3,
+    7.3,
+    -2.3,
+    7.3
+],
+  "geometry": {"coordinates":[-2.3,7.3],"type":"Point"}
+}

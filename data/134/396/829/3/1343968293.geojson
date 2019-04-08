@@ -1,0 +1,71 @@
+{
+  "id": 1343968293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.85339,6.73311,-0.85339,6.73311",
+    "geom:latitude":6.73311,
+    "geom:longitude":-0.85339,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Oboyani",
+    "gn:country_code":"GH",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296618,
+    "gn:latitude":6.73311,
+    "gn:longitude":-0.85339,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Oboyani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oboya Number 1",
+        "Oboyani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296618
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a22fe850b05f0de3df0c567e023b1779",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759889,
+            "locality_id":1343968293,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1343968293,
+    "wof:lastmodified":1537623502,
+    "wof:name":"Oboyani",
+    "wof:parent_id":1108759889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.85339,
+    6.73311,
+    -0.85339,
+    6.73311
+],
+  "geometry": {"coordinates":[-0.85339,6.73311],"type":"Point"}
+}

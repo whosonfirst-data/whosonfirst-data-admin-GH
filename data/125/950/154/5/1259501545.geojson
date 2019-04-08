@@ -1,0 +1,71 @@
+{
+  "id": 1259501545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.62263,9.88352,-0.62263,9.88352",
+    "geom:latitude":9.88352,
+    "geom:longitude":-0.62263,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nion",
+    "gn:country_code":"GH",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297354,
+    "gn:latitude":9.88352,
+    "gn:longitude":-0.62263,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nion",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nyong",
+        "Nion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297354
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"1bf77d0e3d1a9fc98a3ef794beca7f6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759925,
+            "locality_id":1259501545,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1259501545,
+    "wof:lastmodified":1537623528,
+    "wof:name":"Nion",
+    "wof:parent_id":1108759925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.62263,
+    9.88352,
+    -0.62263,
+    9.88352
+],
+  "geometry": {"coordinates":[-0.62263,9.88352],"type":"Point"}
+}

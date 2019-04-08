@@ -1,0 +1,67 @@
+{
+  "id": 1343776659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.75,7.28333,-2.75,7.28333",
+    "geom:latitude":7.28333,
+    "geom:longitude":-2.75,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tuasuano",
+    "gn:country_code":"GH",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294366,
+    "gn:latitude":7.28333,
+    "gn:longitude":-2.75,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Tuasuano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294366
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"c8626c962b1431d57a5ad009907ad341",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759821,
+            "locality_id":1343776659,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1343776659,
+    "wof:lastmodified":1536787964,
+    "wof:name":"Tuasuano",
+    "wof:parent_id":1108759821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.75,
+    7.28333,
+    -2.75,
+    7.28333
+],
+  "geometry": {"coordinates":[-2.75,7.28333],"type":"Point"}
+}

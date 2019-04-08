@@ -1,0 +1,67 @@
+{
+  "id": 1226664235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.5,10.68333,-1.5,10.68333",
+    "geom:latitude":10.68333,
+    "geom:longitude":-1.5,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Alidem",
+    "gn:country_code":"GH",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304889,
+    "gn:latitude":10.68333,
+    "gn:longitude":-1.5,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Alidem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304889
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"74b6fd6eb20d2eafc215bb64a533a633",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759951,
+            "locality_id":1226664235,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1226664235,
+    "wof:lastmodified":1536831851,
+    "wof:name":"Alidem",
+    "wof:parent_id":1108759951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.5,
+    10.68333,
+    -1.5,
+    10.68333
+],
+  "geometry": {"coordinates":[-1.5,10.68333],"type":"Point"}
+}

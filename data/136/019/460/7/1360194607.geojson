@@ -1,0 +1,67 @@
+{
+  "id": 1360194607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.93333,6.3,0.93333,6.3",
+    "geom:latitude":6.3,
+    "geom:longitude":0.93333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tsinuti",
+    "gn:country_code":"GH",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294382,
+    "gn:latitude":6.3,
+    "gn:longitude":0.93333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Tsinuti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294382
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"1c429db44bcc95cd0ebaaffcf24ac337",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759969,
+            "locality_id":1360194607,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1360194607,
+    "wof:lastmodified":1536788034,
+    "wof:name":"Tsinuti",
+    "wof:parent_id":1108759969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.93333,
+    6.3,
+    0.93333,
+    6.3
+],
+  "geometry": {"coordinates":[0.93333,6.3],"type":"Point"}
+}

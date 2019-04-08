@@ -1,0 +1,71 @@
+{
+  "id": 1326845207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.44899,6.86541,-2.44899,6.86541",
+    "geom:latitude":6.86541,
+    "geom:longitude":-2.44899,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nkaseim",
+    "gn:country_code":"GH",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297328,
+    "gn:latitude":6.86541,
+    "gn:longitude":-2.44899,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nkaseim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nkasaam",
+        "Nkaseim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297328
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"662640e4a83b026a9e731abe4479760c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759813,
+            "locality_id":1326845207,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1326845207,
+    "wof:lastmodified":1537623527,
+    "wof:name":"Nkaseim",
+    "wof:parent_id":1108759813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.44899,
+    6.86541,
+    -2.44899,
+    6.86541
+],
+  "geometry": {"coordinates":[-2.44899,6.86541],"type":"Point"}
+}

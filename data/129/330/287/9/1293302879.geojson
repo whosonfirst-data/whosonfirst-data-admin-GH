@@ -1,0 +1,63 @@
+{
+  "id": 1293302879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.18333,11.15,-0.18333,11.15",
+    "geom:latitude":11.15,
+    "geom:longitude":-0.18333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Zirizawga",
+    "gn:country_code":"GH",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293630,
+    "gn:latitude":11.15,
+    "gn:longitude":-0.18333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Zirizawga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293630
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"2ac050e6cb801c5703af9a0cd91a93bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1293302879,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293302879,
+    "wof:lastmodified":1537050912,
+    "wof:name":"Zirizawga",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.18333,
+    11.15,
+    -0.18333,
+    11.15
+],
+  "geometry": {"coordinates":[-0.18333,11.15],"type":"Point"}
+}

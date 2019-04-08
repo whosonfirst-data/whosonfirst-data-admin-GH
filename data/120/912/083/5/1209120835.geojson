@@ -1,0 +1,65 @@
+{
+  "id": 1209120835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.21792,10.82577,-1.21792,10.82577",
+    "geom:latitude":10.82577,
+    "geom:longitude":-1.21792,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Abelio",
+    "gn:country_code":"GH",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306413,
+    "gn:latitude":10.82577,
+    "gn:longitude":-1.21792,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Abelio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chiana Abulo",
+        "Abelio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306413
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"0f46a00d5188aad468e689bc7dfc23d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209120835
+        }
+    ],
+    "wof:id":1209120835,
+    "wof:lastmodified":1537623854,
+    "wof:name":"Abelio",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.21792,
+    10.82577,
+    -1.21792,
+    10.82577
+],
+  "geometry": {"coordinates":[-1.21792,10.82577],"type":"Point"}
+}

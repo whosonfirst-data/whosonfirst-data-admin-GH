@@ -1,0 +1,67 @@
+{
+  "id": 1276458113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.77942,5.97237,0.77942,5.97237",
+    "geom:latitude":5.97237,
+    "geom:longitude":0.77942,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bayive",
+    "gn:country_code":"GH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303278,
+    "gn:latitude":5.97237,
+    "gn:longitude":0.77942,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Bayive",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303278
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a170ceab7a98de0b89f92fd5748586c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759969,
+            "locality_id":1276458113,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1276458113,
+    "wof:lastmodified":1536608712,
+    "wof:name":"Bayive",
+    "wof:parent_id":1108759969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.77942,
+    5.97237,
+    0.77942,
+    5.97237
+],
+  "geometry": {"coordinates":[0.77942,5.97237],"type":"Point"}
+}

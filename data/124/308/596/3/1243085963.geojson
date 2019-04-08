@@ -1,0 +1,67 @@
+{
+  "id": 1243085963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.52627,5.9823,0.52627,5.9823",
+    "geom:latitude":5.9823,
+    "geom:longitude":0.52627,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Fiave",
+    "gn:country_code":"GH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300933,
+    "gn:latitude":5.9823,
+    "gn:longitude":0.52627,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Fiave",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671353,
+        1108759903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300933
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"def3299794ee0138f77e7c7d6b5e2f87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759903,
+            "locality_id":1243085963,
+            "region_id":85671353
+        }
+    ],
+    "wof:id":1243085963,
+    "wof:lastmodified":1536827215,
+    "wof:name":"Fiave",
+    "wof:parent_id":1108759903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.52627,
+    5.9823,
+    0.52627,
+    5.9823
+],
+  "geometry": {"coordinates":[0.52627,5.9823],"type":"Point"}
+}

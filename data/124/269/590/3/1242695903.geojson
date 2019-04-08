@@ -1,0 +1,71 @@
+{
+  "id": 1242695903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.51537,6.00492,-1.51537,6.00492",
+    "geom:latitude":6.00492,
+    "geom:longitude":-1.51537,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Opunikrom",
+    "gn:country_code":"GH",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296284,
+    "gn:latitude":6.00492,
+    "gn:longitude":-1.51537,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Opunikrom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aduposo",
+        "Opunikrom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296284
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"2f8e218e7f5054e6d2c83040ce698f95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759771,
+            "locality_id":1242695903,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1242695903,
+    "wof:lastmodified":1537623490,
+    "wof:name":"Opunikrom",
+    "wof:parent_id":1108759771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.51537,
+    6.00492,
+    -1.51537,
+    6.00492
+],
+  "geometry": {"coordinates":[-1.51537,6.00492],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293307441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.61919,7.27536,0.61919,7.27536",
+    "geom:latitude":7.27536,
+    "geom:longitude":0.61919,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dzolu",
+    "gn:country_code":"GH",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301362,
+    "gn:latitude":7.27536,
+    "gn:longitude":0.61919,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dzolu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Solo",
+        "Dzolu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301362
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"e191caffaba1e5df511ea7d93c4bacb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759975,
+            "locality_id":1293307441,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1293307441,
+    "wof:lastmodified":1537623676,
+    "wof:name":"Dzolu",
+    "wof:parent_id":1108759975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.61919,
+    7.27536,
+    0.61919,
+    7.27536
+],
+  "geometry": {"coordinates":[0.61919,7.27536],"type":"Point"}
+}

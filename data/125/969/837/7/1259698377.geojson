@@ -1,0 +1,70 @@
+{
+  "id": 1259698377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.81455,10.52562,-2.81455,10.52562",
+    "geom:latitude":10.52562,
+    "geom:longitude":-2.81455,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Tugu",
+    "gn:country_code":"GH",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294356,
+    "gn:latitude":10.52562,
+    "gn:longitude":-2.81455,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Tugu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tugu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294356
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"df2f6bdbb0012458cd2ac28bc49d0aad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759955,
+            "locality_id":1259698377,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1259698377,
+    "wof:lastmodified":1537623423,
+    "wof:name":"Tugu",
+    "wof:parent_id":1108759955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.81455,
+    10.52562,
+    -2.81455,
+    10.52562
+],
+  "geometry": {"coordinates":[-2.81455,10.52562],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343575801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.02901,6.17931,1.02901,6.17931",
+    "geom:latitude":6.17931,
+    "geom:longitude":1.02901,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Anyigbademe",
+    "gn:country_code":"GH",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304440,
+    "gn:latitude":6.17931,
+    "gn:longitude":1.02901,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Anyigbademe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hormegble",
+        "Anyigbademe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304440
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"5e42e3cb66d65ac9aead78358f1f77d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759983,
+            "locality_id":1343575801,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1343575801,
+    "wof:lastmodified":1537623785,
+    "wof:name":"Anyigbademe",
+    "wof:parent_id":1108759983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.02901,
+    6.17931,
+    1.02901,
+    6.17931
+],
+  "geometry": {"coordinates":[1.02901,6.17931],"type":"Point"}
+}

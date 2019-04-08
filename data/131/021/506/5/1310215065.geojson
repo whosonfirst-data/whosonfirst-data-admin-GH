@@ -1,0 +1,74 @@
+{
+  "id": 1310215065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.78874,10.63752,-2.78874,10.63752",
+    "geom:latitude":10.63752,
+    "geom:longitude":-2.78874,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Nabugangn",
+    "gn:country_code":"GH",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297748,
+    "gn:latitude":10.63752,
+    "gn:longitude":-2.78874,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Nabugangn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nabugangn"
+    ],
+    "name:und_x_variant":[
+        "Naburnye",
+        "Nabrunjan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297748
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"53d03df06b4bf48811ad631afc2e2cfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759957,
+            "locality_id":1310215065,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1310215065,
+    "wof:lastmodified":1537623544,
+    "wof:name":"Nabugangn",
+    "wof:parent_id":1108759957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.78874,
+    10.63752,
+    -2.78874,
+    10.63752
+],
+  "geometry": {"coordinates":[-2.78874,10.63752],"type":"Point"}
+}

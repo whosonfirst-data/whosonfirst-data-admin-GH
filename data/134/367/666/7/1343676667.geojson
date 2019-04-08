@@ -1,0 +1,74 @@
+{
+  "id": 1343676667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.6461,6.58828,-1.6461,6.58828",
+    "geom:latitude":6.58828,
+    "geom:longitude":-1.6461,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bekwame",
+    "gn:country_code":"GH",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303223,
+    "gn:latitude":6.58828,
+    "gn:longitude":-1.6461,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Bekwame",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bekwame"
+    ],
+    "name:und_x_variant":[
+        "Bekwamin",
+        "Bekwami"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303223
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"1e17a7029be31bb462f997cfa86cf244",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759793,
+            "locality_id":1343676667,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1343676667,
+    "wof:lastmodified":1537623742,
+    "wof:name":"Bekwame",
+    "wof:parent_id":1108759793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.6461,
+    6.58828,
+    -1.6461,
+    6.58828
+],
+  "geometry": {"coordinates":[-1.6461,6.58828],"type":"Point"}
+}

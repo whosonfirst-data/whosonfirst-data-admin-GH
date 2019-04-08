@@ -1,0 +1,74 @@
+{
+  "id": 1226664487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.89049,4.83018,-1.89049,4.83018",
+    "geom:latitude":4.83018,
+    "geom:longitude":-1.89049,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Asemkaw",
+    "gn:country_code":"GH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304157,
+    "gn:latitude":4.83018,
+    "gn:longitude":-1.89049,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Asemkaw",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Asemkaw"
+    ],
+    "name:und_x_variant":[
+        "Asemkau",
+        "Asemko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108759993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304157
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a7389350c5e554b35fea8d15d246cddc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759993,
+            "locality_id":1226664487,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1226664487,
+    "wof:lastmodified":1537623776,
+    "wof:name":"Asemkaw",
+    "wof:parent_id":1108759993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.89049,
+    4.83018,
+    -1.89049,
+    4.83018
+],
+  "geometry": {"coordinates":[-1.89049,4.83018],"type":"Point"}
+}

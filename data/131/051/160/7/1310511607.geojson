@@ -1,0 +1,71 @@
+{
+  "id": 1310511607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.65421,10.64303,-2.65421,10.64303",
+    "geom:latitude":10.64303,
+    "geom:longitude":-2.65421,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Dia",
+    "gn:country_code":"GH",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301779,
+    "gn:latitude":10.64303,
+    "gn:longitude":-2.65421,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Dia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Die",
+        "Dia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301779
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"09c2fa448b41d3be65b9fcfa425b2baf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759955,
+            "locality_id":1310511607,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1310511607,
+    "wof:lastmodified":1537623694,
+    "wof:name":"Dia",
+    "wof:parent_id":1108759955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.65421,
+    10.64303,
+    -2.65421,
+    10.64303
+],
+  "geometry": {"coordinates":[-2.65421,10.64303],"type":"Point"}
+}

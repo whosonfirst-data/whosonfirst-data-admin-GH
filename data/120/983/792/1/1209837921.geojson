@@ -1,0 +1,71 @@
+{
+  "id": 1209837921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.10582,6.11026,1.10582,6.11026",
+    "geom:latitude":6.11026,
+    "geom:longitude":1.10582,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kpogedi",
+    "gn:country_code":"GH",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299158,
+    "gn:latitude":6.11026,
+    "gn:longitude":1.10582,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kpogedi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kpogadi",
+        "Kpogedi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299158
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"225b806020d96290f10aa649fb93e445",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759983,
+            "locality_id":1209837921,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1209837921,
+    "wof:lastmodified":1537623592,
+    "wof:name":"Kpogedi",
+    "wof:parent_id":1108759983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.10582,
+    6.11026,
+    1.10582,
+    6.11026
+],
+  "geometry": {"coordinates":[1.10582,6.11026],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242884073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.08319,9.50203,-1.08319,9.50203",
+    "geom:latitude":9.50203,
+    "geom:longitude":-1.08319,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Zergua",
+    "gn:country_code":"GH",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293658,
+    "gn:latitude":9.50203,
+    "gn:longitude":-1.08319,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Zergua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293658
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"97605c1b3776c4df9cab8c90f22f527a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759935,
+            "locality_id":1242884073,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1242884073,
+    "wof:lastmodified":1536620044,
+    "wof:name":"Zergua",
+    "wof:parent_id":1108759935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.08319,
+    9.50203,
+    -1.08319,
+    9.50203
+],
+  "geometry": {"coordinates":[-1.08319,9.50203],"type":"Point"}
+}

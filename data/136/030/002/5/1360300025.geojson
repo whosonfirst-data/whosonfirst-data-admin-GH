@@ -1,0 +1,71 @@
+{
+  "id": 1360300025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.01294,9.84593,-1.01294,9.84593",
+    "geom:latitude":9.84593,
+    "geom:longitude":-1.01294,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Duni",
+    "gn:country_code":"GH",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301407,
+    "gn:latitude":9.84593,
+    "gn:longitude":-1.01294,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Duni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Duuni",
+        "Duni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301407
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ed89b7bc8de22bd560c2a842e1126e9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759935,
+            "locality_id":1360300025,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1360300025,
+    "wof:lastmodified":1537623679,
+    "wof:name":"Duni",
+    "wof:parent_id":1108759935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.01294,
+    9.84593,
+    -1.01294,
+    9.84593
+],
+  "geometry": {"coordinates":[-1.01294,9.84593],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310214939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.30345,10.49587,-1.30345,10.49587",
+    "geom:latitude":10.49587,
+    "geom:longitude":-1.30345,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kasisa",
+    "gn:country_code":"GH",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299748,
+    "gn:latitude":10.49587,
+    "gn:longitude":-1.30345,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Kasisa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299748
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"031ab4887eb43ca7a2692c77d0f93e01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759951,
+            "locality_id":1310214939,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1310214939,
+    "wof:lastmodified":1536837517,
+    "wof:name":"Kasisa",
+    "wof:parent_id":1108759951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.30345,
+    10.49587,
+    -1.30345,
+    10.49587
+],
+  "geometry": {"coordinates":[-1.30345,10.49587],"type":"Point"}
+}

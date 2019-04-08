@@ -1,0 +1,71 @@
+{
+  "id": 1209929075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.63686,4.98299,-1.63686,4.98299",
+    "geom:latitude":4.98299,
+    "geom:longitude":-1.63686,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Aboesi",
+    "gn:country_code":"GH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306280,
+    "gn:latitude":4.98299,
+    "gn:longitude":-1.63686,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Aboesi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abuesi",
+        "Aboesi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306280
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"89377fae50de2752b16b7661084dbfaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760011,
+            "locality_id":1209929075,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1209929075,
+    "wof:lastmodified":1537623850,
+    "wof:name":"Aboesi",
+    "wof:parent_id":1108760011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.63686,
+    4.98299,
+    -1.63686,
+    4.98299
+],
+  "geometry": {"coordinates":[-1.63686,4.98299],"type":"Point"}
+}

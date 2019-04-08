@@ -1,0 +1,70 @@
+{
+  "id": 1293404579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.88586,6.00609,-1.88586,6.00609",
+    "geom:latitude":6.00609,
+    "geom:longitude":-1.88586,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Akrofuom",
+    "gn:country_code":"GH",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305047,
+    "gn:latitude":6.00609,
+    "gn:longitude":-1.88586,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Akrofuom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Akrofuom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305047
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ce12e5408b9fde5caaf35c2296adc9af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759865,
+            "locality_id":1293404579,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1293404579,
+    "wof:lastmodified":1537623806,
+    "wof:name":"Akrofuom",
+    "wof:parent_id":1108759865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.88586,
+    6.00609,
+    -1.88586,
+    6.00609
+],
+  "geometry": {"coordinates":[-1.88586,6.00609],"type":"Point"}
+}

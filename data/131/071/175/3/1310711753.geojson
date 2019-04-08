@@ -1,0 +1,73 @@
+{
+  "id": 1310711753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.6728,6.90775,-1.6728,6.90775",
+    "geom:latitude":6.90775,
+    "geom:longitude":-1.6728,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ayensuafufuo",
+    "gn:country_code":"GH",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303591,
+    "gn:latitude":6.90775,
+    "gn:longitude":-1.6728,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Ayensuafufuo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ayensuafufuo"
+    ],
+    "name:eng_x_variant":[
+        "Ayensua Fufuo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303591
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"d46216aac960c2584ce8dad337efdd10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759805,
+            "locality_id":1310711753,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1310711753,
+    "wof:lastmodified":1537623756,
+    "wof:name":"Ayensuafufuo",
+    "wof:parent_id":1108759805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.6728,
+    6.90775,
+    -1.6728,
+    6.90775
+],
+  "geometry": {"coordinates":[-1.6728,6.90775],"type":"Point"}
+}

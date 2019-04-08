@@ -1,0 +1,70 @@
+{
+  "id": 1310323119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.52728,6.47949,-1.52728,6.47949",
+    "geom:latitude":6.47949,
+    "geom:longitude":-1.52728,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kurase",
+    "gn:country_code":"GH",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298796,
+    "gn:latitude":6.47949,
+    "gn:longitude":-1.52728,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Kurase",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kurasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298796
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"c16bed744dd0412af3b8f1a8d5ddbc1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759783,
+            "locality_id":1310323119,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1310323119,
+    "wof:lastmodified":1537623580,
+    "wof:name":"Kurase",
+    "wof:parent_id":1108759783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.52728,
+    6.47949,
+    -1.52728,
+    6.47949
+],
+  "geometry": {"coordinates":[-1.52728,6.47949],"type":"Point"}
+}

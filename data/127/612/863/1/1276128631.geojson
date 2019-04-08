@@ -1,0 +1,70 @@
+{
+  "id": 1276128631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.84869,10.82263,-2.84869,10.82263",
+    "geom:latitude":10.82263,
+    "geom:longitude":-2.84869,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Gengenkpe",
+    "gn:country_code":"GH",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300665,
+    "gn:latitude":10.82263,
+    "gn:longitude":-2.84869,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Gengenkpe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gegempwe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300665
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"bb4a7f8f2361c92947aaef6b84f5660b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759957,
+            "locality_id":1276128631,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1276128631,
+    "wof:lastmodified":1537623649,
+    "wof:name":"Gengenkpe",
+    "wof:parent_id":1108759957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.84869,
+    10.82263,
+    -2.84869,
+    10.82263
+],
+  "geometry": {"coordinates":[-2.84869,10.82263],"type":"Point"}
+}

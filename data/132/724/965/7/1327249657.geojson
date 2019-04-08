@@ -1,0 +1,71 @@
+{
+  "id": 1327249657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.00177,7.93219,-0.00177,7.93219",
+    "geom:latitude":7.93219,
+    "geom:longitude":-0.00177,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Monkra",
+    "gn:country_code":"GH",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297942,
+    "gn:latitude":7.93219,
+    "gn:longitude":-0.00177,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Monkra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bonkra",
+        "Monkra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297942
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"c03f1b51a5a42bda0828dea3a62c99b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759987,
+            "locality_id":1327249657,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1327249657,
+    "wof:lastmodified":1537623551,
+    "wof:name":"Monkra",
+    "wof:parent_id":1108759987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.00177,
+    7.93219,
+    -0.00177,
+    7.93219
+],
+  "geometry": {"coordinates":[-0.00177,7.93219],"type":"Point"}
+}

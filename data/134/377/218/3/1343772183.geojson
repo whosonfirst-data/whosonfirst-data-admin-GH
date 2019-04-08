@@ -1,0 +1,70 @@
+{
+  "id": 1343772183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.89221,10.68398,-2.89221,10.68398",
+    "geom:latitude":10.68398,
+    "geom:longitude":-2.89221,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Oribili",
+    "gn:country_code":"GH",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296341,
+    "gn:latitude":10.68398,
+    "gn:longitude":-2.89221,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Oribili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Olbini"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296341
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"04808e09024147d22a93ec800c7e1ded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759957,
+            "locality_id":1343772183,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1343772183,
+    "wof:lastmodified":1537623492,
+    "wof:name":"Oribili",
+    "wof:parent_id":1108759957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.89221,
+    10.68398,
+    -2.89221,
+    10.68398
+],
+  "geometry": {"coordinates":[-2.89221,10.68398],"type":"Point"}
+}

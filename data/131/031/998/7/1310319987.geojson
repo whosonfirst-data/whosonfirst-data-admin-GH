@@ -1,0 +1,73 @@
+{
+  "id": 1310319987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.99438,6.19564,-1.99438,6.19564",
+    "geom:latitude":6.19564,
+    "geom:longitude":-1.99438,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Apenimadi",
+    "gn:country_code":"GH",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304360,
+    "gn:latitude":6.19564,
+    "gn:longitude":-1.99438,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Apenimadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Apenimadi"
+    ],
+    "name:eng_x_variant":[
+        "Apenemedi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304360
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"71ccf23506edd32fa2e26c1053daf9d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759785,
+            "locality_id":1310319987,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1310319987,
+    "wof:lastmodified":1537623782,
+    "wof:name":"Apenimadi",
+    "wof:parent_id":1108759785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.99438,
+    6.19564,
+    -1.99438,
+    6.19564
+],
+  "geometry": {"coordinates":[-1.99438,6.19564],"type":"Point"}
+}

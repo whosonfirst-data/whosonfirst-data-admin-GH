@@ -1,0 +1,73 @@
+{
+  "id": 1243281929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.6942,5.05441,-2.6942,5.05441",
+    "geom:latitude":5.05441,
+    "geom:longitude":-2.6942,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tikobo I",
+    "gn:country_code":"GH",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294605,
+    "gn:latitude":5.05441,
+    "gn:longitude":-2.6942,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tikobo I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tikwabo Number 1",
+        "Tikwabo",
+        "Tikobo Number 1",
+        "Tikobo I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294605
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"3c0c717b27cad7b1f5ccb3f79648eb1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760001,
+            "locality_id":1243281929,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1243281929,
+    "wof:lastmodified":1537623432,
+    "wof:name":"Tikobo I",
+    "wof:parent_id":1108760001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.6942,
+    5.05441,
+    -2.6942,
+    5.05441
+],
+  "geometry": {"coordinates":[-2.6942,5.05441],"type":"Point"}
+}

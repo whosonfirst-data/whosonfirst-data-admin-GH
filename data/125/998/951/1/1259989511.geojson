@@ -1,0 +1,70 @@
+{
+  "id": 1259989511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.63485,6.38254,-1.63485,6.38254",
+    "geom:latitude":6.38254,
+    "geom:longitude":-1.63485,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Afoako",
+    "gn:country_code":"GH",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305674,
+    "gn:latitude":6.38254,
+    "gn:longitude":-1.63485,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Afoako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Afoako"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305674
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"c151fe7f7787edac24a5d538140dc406",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759783,
+            "locality_id":1259989511,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1259989511,
+    "wof:lastmodified":1537623829,
+    "wof:name":"Afoako",
+    "wof:parent_id":1108759783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.63485,
+    6.38254,
+    -1.63485,
+    6.38254
+],
+  "geometry": {"coordinates":[-1.63485,6.38254],"type":"Point"}
+}

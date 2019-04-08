@@ -1,0 +1,74 @@
+{
+  "id": 1226452345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.62519,8.32149,-0.62519,8.32149",
+    "geom:latitude":8.32149,
+    "geom:longitude":-0.62519,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Makongo",
+    "gn:country_code":"GH",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298309,
+    "gn:latitude":8.32149,
+    "gn:longitude":-0.62519,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Makongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yeji North",
+        "Mangpunja",
+        "Makango",
+        "Makono",
+        "Makongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298309
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a959772c5652c773870740fb17bc1cb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759919,
+            "locality_id":1226452345,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1226452345,
+    "wof:lastmodified":1537623564,
+    "wof:name":"Makongo",
+    "wof:parent_id":1108759919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.62519,
+    8.32149,
+    -0.62519,
+    8.32149
+],
+  "geometry": {"coordinates":[-0.62519,8.32149],"type":"Point"}
+}

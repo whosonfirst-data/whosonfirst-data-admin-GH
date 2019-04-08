@@ -1,0 +1,61 @@
+{
+  "id": 1209116249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.18278,6.1451,1.18278,6.1451",
+    "geom:latitude":6.1451,
+    "geom:longitude":1.18278,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tama",
+    "gn:country_code":"GH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294882,
+    "gn:latitude":6.1451,
+    "gn:longitude":1.18278,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Tama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294882
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"52f07d48c0e867e5826eebefa6a71ceb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209116249
+        }
+    ],
+    "wof:id":1209116249,
+    "wof:lastmodified":1536297244,
+    "wof:name":"Tama",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.18278,
+    6.1451,
+    1.18278,
+    6.1451
+],
+  "geometry": {"coordinates":[1.18278,6.1451],"type":"Point"}
+}

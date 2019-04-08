@@ -1,0 +1,68 @@
+{
+  "id": 1209116225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.55365,5.35351,-1.55365,5.35351",
+    "geom:latitude":5.35351,
+    "geom:longitude":-1.55365,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Wasa Atobiase",
+    "gn:country_code":"GH",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303821,
+    "gn:latitude":5.35351,
+    "gn:longitude":-1.55365,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Wasa Atobiase",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Wasa Atobiase"
+    ],
+    "name:und_x_variant":[
+        "Antobiase",
+        "Atobiasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303821
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"898d8ea00ec25abfae77375ce54569bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209116225
+        }
+    ],
+    "wof:id":1209116225,
+    "wof:lastmodified":1537623763,
+    "wof:name":"Wasa Atobiase",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.55365,
+    5.35351,
+    -1.55365,
+    5.35351
+],
+  "geometry": {"coordinates":[-1.55365,5.35351],"type":"Point"}
+}

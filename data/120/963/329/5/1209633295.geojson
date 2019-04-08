@@ -1,0 +1,68 @@
+{
+  "id": 1209633295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.0841,10.07202,-0.0841,10.07202",
+    "geom:latitude":10.07202,
+    "geom:longitude":-0.0841,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nausugu",
+    "gn:country_code":"GH",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297501,
+    "gn:latitude":10.07202,
+    "gn:longitude":-0.0841,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Nausugu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nawhorgu",
+        "Naukorgu",
+        "Nawuhugu",
+        "Nawohugu",
+        "Nawchugu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297501
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"e09f6e0c6f09a17eb6ba348b851b6921",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209633295
+        }
+    ],
+    "wof:id":1209633295,
+    "wof:lastmodified":1537623533,
+    "wof:name":"Nausugu",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.0841,
+    10.07202,
+    -0.0841,
+    10.07202
+],
+  "geometry": {"coordinates":[-0.0841,10.07202],"type":"Point"}
+}

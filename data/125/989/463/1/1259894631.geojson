@@ -1,0 +1,73 @@
+{
+  "id": 1259894631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.5552,6.02191,-1.5552,6.02191",
+    "geom:latitude":6.02191,
+    "geom:longitude":-1.5552,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Yaw Owusukurom",
+    "gn:country_code":"GH",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293866,
+    "gn:latitude":6.02191,
+    "gn:longitude":-1.5552,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Yaw Owusukurom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yaw Owusukurom"
+    ],
+    "name:eng_x_variant":[
+        "Yantoakrom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293866
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"83a2d6c49896ebb230f4c8ff35909e3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759773,
+            "locality_id":1259894631,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1259894631,
+    "wof:lastmodified":1537623404,
+    "wof:name":"Yaw Owusukurom",
+    "wof:parent_id":1108759773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.5552,
+    6.02191,
+    -1.5552,
+    6.02191
+],
+  "geometry": {"coordinates":[-1.5552,6.02191],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327348277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.63967,6.42562,-1.63967,6.42562",
+    "geom:latitude":6.42562,
+    "geom:longitude":-1.63967,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Asanso-Patase",
+    "gn:country_code":"GH",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296069,
+    "gn:latitude":6.42562,
+    "gn:longitude":-1.63967,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Asanso-Patase",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Asanso-Patase"
+    ],
+    "name:und_x_variant":[
+        "Patase",
+        "Patasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296069
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"54386c3f64deeaf917684dc96f70969f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759783,
+            "locality_id":1327348277,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1327348277,
+    "wof:lastmodified":1537623482,
+    "wof:name":"Asanso-Patase",
+    "wof:parent_id":1108759783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.63967,
+    6.42562,
+    -1.63967,
+    6.42562
+],
+  "geometry": {"coordinates":[-1.63967,6.42562],"type":"Point"}
+}

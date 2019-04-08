@@ -1,0 +1,67 @@
+{
+  "id": 1327144403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.71186,5.8859,0.71186,5.8859",
+    "geom:latitude":5.8859,
+    "geom:longitude":0.71186,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Aglokpovia",
+    "gn:country_code":"GH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305554,
+    "gn:latitude":5.8859,
+    "gn:longitude":0.71186,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Aglokpovia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305554
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"3fc1484a6ab9615ceea962cc53015312",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759981,
+            "locality_id":1327144403,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1327144403,
+    "wof:lastmodified":1537093355,
+    "wof:name":"Aglokpovia",
+    "wof:parent_id":1108759981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.71186,
+    5.8859,
+    0.71186,
+    5.8859
+],
+  "geometry": {"coordinates":[0.71186,5.8859],"type":"Point"}
+}

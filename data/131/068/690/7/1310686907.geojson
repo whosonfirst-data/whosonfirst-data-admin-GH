@@ -1,0 +1,71 @@
+{
+  "id": 1310686907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.02691,6.09889,1.02691,6.09889",
+    "geom:latitude":6.09889,
+    "geom:longitude":1.02691,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Amuatekokope",
+    "gn:country_code":"GH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298142,
+    "gn:latitude":6.09889,
+    "gn:longitude":1.02691,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Amuatekokope",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Matekpokofe",
+        "Amuatekokope"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298142
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"cbd556dfaf19fd87f136a28a8ec75728",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759983,
+            "locality_id":1310686907,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1310686907,
+    "wof:lastmodified":1537623558,
+    "wof:name":"Amuatekokope",
+    "wof:parent_id":1108759983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.02691,
+    6.09889,
+    1.02691,
+    6.09889
+],
+  "geometry": {"coordinates":[1.02691,6.09889],"type":"Point"}
+}

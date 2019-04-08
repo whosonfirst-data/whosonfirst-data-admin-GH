@@ -1,0 +1,72 @@
+{
+  "id": 1276246959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.13333,5.21667,-1.13333,5.21667",
+    "geom:latitude":5.21667,
+    "geom:longitude":-1.13333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Jwenuabadzi",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299992,
+    "gn:latitude":5.21667,
+    "gn:longitude":-1.13333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jwenuabadzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dwindwin Abazi",
+        "Jwenuabadzi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299992
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"d3c5b4b3cd2a2ef50038b92372e1fc70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759861,
+            "locality_id":1276246959,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1276246959,
+    "wof:lastmodified":1537623621,
+    "wof:name":"Jwenuabadzi",
+    "wof:parent_id":1108759861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.13333,
+    5.21667,
+    -1.13333,
+    5.21667
+],
+  "geometry": {"coordinates":[-1.13333,5.21667],"type":"Point"}
+}

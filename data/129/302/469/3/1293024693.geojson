@@ -1,0 +1,67 @@
+{
+  "id": 1293024693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.6,5.7,-0.6,5.7",
+    "geom:latitude":5.7,
+    "geom:longitude":-0.6,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Awutu Breku",
+    "gn:country_code":"GH",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9165836,
+    "gn:latitude":5.7,
+    "gn:longitude":-0.6,
+    "gn:modification_date":"2014-06-11",
+    "gn:name":"Awutu Breku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9165836
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"22a3e28f75db983fb431a330c43534cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759853,
+            "locality_id":1293024693,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1293024693,
+    "wof:lastmodified":1536957266,
+    "wof:name":"Awutu Breku",
+    "wof:parent_id":1108759853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.6,
+    5.7,
+    -0.6,
+    5.7
+],
+  "geometry": {"coordinates":[-0.6,5.7],"type":"Point"}
+}

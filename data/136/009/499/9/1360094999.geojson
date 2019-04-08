@@ -1,0 +1,68 @@
+{
+  "id": 1360094999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.37383,7.51325,0.37383,7.51325",
+    "geom:latitude":7.51325,
+    "geom:longitude":0.37383,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Worawora",
+    "gn:country_code":"GH",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293998,
+    "gn:latitude":7.51325,
+    "gn:longitude":0.37383,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Worawora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293998,
+        "wk:page":"Worawora"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a5088fc1c3706d0028bfee180300857b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759979,
+            "locality_id":1360094999,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1360094999,
+    "wof:lastmodified":1537563022,
+    "wof:name":"Worawora",
+    "wof:parent_id":1108759979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.37383,
+    7.51325,
+    0.37383,
+    7.51325
+],
+  "geometry": {"coordinates":[0.37383,7.51325],"type":"Point"}
+}

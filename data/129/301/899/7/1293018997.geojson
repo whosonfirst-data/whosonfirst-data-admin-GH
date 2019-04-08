@@ -1,0 +1,67 @@
+{
+  "id": 1293018997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.96667,5.33333,-0.96667,5.33333",
+    "geom:latitude":5.33333,
+    "geom:longitude":-0.96667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Budukwa",
+    "gn:country_code":"GH",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302509,
+    "gn:latitude":5.33333,
+    "gn:longitude":-0.96667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Budukwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302509
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"fc3e7cb36bfb53d8b7e080f2310f3e1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759845,
+            "locality_id":1293018997,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1293018997,
+    "wof:lastmodified":1536965261,
+    "wof:name":"Budukwa",
+    "wof:parent_id":1108759845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.96667,
+    5.33333,
+    -0.96667,
+    5.33333
+],
+  "geometry": {"coordinates":[-0.96667,5.33333],"type":"Point"}
+}

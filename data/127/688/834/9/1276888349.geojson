@@ -1,0 +1,70 @@
+{
+  "id": 1276888349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.8377,5.08592,-1.8377,5.08592",
+    "geom:latitude":5.08592,
+    "geom:longitude":-1.8377,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Manso",
+    "gn:country_code":"GH",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298179,
+    "gn:latitude":5.08592,
+    "gn:longitude":-1.8377,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Manso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Manso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298179
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"fd83944cb84a5cb5664b2d33754629d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760005,
+            "locality_id":1276888349,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1276888349,
+    "wof:lastmodified":1537623559,
+    "wof:name":"Manso",
+    "wof:parent_id":1108760005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.8377,
+    5.08592,
+    -1.8377,
+    5.08592
+],
+  "geometry": {"coordinates":[-1.8377,5.08592],"type":"Point"}
+}

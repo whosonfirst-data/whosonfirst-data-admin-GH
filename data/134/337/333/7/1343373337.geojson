@@ -1,0 +1,71 @@
+{
+  "id": 1343373337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.00976,6.18851,1.00976,6.18851",
+    "geom:latitude":6.18851,
+    "geom:longitude":1.00976,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Huve",
+    "gn:country_code":"GH",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300320,
+    "gn:latitude":6.18851,
+    "gn:longitude":1.00976,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Huve",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huive",
+        "Huve"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300320
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"0a4c7df23171c0333c73674b7131e009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759983,
+            "locality_id":1343373337,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1343373337,
+    "wof:lastmodified":1537623636,
+    "wof:name":"Huve",
+    "wof:parent_id":1108759983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.00976,
+    6.18851,
+    1.00976,
+    6.18851
+],
+  "geometry": {"coordinates":[1.00976,6.18851],"type":"Point"}
+}

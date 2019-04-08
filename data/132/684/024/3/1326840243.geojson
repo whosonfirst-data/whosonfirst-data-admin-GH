@@ -1,0 +1,71 @@
+{
+  "id": 1326840243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.97204,5.97658,-1.97204,5.97658",
+    "geom:latitude":5.97658,
+    "geom:longitude":-1.97204,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Pewurakaw",
+    "gn:country_code":"GH",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2295976,
+    "gn:latitude":5.97658,
+    "gn:longitude":-1.97204,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Pewurakaw",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pewuako",
+        "Pewurakaw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2295976
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"8166fab8b154bc72198f18ddec799cf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760015,
+            "locality_id":1326840243,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1326840243,
+    "wof:lastmodified":1537623479,
+    "wof:name":"Pewurakaw",
+    "wof:parent_id":1108760015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.97204,
+    5.97658,
+    -1.97204,
+    5.97658
+],
+  "geometry": {"coordinates":[-1.97204,5.97658],"type":"Point"}
+}

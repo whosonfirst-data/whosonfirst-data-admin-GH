@@ -1,0 +1,109 @@
+{
+  "id": 1125892915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.2361,5.65003,-0.2361,5.65003",
+    "geom:latitude":5.65003,
+    "geom:longitude":-0.2361,
+    "gn:gn_country":"GH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":47260,
+    "gn:population":47260,
+    "iso:country":"GH",
+    "lbl:latitude":5.65003,
+    "lbl:longitude":-0.2361,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Dome"
+    ],
+    "name:eng_x_preferred":[
+        "Dome"
+    ],
+    "name:fre_x_preferred":[
+        "Dome"
+    ],
+    "name:ger_x_preferred":[
+        "Dome"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30fc\u30e0"
+    ],
+    "name:kor_x_preferred":[
+        "\ub3d4"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043c"
+    ],
+    "name:swe_x_preferred":[
+        "Dome"
+    ],
+    "name:unk_x_variant":[
+        "Dam"
+    ],
+    "name:urd_x_preferred":[
+        "\u0688\u0648\u0645\u060c \u06af\u06be\u0627\u0646\u0627"
+    ],
+    "qs_pg:aaroncc":"GH",
+    "qs_pg:gn_country":"GH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2301639,
+    "qs_pg:gn_pop":47260,
+    "qs_pg:name":"Dome",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":1034777,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671353,
+        1108759909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301639,
+        "qs_pg:id":1034777,
+        "wd:id":"Q1236987"
+    },
+    "wof:country":"GH",
+    "wof:created":1497295405,
+    "wof:geomhash":"0b5ccea663d5df2fa9a00a81acb75c2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759909,
+            "locality_id":1125892915,
+            "region_id":85671353
+        }
+    ],
+    "wof:id":1125892915,
+    "wof:lastmodified":1553816607,
+    "wof:name":"Dome",
+    "wof:parent_id":1108759909,
+    "wof:placetype":"locality",
+    "wof:population":47260,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.2361,
+    5.65003,
+    -0.2361,
+    5.65003
+],
+  "geometry": {"coordinates":[-0.2361,5.65003],"type":"Point"}
+}

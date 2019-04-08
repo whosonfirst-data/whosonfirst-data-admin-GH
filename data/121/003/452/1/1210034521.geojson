@@ -1,0 +1,73 @@
+{
+  "id": 1210034521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.76584,10.37723,-0.76584,10.37723",
+    "geom:latitude":10.37723,
+    "geom:longitude":-0.76584,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nayawko",
+    "gn:country_code":"GH",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297494,
+    "gn:latitude":10.37723,
+    "gn:longitude":-0.76584,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nayawko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naiyoko",
+        "Nayoku",
+        "Nayuwko",
+        "Nayawko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297494
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"6602460b56eddea3ee1f0b5024a2433d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759937,
+            "locality_id":1210034521,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1210034521,
+    "wof:lastmodified":1537623533,
+    "wof:name":"Nayawko",
+    "wof:parent_id":1108759937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.76584,
+    10.37723,
+    -0.76584,
+    10.37723
+],
+  "geometry": {"coordinates":[-0.76584,10.37723],"type":"Point"}
+}

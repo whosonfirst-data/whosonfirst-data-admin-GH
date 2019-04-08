@@ -1,0 +1,67 @@
+{
+  "id": 1310223297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.72884,9.44914,-0.72884,9.44914",
+    "geom:latitude":9.44914,
+    "geom:longitude":-0.72884,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kula",
+    "gn:country_code":"GH",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298958,
+    "gn:latitude":9.44914,
+    "gn:longitude":-0.72884,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Kula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298958
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"4db2cbc506e06498851f58563a06d238",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759933,
+            "locality_id":1310223297,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1310223297,
+    "wof:lastmodified":1536825640,
+    "wof:name":"Kula",
+    "wof:parent_id":1108759933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.72884,
+    9.44914,
+    -0.72884,
+    9.44914
+],
+  "geometry": {"coordinates":[-0.72884,9.44914],"type":"Point"}
+}

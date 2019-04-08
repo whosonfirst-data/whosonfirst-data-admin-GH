@@ -1,0 +1,67 @@
+{
+  "id": 1343868175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.73333,5.76667,-2.73333,5.76667",
+    "geom:latitude":5.76667,
+    "geom:longitude":-2.73333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Oubunu",
+    "gn:country_code":"GH",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296225,
+    "gn:latitude":5.76667,
+    "gn:longitude":-2.73333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Oubunu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108759997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296225
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"529911e51d2969a93237f67da3c935d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759997,
+            "locality_id":1343868175,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1343868175,
+    "wof:lastmodified":1536655411,
+    "wof:name":"Oubunu",
+    "wof:parent_id":1108759997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.73333,
+    5.76667,
+    -2.73333,
+    5.76667
+],
+  "geometry": {"coordinates":[-2.73333,5.76667],"type":"Point"}
+}

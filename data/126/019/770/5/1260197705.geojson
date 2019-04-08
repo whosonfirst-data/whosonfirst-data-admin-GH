@@ -1,0 +1,76 @@
+{
+  "id": 1260197705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.69962,5.05567,-1.69962,5.05567",
+    "geom:latitude":5.05567,
+    "geom:longitude":-1.69962,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Botawjwina",
+    "gn:country_code":"GH",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302653,
+    "gn:latitude":5.05567,
+    "gn:longitude":-1.69962,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Botawjwina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Botodwina"
+    ],
+    "name:und_x_variant":[
+        "Abuoso",
+        "Botajuna",
+        "Aboso",
+        "Botawjwina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302653
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"fbfa95a596493a0ad3e4851434ae7d0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760005,
+            "locality_id":1260197705,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1260197705,
+    "wof:lastmodified":1537623724,
+    "wof:name":"Botawjwina",
+    "wof:parent_id":1108760005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.69962,
+    5.05567,
+    -1.69962,
+    5.05567
+],
+  "geometry": {"coordinates":[-1.69962,5.05567],"type":"Point"}
+}

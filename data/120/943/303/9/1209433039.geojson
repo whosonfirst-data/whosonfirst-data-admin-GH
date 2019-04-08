@@ -1,0 +1,61 @@
+{
+  "id": 1209433039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.25,6.55,-1.25,6.55",
+    "geom:latitude":6.55,
+    "geom:longitude":-1.25,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Abakwam",
+    "gn:country_code":"GH",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306452,
+    "gn:latitude":6.55,
+    "gn:longitude":-1.25,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Abakwam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306452
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"6e3d124501bcb6f92f7b487fd544cf7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209433039
+        }
+    ],
+    "wof:id":1209433039,
+    "wof:lastmodified":1536287182,
+    "wof:name":"Abakwam",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.25,
+    6.55,
+    -1.25,
+    6.55
+],
+  "geometry": {"coordinates":[-1.25,6.55],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343276795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.27006,7.42731,-1.27006,7.42731",
+    "geom:latitude":7.42731,
+    "geom:longitude":-1.27006,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Unya",
+    "gn:country_code":"GH",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294292,
+    "gn:latitude":7.42731,
+    "gn:longitude":-1.27006,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Unya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Unyu",
+        "Unya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294292
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"57bd49d36b26159fd9bca69af2da648f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759799,
+            "locality_id":1343276795,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1343276795,
+    "wof:lastmodified":1537623420,
+    "wof:name":"Unya",
+    "wof:parent_id":1108759799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.27006,
+    7.42731,
+    -1.27006,
+    7.42731
+],
+  "geometry": {"coordinates":[-1.27006,7.42731],"type":"Point"}
+}

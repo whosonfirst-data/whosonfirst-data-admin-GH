@@ -1,0 +1,65 @@
+{
+  "id": 1209629393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.53333,5.5,-0.53333,5.5",
+    "geom:latitude":5.5,
+    "geom:longitude":-0.53333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Akweti",
+    "gn:country_code":"GH",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304917,
+    "gn:latitude":5.5,
+    "gn:longitude":-0.53333,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Akweti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akwetsi",
+        "Akweti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304917
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"da98120656c9c2f9b24ae62eea116ef0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209629393
+        }
+    ],
+    "wof:id":1209629393,
+    "wof:lastmodified":1537623801,
+    "wof:name":"Akweti",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.53333,
+    5.5,
+    -0.53333,
+    5.5
+],
+  "geometry": {"coordinates":[-0.53333,5.5],"type":"Point"}
+}

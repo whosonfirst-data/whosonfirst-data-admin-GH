@@ -1,0 +1,61 @@
+{
+  "id": 1209329383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.02494,10.09654,-0.02494,10.09654",
+    "geom:latitude":10.09654,
+    "geom:longitude":-0.02494,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Funga",
+    "gn:country_code":"GH",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300836,
+    "gn:latitude":10.09654,
+    "gn:longitude":-0.02494,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Funga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300836
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"2213ecf52cb131f1fe23e90df4e8957c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209329383
+        }
+    ],
+    "wof:id":1209329383,
+    "wof:lastmodified":1536290422,
+    "wof:name":"Funga",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.02494,
+    10.09654,
+    -0.02494,
+    10.09654
+],
+  "geometry": {"coordinates":[-0.02494,10.09654],"type":"Point"}
+}

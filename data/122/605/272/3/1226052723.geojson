@@ -1,0 +1,75 @@
+{
+  "id": 1226052723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.12139,5.17485,-1.12139,5.17485",
+    "geom:latitude":5.17485,
+    "geom:longitude":-1.12139,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Anomabu",
+    "gn:country_code":"GH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304538,
+    "gn:latitude":5.17485,
+    "gn:longitude":-1.12139,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Anomabu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anamaboe",
+        "Anomabo",
+        "Anamabo",
+        "Anamabu",
+        "Anomabu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304538,
+        "wk:page":"Anomabu"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"cb0c45eba324a0ae1c601dcc180c760f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759861,
+            "locality_id":1226052723,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1226052723,
+    "wof:lastmodified":1537623788,
+    "wof:name":"Anomabu",
+    "wof:parent_id":1108759861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.12139,
+    5.17485,
+    -1.12139,
+    5.17485
+],
+  "geometry": {"coordinates":[-1.12139,5.17485],"type":"Point"}
+}

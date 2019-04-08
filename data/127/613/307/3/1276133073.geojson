@@ -1,0 +1,70 @@
+{
+  "id": 1276133073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.33618,5.68183,-0.33618,5.68183",
+    "geom:latitude":5.68183,
+    "geom:longitude":-0.33618,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Obeyie",
+    "gn:country_code":"GH",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296683,
+    "gn:latitude":5.68183,
+    "gn:longitude":-0.33618,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Obeyie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Obeyie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671353,
+        1108759909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296683
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"983920649b901abe10b76e68e8eca34f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759909,
+            "locality_id":1276133073,
+            "region_id":85671353
+        }
+    ],
+    "wof:id":1276133073,
+    "wof:lastmodified":1537623504,
+    "wof:name":"Obeyie",
+    "wof:parent_id":1108759909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.33618,
+    5.68183,
+    -0.33618,
+    5.68183
+],
+  "geometry": {"coordinates":[-0.33618,5.68183],"type":"Point"}
+}

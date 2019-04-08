@@ -1,0 +1,74 @@
+{
+  "id": 1260304169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.00826,6.58759,-3.00826,6.58759",
+    "geom:latitude":6.58759,
+    "geom:longitude":-3.00826,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Adwufia",
+    "gn:country_code":"GH",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305264,
+    "gn:latitude":6.58759,
+    "gn:longitude":-3.00826,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Adwufia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Adwufia"
+    ],
+    "name:und_x_variant":[
+        "Adwoafua",
+        "Ajufia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305264
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"22da8dfc0bd415a37ce4c5d3d64c31d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760003,
+            "locality_id":1260304169,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1260304169,
+    "wof:lastmodified":1537623815,
+    "wof:name":"Adwufia",
+    "wof:parent_id":1108760003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.00826,
+    6.58759,
+    -3.00826,
+    6.58759
+],
+  "geometry": {"coordinates":[-3.00826,6.58759],"type":"Point"}
+}

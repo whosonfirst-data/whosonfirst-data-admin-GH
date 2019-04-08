@@ -1,0 +1,67 @@
+{
+  "id": 1259597679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.28947,6.99976,0.28947,6.99976",
+    "geom:latitude":6.99976,
+    "geom:longitude":0.28947,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gabi",
+    "gn:country_code":"GH",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300794,
+    "gn:latitude":6.99976,
+    "gn:longitude":0.28947,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Gabi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300794
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"faaaa18d2c3123de226ae0aa65b6524f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759985,
+            "locality_id":1259597679,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1259597679,
+    "wof:lastmodified":1536694465,
+    "wof:name":"Gabi",
+    "wof:parent_id":1108759985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.28947,
+    6.99976,
+    0.28947,
+    6.99976
+],
+  "geometry": {"coordinates":[0.28947,6.99976],"type":"Point"}
+}

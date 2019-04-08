@@ -1,0 +1,112 @@
+{
+  "id": 421181443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.89728,5.79473,0.89728,5.79473",
+    "geom:latitude":5.79473,
+    "geom:longitude":0.89728,
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0410\u043d\u043b\u043e\u0433\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Anloga"
+    ],
+    "name:deu_x_preferred":[
+        "Anloga"
+    ],
+    "name:dut_x_preferred":[
+        "Anloga"
+    ],
+    "name:eng_x_preferred":[
+        "Anloga"
+    ],
+    "name:ger_x_preferred":[
+        "Anloga"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30ed\u30ac"
+    ],
+    "name:swe_x_preferred":[
+        "Anloga"
+    ],
+    "name:unk_x_variant":[
+        "Awunaga"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0646\u0644\u0648\u06af\u0627"
+    ],
+    "qs:gn_country":"GH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2304548,
+    "qs:gn_pop":29748,
+    "qs:name":"Anloga",
+    "qs:name_adm0":"Ghana",
+    "qs:name_adm1":"Volta",
+    "qs:photos":311,
+    "qs:photos_1k":63,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":311,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":492805,
+    "qs:woe_adm0":23424824,
+    "qs:woe_id":1327047,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":325,
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304548,
+        "gp:id":1327047,
+        "qs:id":492805,
+        "wd:id":"Q557912",
+        "wk:page":"Anloga"
+    },
+    "wof:country":"GH",
+    "wof:created":1459009296,
+    "wof:geomhash":"e0305ed471811aef37b5c106069ad1af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759981,
+            "locality_id":421181443,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":421181443,
+    "wof:lastmodified":1527716328,
+    "wof:name":"Anloga",
+    "wof:parent_id":1108759981,
+    "wof:placetype":"locality",
+    "wof:population":29748,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.89728,
+    5.79473,
+    0.89728,
+    5.79473
+],
+  "geometry": {"coordinates":[0.89728,5.79473],"type":"Point"}
+}

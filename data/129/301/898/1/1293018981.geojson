@@ -1,0 +1,74 @@
+{
+  "id": 1293018981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.69123,5.92404,-1.69123,5.92404",
+    "geom:latitude":5.92404,
+    "geom:longitude":-1.69123,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Akropon",
+    "gn:country_code":"GH",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305028,
+    "gn:latitude":5.92404,
+    "gn:longitude":-1.69123,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Akropon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Akropon"
+    ],
+    "name:und_x_variant":[
+        "Akuropon",
+        "Akropong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305028
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ec6a8b0fea36532bb0de56c4dcfb7fef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759865,
+            "locality_id":1293018981,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1293018981,
+    "wof:lastmodified":1537623805,
+    "wof:name":"Akropon",
+    "wof:parent_id":1108759865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.69123,
+    5.92404,
+    -1.69123,
+    5.92404
+],
+  "geometry": {"coordinates":[-1.69123,5.92404],"type":"Point"}
+}

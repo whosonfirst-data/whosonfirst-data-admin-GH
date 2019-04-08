@@ -1,0 +1,65 @@
+{
+  "id": 1209229189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.30776,10.75802,-1.30776,10.75802",
+    "geom:latitude":10.75802,
+    "geom:longitude":-1.30776,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Fisa",
+    "gn:country_code":"GH",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300914,
+    "gn:latitude":10.75802,
+    "gn:longitude":-1.30776,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Fisa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sandema Fiisa",
+        "Fisa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300914
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"b144c66e2be451354b2769611ca39a85",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209229189
+        }
+    ],
+    "wof:id":1209229189,
+    "wof:lastmodified":1537623658,
+    "wof:name":"Fisa",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.30776,
+    10.75802,
+    -1.30776,
+    10.75802
+],
+  "geometry": {"coordinates":[-1.30776,10.75802],"type":"Point"}
+}

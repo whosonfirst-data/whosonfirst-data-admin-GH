@@ -1,0 +1,72 @@
+{
+  "id": 1310719865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.18333,5.23333,-2.18333,5.23333",
+    "geom:latitude":5.23333,
+    "geom:longitude":-2.18333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nsuaem",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297118,
+    "gn:latitude":5.23333,
+    "gn:longitude":-2.18333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nsuaem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nsuaiem",
+        "Nsuaem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297118
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"05cbae8b22290dc6d489fa0c8a0ca613",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760007,
+            "locality_id":1310719865,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1310719865,
+    "wof:lastmodified":1537623519,
+    "wof:name":"Nsuaem",
+    "wof:parent_id":1108760007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.18333,
+    5.23333,
+    -2.18333,
+    5.23333
+],
+  "geometry": {"coordinates":[-2.18333,5.23333],"type":"Point"}
+}

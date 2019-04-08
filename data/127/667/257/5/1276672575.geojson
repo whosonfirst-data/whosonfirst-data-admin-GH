@@ -1,0 +1,74 @@
+{
+  "id": 1276672575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.80292,6.16446,-1.80292,6.16446",
+    "geom:latitude":6.16446,
+    "geom:longitude":-1.80292,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Fenaso Number One",
+    "gn:country_code":"GH",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302968,
+    "gn:latitude":6.16446,
+    "gn:longitude":-1.80292,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Fenaso Number One",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Fenaso Number One"
+    ],
+    "name:eng_x_variant":[
+        "Bisiasi",
+        "Fenaso Number 1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302968
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"880cde7f51647a2b8403eb84c506def8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759783,
+            "locality_id":1276672575,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1276672575,
+    "wof:lastmodified":1537623734,
+    "wof:name":"Fenaso Number One",
+    "wof:parent_id":1108759783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.80292,
+    6.16446,
+    -1.80292,
+    6.16446
+],
+  "geometry": {"coordinates":[-1.80292,6.16446],"type":"Point"}
+}

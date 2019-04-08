@@ -1,0 +1,77 @@
+{
+  "id": 1293898145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.92135,5.01819,-1.92135,5.01819",
+    "geom:latitude":5.01819,
+    "geom:longitude":-1.92135,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Trebuom",
+    "gn:country_code":"GH",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294412,
+    "gn:latitude":5.01819,
+    "gn:longitude":-1.92135,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Trebuom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Trebuomu"
+    ],
+    "name:eng_x_variant":[
+        "Trebomu"
+    ],
+    "name:und_x_variant":[
+        "Treboimu",
+        "Trebuom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294412
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"2e4a3e1355b56aa9ef765b0dec519b8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760005,
+            "locality_id":1293898145,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1293898145,
+    "wof:lastmodified":1537623425,
+    "wof:name":"Trebuom",
+    "wof:parent_id":1108760005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.92135,
+    5.01819,
+    -1.92135,
+    5.01819
+],
+  "geometry": {"coordinates":[-1.92135,5.01819],"type":"Point"}
+}

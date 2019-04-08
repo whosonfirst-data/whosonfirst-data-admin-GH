@@ -1,0 +1,71 @@
+{
+  "id": 1260064023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.17713,10.8538,-0.17713,10.8538",
+    "geom:latitude":10.8538,
+    "geom:longitude":-0.17713,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Garu Natinga",
+    "gn:country_code":"GH",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300756,
+    "gn:latitude":10.8538,
+    "gn:longitude":-0.17713,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Garu Natinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Garu",
+        "Garu Natinga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300756
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a0dc0eb31b8331b4cac16725a0898830",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759943,
+            "locality_id":1260064023,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1260064023,
+    "wof:lastmodified":1537623652,
+    "wof:name":"Garu Natinga",
+    "wof:parent_id":1108759943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.17713,
+    10.8538,
+    -0.17713,
+    10.8538
+],
+  "geometry": {"coordinates":[-0.17713,10.8538],"type":"Point"}
+}

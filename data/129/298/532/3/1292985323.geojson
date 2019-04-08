@@ -1,0 +1,67 @@
+{
+  "id": 1292985323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.76675,4.9241,-1.76675,4.9241",
+    "geom:latitude":4.9241,
+    "geom:longitude":-1.76675,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Effia Kuma",
+    "gn:country_code":"GH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11205147,
+    "gn:latitude":4.9241,
+    "gn:longitude":-1.76675,
+    "gn:modification_date":"2016-07-28",
+    "gn:name":"Effia Kuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11205147
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"fe350d5533d3d745db34e1fe0681eb89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760011,
+            "locality_id":1292985323,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1292985323,
+    "wof:lastmodified":1537013268,
+    "wof:name":"Effia Kuma",
+    "wof:parent_id":1108760011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.76675,
+    4.9241,
+    -1.76675,
+    4.9241
+],
+  "geometry": {"coordinates":[-1.76675,4.9241],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293701365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.35883,6.02213,-0.35883,6.02213",
+    "geom:latitude":6.02213,
+    "geom:longitude":-0.35883,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Akorabu Kukua",
+    "gn:country_code":"GH",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305120,
+    "gn:latitude":6.02213,
+    "gn:longitude":-0.35883,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Akorabu Kukua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Korabu Kukua",
+        "Akorabo",
+        "Akorabu Kukua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305120
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"fed1c104829091ae11ca34b1a59d70b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759895,
+            "locality_id":1293701365,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1293701365,
+    "wof:lastmodified":1537623809,
+    "wof:name":"Akorabu Kukua",
+    "wof:parent_id":1108759895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.35883,
+    6.02213,
+    -0.35883,
+    6.02213
+],
+  "geometry": {"coordinates":[-0.35883,6.02213],"type":"Point"}
+}

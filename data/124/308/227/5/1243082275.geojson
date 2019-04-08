@@ -1,0 +1,78 @@
+{
+  "id": 1243082275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.03464,4.76064,-2.03464,4.76064",
+    "geom:latitude":4.76064,
+    "geom:longitude":-2.03464,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Esile",
+    "gn:country_code":"GH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304916,
+    "gn:latitude":4.76064,
+    "gn:longitude":-2.03464,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Esile",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Esile"
+    ],
+    "name:eng_x_variant":[
+        "Akodaa"
+    ],
+    "name:und_x_variant":[
+        "Akwada",
+        "Akwidaa",
+        "Akwida"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108759993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304916
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"4ddd1502b3ca7ffb6b218efbb736114a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759993,
+            "locality_id":1243082275,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1243082275,
+    "wof:lastmodified":1537623801,
+    "wof:name":"Esile",
+    "wof:parent_id":1108759993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.03464,
+    4.76064,
+    -2.03464,
+    4.76064
+],
+  "geometry": {"coordinates":[-2.03464,4.76064],"type":"Point"}
+}

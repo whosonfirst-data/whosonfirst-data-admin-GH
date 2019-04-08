@@ -1,0 +1,67 @@
+{
+  "id": 1343468685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.468,5.06518,-1.468,5.06518",
+    "geom:latitude":5.06518,
+    "geom:longitude":-1.468,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mandu",
+    "gn:country_code":"GH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298248,
+    "gn:latitude":5.06518,
+    "gn:longitude":-1.468,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Mandu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298248
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"c192a890b1abb8472d78cda2233ba2c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759859,
+            "locality_id":1343468685,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1343468685,
+    "wof:lastmodified":1536734331,
+    "wof:name":"Mandu",
+    "wof:parent_id":1108759859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.468,
+    5.06518,
+    -1.468,
+    5.06518
+],
+  "geometry": {"coordinates":[-1.468,5.06518],"type":"Point"}
+}

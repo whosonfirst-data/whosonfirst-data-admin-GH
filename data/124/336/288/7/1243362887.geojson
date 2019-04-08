@@ -1,0 +1,71 @@
+{
+  "id": 1243362887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.16419,5.86333,-0.16419,5.86333",
+    "geom:latitude":5.86333,
+    "geom:longitude":-0.16419,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Afwerasi",
+    "gn:country_code":"GH",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305632,
+    "gn:latitude":5.86333,
+    "gn:longitude":-0.16419,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Afwerasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ahwerase",
+        "Afwerasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305632
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"04b2cd3e082f177b15751a73fd0c4fa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759873,
+            "locality_id":1243362887,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1243362887,
+    "wof:lastmodified":1537623827,
+    "wof:name":"Afwerasi",
+    "wof:parent_id":1108759873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.16419,
+    5.86333,
+    -0.16419,
+    5.86333
+],
+  "geometry": {"coordinates":[-0.16419,5.86333],"type":"Point"}
+}

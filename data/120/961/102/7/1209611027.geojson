@@ -1,0 +1,64 @@
+{
+  "id": 1209611027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.12099,4.91315,-2.12099,4.91315",
+    "geom:latitude":4.91315,
+    "geom:longitude":-2.12099,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Bakunchirako",
+    "gn:country_code":"GH",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303468,
+    "gn:latitude":4.91315,
+    "gn:longitude":-2.12099,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Bakunchirako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bakunchirako"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303468
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"10afa56a70f353cff9d18754ed9049a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209611027
+        }
+    ],
+    "wof:id":1209611027,
+    "wof:lastmodified":1537623752,
+    "wof:name":"Bakunchirako",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.12099,
+    4.91315,
+    -2.12099,
+    4.91315
+],
+  "geometry": {"coordinates":[-2.12099,4.91315],"type":"Point"}
+}

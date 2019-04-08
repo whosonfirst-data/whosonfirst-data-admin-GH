@@ -1,0 +1,67 @@
+{
+  "id": 1226460261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.56667,5.8,-0.56667,5.8",
+    "geom:latitude":5.8,
+    "geom:longitude":-0.56667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Minkumidie",
+    "gn:country_code":"GH",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298000,
+    "gn:latitude":5.8,
+    "gn:longitude":-0.56667,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Minkumidie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298000
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"223c70173ba0311c9959fa4e4c07b932",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759897,
+            "locality_id":1226460261,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1226460261,
+    "wof:lastmodified":1536622558,
+    "wof:name":"Minkumidie",
+    "wof:parent_id":1108759897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.56667,
+    5.8,
+    -0.56667,
+    5.8
+],
+  "geometry": {"coordinates":[-0.56667,5.8],"type":"Point"}
+}

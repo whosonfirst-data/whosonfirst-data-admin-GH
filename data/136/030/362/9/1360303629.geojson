@@ -1,0 +1,67 @@
+{
+  "id": 1360303629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.32937,6.89329,0.32937,6.89329",
+    "geom:latitude":6.89329,
+    "geom:longitude":0.32937,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dianda",
+    "gn:country_code":"GH",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301774,
+    "gn:latitude":6.89329,
+    "gn:longitude":0.32937,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Dianda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301774
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"bf3378d710fb2d93e73d83d7827f51da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759985,
+            "locality_id":1360303629,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1360303629,
+    "wof:lastmodified":1536628633,
+    "wof:name":"Dianda",
+    "wof:parent_id":1108759985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.32937,
+    6.89329,
+    0.32937,
+    6.89329
+],
+  "geometry": {"coordinates":[0.32937,6.89329],"type":"Point"}
+}

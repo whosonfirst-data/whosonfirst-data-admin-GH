@@ -1,0 +1,67 @@
+{
+  "id": 1226664379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.57643,6.08712,-2.57643,6.08712",
+    "geom:latitude":6.08712,
+    "geom:longitude":-2.57643,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bopa",
+    "gn:country_code":"GH",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302703,
+    "gn:latitude":6.08712,
+    "gn:longitude":-2.57643,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Bopa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302703
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"d65a4e172d328a6ecb3be66a42b8c847",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760009,
+            "locality_id":1226664379,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1226664379,
+    "wof:lastmodified":1536831652,
+    "wof:name":"Bopa",
+    "wof:parent_id":1108760009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.57643,
+    6.08712,
+    -2.57643,
+    6.08712
+],
+  "geometry": {"coordinates":[-2.57643,6.08712],"type":"Point"}
+}

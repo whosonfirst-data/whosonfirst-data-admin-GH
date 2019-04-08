@@ -1,0 +1,77 @@
+{
+  "id": 1310288933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.80083,10.78556,-0.80083,10.78556",
+    "geom:latitude":10.78556,
+    "geom:longitude":-0.80083,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Zuarungu",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293593,
+    "gn:latitude":10.78556,
+    "gn:longitude":-0.80083,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zuarungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kantisabilisi",
+        "Zvarungu",
+        "Zouarago",
+        "Zuaragu",
+        "Zuarungu Kantia",
+        "Zuarungu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293593,
+        "wk:page":"Zuarungu"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"08bd48808d8813fa50fedc2ce4368606",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759947,
+            "locality_id":1310288933,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1310288933,
+    "wof:lastmodified":1537623394,
+    "wof:name":"Zuarungu",
+    "wof:parent_id":1108759947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.80083,
+    10.78556,
+    -0.80083,
+    10.78556
+],
+  "geometry": {"coordinates":[-0.80083,10.78556],"type":"Point"}
+}

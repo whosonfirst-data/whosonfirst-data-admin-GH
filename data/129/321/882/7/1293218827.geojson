@@ -1,0 +1,67 @@
+{
+  "id": 1293218827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.68333,8.13333,-1.68333,8.13333",
+    "geom:latitude":8.13333,
+    "geom:longitude":-1.68333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gbongbonyah",
+    "gn:country_code":"GH",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300676,
+    "gn:latitude":8.13333,
+    "gn:longitude":-1.68333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Gbongbonyah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300676
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"28c79b8645a0308fa6e748d1c95c2b88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759825,
+            "locality_id":1293218827,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1293218827,
+    "wof:lastmodified":1536677331,
+    "wof:name":"Gbongbonyah",
+    "wof:parent_id":1108759825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.68333,
+    8.13333,
+    -1.68333,
+    8.13333
+],
+  "geometry": {"coordinates":[-1.68333,8.13333],"type":"Point"}
+}

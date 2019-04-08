@@ -1,0 +1,72 @@
+{
+  "id": 1343276851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.38248,8.99671,-0.38248,8.99671",
+    "geom:latitude":8.99671,
+    "geom:longitude":-0.38248,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bentripe",
+    "gn:country_code":"GH",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303170,
+    "gn:latitude":8.99671,
+    "gn:longitude":-0.38248,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bentripe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bentriyie",
+        "Binjai",
+        "Bentripe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303170
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"f081ee9a62cac72409e2f14ecc5b45f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759919,
+            "locality_id":1343276851,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1343276851,
+    "wof:lastmodified":1537623741,
+    "wof:name":"Bentripe",
+    "wof:parent_id":1108759919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.38248,
+    8.99671,
+    -0.38248,
+    8.99671
+],
+  "geometry": {"coordinates":[-0.38248,8.99671],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1360103441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.79218,6.44967,-1.79218,6.44967",
+    "geom:latitude":6.44967,
+    "geom:longitude":-1.79218,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Antoakrom",
+    "gn:country_code":"GH",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304518,
+    "gn:latitude":6.44967,
+    "gn:longitude":-1.79218,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Antoakrom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Antoakurom",
+        "Antobiakrom",
+        "Antoakrom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304518
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ecafb5697d16e11628cee35deb95ff2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759785,
+            "locality_id":1360103441,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1360103441,
+    "wof:lastmodified":1537623788,
+    "wof:name":"Antoakrom",
+    "wof:parent_id":1108759785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.79218,
+    6.44967,
+    -1.79218,
+    6.44967
+],
+  "geometry": {"coordinates":[-1.79218,6.44967],"type":"Point"}
+}

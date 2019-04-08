@@ -1,0 +1,70 @@
+{
+  "id": 1242888805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.77086,5.99069,-1.77086,5.99069",
+    "geom:latitude":5.99069,
+    "geom:longitude":-1.77086,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ofinso",
+    "gn:country_code":"GH",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296442,
+    "gn:latitude":5.99069,
+    "gn:longitude":-1.77086,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Ofinso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ofinso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296442
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"2ab282f3dc038d5deb98bc6c365abdb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759773,
+            "locality_id":1242888805,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1242888805,
+    "wof:lastmodified":1537623496,
+    "wof:name":"Ofinso",
+    "wof:parent_id":1108759773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.77086,
+    5.99069,
+    -1.77086,
+    5.99069
+],
+  "geometry": {"coordinates":[-1.77086,5.99069],"type":"Point"}
+}

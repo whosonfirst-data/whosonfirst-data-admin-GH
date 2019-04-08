@@ -1,0 +1,65 @@
+{
+  "id": 1209329263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.01674,10.00212,0.01674,10.00212",
+    "geom:latitude":10.00212,
+    "geom:longitude":0.01674,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tindongo",
+    "gn:country_code":"GH",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294580,
+    "gn:latitude":10.00212,
+    "gn:longitude":0.01674,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tindongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tindong",
+        "Tindongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294580
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"4764a6d5790096f0f10f75f9a1a2fe2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209329263
+        }
+    ],
+    "wof:id":1209329263,
+    "wof:lastmodified":1537623431,
+    "wof:name":"Tindongo",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.01674,
+    10.00212,
+    0.01674,
+    10.00212
+],
+  "geometry": {"coordinates":[0.01674,10.00212],"type":"Point"}
+}

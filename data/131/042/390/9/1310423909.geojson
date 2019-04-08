@@ -1,0 +1,67 @@
+{
+  "id": 1310423909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.41876,9.49522,-2.41876,9.49522",
+    "geom:latitude":9.49522,
+    "geom:longitude":-2.41876,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tuna",
+    "gn:country_code":"GH",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294341,
+    "gn:latitude":9.49522,
+    "gn:longitude":-2.41876,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Tuna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294341
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"62e86a5da904e826dfb76f3e54470de7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759913,
+            "locality_id":1310423909,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1310423909,
+    "wof:lastmodified":1537033244,
+    "wof:name":"Tuna",
+    "wof:parent_id":1108759913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.41876,
+    9.49522,
+    -2.41876,
+    9.49522
+],
+  "geometry": {"coordinates":[-2.41876,9.49522],"type":"Point"}
+}

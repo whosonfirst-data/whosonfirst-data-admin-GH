@@ -1,0 +1,71 @@
+{
+  "id": 1344267005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.34404,6.84706,-1.34404,6.84706",
+    "geom:latitude":6.84706,
+    "geom:longitude":-1.34404,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bima Number 2",
+    "gn:country_code":"GH",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303029,
+    "gn:latitude":6.84706,
+    "gn:longitude":-1.34404,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bima Number 2",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bimma Number 2",
+        "Bima Number 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303029
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"c3fd191ae20bc33553b121fd8cc60108",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759807,
+            "locality_id":1344267005,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1344267005,
+    "wof:lastmodified":1537623736,
+    "wof:name":"Bima Number 2",
+    "wof:parent_id":1108759807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.34404,
+    6.84706,
+    -1.34404,
+    6.84706
+],
+  "geometry": {"coordinates":[-1.34404,6.84706],"type":"Point"}
+}

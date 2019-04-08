@@ -1,0 +1,70 @@
+{
+  "id": 1293607079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.21526,5.96176,-2.21526,5.96176",
+    "geom:latitude":5.96176,
+    "geom:longitude":-2.21526,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Watrem",
+    "gn:country_code":"GH",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294129,
+    "gn:latitude":5.96176,
+    "gn:longitude":-2.21526,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Watrem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Watrem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294129
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"680eb757fe083092608891b75a7bfa66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760015,
+            "locality_id":1293607079,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1293607079,
+    "wof:lastmodified":1537623415,
+    "wof:name":"Watrem",
+    "wof:parent_id":1108760015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.21526,
+    5.96176,
+    -2.21526,
+    5.96176
+],
+  "geometry": {"coordinates":[-2.21526,5.96176],"type":"Point"}
+}

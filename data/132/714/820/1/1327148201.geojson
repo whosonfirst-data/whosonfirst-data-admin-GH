@@ -1,0 +1,76 @@
+{
+  "id": 1327148201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.57035,5.61727,-0.57035,5.61727",
+    "geom:latitude":5.61727,
+    "geom:longitude":-0.57035,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Akrabong",
+    "gn:country_code":"GH",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305072,
+    "gn:latitude":5.61727,
+    "gn:longitude":-0.57035,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Akrabong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Joma",
+        "Akrabon Kwa Tete",
+        "Kwao Tete",
+        "Akrabon Ahentsia",
+        "Akrabon",
+        "Akrabong Joma",
+        "Akrabong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305072
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"0a2cc0411a2f17b037168c897cc4ec63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759853,
+            "locality_id":1327148201,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1327148201,
+    "wof:lastmodified":1537623807,
+    "wof:name":"Akrabong",
+    "wof:parent_id":1108759853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.57035,
+    5.61727,
+    -0.57035,
+    5.61727
+],
+  "geometry": {"coordinates":[-0.57035,5.61727],"type":"Point"}
+}

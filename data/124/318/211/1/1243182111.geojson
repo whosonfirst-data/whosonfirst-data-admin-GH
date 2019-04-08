@@ -1,0 +1,71 @@
+{
+  "id": 1243182111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.2154,10.06599,0.2154,10.06599",
+    "geom:latitude":10.06599,
+    "geom:longitude":0.2154,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Baguli",
+    "gn:country_code":"GH",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303500,
+    "gn:latitude":10.06599,
+    "gn:longitude":0.2154,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Baguli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baguri",
+        "Baguli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303500
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a611a2dd901205d4a2b1bf84572d6704",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759929,
+            "locality_id":1243182111,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1243182111,
+    "wof:lastmodified":1537623753,
+    "wof:name":"Baguli",
+    "wof:parent_id":1108759929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.2154,
+    10.06599,
+    0.2154,
+    10.06599
+],
+  "geometry": {"coordinates":[0.2154,10.06599],"type":"Point"}
+}

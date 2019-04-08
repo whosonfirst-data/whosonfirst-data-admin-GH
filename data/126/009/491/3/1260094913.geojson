@@ -1,0 +1,74 @@
+{
+  "id": 1260094913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.53364,5.32009,-1.53364,5.32009",
+    "geom:latitude":5.32009,
+    "geom:longitude":-1.53364,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Yehwe",
+    "gn:country_code":"GH",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297892,
+    "gn:latitude":5.32009,
+    "gn:longitude":-1.53364,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Yehwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yehwe"
+    ],
+    "name:und_x_variant":[
+        "Subriso",
+        "Mpasem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297892
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"de04ee3aacbfc61e715647b9f5c284d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760005,
+            "locality_id":1260094913,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1260094913,
+    "wof:lastmodified":1537623549,
+    "wof:name":"Yehwe",
+    "wof:parent_id":1108760005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.53364,
+    5.32009,
+    -1.53364,
+    5.32009
+],
+  "geometry": {"coordinates":[-1.53364,5.32009],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209825293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.70153,5.8153,-1.70153,5.8153",
+    "geom:latitude":5.8153,
+    "geom:longitude":-1.70153,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Bepokawkaw",
+    "gn:country_code":"GH",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303147,
+    "gn:latitude":5.8153,
+    "gn:longitude":-1.70153,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Bepokawkaw",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bepokawkaw"
+    ],
+    "name:eng_x_variant":[
+        "Okumayemfuohu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303147
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"d3e84efc935c7242ec9ca715d7fb3c8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759865,
+            "locality_id":1209825293,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1209825293,
+    "wof:lastmodified":1537623740,
+    "wof:name":"Bepokawkaw",
+    "wof:parent_id":1108759865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.70153,
+    5.8153,
+    -1.70153,
+    5.8153
+],
+  "geometry": {"coordinates":[-1.70153,5.8153],"type":"Point"}
+}

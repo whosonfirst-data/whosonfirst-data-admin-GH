@@ -1,0 +1,66 @@
+{
+  "id": 1209629263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.55605,5.68092,-0.55605,5.68092",
+    "geom:latitude":5.68092,
+    "geom:longitude":-0.55605,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bawjiasi",
+    "gn:country_code":"GH",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303290,
+    "gn:latitude":5.68092,
+    "gn:longitude":-0.55605,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Bawjiasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bawaleshi",
+        "Bodwoase",
+        "Bawjiasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303290
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"7dd3d39e40a02151e08910e9042eb8b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209629263
+        }
+    ],
+    "wof:id":1209629263,
+    "wof:lastmodified":1537623745,
+    "wof:name":"Bawjiasi",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.55605,
+    5.68092,
+    -0.55605,
+    5.68092
+],
+  "geometry": {"coordinates":[-0.55605,5.68092],"type":"Point"}
+}

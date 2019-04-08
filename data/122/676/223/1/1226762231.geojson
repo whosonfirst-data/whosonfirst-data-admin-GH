@@ -1,0 +1,67 @@
+{
+  "id": 1226762231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.22483,6.45409,-1.22483,6.45409",
+    "geom:latitude":6.45409,
+    "geom:longitude":-1.22483,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bankame",
+    "gn:country_code":"GH",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303387,
+    "gn:latitude":6.45409,
+    "gn:longitude":-1.22483,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Bankame",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303387
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"1f33bc741234f9132266539328e568b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759789,
+            "locality_id":1226762231,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1226762231,
+    "wof:lastmodified":1536691909,
+    "wof:name":"Bankame",
+    "wof:parent_id":1108759789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.22483,
+    6.45409,
+    -1.22483,
+    6.45409
+],
+  "geometry": {"coordinates":[-1.22483,6.45409],"type":"Point"}
+}

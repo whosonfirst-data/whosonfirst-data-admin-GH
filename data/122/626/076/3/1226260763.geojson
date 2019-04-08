@@ -1,0 +1,71 @@
+{
+  "id": 1226260763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.42745,10.84543,-0.42745,10.84543",
+    "geom:latitude":10.84543,
+    "geom:longitude":-0.42745,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Pukunziego",
+    "gn:country_code":"GH",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2295819,
+    "gn:latitude":10.84543,
+    "gn:longitude":-0.42745,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pukunziego",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pukinzego",
+        "Pukunziego"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2295819
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"3ab44cbfa7877a8913de3aa3e26039d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759945,
+            "locality_id":1226260763,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1226260763,
+    "wof:lastmodified":1537623473,
+    "wof:name":"Pukunziego",
+    "wof:parent_id":1108759945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.42745,
+    10.84543,
+    -0.42745,
+    10.84543
+],
+  "geometry": {"coordinates":[-0.42745,10.84543],"type":"Point"}
+}

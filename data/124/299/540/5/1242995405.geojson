@@ -1,0 +1,67 @@
+{
+  "id": 1242995405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.1125,6.13194,1.1125,6.13194",
+    "geom:latitude":6.13194,
+    "geom:longitude":1.1125,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Adidotoe",
+    "gn:country_code":"GH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2589882,
+    "gn:latitude":6.13194,
+    "gn:longitude":1.1125,
+    "gn:modification_date":"1998-01-27",
+    "gn:name":"Adidotoe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2589882
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"933bb7ab6b0762603de58f3f98210d4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759983,
+            "locality_id":1242995405,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1242995405,
+    "wof:lastmodified":1536958825,
+    "wof:name":"Adidotoe",
+    "wof:parent_id":1108759983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.1125,
+    6.13194,
+    1.1125,
+    6.13194
+],
+  "geometry": {"coordinates":[1.1125,6.13194],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 890436683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.01127,8.46885,-0.01127,8.46885",
+    "geom:latitude":8.46885,
+    "geom:longitude":-0.01127,
+    "gn:country":"GH",
+    "gn:fcode":"PPL",
+    "gn:pop":8652,
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:aka_x_preferred":[
+        "Kpandae"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u043f\u0430\u043d\u0434\u0430\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Kpandae"
+    ],
+    "name:eng_x_preferred":[
+        "Kpandae"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30d1\u30f3\u30c7\u30fc"
+    ],
+    "name:swe_x_preferred":[
+        "Kpandai"
+    ],
+    "name:unk_x_variant":[
+        "Kpandai"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u067e\u0627\u0646\u062f\u0627\u06d2"
+    ],
+    "qs:name":"Kpandae",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":58,
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299236,
+        "gp:id":1330381,
+        "qs:id":1034763,
+        "wd:id":"Q6435707",
+        "wk:page":"Kpandae"
+    },
+    "wof:country":"GH",
+    "wof:created":1469052121,
+    "wof:geomhash":"eb5bdabe1012838c13c19cffc3cf3838",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759919,
+            "locality_id":890436683,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":890436683,
+    "wof:lastmodified":1527735405,
+    "wof:name":"Kpandae",
+    "wof:parent_id":1108759919,
+    "wof:placetype":"locality",
+    "wof:population":8652,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.01127,
+    8.46885,
+    -0.01127,
+    8.46885
+],
+  "geometry": {"coordinates":[-0.01127,8.46885],"type":"Point"}
+}

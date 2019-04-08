@@ -1,0 +1,64 @@
+{
+  "id": 1209429525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.81689,6.99,-1.81689,6.99",
+    "geom:latitude":6.99,
+    "geom:longitude":-1.81689,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Amanin",
+    "gn:country_code":"GH",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304833,
+    "gn:latitude":6.99,
+    "gn:longitude":-1.81689,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Amanin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Amanin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304833
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"46d38d9bf74d3f0526d8dc08522d6cf9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209429525
+        }
+    ],
+    "wof:id":1209429525,
+    "wof:lastmodified":1537623798,
+    "wof:name":"Amanin",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.81689,
+    6.99,
+    -1.81689,
+    6.99
+],
+  "geometry": {"coordinates":[-1.81689,6.99],"type":"Point"}
+}

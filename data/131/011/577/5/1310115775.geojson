@@ -1,0 +1,72 @@
+{
+  "id": 1310115775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.72855,5.87828,0.72855,5.87828",
+    "geom:latitude":5.87828,
+    "geom:longitude":0.72855,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dzadekope",
+    "gn:country_code":"GH",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301377,
+    "gn:latitude":5.87828,
+    "gn:longitude":0.72855,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dzadekope",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dzadekorpe",
+        "Dzadekofe",
+        "Dzadekope"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301377
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"555668b7fd2d39c9e9cbafeb926b5e60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759981,
+            "locality_id":1310115775,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1310115775,
+    "wof:lastmodified":1537623677,
+    "wof:name":"Dzadekope",
+    "wof:parent_id":1108759981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.72855,
+    5.87828,
+    0.72855,
+    5.87828
+],
+  "geometry": {"coordinates":[0.72855,5.87828],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243472639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.16812,5.833,-2.16812,5.833",
+    "geom:latitude":5.833,
+    "geom:longitude":-2.16812,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Adanse",
+    "gn:country_code":"GH",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305958,
+    "gn:latitude":5.833,
+    "gn:longitude":-2.16812,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Adanse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adansi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305958
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"26c942880c90b49a00cca4e7f29ca2fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760015,
+            "locality_id":1243472639,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1243472639,
+    "wof:lastmodified":1537623838,
+    "wof:name":"Adanse",
+    "wof:parent_id":1108760015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.16812,
+    5.833,
+    -2.16812,
+    5.833
+],
+  "geometry": {"coordinates":[-2.16812,5.833],"type":"Point"}
+}

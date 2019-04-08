@@ -1,0 +1,67 @@
+{
+  "id": 1310120637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.13913,9.64303,-1.13913,9.64303",
+    "geom:latitude":9.64303,
+    "geom:longitude":-1.13913,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Timbungu",
+    "gn:country_code":"GH",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294595,
+    "gn:latitude":9.64303,
+    "gn:longitude":-1.13913,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Timbungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294595
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"4c02f7ade300b257626868b8fcda80eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759935,
+            "locality_id":1310120637,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1310120637,
+    "wof:lastmodified":1536974111,
+    "wof:name":"Timbungu",
+    "wof:parent_id":1108759935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.13913,
+    9.64303,
+    -1.13913,
+    9.64303
+],
+  "geometry": {"coordinates":[-1.13913,9.64303],"type":"Point"}
+}

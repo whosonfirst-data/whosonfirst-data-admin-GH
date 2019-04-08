@@ -1,0 +1,67 @@
+{
+  "id": 1343976185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.43335,6.72926,-2.43335,6.72926",
+    "geom:latitude":6.72926,
+    "geom:longitude":-2.43335,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dantano",
+    "gn:country_code":"GH",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301974,
+    "gn:latitude":6.72926,
+    "gn:longitude":-2.43335,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Dantano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301974
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"26c64967930376c5126536ca1b83fb55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759811,
+            "locality_id":1343976185,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1343976185,
+    "wof:lastmodified":1536996556,
+    "wof:name":"Dantano",
+    "wof:parent_id":1108759811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.43335,
+    6.72926,
+    -2.43335,
+    6.72926
+],
+  "geometry": {"coordinates":[-2.43335,6.72926],"type":"Point"}
+}

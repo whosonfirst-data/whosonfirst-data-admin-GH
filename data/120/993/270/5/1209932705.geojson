@@ -1,0 +1,71 @@
+{
+  "id": 1209932705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.63551,10.36061,-2.63551,10.36061",
+    "geom:latitude":10.36061,
+    "geom:longitude":-2.63551,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kandomene",
+    "gn:country_code":"GH",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299832,
+    "gn:latitude":10.36061,
+    "gn:longitude":-2.63551,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Kandomene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kandomini",
+        "Kandomene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299832
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ceea7efdc23d6d0bda1df5cd65a570fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759961,
+            "locality_id":1209932705,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1209932705,
+    "wof:lastmodified":1537623615,
+    "wof:name":"Kandomene",
+    "wof:parent_id":1108759961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.63551,
+    10.36061,
+    -2.63551,
+    10.36061
+],
+  "geometry": {"coordinates":[-2.63551,10.36061],"type":"Point"}
+}

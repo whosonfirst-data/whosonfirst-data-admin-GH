@@ -1,0 +1,67 @@
+{
+  "id": 1276350521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.26276,5.44186,-1.26276,5.44186",
+    "geom:latitude":5.44186,
+    "geom:longitude":-1.26276,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mogwiye",
+    "gn:country_code":"GH",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297958,
+    "gn:latitude":5.44186,
+    "gn:longitude":-1.26276,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Mogwiye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297958
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"9af17a85939ec1fe92c0f9489bc8d49e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759849,
+            "locality_id":1276350521,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1276350521,
+    "wof:lastmodified":1536755449,
+    "wof:name":"Mogwiye",
+    "wof:parent_id":1108759849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.26276,
+    5.44186,
+    -1.26276,
+    5.44186
+],
+  "geometry": {"coordinates":[-1.26276,5.44186],"type":"Point"}
+}

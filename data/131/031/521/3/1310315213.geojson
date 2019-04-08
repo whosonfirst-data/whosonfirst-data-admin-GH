@@ -1,0 +1,71 @@
+{
+  "id": 1310315213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.57821,6.77648,-1.57821,6.77648",
+    "geom:latitude":6.77648,
+    "geom:longitude":-1.57821,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Fawoade",
+    "gn:country_code":"GH",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300988,
+    "gn:latitude":6.77648,
+    "gn:longitude":-1.57821,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Fawoade",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fawubawari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300988,
+        "wk:page":"Fawoade"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"f2172098280386c92a6ee940972d246b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759803,
+            "locality_id":1310315213,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1310315213,
+    "wof:lastmodified":1537623661,
+    "wof:name":"Fawoade",
+    "wof:parent_id":1108759803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.57821,
+    6.77648,
+    -1.57821,
+    6.77648
+],
+  "geometry": {"coordinates":[-1.57821,6.77648],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310314973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.01005,9.37463,-1.01005,9.37463",
+    "geom:latitude":9.37463,
+    "geom:longitude":-1.01005,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tunggweli",
+    "gn:country_code":"GH",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294336,
+    "gn:latitude":9.37463,
+    "gn:longitude":-1.01005,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tunggweli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tingoli",
+        "Tunggweli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294336
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"e17e984759c2ea3dc5a57853f061a9e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759935,
+            "locality_id":1310314973,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1310314973,
+    "wof:lastmodified":1537623422,
+    "wof:name":"Tunggweli",
+    "wof:parent_id":1108759935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.01005,
+    9.37463,
+    -1.01005,
+    9.37463
+],
+  "geometry": {"coordinates":[-1.01005,9.37463],"type":"Point"}
+}

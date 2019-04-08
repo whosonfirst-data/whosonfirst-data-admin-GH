@@ -1,0 +1,74 @@
+{
+  "id": 1327446111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.72529,4.92953,-1.72529,4.92953",
+    "geom:latitude":4.92953,
+    "geom:longitude":-1.72529,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ekuasi",
+    "gn:country_code":"GH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301202,
+    "gn:latitude":4.92953,
+    "gn:longitude":-1.72529,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ekuasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akoasi",
+        "Ekuase",
+        "Ekoase",
+        "Ekoasi",
+        "Ekuasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301202
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"18e8edf2de8a1410cee5fa44ac2dd603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760011,
+            "locality_id":1327446111,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1327446111,
+    "wof:lastmodified":1537623669,
+    "wof:name":"Ekuasi",
+    "wof:parent_id":1108760011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.72529,
+    4.92953,
+    -1.72529,
+    4.92953
+],
+  "geometry": {"coordinates":[-1.72529,4.92953],"type":"Point"}
+}

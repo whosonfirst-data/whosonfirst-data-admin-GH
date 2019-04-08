@@ -1,0 +1,71 @@
+{
+  "id": 1243464501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.27627,10.75545,-1.27627,10.75545",
+    "geom:latitude":10.75545,
+    "geom:longitude":-1.27627,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kwabidem",
+    "gn:country_code":"GH",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298740,
+    "gn:latitude":10.75545,
+    "gn:longitude":-1.27627,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kwabidem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sandema Kobdem",
+        "Kwabidem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298740
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"50ad8896390f038a9d8f2c9e9316cb95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759951,
+            "locality_id":1243464501,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1243464501,
+    "wof:lastmodified":1537623578,
+    "wof:name":"Kwabidem",
+    "wof:parent_id":1108759951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.27627,
+    10.75545,
+    -1.27627,
+    10.75545
+],
+  "geometry": {"coordinates":[-1.27627,10.75545],"type":"Point"}
+}

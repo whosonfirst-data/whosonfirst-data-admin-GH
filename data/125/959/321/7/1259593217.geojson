@@ -1,0 +1,73 @@
+{
+  "id": 1259593217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.53193,8.92931,-2.53193,8.92931",
+    "geom:latitude":8.92931,
+    "geom:longitude":-2.53193,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Gbemfo",
+    "gn:country_code":"GH",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302518,
+    "gn:latitude":8.92931,
+    "gn:longitude":-2.53193,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Gbemfo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gbenfu",
+        "Branfo",
+        "Buanfo",
+        "Gbemfo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302518
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"b8fd9e809301749771bf1abbe64030f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759913,
+            "locality_id":1259593217,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1259593217,
+    "wof:lastmodified":1537623719,
+    "wof:name":"Gbemfo",
+    "wof:parent_id":1108759913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.53193,
+    8.92931,
+    -2.53193,
+    8.92931
+],
+  "geometry": {"coordinates":[-2.53193,8.92931],"type":"Point"}
+}

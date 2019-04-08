@@ -1,0 +1,70 @@
+{
+  "id": 1293599059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.57779,6.10244,-1.57779,6.10244",
+    "geom:latitude":6.10244,
+    "geom:longitude":-1.57779,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Huntaitai",
+    "gn:country_code":"GH",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300322,
+    "gn:latitude":6.10244,
+    "gn:longitude":-1.57779,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Huntaitai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Huntaitai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300322
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"d38160fa8d33e63f8b036772432565d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759773,
+            "locality_id":1293599059,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1293599059,
+    "wof:lastmodified":1537623636,
+    "wof:name":"Huntaitai",
+    "wof:parent_id":1108759773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.57779,
+    6.10244,
+    -1.57779,
+    6.10244
+],
+  "geometry": {"coordinates":[-1.57779,6.10244],"type":"Point"}
+}

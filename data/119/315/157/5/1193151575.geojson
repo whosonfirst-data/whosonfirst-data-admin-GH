@@ -1,0 +1,71 @@
+{
+  "id": 1193151575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.4149,7.4203,-1.4149,7.4203",
+    "geom:latitude":7.4203,
+    "geom:longitude":-1.4149,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Memimaso",
+    "gn:country_code":"GH",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298092,
+    "gn:latitude":7.4203,
+    "gn:longitude":-1.4149,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Memimaso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Meminaso",
+        "Memimaso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298092
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"482b9e2530b7c7d84e18895d812992e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759799,
+            "locality_id":1193151575,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1193151575,
+    "wof:lastmodified":1537623556,
+    "wof:name":"Memimaso",
+    "wof:parent_id":1108759799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.4149,
+    7.4203,
+    -1.4149,
+    7.4203
+],
+  "geometry": {"coordinates":[-1.4149,7.4203],"type":"Point"}
+}

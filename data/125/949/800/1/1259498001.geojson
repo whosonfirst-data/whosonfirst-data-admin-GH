@@ -1,0 +1,76 @@
+{
+  "id": 1259498001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.89498,5.96275,-1.89498,5.96275",
+    "geom:latitude":5.96275,
+    "geom:longitude":-1.89498,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ayamfor",
+    "gn:country_code":"GH",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303602,
+    "gn:latitude":5.96275,
+    "gn:longitude":-1.89498,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Ayamfor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ayamfor"
+    ],
+    "name:und_x_variant":[
+        "Ayenfuri",
+        "Ayanfure",
+        "Ayanfuri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303602,
+        "wk:page":"Ayanfuri"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"0e3793e2c4b47a69fea68431f0bd961b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759865,
+            "locality_id":1259498001,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1259498001,
+    "wof:lastmodified":1537623757,
+    "wof:name":"Ayamfor",
+    "wof:parent_id":1108759865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.89498,
+    5.96275,
+    -1.89498,
+    5.96275
+],
+  "geometry": {"coordinates":[-1.89498,5.96275],"type":"Point"}
+}

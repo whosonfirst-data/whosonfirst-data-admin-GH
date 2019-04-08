@@ -1,0 +1,74 @@
+{
+  "id": 1243190455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.76761,6.99862,-1.76761,6.99862",
+    "geom:latitude":6.99862,
+    "geom:longitude":-1.76761,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Nyiniso Number Three",
+    "gn:country_code":"GH",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304140,
+    "gn:latitude":6.99862,
+    "gn:longitude":-1.76761,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Nyiniso Number Three",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nyiniso Number Three"
+    ],
+    "name:eng_x_variant":[
+        "Asempaneye",
+        "Nyiniso Number 3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304140
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"491447ad1ef521544f6a47fe0bcaa978",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759805,
+            "locality_id":1243190455,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1243190455,
+    "wof:lastmodified":1537623775,
+    "wof:name":"Nyiniso Number Three",
+    "wof:parent_id":1108759805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.76761,
+    6.99862,
+    -1.76761,
+    6.99862
+],
+  "geometry": {"coordinates":[-1.76761,6.99862],"type":"Point"}
+}

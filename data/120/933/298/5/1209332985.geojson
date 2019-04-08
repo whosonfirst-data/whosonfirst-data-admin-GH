@@ -1,0 +1,64 @@
+{
+  "id": 1209332985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.60351,5.49953,-1.60351,5.49953",
+    "geom:latitude":5.49953,
+    "geom:longitude":-1.60351,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Amape",
+    "gn:country_code":"GH",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304812,
+    "gn:latitude":5.49953,
+    "gn:longitude":-1.60351,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Amape",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Amape"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304812
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"fd4c88e60b682275872ae3b685005400",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209332985
+        }
+    ],
+    "wof:id":1209332985,
+    "wof:lastmodified":1537623797,
+    "wof:name":"Amape",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.60351,
+    5.49953,
+    -1.60351,
+    5.49953
+],
+  "geometry": {"coordinates":[-1.60351,5.49953],"type":"Point"}
+}

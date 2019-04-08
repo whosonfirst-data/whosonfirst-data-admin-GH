@@ -1,0 +1,72 @@
+{
+  "id": 1310511431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.9,5.46667,-0.9,5.46667",
+    "geom:latitude":5.46667,
+    "geom:longitude":-0.9,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kram",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299110,
+    "gn:latitude":5.46667,
+    "gn:longitude":-0.9,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kram",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kran",
+        "Kram"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299110
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"e1a56943b9bf18f5d50cc488f27096bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759857,
+            "locality_id":1310511431,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1310511431,
+    "wof:lastmodified":1537623590,
+    "wof:name":"Kram",
+    "wof:parent_id":1108759857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.9,
+    5.46667,
+    -0.9,
+    5.46667
+],
+  "geometry": {"coordinates":[-0.9,5.46667],"type":"Point"}
+}

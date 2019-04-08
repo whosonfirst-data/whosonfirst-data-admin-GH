@@ -1,0 +1,66 @@
+{
+  "id": 1209115949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.08333,6.75,-1.08333,6.75",
+    "geom:latitude":6.75,
+    "geom:longitude":-1.08333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Krodua",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299071,
+    "gn:latitude":6.75,
+    "gn:longitude":-1.08333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Krodua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Krodna",
+        "Krodua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299071
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"b6e9c5b0a844d0d0319b466483a681cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209115949
+        }
+    ],
+    "wof:id":1209115949,
+    "wof:lastmodified":1537623589,
+    "wof:name":"Krodua",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.08333,
+    6.75,
+    -1.08333,
+    6.75
+],
+  "geometry": {"coordinates":[-1.08333,6.75],"type":"Point"}
+}

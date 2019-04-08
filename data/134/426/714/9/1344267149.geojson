@@ -1,0 +1,72 @@
+{
+  "id": 1344267149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.31898,5.90562,-0.31898,5.90562",
+    "geom:latitude":5.90562,
+    "geom:longitude":-0.31898,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Pakro",
+    "gn:country_code":"GH",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296171,
+    "gn:latitude":5.90562,
+    "gn:longitude":-0.31898,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pakro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Parekoro",
+        "Pakro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296171,
+        "wk:page":"Pakro"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"6dc0f46293cb452ae4857400c9496105",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759873,
+            "locality_id":1344267149,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1344267149,
+    "wof:lastmodified":1537623486,
+    "wof:name":"Pakro",
+    "wof:parent_id":1108759873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.31898,
+    5.90562,
+    -0.31898,
+    5.90562
+],
+  "geometry": {"coordinates":[-0.31898,5.90562],"type":"Point"}
+}

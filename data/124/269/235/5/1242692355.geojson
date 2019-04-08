@@ -1,0 +1,75 @@
+{
+  "id": 1242692355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.61716,6.62694,-1.61716,6.62694",
+    "geom:latitude":6.62694,
+    "geom:longitude":-1.61716,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sakoban",
+    "gn:country_code":"GH",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2295246,
+    "gn:latitude":6.62694,
+    "gn:longitude":-1.61716,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Sakoban",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sakoban"
+    ],
+    "name:und_x_variant":[
+        "Sokoban",
+        "Sokobang",
+        "Sokoben"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2295246
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"20d1949af1615e6857c64120cb14c653",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759793,
+            "locality_id":1242692355,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1242692355,
+    "wof:lastmodified":1537623451,
+    "wof:name":"Sakoban",
+    "wof:parent_id":1108759793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.61716,
+    6.62694,
+    -1.61716,
+    6.62694
+],
+  "geometry": {"coordinates":[-1.61716,6.62694],"type":"Point"}
+}

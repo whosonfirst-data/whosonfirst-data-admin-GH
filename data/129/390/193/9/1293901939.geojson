@@ -1,0 +1,70 @@
+{
+  "id": 1293901939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.76967,10.36552,-2.76967,10.36552",
+    "geom:latitude":10.36552,
+    "geom:longitude":-2.76967,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Wuchema",
+    "gn:country_code":"GH",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293979,
+    "gn:latitude":10.36552,
+    "gn:longitude":-2.76967,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Wuchema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wuehima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293979
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"9d4931fe29be2d369f58dd0886339ca1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759961,
+            "locality_id":1293901939,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1293901939,
+    "wof:lastmodified":1537623409,
+    "wof:name":"Wuchema",
+    "wof:parent_id":1108759961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.76967,
+    10.36552,
+    -2.76967,
+    10.36552
+],
+  "geometry": {"coordinates":[-2.76967,10.36552],"type":"Point"}
+}

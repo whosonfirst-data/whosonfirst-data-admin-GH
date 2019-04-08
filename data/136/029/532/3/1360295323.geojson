@@ -1,0 +1,72 @@
+{
+  "id": 1360295323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.50662,9.33249,0.50662,9.33249",
+    "geom:latitude":9.33249,
+    "geom:longitude":0.50662,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nakpali",
+    "gn:country_code":"GH",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297681,
+    "gn:latitude":9.33249,
+    "gn:longitude":0.50662,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nakpali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nakpa",
+        "Nakpale",
+        "Nakpali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297681
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ae7a011a92f019d9efa2e7dd4c09e446",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759939,
+            "locality_id":1360295323,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1360295323,
+    "wof:lastmodified":1537623540,
+    "wof:name":"Nakpali",
+    "wof:parent_id":1108759939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.50662,
+    9.33249,
+    0.50662,
+    9.33249
+],
+  "geometry": {"coordinates":[0.50662,9.33249],"type":"Point"}
+}

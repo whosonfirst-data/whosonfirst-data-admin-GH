@@ -1,0 +1,67 @@
+{
+  "id": 1309915747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.31642,6.4653,-0.31642,6.4653",
+    "geom:latitude":6.4653,
+    "geom:longitude":-0.31642,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Onuku",
+    "gn:country_code":"GH",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296316,
+    "gn:latitude":6.4653,
+    "gn:longitude":-0.31642,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Onuku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296316
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"e7bf456c751ed464ac95ad2377d2974e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759883,
+            "locality_id":1309915747,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1309915747,
+    "wof:lastmodified":1536773156,
+    "wof:name":"Onuku",
+    "wof:parent_id":1108759883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.31642,
+    6.4653,
+    -0.31642,
+    6.4653
+],
+  "geometry": {"coordinates":[-0.31642,6.4653],"type":"Point"}
+}

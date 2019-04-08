@@ -1,0 +1,70 @@
+{
+  "id": 1259801979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.50833,6.92801,-1.50833,6.92801",
+    "geom:latitude":6.92801,
+    "geom:longitude":-1.50833,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Abrakaso",
+    "gn:country_code":"GH",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306203,
+    "gn:latitude":6.92801,
+    "gn:longitude":-1.50833,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Abrakaso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Abrakaso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306203
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a972f3073d5150933ea11e04d7d19d68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759775,
+            "locality_id":1259801979,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1259801979,
+    "wof:lastmodified":1537623847,
+    "wof:name":"Abrakaso",
+    "wof:parent_id":1108759775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.50833,
+    6.92801,
+    -1.50833,
+    6.92801
+],
+  "geometry": {"coordinates":[-1.50833,6.92801],"type":"Point"}
+}

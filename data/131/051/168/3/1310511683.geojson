@@ -1,0 +1,71 @@
+{
+  "id": 1310511683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.48258,4.96591,-2.48258,4.96591",
+    "geom:latitude":4.96591,
+    "geom:longitude":-2.48258,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ngalikpole",
+    "gn:country_code":"GH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297411,
+    "gn:latitude":4.96591,
+    "gn:longitude":-2.48258,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ngalikpole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngalekpole",
+        "Ngalikpole"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297411
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"0f431d56dd9619faa58c62f0e4350c3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760007,
+            "locality_id":1310511683,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1310511683,
+    "wof:lastmodified":1537623530,
+    "wof:name":"Ngalikpole",
+    "wof:parent_id":1108760007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.48258,
+    4.96591,
+    -2.48258,
+    4.96591
+],
+  "geometry": {"coordinates":[-2.48258,4.96591],"type":"Point"}
+}

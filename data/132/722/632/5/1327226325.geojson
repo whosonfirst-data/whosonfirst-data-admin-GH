@@ -1,0 +1,68 @@
+{
+  "id": 1327226325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.43783,10.5322,-0.43783,10.5322",
+    "geom:latitude":10.5322,
+    "geom:longitude":-0.43783,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Gambaga",
+    "gn:country_code":"GH",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300776,
+    "gn:latitude":10.5322,
+    "gn:longitude":-0.43783,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Gambaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300776,
+        "wk:page":"Gambaga"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"c7f233f5c1a341cd0a397c6ed204e9f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759917,
+            "locality_id":1327226325,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1327226325,
+    "wof:lastmodified":1537563046,
+    "wof:name":"Gambaga",
+    "wof:parent_id":1108759917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.43783,
+    10.5322,
+    -0.43783,
+    10.5322
+],
+  "geometry": {"coordinates":[-0.43783,10.5322],"type":"Point"}
+}

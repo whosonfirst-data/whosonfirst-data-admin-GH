@@ -1,0 +1,74 @@
+{
+  "id": 1327249393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.71748,6.70319,-1.71748,6.70319",
+    "geom:latitude":6.70319,
+    "geom:longitude":-1.71748,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Asenemaso",
+    "gn:country_code":"GH",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304044,
+    "gn:latitude":6.70319,
+    "gn:longitude":-1.71748,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Asenemaso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Asenemaso"
+    ],
+    "name:und_x_variant":[
+        "Asromaso",
+        "Asrimaso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304044
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ac8a6f9d5bc8abb0843981080938025e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759791,
+            "locality_id":1327249393,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1327249393,
+    "wof:lastmodified":1537623771,
+    "wof:name":"Asenemaso",
+    "wof:parent_id":1108759791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.71748,
+    6.70319,
+    -1.71748,
+    6.70319
+],
+  "geometry": {"coordinates":[-1.71748,6.70319],"type":"Point"}
+}

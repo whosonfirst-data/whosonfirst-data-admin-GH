@@ -1,0 +1,72 @@
+{
+  "id": 1242985439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.36088,10.58886,-1.36088,10.58886",
+    "geom:latitude":10.58886,
+    "geom:longitude":-1.36088,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kunkwa",
+    "gn:country_code":"GH",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298830,
+    "gn:latitude":10.58886,
+    "gn:longitude":-1.36088,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kunkwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gbedema Kunkuak",
+        "Kungwak",
+        "Kunkwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298830
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"bfa8012d48dd98de80323e49d775d6d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759951,
+            "locality_id":1242985439,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1242985439,
+    "wof:lastmodified":1537623581,
+    "wof:name":"Kunkwa",
+    "wof:parent_id":1108759951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.36088,
+    10.58886,
+    -1.36088,
+    10.58886
+],
+  "geometry": {"coordinates":[-1.36088,10.58886],"type":"Point"}
+}

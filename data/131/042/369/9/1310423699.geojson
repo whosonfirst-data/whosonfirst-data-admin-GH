@@ -1,0 +1,67 @@
+{
+  "id": 1310423699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.26881,10.40191,0.26881,10.40191",
+    "geom:latitude":10.40191,
+    "geom:longitude":0.26881,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Wawabiri",
+    "gn:country_code":"GH",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294122,
+    "gn:latitude":10.40191,
+    "gn:longitude":0.26881,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Wawabiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294122
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"4a8f60ac7278eda0198e6a9bc529b944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759929,
+            "locality_id":1310423699,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1310423699,
+    "wof:lastmodified":1537033548,
+    "wof:name":"Wawabiri",
+    "wof:parent_id":1108759929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.26881,
+    10.40191,
+    0.26881,
+    10.40191
+],
+  "geometry": {"coordinates":[0.26881,10.40191],"type":"Point"}
+}

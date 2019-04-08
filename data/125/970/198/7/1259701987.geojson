@@ -1,0 +1,74 @@
+{
+  "id": 1259701987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.86263,6.83184,-1.86263,6.83184",
+    "geom:latitude":6.83184,
+    "geom:longitude":-1.86263,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Buronikurom",
+    "gn:country_code":"GH",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302545,
+    "gn:latitude":6.83184,
+    "gn:longitude":-1.86263,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Buronikurom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Buronikurom"
+    ],
+    "name:und_x_variant":[
+        "Bronikurom",
+        "Bronikrom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302545
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"630dccd4e88e0ea67e4fae28152fd693",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759781,
+            "locality_id":1259701987,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1259701987,
+    "wof:lastmodified":1537623720,
+    "wof:name":"Buronikurom",
+    "wof:parent_id":1108759781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.86263,
+    6.83184,
+    -1.86263,
+    6.83184
+],
+  "geometry": {"coordinates":[-1.86263,6.83184],"type":"Point"}
+}

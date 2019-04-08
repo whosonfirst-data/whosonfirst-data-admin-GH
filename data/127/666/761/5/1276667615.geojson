@@ -1,0 +1,67 @@
+{
+  "id": 1276667615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.68333,9.21667,-2.68333,9.21667",
+    "geom:latitude":9.21667,
+    "geom:longitude":-2.68333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Jimarian",
+    "gn:country_code":"GH",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300100,
+    "gn:latitude":9.21667,
+    "gn:longitude":-2.68333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Jimarian",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300100
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"c6abffb8ab9c711b855a3900898dacac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759913,
+            "locality_id":1276667615,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1276667615,
+    "wof:lastmodified":1536826842,
+    "wof:name":"Jimarian",
+    "wof:parent_id":1108759913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.68333,
+    9.21667,
+    -2.68333,
+    9.21667
+],
+  "geometry": {"coordinates":[-2.68333,9.21667],"type":"Point"}
+}

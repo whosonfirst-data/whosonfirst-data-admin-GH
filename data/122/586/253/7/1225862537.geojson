@@ -1,0 +1,75 @@
+{
+  "id": 1225862537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.44714,5.71732,-0.44714,5.71732",
+    "geom:latitude":5.71732,
+    "geom:longitude":-0.44714,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Honiakyem",
+    "gn:country_code":"GH",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300360,
+    "gn:latitude":5.71732,
+    "gn:longitude":-0.44714,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Honiakyem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Honiakyem"
+    ],
+    "name:und_x_variant":[
+        "Honiuchim",
+        "Honiatsim",
+        "Honiachim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671353,
+        1108759909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300360
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"7536df8ca5dd9d5d7365932361660f8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759909,
+            "locality_id":1225862537,
+            "region_id":85671353
+        }
+    ],
+    "wof:id":1225862537,
+    "wof:lastmodified":1537623637,
+    "wof:name":"Honiakyem",
+    "wof:parent_id":1108759909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.44714,
+    5.71732,
+    -0.44714,
+    5.71732
+],
+  "geometry": {"coordinates":[-0.44714,5.71732],"type":"Point"}
+}

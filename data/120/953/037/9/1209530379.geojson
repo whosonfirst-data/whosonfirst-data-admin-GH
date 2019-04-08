@@ -1,0 +1,64 @@
+{
+  "id": 1209530379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.57386,6.99213,-1.57386,6.99213",
+    "geom:latitude":6.99213,
+    "geom:longitude":-1.57386,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Obinibin",
+    "gn:country_code":"GH",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296675,
+    "gn:latitude":6.99213,
+    "gn:longitude":-1.57386,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Obinibin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Obinibin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296675
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"726cf958662ab55d04c74c9916fe6c9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209530379
+        }
+    ],
+    "wof:id":1209530379,
+    "wof:lastmodified":1537623504,
+    "wof:name":"Obinibin",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.57386,
+    6.99213,
+    -1.57386,
+    6.99213
+],
+  "geometry": {"coordinates":[-1.57386,6.99213],"type":"Point"}
+}

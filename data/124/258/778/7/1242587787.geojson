@@ -1,0 +1,67 @@
+{
+  "id": 1242587787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.38329,6.79646,-1.38329,6.79646",
+    "geom:latitude":6.79646,
+    "geom:longitude":-1.38329,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Abetinm",
+    "gn:country_code":"GH",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306388,
+    "gn:latitude":6.79646,
+    "gn:longitude":-1.38329,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Abetinm",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306388
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"705ed5497a328ff6f447068493e7f455",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759795,
+            "locality_id":1242587787,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1242587787,
+    "wof:lastmodified":1537046907,
+    "wof:name":"Abetinm",
+    "wof:parent_id":1108759795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.38329,
+    6.79646,
+    -1.38329,
+    6.79646
+],
+  "geometry": {"coordinates":[-1.38329,6.79646],"type":"Point"}
+}

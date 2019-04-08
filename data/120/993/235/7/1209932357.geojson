@@ -1,0 +1,72 @@
+{
+  "id": 1209932357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.02761,6.30103,-2.02761,6.30103",
+    "geom:latitude":6.30103,
+    "geom:longitude":-2.02761,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Asaman",
+    "gn:country_code":"GH",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304230,
+    "gn:latitude":6.30103,
+    "gn:longitude":-2.02761,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Asaman",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Esamang",
+        "Asaman",
+        "Asamang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304230
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"9a5c5377f2c5c4072d6f99c52c4292eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759865,
+            "locality_id":1209932357,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1209932357,
+    "wof:lastmodified":1537623779,
+    "wof:name":"Asaman",
+    "wof:parent_id":1108759865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.02761,
+    6.30103,
+    -2.02761,
+    6.30103
+],
+  "geometry": {"coordinates":[-2.02761,6.30103],"type":"Point"}
+}

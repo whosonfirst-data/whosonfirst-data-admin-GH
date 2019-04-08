@@ -1,0 +1,68 @@
+{
+  "id": 1310415847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.03096,8.16171,-2.03096,8.16171",
+    "geom:latitude":8.16171,
+    "geom:longitude":-2.03096,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bamboi",
+    "gn:country_code":"GH",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303439,
+    "gn:latitude":8.16171,
+    "gn:longitude":-2.03096,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Bamboi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303439,
+        "wk:page":"Bamboi"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"da10c0d8f8aef986f95300a3df3fe1c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759913,
+            "locality_id":1310415847,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1310415847,
+    "wof:lastmodified":1537563055,
+    "wof:name":"Bamboi",
+    "wof:parent_id":1108759913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.03096,
+    8.16171,
+    -2.03096,
+    8.16171
+],
+  "geometry": {"coordinates":[-2.03096,8.16171],"type":"Point"}
+}

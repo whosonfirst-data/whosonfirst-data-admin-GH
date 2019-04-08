@@ -1,0 +1,71 @@
+{
+  "id": 1260201553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.09834,9.26837,-1.09834,9.26837",
+    "geom:latitude":9.26837,
+    "geom:longitude":-1.09834,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Yiripani",
+    "gn:country_code":"GH",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293757,
+    "gn:latitude":9.26837,
+    "gn:longitude":-1.09834,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yiripani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yiripali",
+        "Yiripani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293757
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"7c68f20fb15d611e501b1f79aecfad2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759921,
+            "locality_id":1260201553,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1260201553,
+    "wof:lastmodified":1537623401,
+    "wof:name":"Yiripani",
+    "wof:parent_id":1108759921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.09834,
+    9.26837,
+    -1.09834,
+    9.26837
+],
+  "geometry": {"coordinates":[-1.09834,9.26837],"type":"Point"}
+}

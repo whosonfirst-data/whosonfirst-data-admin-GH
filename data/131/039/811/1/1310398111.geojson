@@ -1,0 +1,71 @@
+{
+  "id": 1310398111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.32216,10.01313,-1.32216,10.01313",
+    "geom:latitude":10.01313,
+    "geom:longitude":-1.32216,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Yabum",
+    "gn:country_code":"GH",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293924,
+    "gn:latitude":10.01313,
+    "gn:longitude":-1.32216,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yabum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tampulima Yabum",
+        "Yabum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293924
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"5b85e1435a0084a7f2ab3f0c7c32bf0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759921,
+            "locality_id":1310398111,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1310398111,
+    "wof:lastmodified":1537623407,
+    "wof:name":"Yabum",
+    "wof:parent_id":1108759921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.32216,
+    10.01313,
+    -1.32216,
+    10.01313
+],
+  "geometry": {"coordinates":[-1.32216,10.01313],"type":"Point"}
+}

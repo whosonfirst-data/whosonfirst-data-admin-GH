@@ -1,0 +1,71 @@
+{
+  "id": 1343373429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.79307,7.57787,-2.79307,7.57787",
+    "geom:latitude":7.57787,
+    "geom:longitude":-2.79307,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kwasibuokrom",
+    "gn:country_code":"GH",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298595,
+    "gn:latitude":7.57787,
+    "gn:longitude":-2.79307,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kwasibuokrom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kwasibookurom",
+        "Kwasibuokrom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298595
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"d48bf19091929d92b5e5fbb6e1e71040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759823,
+            "locality_id":1343373429,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1343373429,
+    "wof:lastmodified":1537623573,
+    "wof:name":"Kwasibuokrom",
+    "wof:parent_id":1108759823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.79307,
+    7.57787,
+    -2.79307,
+    7.57787
+],
+  "geometry": {"coordinates":[-2.79307,7.57787],"type":"Point"}
+}

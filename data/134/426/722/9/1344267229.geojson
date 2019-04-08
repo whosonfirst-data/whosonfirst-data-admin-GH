@@ -1,0 +1,71 @@
+{
+  "id": 1344267229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.51871,9.34088,-2.51871,9.34088",
+    "geom:latitude":9.34088,
+    "geom:longitude":-2.51871,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Tare",
+    "gn:country_code":"GH",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294772,
+    "gn:latitude":9.34088,
+    "gn:longitude":-2.51871,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Tare",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tari",
+        "Tare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294772
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"3c424cb009cfcf21863a91142ab99ce9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759913,
+            "locality_id":1344267229,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1344267229,
+    "wof:lastmodified":1537623438,
+    "wof:name":"Tare",
+    "wof:parent_id":1108759913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.51871,
+    9.34088,
+    -2.51871,
+    9.34088
+],
+  "geometry": {"coordinates":[-2.51871,9.34088],"type":"Point"}
+}

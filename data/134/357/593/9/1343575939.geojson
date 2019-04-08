@@ -1,0 +1,67 @@
+{
+  "id": 1343575939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.21327,10.43102,-0.21327,10.43102",
+    "geom:latitude":10.43102,
+    "geom:longitude":-0.21327,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kpierenko",
+    "gn:country_code":"GH",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299169,
+    "gn:latitude":10.43102,
+    "gn:longitude":-0.21327,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Kpierenko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299169
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"0b1045c24337df964a87e709119aa76e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759917,
+            "locality_id":1343575939,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1343575939,
+    "wof:lastmodified":1537073985,
+    "wof:name":"Kpierenko",
+    "wof:parent_id":1108759917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.21327,
+    10.43102,
+    -0.21327,
+    10.43102
+],
+  "geometry": {"coordinates":[-0.21327,10.43102],"type":"Point"}
+}

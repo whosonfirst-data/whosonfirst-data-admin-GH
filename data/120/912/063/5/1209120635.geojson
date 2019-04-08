@@ -1,0 +1,61 @@
+{
+  "id": 1209120635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.45,6.03333,0.45,6.03333",
+    "geom:latitude":6.03333,
+    "geom:longitude":0.45,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kelikaw",
+    "gn:country_code":"GH",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299671,
+    "gn:latitude":6.03333,
+    "gn:longitude":0.45,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Kelikaw",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299671
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"633e0c2d91a895f23795a051ab636535",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209120635
+        }
+    ],
+    "wof:id":1209120635,
+    "wof:lastmodified":1536297111,
+    "wof:name":"Kelikaw",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.45,
+    6.03333,
+    0.45,
+    6.03333
+],
+  "geometry": {"coordinates":[0.45,6.03333],"type":"Point"}
+}

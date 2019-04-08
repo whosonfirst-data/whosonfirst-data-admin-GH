@@ -1,0 +1,66 @@
+{
+  "id": 1209116065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.34739,6.48626,0.34739,6.48626",
+    "geom:latitude":6.48626,
+    "geom:longitude":0.34739,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kloe",
+    "gn:country_code":"GH",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299599,
+    "gn:latitude":6.48626,
+    "gn:longitude":0.34739,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kloe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuli",
+        "Abutia Kloe",
+        "Kloe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299599
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"00ec62be2002e1260d8141e7ca8c5975",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209116065
+        }
+    ],
+    "wof:id":1209116065,
+    "wof:lastmodified":1537623606,
+    "wof:name":"Kloe",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.34739,
+    6.48626,
+    0.34739,
+    6.48626
+],
+  "geometry": {"coordinates":[0.34739,6.48626],"type":"Point"}
+}

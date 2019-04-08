@@ -1,0 +1,70 @@
+{
+  "id": 1344071767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.84357,5.55195,-1.84357,5.55195",
+    "geom:latitude":5.55195,
+    "geom:longitude":-1.84357,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Chirewu",
+    "gn:country_code":"GH",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302181,
+    "gn:latitude":5.55195,
+    "gn:longitude":-1.84357,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Chirewu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chirewu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302181
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"126a5c3a215c72428a97f08950ca8c08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760017,
+            "locality_id":1344071767,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1344071767,
+    "wof:lastmodified":1537623707,
+    "wof:name":"Chirewu",
+    "wof:parent_id":1108760017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.84357,
+    5.55195,
+    -1.84357,
+    5.55195
+],
+  "geometry": {"coordinates":[-1.84357,5.55195],"type":"Point"}
+}

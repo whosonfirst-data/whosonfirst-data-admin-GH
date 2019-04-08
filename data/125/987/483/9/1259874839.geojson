@@ -1,0 +1,75 @@
+{
+  "id": 1259874839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.85278,10.9825,-0.85278,10.9825",
+    "geom:latitude":10.9825,
+    "geom:longitude":-0.85278,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Namoo",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297620,
+    "gn:latitude":10.9825,
+    "gn:longitude":-0.85278,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Namoo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Namorgo",
+        "Namogo",
+        "Namawgo",
+        "Namango Abiribisi",
+        "Namoo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297620
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"f8b0721f56fd7cb27f3bff1e716f08fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759949,
+            "locality_id":1259874839,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1259874839,
+    "wof:lastmodified":1537623538,
+    "wof:name":"Namoo",
+    "wof:parent_id":1108759949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.85278,
+    10.9825,
+    -0.85278,
+    10.9825
+],
+  "geometry": {"coordinates":[-0.85278,10.9825],"type":"Point"}
+}

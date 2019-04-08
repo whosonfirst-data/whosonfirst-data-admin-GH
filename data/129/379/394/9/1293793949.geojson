@@ -1,0 +1,70 @@
+{
+  "id": 1293793949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.69267,5.20217,-1.69267,5.20217",
+    "geom:latitude":5.20217,
+    "geom:longitude":-1.69267,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Minta",
+    "gn:country_code":"GH",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297999,
+    "gn:latitude":5.20217,
+    "gn:longitude":-1.69267,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Minta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Minta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297999
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"3ac60b4c816f9d4f9321b5dfb58e483b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760005,
+            "locality_id":1293793949,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1293793949,
+    "wof:lastmodified":1537623553,
+    "wof:name":"Minta",
+    "wof:parent_id":1108760005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.69267,
+    5.20217,
+    -1.69267,
+    5.20217
+],
+  "geometry": {"coordinates":[-1.69267,5.20217],"type":"Point"}
+}

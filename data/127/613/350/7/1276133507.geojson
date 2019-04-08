@@ -1,0 +1,72 @@
+{
+  "id": 1276133507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.8,9.31667,-0.8,9.31667",
+    "geom:latitude":9.31667,
+    "geom:longitude":-0.8,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dakrubongo",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302034,
+    "gn:latitude":9.31667,
+    "gn:longitude":-0.8,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dakrubongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dokrubonga",
+        "Dakrubongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302034
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"b1234c8f371bbc0b7396fd6223e5f4de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759933,
+            "locality_id":1276133507,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1276133507,
+    "wof:lastmodified":1537623701,
+    "wof:name":"Dakrubongo",
+    "wof:parent_id":1108759933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8,
+    9.31667,
+    -0.8,
+    9.31667
+],
+  "geometry": {"coordinates":[-0.8,9.31667],"type":"Point"}
+}

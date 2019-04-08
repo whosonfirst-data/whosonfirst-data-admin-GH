@@ -1,0 +1,71 @@
+{
+  "id": 1360103111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.91855,5.3247,-0.91855,5.3247",
+    "geom:latitude":5.3247,
+    "geom:longitude":-0.91855,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Jinankuma",
+    "gn:country_code":"GH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300081,
+    "gn:latitude":5.3247,
+    "gn:longitude":-0.91855,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jinankuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gyinakuma",
+        "Jinankuma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300081
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ad94424988b2c687b37ee097c1d3e8c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759845,
+            "locality_id":1360103111,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1360103111,
+    "wof:lastmodified":1537623625,
+    "wof:name":"Jinankuma",
+    "wof:parent_id":1108759845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.91855,
+    5.3247,
+    -0.91855,
+    5.3247
+],
+  "geometry": {"coordinates":[-0.91855,5.3247],"type":"Point"}
+}

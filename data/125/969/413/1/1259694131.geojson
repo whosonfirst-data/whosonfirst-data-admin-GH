@@ -1,0 +1,75 @@
+{
+  "id": 1259694131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.84994,8.1646,-1.84994,8.1646",
+    "geom:latitude":8.1646,
+    "geom:longitude":-1.84994,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Soloboe",
+    "gn:country_code":"GH",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2295676,
+    "gn:latitude":8.1646,
+    "gn:longitude":-1.84994,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Soloboe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Soloboe"
+    ],
+    "name:und_x_variant":[
+        "Soligboi",
+        "Solibe",
+        "Salipe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2295676
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"c92a9f42ecc113421f05e632b712fa76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759825,
+            "locality_id":1259694131,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1259694131,
+    "wof:lastmodified":1537623469,
+    "wof:name":"Soloboe",
+    "wof:parent_id":1108759825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.84994,
+    8.1646,
+    -1.84994,
+    8.1646
+],
+  "geometry": {"coordinates":[-1.84994,8.1646],"type":"Point"}
+}

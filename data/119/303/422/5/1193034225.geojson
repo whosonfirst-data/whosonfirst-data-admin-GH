@@ -1,0 +1,73 @@
+{
+  "id": 1193034225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.16037,8.32361,-0.16037,8.32361",
+    "geom:latitude":8.32361,
+    "geom:longitude":-0.16037,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Wiae",
+    "gn:country_code":"GH",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294064,
+    "gn:latitude":8.32361,
+    "gn:longitude":-0.16037,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Wiae",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wujae",
+        "Wiai",
+        "Wuyae",
+        "Wiae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294064
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"cb713204fc8d04cced6ac59e13c66dfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759919,
+            "locality_id":1193034225,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1193034225,
+    "wof:lastmodified":1537623413,
+    "wof:name":"Wiae",
+    "wof:parent_id":1108759919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.16037,
+    8.32361,
+    -0.16037,
+    8.32361
+],
+  "geometry": {"coordinates":[-0.16037,8.32361],"type":"Point"}
+}

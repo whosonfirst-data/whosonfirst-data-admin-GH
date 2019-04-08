@@ -1,0 +1,71 @@
+{
+  "id": 1343576069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.11328,10.51144,0.11328,10.51144",
+    "geom:latitude":10.51144,
+    "geom:longitude":0.11328,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tojin",
+    "gn:country_code":"GH",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294508,
+    "gn:latitude":10.51144,
+    "gn:longitude":0.11328,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tojin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tojing Number 1",
+        "Tojin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294508
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"0b45218f248467c592bbaaa056881c05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759917,
+            "locality_id":1343576069,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1343576069,
+    "wof:lastmodified":1537623428,
+    "wof:name":"Tojin",
+    "wof:parent_id":1108759917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.11328,
+    10.51144,
+    0.11328,
+    10.51144
+],
+  "geometry": {"coordinates":[0.11328,10.51144],"type":"Point"}
+}

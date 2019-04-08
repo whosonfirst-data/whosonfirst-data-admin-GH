@@ -1,0 +1,71 @@
+{
+  "id": 1327441479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.56352,6.11082,-0.56352,6.11082",
+    "geom:latitude":6.11082,
+    "geom:longitude":-0.56352,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Pawtroasi",
+    "gn:country_code":"GH",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296050,
+    "gn:latitude":6.11082,
+    "gn:longitude":-0.56352,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pawtroasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Potoroase",
+        "Pawtroasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296050
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"41d22b9ed3555834ec8aeb40fdc980b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759881,
+            "locality_id":1327441479,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1327441479,
+    "wof:lastmodified":1537623481,
+    "wof:name":"Pawtroasi",
+    "wof:parent_id":1108759881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.56352,
+    6.11082,
+    -0.56352,
+    6.11082
+],
+  "geometry": {"coordinates":[-0.56352,6.11082],"type":"Point"}
+}

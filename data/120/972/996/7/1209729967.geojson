@@ -1,0 +1,67 @@
+{
+  "id": 1209729967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.12317,10.11541,-0.12317,10.11541",
+    "geom:latitude":10.11541,
+    "geom:longitude":-0.12317,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kunguri",
+    "gn:country_code":"GH",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298843,
+    "gn:latitude":10.11541,
+    "gn:longitude":-0.12317,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Kunguri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298843
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"6a76055c552fc75bbd68e2ac6d72215d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759925,
+            "locality_id":1209729967,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1209729967,
+    "wof:lastmodified":1536379706,
+    "wof:name":"Kunguri",
+    "wof:parent_id":1108759925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.12317,
+    10.11541,
+    -0.12317,
+    10.11541
+],
+  "geometry": {"coordinates":[-0.12317,10.11541],"type":"Point"}
+}

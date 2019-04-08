@@ -1,0 +1,66 @@
+{
+  "id": 1209332973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.61832,6.97104,-1.61832,6.97104",
+    "geom:latitude":6.97104,
+    "geom:longitude":-1.61832,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Soko",
+    "gn:country_code":"GH",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2295056,
+    "gn:latitude":6.97104,
+    "gn:longitude":-1.61832,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Soko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Suku",
+        "Soko",
+        "Suko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2295056
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"8f66eb458eb7d6ec8a722527eb5e937b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209332973
+        }
+    ],
+    "wof:id":1209332973,
+    "wof:lastmodified":1537623447,
+    "wof:name":"Soko",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.61832,
+    6.97104,
+    -1.61832,
+    6.97104
+],
+  "geometry": {"coordinates":[-1.61832,6.97104],"type":"Point"}
+}

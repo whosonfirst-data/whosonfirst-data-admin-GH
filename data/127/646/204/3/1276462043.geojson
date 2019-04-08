@@ -1,0 +1,72 @@
+{
+  "id": 1276462043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.28922,9.17459,0.28922,9.17459",
+    "geom:latitude":9.17459,
+    "geom:longitude":0.28922,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gbandi",
+    "gn:country_code":"GH",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300735,
+    "gn:latitude":9.17459,
+    "gn:longitude":0.28922,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gbandi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bande",
+        "Gbande",
+        "Gbandi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300735
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"6d8e80893a1f08fb970e7f0d7e105eca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759939,
+            "locality_id":1276462043,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1276462043,
+    "wof:lastmodified":1537623652,
+    "wof:name":"Gbandi",
+    "wof:parent_id":1108759939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.28922,
+    9.17459,
+    0.28922,
+    9.17459
+],
+  "geometry": {"coordinates":[0.28922,9.17459],"type":"Point"}
+}

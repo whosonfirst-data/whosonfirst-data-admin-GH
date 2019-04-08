@@ -1,0 +1,71 @@
+{
+  "id": 1310323391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.48819,7.25329,0.48819,7.25329",
+    "geom:latitude":7.25329,
+    "geom:longitude":0.48819,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Todzi",
+    "gn:country_code":"GH",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294525,
+    "gn:latitude":7.25329,
+    "gn:longitude":0.48819,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Todzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Todji",
+        "Todzi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294525
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"9456071624fe366e2e96ec3988bf2f36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759973,
+            "locality_id":1310323391,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1310323391,
+    "wof:lastmodified":1537623429,
+    "wof:name":"Todzi",
+    "wof:parent_id":1108759973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.48819,
+    7.25329,
+    0.48819,
+    7.25329
+],
+  "geometry": {"coordinates":[0.48819,7.25329],"type":"Point"}
+}

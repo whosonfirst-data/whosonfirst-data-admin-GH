@@ -1,0 +1,73 @@
+{
+  "id": 1209805131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.24071,4.85852,-2.24071,4.85852",
+    "geom:latitude":4.85852,
+    "geom:longitude":-2.24071,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Apewusika",
+    "gn:country_code":"GH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304306,
+    "gn:latitude":4.85852,
+    "gn:longitude":-2.24071,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Apewusika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Apewusika"
+    ],
+    "name:eng_x_variant":[
+        "Aposika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304306
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"0e4a358027a68f72cd2787453f5bd37b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760007,
+            "locality_id":1209805131,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1209805131,
+    "wof:lastmodified":1537623781,
+    "wof:name":"Apewusika",
+    "wof:parent_id":1108760007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.24071,
+    4.85852,
+    -2.24071,
+    4.85852
+],
+  "geometry": {"coordinates":[-2.24071,4.85852],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1260094801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.24785,6.818,-1.24785,6.818",
+    "geom:latitude":6.818,
+    "geom:longitude":-1.24785,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Waraponso",
+    "gn:country_code":"GH",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294145,
+    "gn:latitude":6.818,
+    "gn:longitude":-1.24785,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Waraponso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Waruponso",
+        "Wuraponso",
+        "Waraponso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294145
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"8c4d13b0b9d5d798ee0c773ac25d191d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759807,
+            "locality_id":1260094801,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1260094801,
+    "wof:lastmodified":1537623416,
+    "wof:name":"Waraponso",
+    "wof:parent_id":1108759807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.24785,
+    6.818,
+    -1.24785,
+    6.818
+],
+  "geometry": {"coordinates":[-1.24785,6.818],"type":"Point"}
+}

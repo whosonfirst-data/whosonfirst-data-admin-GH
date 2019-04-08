@@ -1,0 +1,67 @@
+{
+  "id": 1327218257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.27201,4.98451,-2.27201,4.98451",
+    "geom:latitude":4.98451,
+    "geom:longitude":-2.27201,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Akutuabo",
+    "gn:country_code":"GH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593209,
+    "gn:latitude":4.98451,
+    "gn:longitude":-2.27201,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Akutuabo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593209
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"f3007241f2b1c9a8e442a337227c44b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760007,
+            "locality_id":1327218257,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1327218257,
+    "wof:lastmodified":1536989245,
+    "wof:name":"Akutuabo",
+    "wof:parent_id":1108760007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.27201,
+    4.98451,
+    -2.27201,
+    4.98451
+],
+  "geometry": {"coordinates":[-2.27201,4.98451],"type":"Point"}
+}

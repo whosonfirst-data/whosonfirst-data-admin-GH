@@ -1,0 +1,71 @@
+{
+  "id": 1210030863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.00366,7.19733,-2.00366,7.19733",
+    "geom:latitude":7.19733,
+    "geom:longitude":-2.00366,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ntiadom",
+    "gn:country_code":"GH",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297032,
+    "gn:latitude":7.19733,
+    "gn:longitude":-2.00366,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ntiadom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ntadiem Number 2",
+        "Ntiadom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297032
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"aec10d88e0bb16ca743631daad8a0d8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759835,
+            "locality_id":1210030863,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1210030863,
+    "wof:lastmodified":1537623516,
+    "wof:name":"Ntiadom",
+    "wof:parent_id":1108759835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.00366,
+    7.19733,
+    -2.00366,
+    7.19733
+],
+  "geometry": {"coordinates":[-2.00366,7.19733],"type":"Point"}
+}

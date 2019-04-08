@@ -1,0 +1,64 @@
+{
+  "id": 1209533707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.13699,4.90312,-2.13699,4.90312",
+    "geom:latitude":4.90312,
+    "geom:longitude":-2.13699,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kegyina",
+    "gn:country_code":"GH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299515,
+    "gn:latitude":4.90312,
+    "gn:longitude":-2.13699,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Kegyina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kojima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299515
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"370eca11b6e169392331ca45d3f52558",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209533707
+        }
+    ],
+    "wof:id":1209533707,
+    "wof:lastmodified":1537623603,
+    "wof:name":"Kegyina",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.13699,
+    4.90312,
+    -2.13699,
+    4.90312
+],
+  "geometry": {"coordinates":[-2.13699,4.90312],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343468905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.17751,10.33361,-2.17751,10.33361",
+    "geom:latitude":10.33361,
+    "geom:longitude":-2.17751,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Jellin-Iri",
+    "gn:country_code":"GH",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300150,
+    "gn:latitude":10.33361,
+    "gn:longitude":-2.17751,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jellin-Iri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jolinyiri",
+        "Jellin-Iri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300150
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"1bbb2340eed2883f5f829978bfeba7b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759961,
+            "locality_id":1343468905,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1343468905,
+    "wof:lastmodified":1537623628,
+    "wof:name":"Jellin-Iri",
+    "wof:parent_id":1108759961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.17751,
+    10.33361,
+    -2.17751,
+    10.33361
+],
+  "geometry": {"coordinates":[-2.17751,10.33361],"type":"Point"}
+}

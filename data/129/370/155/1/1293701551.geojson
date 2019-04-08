@@ -1,0 +1,77 @@
+{
+  "id": 1293701551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.10522,5.18363,-1.10522,5.18363",
+    "geom:latitude":5.18363,
+    "geom:longitude":-1.10522,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Eja",
+    "gn:country_code":"GH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301238,
+    "gn:latitude":5.18363,
+    "gn:longitude":-1.10522,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Eja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aja",
+        "Egya",
+        "Aga",
+        "Egyaa Number 3",
+        "Agya",
+        "Egyaa Number 2",
+        "Egyaa Number 1",
+        "Eja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301238
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"b707fc52250afb5d722c4d4e0728a2db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759861,
+            "locality_id":1293701551,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1293701551,
+    "wof:lastmodified":1537623670,
+    "wof:name":"Eja",
+    "wof:parent_id":1108759861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.10522,
+    5.18363,
+    -1.10522,
+    5.18363
+],
+  "geometry": {"coordinates":[-1.10522,5.18363],"type":"Point"}
+}

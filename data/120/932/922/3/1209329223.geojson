@@ -1,0 +1,67 @@
+{
+  "id": 1209329223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.19899,6.98229,-2.19899,6.98229",
+    "geom:latitude":6.98229,
+    "geom:longitude":-2.19899,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Akwesiasi Two",
+    "gn:country_code":"GH",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304921,
+    "gn:latitude":6.98229,
+    "gn:longitude":-2.19899,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Akwesiasi Two",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Akwesiasi Two"
+    ],
+    "name:eng_x_variant":[
+        "Akwesiasi II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304921
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"b97a58b6b382b6373acd1bff27e23eae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209329223
+        }
+    ],
+    "wof:id":1209329223,
+    "wof:lastmodified":1537623801,
+    "wof:name":"Akwesiasi Two",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.19899,
+    6.98229,
+    -2.19899,
+    6.98229
+],
+  "geometry": {"coordinates":[-2.19899,6.98229],"type":"Point"}
+}

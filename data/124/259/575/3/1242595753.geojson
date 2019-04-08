@@ -1,0 +1,76 @@
+{
+  "id": 1242595753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.7357,5.00517,-1.7357,5.00517",
+    "geom:latitude":5.00517,
+    "geom:longitude":-1.7357,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ashiam",
+    "gn:country_code":"GH",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304113,
+    "gn:latitude":5.00517,
+    "gn:longitude":-1.7357,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Ashiam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ashiem"
+    ],
+    "name:und_x_variant":[
+        "Abiem",
+        "Ashien",
+        "Ahyiem",
+        "Ashiam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304113
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"d0cfc343441d1b1a7517bbbe173e3791",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760011,
+            "locality_id":1242595753,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1242595753,
+    "wof:lastmodified":1537623774,
+    "wof:name":"Ashiam",
+    "wof:parent_id":1108760011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.7357,
+    5.00517,
+    -1.7357,
+    5.00517
+],
+  "geometry": {"coordinates":[-1.7357,5.00517],"type":"Point"}
+}

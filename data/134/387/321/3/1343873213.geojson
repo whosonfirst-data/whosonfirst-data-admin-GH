@@ -1,0 +1,74 @@
+{
+  "id": 1343873213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.81887,7.18873,-2.81887,7.18873",
+    "geom:latitude":7.18873,
+    "geom:longitude":-2.81887,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ahireso",
+    "gn:country_code":"GH",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305424,
+    "gn:latitude":7.18873,
+    "gn:longitude":-2.81887,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Ahireso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Abireso"
+    ],
+    "name:und_x_variant":[
+        "Ahyiresu",
+        "Ahireso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305424
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"cc47c54b987d88b54925f74e557b9c6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759821,
+            "locality_id":1343873213,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1343873213,
+    "wof:lastmodified":1537623820,
+    "wof:name":"Ahireso",
+    "wof:parent_id":1108759821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.81887,
+    7.18873,
+    -2.81887,
+    7.18873
+],
+  "geometry": {"coordinates":[-2.81887,7.18873],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209525385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.60758,6.42278,-1.60758,6.42278",
+    "geom:latitude":6.42278,
+    "geom:longitude":-1.60758,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Anwiam",
+    "gn:country_code":"GH",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304473,
+    "gn:latitude":6.42278,
+    "gn:longitude":-1.60758,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Anwiam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Awiam",
+        "Anwiam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304473
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"c9a5d5b7823b537970ede927373ee246",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209525385
+        }
+    ],
+    "wof:id":1209525385,
+    "wof:lastmodified":1537623787,
+    "wof:name":"Anwiam",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.60758,
+    6.42278,
+    -1.60758,
+    6.42278
+],
+  "geometry": {"coordinates":[-1.60758,6.42278],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310315231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.81796,5.65989,-0.81796,5.65989",
+    "geom:latitude":5.65989,
+    "geom:longitude":-0.81796,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Boifi",
+    "gn:country_code":"GH",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302870,
+    "gn:latitude":5.65989,
+    "gn:longitude":-0.81796,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Boifi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boifi Number 1",
+        "Boifi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302870
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"7ff5e3efaccb7a4d51ea22a2f67ac90b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759843,
+            "locality_id":1310315231,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1310315231,
+    "wof:lastmodified":1537623731,
+    "wof:name":"Boifi",
+    "wof:parent_id":1108759843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.81796,
+    5.65989,
+    -0.81796,
+    5.65989
+],
+  "geometry": {"coordinates":[-0.81796,5.65989],"type":"Point"}
+}

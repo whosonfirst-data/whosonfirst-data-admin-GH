@@ -1,0 +1,67 @@
+{
+  "id": 1226260895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.12764,5.65103,-1.12764,5.65103",
+    "geom:latitude":5.65103,
+    "geom:longitude":-1.12764,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Anamapenin",
+    "gn:country_code":"GH",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304663,
+    "gn:latitude":5.65103,
+    "gn:longitude":-1.12764,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Anamapenin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304663
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"f5096f9210c331b0633edcc3cbe3bc20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759847,
+            "locality_id":1226260895,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1226260895,
+    "wof:lastmodified":1536912180,
+    "wof:name":"Anamapenin",
+    "wof:parent_id":1108759847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.12764,
+    5.65103,
+    -1.12764,
+    5.65103
+],
+  "geometry": {"coordinates":[-1.12764,5.65103],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1242985601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.96698,6.15111,0.96698,6.15111",
+    "geom:latitude":6.15111,
+    "geom:longitude":0.96698,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dekpo",
+    "gn:country_code":"GH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301854,
+    "gn:latitude":6.15111,
+    "gn:longitude":0.96698,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dekpo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dekporhorme",
+        "Dekpo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301854
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"bdbdbcdf19a11f25f82954420552687e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759983,
+            "locality_id":1242985601,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1242985601,
+    "wof:lastmodified":1537623696,
+    "wof:name":"Dekpo",
+    "wof:parent_id":1108759983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.96698,
+    6.15111,
+    0.96698,
+    6.15111
+],
+  "geometry": {"coordinates":[0.96698,6.15111],"type":"Point"}
+}

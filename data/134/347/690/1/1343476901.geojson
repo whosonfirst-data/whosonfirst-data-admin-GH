@@ -1,0 +1,72 @@
+{
+  "id": 1343476901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.34068,6.64998,0.34068,6.64998",
+    "geom:latitude":6.64998,
+    "geom:longitude":0.34068,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Wegbe",
+    "gn:country_code":"GH",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294096,
+    "gn:latitude":6.64998,
+    "gn:longitude":0.34068,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Wegbe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wegbe Kpalime",
+        "Wegbe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294096,
+        "wk:page":"Wegbe_Kpalime"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"4239b17af7a67b7be41af7869ba369a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759971,
+            "locality_id":1343476901,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1343476901,
+    "wof:lastmodified":1537623414,
+    "wof:name":"Wegbe",
+    "wof:parent_id":1108759971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.34068,
+    6.64998,
+    0.34068,
+    6.64998
+],
+  "geometry": {"coordinates":[0.34068,6.64998],"type":"Point"}
+}

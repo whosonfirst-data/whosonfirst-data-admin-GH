@@ -1,0 +1,72 @@
+{
+  "id": 1276453069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.51667,6.95,0.51667,6.95",
+    "geom:latitude":6.95,
+    "geom:longitude":0.51667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Asotodji",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304047,
+    "gn:latitude":6.95,
+    "gn:longitude":0.51667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Asotodji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Asotodzi",
+        "Asotodji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304047
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"653848e54ac8f0df0c5942c5bd6adf69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759973,
+            "locality_id":1276453069,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1276453069,
+    "wof:lastmodified":1537623771,
+    "wof:name":"Asotodji",
+    "wof:parent_id":1108759973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.51667,
+    6.95,
+    0.51667,
+    6.95
+],
+  "geometry": {"coordinates":[0.51667,6.95],"type":"Point"}
+}

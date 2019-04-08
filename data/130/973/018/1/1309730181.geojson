@@ -1,0 +1,71 @@
+{
+  "id": 1309730181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.40919,7.425,0.40919,7.425",
+    "geom:latitude":7.425,
+    "geom:longitude":0.40919,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Aka",
+    "gn:country_code":"GH",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305237,
+    "gn:latitude":7.425,
+    "gn:longitude":0.40919,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Aka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akaa",
+        "Aka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305237
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"b6b64690aa9893a2aa3f6ac2aaf9dcf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759975,
+            "locality_id":1309730181,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1309730181,
+    "wof:lastmodified":1537623813,
+    "wof:name":"Aka",
+    "wof:parent_id":1108759975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.40919,
+    7.425,
+    0.40919,
+    7.425
+],
+  "geometry": {"coordinates":[0.40919,7.425],"type":"Point"}
+}

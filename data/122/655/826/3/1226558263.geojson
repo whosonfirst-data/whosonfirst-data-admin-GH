@@ -1,0 +1,73 @@
+{
+  "id": 1226558263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.13333,9.41667,-1.13333,9.41667",
+    "geom:latitude":9.41667,
+    "geom:longitude":-1.13333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tiboggo",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294625,
+    "gn:latitude":9.41667,
+    "gn:longitude":-1.13333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tiboggo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tali Tibogu",
+        "Tibogo",
+        "Tiboggo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294625
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"0f12c5864fca35ddb2526277b1777353",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759935,
+            "locality_id":1226558263,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1226558263,
+    "wof:lastmodified":1537623433,
+    "wof:name":"Tiboggo",
+    "wof:parent_id":1108759935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.13333,
+    9.41667,
+    -1.13333,
+    9.41667
+],
+  "geometry": {"coordinates":[-1.13333,9.41667],"type":"Point"}
+}

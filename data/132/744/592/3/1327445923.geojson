@@ -1,0 +1,71 @@
+{
+  "id": 1327445923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.77531,6.20802,-1.77531,6.20802",
+    "geom:latitude":6.20802,
+    "geom:longitude":-1.77531,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Hia",
+    "gn:country_code":"GH",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300410,
+    "gn:latitude":6.20802,
+    "gn:longitude":-1.77531,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Hia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hiao",
+        "Hia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300410
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a84c10174bf3ae95bf885770cb2d231a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759783,
+            "locality_id":1327445923,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1327445923,
+    "wof:lastmodified":1537623639,
+    "wof:name":"Hia",
+    "wof:parent_id":1108759783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.77531,
+    6.20802,
+    -1.77531,
+    6.20802
+],
+  "geometry": {"coordinates":[-1.77531,6.20802],"type":"Point"}
+}

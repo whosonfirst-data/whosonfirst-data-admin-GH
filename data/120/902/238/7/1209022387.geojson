@@ -1,0 +1,66 @@
+{
+  "id": 1209022387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.98721,10.84445,-0.98721,10.84445",
+    "geom:latitude":10.84445,
+    "geom:longitude":-0.98721,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Akunkongu",
+    "gn:country_code":"GH",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304988,
+    "gn:latitude":10.84445,
+    "gn:longitude":-0.98721,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Akunkongu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akunkogo",
+        "Akunkongo",
+        "Akunkongu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304988
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"cfb32f801a30ce5bf1821710ca63800e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209022387
+        }
+    ],
+    "wof:id":1209022387,
+    "wof:lastmodified":1537623804,
+    "wof:name":"Akunkongu",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.98721,
+    10.84445,
+    -0.98721,
+    10.84445
+],
+  "geometry": {"coordinates":[-0.98721,10.84445],"type":"Point"}
+}

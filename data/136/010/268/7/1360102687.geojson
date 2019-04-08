@@ -1,0 +1,68 @@
+{
+  "id": 1360102687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.25139,5.69694,-0.25139,5.69694",
+    "geom:latitude":5.69694,
+    "geom:longitude":-0.25139,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kwabenya",
+    "gn:country_code":"GH",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11428094,
+    "gn:latitude":5.69694,
+    "gn:longitude":-0.25139,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Kwabenya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671353,
+        1108759909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11428094,
+        "wk:page":"Kwabenya"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"63d72444d7b274146b2f88dc92f3c734",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759909,
+            "locality_id":1360102687,
+            "region_id":85671353
+        }
+    ],
+    "wof:id":1360102687,
+    "wof:lastmodified":1537563066,
+    "wof:name":"Kwabenya",
+    "wof:parent_id":1108759909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.25139,
+    5.69694,
+    -0.25139,
+    5.69694
+],
+  "geometry": {"coordinates":[-0.25139,5.69694],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360300303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.02003,10.26425,-0.02003,10.26425",
+    "geom:latitude":10.26425,
+    "geom:longitude":-0.02003,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nangan",
+    "gn:country_code":"GH",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297590,
+    "gn:latitude":10.26425,
+    "gn:longitude":-0.02003,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Nangan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297590
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"bc6411f66e393726b4c10bb81bbfbb8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759925,
+            "locality_id":1360300303,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1360300303,
+    "wof:lastmodified":1536633723,
+    "wof:name":"Nangan",
+    "wof:parent_id":1108759925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.02003,
+    10.26425,
+    -0.02003,
+    10.26425
+],
+  "geometry": {"coordinates":[-0.02003,10.26425],"type":"Point"}
+}

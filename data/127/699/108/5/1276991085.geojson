@@ -1,0 +1,72 @@
+{
+  "id": 1276991085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.88469,5.85476,-1.88469,5.85476",
+    "geom:latitude":5.85476,
+    "geom:longitude":-1.88469,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ayaboi",
+    "gn:country_code":"GH",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303607,
+    "gn:latitude":5.85476,
+    "gn:longitude":-1.88469,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Ayaboi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yiraboi",
+        "Ayaboe",
+        "Ayaboi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303607
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"dc0375fbda35af241e53344a41de6838",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760015,
+            "locality_id":1276991085,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1276991085,
+    "wof:lastmodified":1537623757,
+    "wof:name":"Ayaboi",
+    "wof:parent_id":1108760015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.88469,
+    5.85476,
+    -1.88469,
+    5.85476
+],
+  "geometry": {"coordinates":[-1.88469,5.85476],"type":"Point"}
+}

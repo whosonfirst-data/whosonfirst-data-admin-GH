@@ -1,0 +1,67 @@
+{
+  "id": 1243564673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.1576,5.70738,-1.1576,5.70738",
+    "geom:latitude":5.70738,
+    "geom:longitude":-1.1576,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Asemena",
+    "gn:country_code":"GH",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304158,
+    "gn:latitude":5.70738,
+    "gn:longitude":-1.1576,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Asemena",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304158
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"547e4ccbd05d77f837e6f020f980b10f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759849,
+            "locality_id":1243564673,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1243564673,
+    "wof:lastmodified":1536633704,
+    "wof:name":"Asemena",
+    "wof:parent_id":1108759849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.1576,
+    5.70738,
+    -1.1576,
+    5.70738
+],
+  "geometry": {"coordinates":[-1.1576,5.70738],"type":"Point"}
+}

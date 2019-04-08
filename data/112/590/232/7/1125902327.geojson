@@ -1,0 +1,103 @@
+{
+  "id": 1125902327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.31035,5.57714,-0.31035,5.57714",
+    "geom:latitude":5.57714,
+    "geom:longitude":-0.31035,
+    "gn:gn_country":"GH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":44645,
+    "gn:population":44645,
+    "iso:country":"GH",
+    "lbl:latitude":5.57714,
+    "lbl:longitude":-0.31035,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:aka_x_preferred":[
+        "Gbawe"
+    ],
+    "name:dut_x_preferred":[
+        "Gbawe"
+    ],
+    "name:eng_x_preferred":[
+        "Gbawe"
+    ],
+    "name:ger_x_preferred":[
+        "Gbawe"
+    ],
+    "name:ita_x_preferred":[
+        "Gbawe"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30d0\u30a6\u30a7"
+    ],
+    "name:swe_x_preferred":[
+        "Gbawe"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u0628\u0627\u0648\u06d2"
+    ],
+    "qs_pg:aaroncc":"GH",
+    "qs_pg:gn_country":"GH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2300721,
+    "qs_pg:gn_pop":44645,
+    "qs_pg:name":"Gbawe",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":278384,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671353,
+        1108759909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300721,
+        "qs_pg:id":278384,
+        "wd:id":"Q1496746"
+    },
+    "wof:country":"GH",
+    "wof:created":1497295859,
+    "wof:geomhash":"b87b53e9bd6e50369037e6dc45ec120c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759909,
+            "locality_id":1125902327,
+            "region_id":85671353
+        }
+    ],
+    "wof:id":1125902327,
+    "wof:lastmodified":1514443703,
+    "wof:name":"Gbawe",
+    "wof:parent_id":1108759909,
+    "wof:placetype":"locality",
+    "wof:population":44645,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.31035,
+    5.57714,
+    -0.31035,
+    5.57714
+],
+  "geometry": {"coordinates":[-0.31035,5.57714],"type":"Point"}
+}

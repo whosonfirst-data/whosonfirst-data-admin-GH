@@ -1,0 +1,77 @@
+{
+  "id": 1259989535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.6491,6.808,-1.6491,6.808",
+    "geom:latitude":6.808,
+    "geom:longitude":-1.6491,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kodeekuma",
+    "gn:country_code":"GH",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298722,
+    "gn:latitude":6.808,
+    "gn:longitude":-1.6491,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Kodeekuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kodeekuma"
+    ],
+    "name:eng_x_variant":[
+        "Akurowa"
+    ],
+    "name:und_x_variant":[
+        "Kodie Kuma",
+        "Kwadia Kuma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298722
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"e2e3f440e542bd7b81945cf04697d90b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759803,
+            "locality_id":1259989535,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1259989535,
+    "wof:lastmodified":1537623578,
+    "wof:name":"Kodeekuma",
+    "wof:parent_id":1108759803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.6491,
+    6.808,
+    -1.6491,
+    6.808
+],
+  "geometry": {"coordinates":[-1.6491,6.808],"type":"Point"}
+}

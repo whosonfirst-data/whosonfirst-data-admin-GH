@@ -1,0 +1,71 @@
+{
+  "id": 1293404737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.60622,5.94121,-0.60622,5.94121",
+    "geom:latitude":5.94121,
+    "geom:longitude":-0.60622,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Oworom",
+    "gn:country_code":"GH",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296211,
+    "gn:latitude":5.94121,
+    "gn:longitude":-0.60622,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Oworom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oworam",
+        "Oworom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296211
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"fc2dc013dfb055fd36565b3f8f03691b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759897,
+            "locality_id":1293404737,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1293404737,
+    "wof:lastmodified":1537623487,
+    "wof:name":"Oworom",
+    "wof:parent_id":1108759897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.60622,
+    5.94121,
+    -0.60622,
+    5.94121
+],
+  "geometry": {"coordinates":[-0.60622,5.94121],"type":"Point"}
+}

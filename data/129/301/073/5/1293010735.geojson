@@ -1,0 +1,71 @@
+{
+  "id": 1293010735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.59807,5.4788,-1.59807,5.4788",
+    "geom:latitude":5.4788,
+    "geom:longitude":-1.59807,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Bukruso",
+    "gn:country_code":"GH",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302485,
+    "gn:latitude":5.4788,
+    "gn:longitude":-1.59807,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Bukruso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bukroso",
+        "Bukruso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302485
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"f70dd0b3c1f4769710d264d936341773",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759863,
+            "locality_id":1293010735,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1293010735,
+    "wof:lastmodified":1537623718,
+    "wof:name":"Bukruso",
+    "wof:parent_id":1108759863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.59807,
+    5.4788,
+    -1.59807,
+    5.4788
+],
+  "geometry": {"coordinates":[-1.59807,5.4788],"type":"Point"}
+}

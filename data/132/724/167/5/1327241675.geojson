@@ -1,0 +1,67 @@
+{
+  "id": 1327241675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.11667,6.51667,-1.11667,6.51667",
+    "geom:latitude":6.51667,
+    "geom:longitude":-1.11667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Obogu",
+    "gn:country_code":"GH",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296651,
+    "gn:latitude":6.51667,
+    "gn:longitude":-1.11667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Obogu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296651
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"66bd3a4c4214f9e2e3c5a91c47e6e6dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759789,
+            "locality_id":1327241675,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1327241675,
+    "wof:lastmodified":1536956116,
+    "wof:name":"Obogu",
+    "wof:parent_id":1108759789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.11667,
+    6.51667,
+    -1.11667,
+    6.51667
+],
+  "geometry": {"coordinates":[-1.11667,6.51667],"type":"Point"}
+}

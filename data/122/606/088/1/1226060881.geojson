@@ -1,0 +1,73 @@
+{
+  "id": 1226060881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.86667,6.05,0.86667,6.05",
+    "geom:latitude":6.05,
+    "geom:longitude":0.86667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kuchiyi",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299015,
+    "gn:latitude":6.05,
+    "gn:longitude":0.86667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kuchiyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuchiji",
+        "Kutidzi",
+        "Kuchiyi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299015
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"644e741b95204c889a28fb7f57789c57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759981,
+            "locality_id":1226060881,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1226060881,
+    "wof:lastmodified":1537623587,
+    "wof:name":"Kuchiyi",
+    "wof:parent_id":1108759981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.86667,
+    6.05,
+    0.86667,
+    6.05
+],
+  "geometry": {"coordinates":[0.86667,6.05],"type":"Point"}
+}

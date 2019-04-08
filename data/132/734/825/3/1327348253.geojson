@@ -1,0 +1,70 @@
+{
+  "id": 1327348253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.04179,5.87364,-2.04179,5.87364",
+    "geom:latitude":5.87364,
+    "geom:longitude":-2.04179,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Mankesim",
+    "gn:country_code":"GH",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298203,
+    "gn:latitude":5.87364,
+    "gn:longitude":-2.04179,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Mankesim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mankesim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298203
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"25cd0877c0b4602119e2cdec70498be5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760015,
+            "locality_id":1327348253,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1327348253,
+    "wof:lastmodified":1537623560,
+    "wof:name":"Mankesim",
+    "wof:parent_id":1108760015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.04179,
+    5.87364,
+    -2.04179,
+    5.87364
+],
+  "geometry": {"coordinates":[-2.04179,5.87364],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209729985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.84267,5.80729,-2.84267,5.80729",
+    "geom:latitude":5.80729,
+    "geom:longitude":-2.84267,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Bonesue",
+    "gn:country_code":"GH",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302771,
+    "gn:latitude":5.80729,
+    "gn:longitude":-2.84267,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Bonesue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bonesue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108759997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302771
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"2308e78df327776b03842434d33bc94c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759997,
+            "locality_id":1209729985,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1209729985,
+    "wof:lastmodified":1537623728,
+    "wof:name":"Bonesue",
+    "wof:parent_id":1108759997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.84267,
+    5.80729,
+    -2.84267,
+    5.80729
+],
+  "geometry": {"coordinates":[-2.84267,5.80729],"type":"Point"}
+}

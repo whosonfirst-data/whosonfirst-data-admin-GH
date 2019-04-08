@@ -1,0 +1,67 @@
+{
+  "id": 1309821835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.40073,5.88036,-1.40073,5.88036",
+    "geom:latitude":5.88036,
+    "geom:longitude":-1.40073,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nyatechikrom",
+    "gn:country_code":"GH",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296771,
+    "gn:latitude":5.88036,
+    "gn:longitude":-1.40073,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Nyatechikrom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296771
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"9dc5163267e207b467cc0c23c95c4a31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759849,
+            "locality_id":1309821835,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1309821835,
+    "wof:lastmodified":1536908273,
+    "wof:name":"Nyatechikrom",
+    "wof:parent_id":1108759849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.40073,
+    5.88036,
+    -1.40073,
+    5.88036
+],
+  "geometry": {"coordinates":[-1.40073,5.88036],"type":"Point"}
+}

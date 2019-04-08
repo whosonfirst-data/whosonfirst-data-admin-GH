@@ -1,0 +1,71 @@
+{
+  "id": 1225854799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.01297,5.97074,1.01297,5.97074",
+    "geom:latitude":5.97074,
+    "geom:longitude":1.01297,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Avergi",
+    "gn:country_code":"GH",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303713,
+    "gn:latitude":5.97074,
+    "gn:longitude":1.01297,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Avergi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Avedje",
+        "Avergi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303713
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"04d0ce1a81fc46c52b4616beb00e938f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759981,
+            "locality_id":1225854799,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1225854799,
+    "wof:lastmodified":1537623760,
+    "wof:name":"Avergi",
+    "wof:parent_id":1108759981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.01297,
+    5.97074,
+    1.01297,
+    5.97074
+],
+  "geometry": {"coordinates":[1.01297,5.97074],"type":"Point"}
+}

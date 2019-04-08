@@ -1,0 +1,71 @@
+{
+  "id": 1276778351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.1378,5.29971,-1.1378,5.29971",
+    "geom:latitude":5.29971,
+    "geom:longitude":-1.1378,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Obobin",
+    "gn:country_code":"GH",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296657,
+    "gn:latitude":5.29971,
+    "gn:longitude":-1.1378,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Obobin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Obohen",
+        "Obobin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296657
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"3ecc3bdb5b64868cb6fc89816f2de224",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759841,
+            "locality_id":1276778351,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1276778351,
+    "wof:lastmodified":1537623503,
+    "wof:name":"Obobin",
+    "wof:parent_id":1108759841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.1378,
+    5.29971,
+    -1.1378,
+    5.29971
+],
+  "geometry": {"coordinates":[-1.1378,5.29971],"type":"Point"}
+}

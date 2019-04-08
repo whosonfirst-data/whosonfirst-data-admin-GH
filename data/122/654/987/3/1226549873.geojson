@@ -1,0 +1,76 @@
+{
+  "id": 1226549873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.67321,5.10344,-1.67321,5.10344",
+    "geom:latitude":5.10344,
+    "geom:longitude":-1.67321,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Dompim",
+    "gn:country_code":"GH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301554,
+    "gn:latitude":5.10344,
+    "gn:longitude":-1.67321,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Dompim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dompem Number One"
+    ],
+    "name:und_x_variant":[
+        "Dompom",
+        "Dompin Number 1",
+        "Dompem Number 1",
+        "Dompim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301554
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a2180a45be73dce4d063a44d72b93c58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760005,
+            "locality_id":1226549873,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1226549873,
+    "wof:lastmodified":1537623685,
+    "wof:name":"Dompim",
+    "wof:parent_id":1108760005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.67321,
+    5.10344,
+    -1.67321,
+    5.10344
+],
+  "geometry": {"coordinates":[-1.67321,5.10344],"type":"Point"}
+}

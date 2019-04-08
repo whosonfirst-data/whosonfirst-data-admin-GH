@@ -1,0 +1,64 @@
+{
+  "id": 1209014671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.71327,6.70021,-1.71327,6.70021",
+    "geom:latitude":6.70021,
+    "geom:longitude":-1.71327,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Abuakwa",
+    "gn:country_code":"GH",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306159,
+    "gn:latitude":6.70021,
+    "gn:longitude":-1.71327,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Abuakwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Abuakwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306159
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ebab8f9ea034989519a42d2b7c59ad11",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209014671
+        }
+    ],
+    "wof:id":1209014671,
+    "wof:lastmodified":1537623846,
+    "wof:name":"Abuakwa",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.71327,
+    6.70021,
+    -1.71327,
+    6.70021
+],
+  "geometry": {"coordinates":[-1.71327,6.70021],"type":"Point"}
+}

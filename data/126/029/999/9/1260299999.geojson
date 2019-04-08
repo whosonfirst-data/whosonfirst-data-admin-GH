@@ -1,0 +1,71 @@
+{
+  "id": 1260299999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.59249,6.69876,-1.59249,6.69876",
+    "geom:latitude":6.69876,
+    "geom:longitude":-1.59249,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Akrom",
+    "gn:country_code":"GH",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305043,
+    "gn:latitude":6.69876,
+    "gn:longitude":-1.59249,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Akrom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akorem",
+        "Akrom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305043
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"25d82a8198672b06d34e6e17c8bd54cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759801,
+            "locality_id":1260299999,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1260299999,
+    "wof:lastmodified":1537623806,
+    "wof:name":"Akrom",
+    "wof:parent_id":1108759801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.59249,
+    6.69876,
+    -1.59249,
+    6.69876
+],
+  "geometry": {"coordinates":[-1.59249,6.69876],"type":"Point"}
+}

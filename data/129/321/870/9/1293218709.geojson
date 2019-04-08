@@ -1,0 +1,67 @@
+{
+  "id": 1293218709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.3,4.96667,-2.3,4.96667",
+    "geom:latitude":4.96667,
+    "geom:longitude":-2.3,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dukubaka",
+    "gn:country_code":"GH",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301442,
+    "gn:latitude":4.96667,
+    "gn:longitude":-2.3,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Dukubaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301442
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"3fd79d898fa1a413fcd60670e360ed94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760007,
+            "locality_id":1293218709,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1293218709,
+    "wof:lastmodified":1536677508,
+    "wof:name":"Dukubaka",
+    "wof:parent_id":1108760007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.3,
+    4.96667,
+    -2.3,
+    4.96667
+],
+  "geometry": {"coordinates":[-2.3,4.96667],"type":"Point"}
+}

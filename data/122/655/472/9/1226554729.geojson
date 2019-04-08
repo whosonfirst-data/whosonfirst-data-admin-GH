@@ -1,0 +1,71 @@
+{
+  "id": 1226554729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.27349,6.90388,-0.27349,6.90388",
+    "geom:latitude":6.90388,
+    "geom:longitude":-0.27349,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Odumesua",
+    "gn:country_code":"GH",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296470,
+    "gn:latitude":6.90388,
+    "gn:longitude":-0.27349,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Odumesua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Odumasua",
+        "Odumesua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296470
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"2a688bc0e267986a3472667098e307c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759867,
+            "locality_id":1226554729,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1226554729,
+    "wof:lastmodified":1537623496,
+    "wof:name":"Odumesua",
+    "wof:parent_id":1108759867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.27349,
+    6.90388,
+    -0.27349,
+    6.90388
+],
+  "geometry": {"coordinates":[-0.27349,6.90388],"type":"Point"}
+}

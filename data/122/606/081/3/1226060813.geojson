@@ -1,0 +1,68 @@
+{
+  "id": 1226060813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.02319,9.19044,-1.02319,9.19044",
+    "geom:latitude":9.19044,
+    "geom:longitude":-1.02319,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Macheliyili",
+    "gn:country_code":"GH",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298332,
+    "gn:latitude":9.19044,
+    "gn:longitude":-1.02319,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Macheliyili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298332,
+        "wk:page":"Macheliyili"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a141b9bbcc4af9b3b970775765559d63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759921,
+            "locality_id":1226060813,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1226060813,
+    "wof:lastmodified":1537563037,
+    "wof:name":"Macheliyili",
+    "wof:parent_id":1108759921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.02319,
+    9.19044,
+    -1.02319,
+    9.19044
+],
+  "geometry": {"coordinates":[-1.02319,9.19044],"type":"Point"}
+}

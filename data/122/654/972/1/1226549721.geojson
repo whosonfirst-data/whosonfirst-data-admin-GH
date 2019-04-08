@@ -1,0 +1,70 @@
+{
+  "id": 1226549721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.90426,6.46522,-1.90426,6.46522",
+    "geom:latitude":6.46522,
+    "geom:longitude":-1.90426,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bobuabo",
+    "gn:country_code":"GH",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302901,
+    "gn:latitude":6.46522,
+    "gn:longitude":-1.90426,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Bobuabo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bobuabo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302901
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"432c8ee3f98dc37e735c6de640436a6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759785,
+            "locality_id":1226549721,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1226549721,
+    "wof:lastmodified":1537623732,
+    "wof:name":"Bobuabo",
+    "wof:parent_id":1108759785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.90426,
+    6.46522,
+    -1.90426,
+    6.46522
+],
+  "geometry": {"coordinates":[-1.90426,6.46522],"type":"Point"}
+}

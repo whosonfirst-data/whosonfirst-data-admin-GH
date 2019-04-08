@@ -1,0 +1,65 @@
+{
+  "id": 1209124297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.03194,10.39739,-0.03194,10.39739",
+    "geom:latitude":10.39739,
+    "geom:longitude":-0.03194,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Teten",
+    "gn:country_code":"GH",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294648,
+    "gn:latitude":10.39739,
+    "gn:longitude":-0.03194,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Teten",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tenten",
+        "Teten"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294648
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"8e4402691e69823f7a40300d2a6b4e12",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209124297
+        }
+    ],
+    "wof:id":1209124297,
+    "wof:lastmodified":1537623433,
+    "wof:name":"Teten",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.03194,
+    10.39739,
+    -0.03194,
+    10.39739
+],
+  "geometry": {"coordinates":[-0.03194,10.39739],"type":"Point"}
+}

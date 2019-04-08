@@ -1,0 +1,76 @@
+{
+  "id": 1259793685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.56029,8.00226,0.56029,8.00226",
+    "geom:latitude":8.00226,
+    "geom:longitude":0.56029,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Brewaniase",
+    "gn:country_code":"GH",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302594,
+    "gn:latitude":8.00226,
+    "gn:longitude":0.56029,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Brewaniase",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Berowaniasse",
+        "Breniasse",
+        "Brewaniase",
+        "Breniase",
+        "Berowaniase",
+        "Breniasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302594,
+        "wk:page":"Brewaniase"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"65ad36b724ac2d4e4e92fc2f689b8769",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759989,
+            "locality_id":1259793685,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1259793685,
+    "wof:lastmodified":1537623722,
+    "wof:name":"Brewaniase",
+    "wof:parent_id":1108759989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.56029,
+    8.00226,
+    0.56029,
+    8.00226
+],
+  "geometry": {"coordinates":[0.56029,8.00226],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276243053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.49768,6.66924,-1.49768,6.66924",
+    "geom:latitude":6.66924,
+    "geom:longitude":-1.49768,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Aprumasi",
+    "gn:country_code":"GH",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304291,
+    "gn:latitude":6.66924,
+    "gn:longitude":-1.49768,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Aprumasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aprumase",
+        "Aprumasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304291
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"19db46ffbc4a73b6b69596d6c34a863d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759795,
+            "locality_id":1276243053,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1276243053,
+    "wof:lastmodified":1537623780,
+    "wof:name":"Aprumasi",
+    "wof:parent_id":1108759795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.49768,
+    6.66924,
+    -1.49768,
+    6.66924
+],
+  "geometry": {"coordinates":[-1.49768,6.66924],"type":"Point"}
+}

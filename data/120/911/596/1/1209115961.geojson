@@ -1,0 +1,65 @@
+{
+  "id": 1209115961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.87799,5.36298,-0.87799,5.36298",
+    "geom:latitude":5.36298,
+    "geom:longitude":-0.87799,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Asempayin",
+    "gn:country_code":"GH",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304136,
+    "gn:latitude":5.36298,
+    "gn:longitude":-0.87799,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Asempayin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Asempanyin",
+        "Asempayin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304136
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"79665a3a6b65bfc702800f5e81cf30ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209115961
+        }
+    ],
+    "wof:id":1209115961,
+    "wof:lastmodified":1537623775,
+    "wof:name":"Asempayin",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.87799,
+    5.36298,
+    -0.87799,
+    5.36298
+],
+  "geometry": {"coordinates":[-0.87799,5.36298],"type":"Point"}
+}

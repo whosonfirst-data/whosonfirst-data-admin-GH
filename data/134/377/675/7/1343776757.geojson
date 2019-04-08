@@ -1,0 +1,71 @@
+{
+  "id": 1343776757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.78378,10.98098,-0.78378,10.98098",
+    "geom:latitude":10.98098,
+    "geom:longitude":-0.78378,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Akunka",
+    "gn:country_code":"GH",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304989,
+    "gn:latitude":10.98098,
+    "gn:longitude":-0.78378,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Akunka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Feo Akunka",
+        "Akunka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304989
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"c61cada0082ff98aad1f4f1884d27bed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759949,
+            "locality_id":1343776757,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1343776757,
+    "wof:lastmodified":1537623804,
+    "wof:name":"Akunka",
+    "wof:parent_id":1108759949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.78378,
+    10.98098,
+    -0.78378,
+    10.98098
+],
+  "geometry": {"coordinates":[-0.78378,10.98098],"type":"Point"}
+}

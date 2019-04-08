@@ -1,0 +1,77 @@
+{
+  "id": 1210026383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.86247,6.7317,-2.86247,6.7317",
+    "geom:latitude":6.7317,
+    "geom:longitude":-2.86247,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Fosukrom",
+    "gn:country_code":"GH",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299504,
+    "gn:latitude":6.7317,
+    "gn:longitude":-2.86247,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Fosukrom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Fosukrom"
+    ],
+    "name:eng_x_variant":[
+        "Kojofusukrom"
+    ],
+    "name:und_x_variant":[
+        "Kodwo Fosukrom",
+        "Kojofisukrom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299504
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"6061ab6881bf0dcde4e7aaf326e59314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760003,
+            "locality_id":1210026383,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1210026383,
+    "wof:lastmodified":1537623603,
+    "wof:name":"Fosukrom",
+    "wof:parent_id":1108760003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.86247,
+    6.7317,
+    -2.86247,
+    6.7317
+],
+  "geometry": {"coordinates":[-2.86247,6.7317],"type":"Point"}
+}

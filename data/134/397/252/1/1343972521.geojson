@@ -1,0 +1,74 @@
+{
+  "id": 1343972521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.04337,8.16193,-0.04337,8.16193",
+    "geom:latitude":8.16193,
+    "geom:longitude":-0.04337,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Borae",
+    "gn:country_code":"GH",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302691,
+    "gn:latitude":8.16193,
+    "gn:longitude":-0.04337,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Borae",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "New Borae",
+        "Brai",
+        "Neu-Borae",
+        "Borae Number 2",
+        "Borae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302691
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"1ac1ad91cd5b24eb1ff97f37191403f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759987,
+            "locality_id":1343972521,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1343972521,
+    "wof:lastmodified":1537623725,
+    "wof:name":"Borae",
+    "wof:parent_id":1108759987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.04337,
+    8.16193,
+    -0.04337,
+    8.16193
+],
+  "geometry": {"coordinates":[-0.04337,8.16193],"type":"Point"}
+}

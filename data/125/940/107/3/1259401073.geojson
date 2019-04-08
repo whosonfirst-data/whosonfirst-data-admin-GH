@@ -1,0 +1,71 @@
+{
+  "id": 1259401073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.87227,6.05046,0.87227,6.05046",
+    "geom:latitude":6.05046,
+    "geom:longitude":0.87227,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Veme",
+    "gn:country_code":"GH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294264,
+    "gn:latitude":6.05046,
+    "gn:longitude":0.87227,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Veme",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Weme",
+        "Veme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294264
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"f52b34d6ca8f33917b0e694054d09a93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759981,
+            "locality_id":1259401073,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1259401073,
+    "wof:lastmodified":1537623419,
+    "wof:name":"Veme",
+    "wof:parent_id":1108759981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.87227,
+    6.05046,
+    0.87227,
+    6.05046
+],
+  "geometry": {"coordinates":[0.87227,6.05046],"type":"Point"}
+}

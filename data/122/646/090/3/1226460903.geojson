@@ -1,0 +1,67 @@
+{
+  "id": 1226460903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.65,5.81667,-0.65,5.81667",
+    "geom:latitude":5.81667,
+    "geom:longitude":-0.65,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Asumpa",
+    "gn:country_code":"GH",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303967,
+    "gn:latitude":5.81667,
+    "gn:longitude":-0.65,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Asumpa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303967
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"25912cbd727bdb25057f09db21a9d109",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759897,
+            "locality_id":1226460903,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1226460903,
+    "wof:lastmodified":1536621572,
+    "wof:name":"Asumpa",
+    "wof:parent_id":1108759897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.65,
+    5.81667,
+    -0.65,
+    5.81667
+],
+  "geometry": {"coordinates":[-0.65,5.81667],"type":"Point"}
+}

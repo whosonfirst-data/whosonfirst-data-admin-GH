@@ -1,0 +1,67 @@
+{
+  "id": 1293182061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.63333,10.6,-1.63333,10.6",
+    "geom:latitude":10.6,
+    "geom:longitude":-1.63333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Nebiewale",
+    "gn:country_code":"GH",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297457,
+    "gn:latitude":10.6,
+    "gn:longitude":-1.63333,
+    "gn:modification_date":"2003-07-31",
+    "gn:name":"Nebiewale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297457
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"2224794be17430c43e4ad7db34a2baca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759963,
+            "locality_id":1293182061,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1293182061,
+    "wof:lastmodified":1536730828,
+    "wof:name":"Nebiewale",
+    "wof:parent_id":1108759963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.63333,
+    10.6,
+    -1.63333,
+    10.6
+],
+  "geometry": {"coordinates":[-1.63333,10.6],"type":"Point"}
+}

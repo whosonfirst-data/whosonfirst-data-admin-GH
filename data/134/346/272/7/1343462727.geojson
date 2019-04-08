@@ -1,0 +1,70 @@
+{
+  "id": 1343462727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.44803,5.63765,-0.44803,5.63765",
+    "geom:latitude":5.63765,
+    "geom:longitude":-0.44803,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tebu",
+    "gn:country_code":"GH",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294737,
+    "gn:latitude":5.63765,
+    "gn:longitude":-0.44803,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Tebu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tebu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671353,
+        1108759909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294737
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"aa9bee2d42a693c75d563e1a11968392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759909,
+            "locality_id":1343462727,
+            "region_id":85671353
+        }
+    ],
+    "wof:id":1343462727,
+    "wof:lastmodified":1537623437,
+    "wof:name":"Tebu",
+    "wof:parent_id":1108759909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.44803,
+    5.63765,
+    -0.44803,
+    5.63765
+],
+  "geometry": {"coordinates":[-0.44803,5.63765],"type":"Point"}
+}

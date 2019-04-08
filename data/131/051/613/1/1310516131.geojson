@@ -1,0 +1,71 @@
+{
+  "id": 1310516131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.83768,5.51983,-1.83768,5.51983",
+    "geom:latitude":5.51983,
+    "geom:longitude":-1.83768,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Damang",
+    "gn:country_code":"GH",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302019,
+    "gn:latitude":5.51983,
+    "gn:longitude":-1.83768,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Damang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daman",
+        "Damang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302019
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"d736f81f947f16e738f743398f94eab4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760017,
+            "locality_id":1310516131,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1310516131,
+    "wof:lastmodified":1537623701,
+    "wof:name":"Damang",
+    "wof:parent_id":1108760017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.83768,
+    5.51983,
+    -1.83768,
+    5.51983
+],
+  "geometry": {"coordinates":[-1.83768,5.51983],"type":"Point"}
+}

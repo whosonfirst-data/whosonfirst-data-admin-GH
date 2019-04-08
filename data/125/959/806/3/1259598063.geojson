@@ -1,0 +1,67 @@
+{
+  "id": 1259598063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.40714,5.87032,-2.40714,5.87032",
+    "geom:latitude":5.87032,
+    "geom:longitude":-2.40714,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kwaben",
+    "gn:country_code":"GH",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298750,
+    "gn:latitude":5.87032,
+    "gn:longitude":-2.40714,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Kwaben",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298750
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"784a26c3d10e57309b54c30b8da9f214",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760015,
+            "locality_id":1259598063,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1259598063,
+    "wof:lastmodified":1536693914,
+    "wof:name":"Kwaben",
+    "wof:parent_id":1108760015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.40714,
+    5.87032,
+    -2.40714,
+    5.87032
+],
+  "geometry": {"coordinates":[-2.40714,5.87032],"type":"Point"}
+}

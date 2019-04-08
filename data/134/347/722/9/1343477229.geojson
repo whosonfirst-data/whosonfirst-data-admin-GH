@@ -1,0 +1,74 @@
+{
+  "id": 1343477229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.33333,5.11667,-1.33333,5.11667",
+    "geom:latitude":5.11667,
+    "geom:longitude":-1.33333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nkuntraudu",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297245,
+    "gn:latitude":5.11667,
+    "gn:longitude":-1.33333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nkuntraudu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nkuntrau",
+        "Nkwantrauro",
+        "Nkuntrodo",
+        "Nkuntraudu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297245
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"286d040ede6eca199e99485b9c9973b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759859,
+            "locality_id":1343477229,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1343477229,
+    "wof:lastmodified":1537623524,
+    "wof:name":"Nkuntraudu",
+    "wof:parent_id":1108759859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.33333,
+    5.11667,
+    -1.33333,
+    5.11667
+],
+  "geometry": {"coordinates":[-1.33333,5.11667],"type":"Point"}
+}

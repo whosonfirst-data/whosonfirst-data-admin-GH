@@ -1,0 +1,77 @@
+{
+  "id": 1259801737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.94408,7.00239,-1.94408,7.00239",
+    "geom:latitude":7.00239,
+    "geom:longitude":-1.94408,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Pokukurom Number One",
+    "gn:country_code":"GH",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2295910,
+    "gn:latitude":7.00239,
+    "gn:longitude":-1.94408,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Pokukurom Number One",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pokukurom Number One"
+    ],
+    "name:eng_x_variant":[
+        "Pokukurom Number 1"
+    ],
+    "name:und_x_variant":[
+        "Pokukurom",
+        "Pokukrom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2295910
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"80b140a1f3b78d06b263b243836787d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759781,
+            "locality_id":1259801737,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1259801737,
+    "wof:lastmodified":1537623476,
+    "wof:name":"Pokukurom Number One",
+    "wof:parent_id":1108759781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.94408,
+    7.00239,
+    -1.94408,
+    7.00239
+],
+  "geometry": {"coordinates":[-1.94408,7.00239],"type":"Point"}
+}

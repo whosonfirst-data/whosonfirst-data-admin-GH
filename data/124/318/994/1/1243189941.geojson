@@ -1,0 +1,68 @@
+{
+  "id": 1243189941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.15418,5.71417,-0.15418,5.71417",
+    "geom:latitude":5.71417,
+    "geom:longitude":-0.15418,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Adenta",
+    "gn:country_code":"GH",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7648641,
+    "gn:latitude":5.71417,
+    "gn:longitude":-0.15418,
+    "gn:modification_date":"2011-02-03",
+    "gn:name":"Adenta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671353,
+        1108759911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7648641,
+        "wk:page":"Adenta"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a18ae29d223352e66acd419df8594b3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759911,
+            "locality_id":1243189941,
+            "region_id":85671353
+        }
+    ],
+    "wof:id":1243189941,
+    "wof:lastmodified":1537563065,
+    "wof:name":"Adenta",
+    "wof:parent_id":1108759911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.15418,
+    5.71417,
+    -0.15418,
+    5.71417
+],
+  "geometry": {"coordinates":[-0.15418,5.71417],"type":"Point"}
+}

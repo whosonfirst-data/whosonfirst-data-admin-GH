@@ -1,0 +1,67 @@
+{
+  "id": 1225962577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.2,6.96667,-1.2,6.96667",
+    "geom:latitude":6.96667,
+    "geom:longitude":-1.2,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Afrenso",
+    "gn:country_code":"GH",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305645,
+    "gn:latitude":6.96667,
+    "gn:longitude":-1.2,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Afrenso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305645
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"280162d6846856a0ce786d30d69eaf91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759807,
+            "locality_id":1225962577,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1225962577,
+    "wof:lastmodified":1536843944,
+    "wof:name":"Afrenso",
+    "wof:parent_id":1108759807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.2,
+    6.96667,
+    -1.2,
+    6.96667
+],
+  "geometry": {"coordinates":[-1.2,6.96667],"type":"Point"}
+}

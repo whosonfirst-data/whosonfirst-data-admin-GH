@@ -1,0 +1,65 @@
+{
+  "id": 1209525433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.56673,6.70953,-1.56673,6.70953",
+    "geom:latitude":6.70953,
+    "geom:longitude":-1.56673,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Asokore Mampon",
+    "gn:country_code":"GH",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304056,
+    "gn:latitude":6.70953,
+    "gn:longitude":-1.56673,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Asokore Mampon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Asokori Mampon",
+        "Asokori Mampong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304056
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"33eae51907f33004ef78890ec858198f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209525433
+        }
+    ],
+    "wof:id":1209525433,
+    "wof:lastmodified":1537623771,
+    "wof:name":"Asokore Mampon",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.56673,
+    6.70953,
+    -1.56673,
+    6.70953
+],
+  "geometry": {"coordinates":[-1.56673,6.70953],"type":"Point"}
+}

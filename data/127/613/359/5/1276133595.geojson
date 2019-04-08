@@ -1,0 +1,73 @@
+{
+  "id": 1276133595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.59197,9.35545,-2.59197,9.35545",
+    "geom:latitude":9.35545,
+    "geom:longitude":-2.59197,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Degbiwu",
+    "gn:country_code":"GH",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301858,
+    "gn:latitude":9.35545,
+    "gn:longitude":-2.59197,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Degbiwu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Degbiwu"
+    ],
+    "name:und_x_variant":[
+        "Degwiwu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301858
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"d7e2dcb10c4551d22fede893f0f45226",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759913,
+            "locality_id":1276133595,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1276133595,
+    "wof:lastmodified":1537623697,
+    "wof:name":"Degbiwu",
+    "wof:parent_id":1108759913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.59197,
+    9.35545,
+    -2.59197,
+    9.35545
+],
+  "geometry": {"coordinates":[-2.59197,9.35545],"type":"Point"}
+}

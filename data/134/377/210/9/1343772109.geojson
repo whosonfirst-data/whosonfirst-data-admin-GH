@@ -1,0 +1,70 @@
+{
+  "id": 1343772109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.50932,6.78296,-1.50932,6.78296",
+    "geom:latitude":6.78296,
+    "geom:longitude":-1.50932,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ahodwo",
+    "gn:country_code":"GH",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305398,
+    "gn:latitude":6.78296,
+    "gn:longitude":-1.50932,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Ahodwo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ahunjo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305398
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"37c0666f527c5c544c36733933175b72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759803,
+            "locality_id":1343772109,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1343772109,
+    "wof:lastmodified":1537623819,
+    "wof:name":"Ahodwo",
+    "wof:parent_id":1108759803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.50932,
+    6.78296,
+    -1.50932,
+    6.78296
+],
+  "geometry": {"coordinates":[-1.50932,6.78296],"type":"Point"}
+}

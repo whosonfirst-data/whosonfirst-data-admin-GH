@@ -1,0 +1,72 @@
+{
+  "id": 1226762291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.10442,6.03266,0.10442,6.03266",
+    "geom:latitude":6.03266,
+    "geom:longitude":0.10442,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Chondawnya",
+    "gn:country_code":"GH",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302154,
+    "gn:latitude":6.03266,
+    "gn:longitude":0.10442,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chondawnya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsondo Nya",
+        "Chomdonya",
+        "Chondawnya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671353,
+        1108759907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302154
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ce190c56ef565cae322013c1b4720211",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759907,
+            "locality_id":1226762291,
+            "region_id":85671353
+        }
+    ],
+    "wof:id":1226762291,
+    "wof:lastmodified":1537623706,
+    "wof:name":"Chondawnya",
+    "wof:parent_id":1108759907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.10442,
+    6.03266,
+    0.10442,
+    6.03266
+],
+  "geometry": {"coordinates":[0.10442,6.03266],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259793661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.27405,10.43178,-0.27405,10.43178",
+    "geom:latitude":10.43178,
+    "geom:longitude":-0.27405,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kuluguana",
+    "gn:country_code":"GH",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298920,
+    "gn:latitude":10.43178,
+    "gn:longitude":-0.27405,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kuluguana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuligona",
+        "Kuluguana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298920
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"416a1c281a2c52392883ccb502a2e551",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759917,
+            "locality_id":1259793661,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1259793661,
+    "wof:lastmodified":1537623584,
+    "wof:name":"Kuluguana",
+    "wof:parent_id":1108759917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.27405,
+    10.43178,
+    -0.27405,
+    10.43178
+],
+  "geometry": {"coordinates":[-0.27405,10.43178],"type":"Point"}
+}

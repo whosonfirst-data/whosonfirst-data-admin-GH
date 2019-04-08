@@ -1,0 +1,72 @@
+{
+  "id": 1260201517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.55016,8.29366,0.55016,8.29366",
+    "geom:latitude":8.29366,
+    "geom:longitude":0.55016,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kromasi",
+    "gn:country_code":"GH",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299057,
+    "gn:latitude":8.29366,
+    "gn:longitude":0.55016,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kromasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kromusio",
+        "Korum\u0101sse",
+        "Kromasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299057
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"01b1840ed63fd341bd88496763dfde77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759989,
+            "locality_id":1260201517,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1260201517,
+    "wof:lastmodified":1537623589,
+    "wof:name":"Kromasi",
+    "wof:parent_id":1108759989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.55016,
+    8.29366,
+    0.55016,
+    8.29366
+],
+  "geometry": {"coordinates":[0.55016,8.29366],"type":"Point"}
+}

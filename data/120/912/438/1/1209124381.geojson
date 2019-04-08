@@ -1,0 +1,61 @@
+{
+  "id": 1209124381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.14327,5.60581,-1.14327,5.60581",
+    "geom:latitude":5.60581,
+    "geom:longitude":-1.14327,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Odumkwaku",
+    "gn:country_code":"GH",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296465,
+    "gn:latitude":5.60581,
+    "gn:longitude":-1.14327,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Odumkwaku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296465
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"c6ad87fb7d7b289d796f7cd02c8ce01f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209124381
+        }
+    ],
+    "wof:id":1209124381,
+    "wof:lastmodified":1536297000,
+    "wof:name":"Odumkwaku",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.14327,
+    5.60581,
+    -1.14327,
+    5.60581
+],
+  "geometry": {"coordinates":[-1.14327,5.60581],"type":"Point"}
+}

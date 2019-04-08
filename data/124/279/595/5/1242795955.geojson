@@ -1,0 +1,70 @@
+{
+  "id": 1242795955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.89953,5.63002,-2.89953,5.63002",
+    "geom:latitude":5.63002,
+    "geom:longitude":-2.89953,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Manoakrom",
+    "gn:country_code":"GH",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298189,
+    "gn:latitude":5.63002,
+    "gn:longitude":-2.89953,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Manoakrom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Manoakrom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108759997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298189
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"41cbe6e80ea1230d1bafb068f589e8d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759997,
+            "locality_id":1242795955,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1242795955,
+    "wof:lastmodified":1537623560,
+    "wof:name":"Manoakrom",
+    "wof:parent_id":1108759997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.89953,
+    5.63002,
+    -2.89953,
+    5.63002
+],
+  "geometry": {"coordinates":[-2.89953,5.63002],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1309722025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.96172,6.78765,-1.96172,6.78765",
+    "geom:latitude":6.78765,
+    "geom:longitude":-1.96172,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Anankaso",
+    "gn:country_code":"GH",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304655,
+    "gn:latitude":6.78765,
+    "gn:longitude":-1.96172,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Anankaso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anane Akuraa",
+        "Anankaso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304655
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"799a9fe25e4fec0b32db6e719d47509b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759781,
+            "locality_id":1309722025,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1309722025,
+    "wof:lastmodified":1537623792,
+    "wof:name":"Anankaso",
+    "wof:parent_id":1108759781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.96172,
+    6.78765,
+    -1.96172,
+    6.78765
+],
+  "geometry": {"coordinates":[-1.96172,6.78765],"type":"Point"}
+}

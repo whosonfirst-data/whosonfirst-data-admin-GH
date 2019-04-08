@@ -1,0 +1,67 @@
+{
+  "id": 1210034557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.42616,7.08333,-1.42616,7.08333",
+    "geom:latitude":7.08333,
+    "geom:longitude":-1.42616,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Krobo",
+    "gn:country_code":"GH",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299083,
+    "gn:latitude":7.08333,
+    "gn:longitude":-1.42616,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Krobo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299083
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a89732d66583265b7810c6c8665ba9db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759809,
+            "locality_id":1210034557,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1210034557,
+    "wof:lastmodified":1536387077,
+    "wof:name":"Krobo",
+    "wof:parent_id":1108759809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.42616,
+    7.08333,
+    -1.42616,
+    7.08333
+],
+  "geometry": {"coordinates":[-1.42616,7.08333],"type":"Point"}
+}

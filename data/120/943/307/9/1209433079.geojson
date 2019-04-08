@@ -1,0 +1,68 @@
+{
+  "id": 1209433079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.22505,8.06432,-0.22505,8.06432",
+    "geom:latitude":8.06432,
+    "geom:longitude":-0.22505,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bagjamse",
+    "gn:country_code":"GH",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303503,
+    "gn:latitude":8.06432,
+    "gn:longitude":-0.22505,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bagjamse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayamso",
+        "Bagyamse",
+        "Bagyamze",
+        "Bagyanso",
+        "Bagjamse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303503
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"67fd8fad01778ea81d82138601b94ffd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209433079
+        }
+    ],
+    "wof:id":1209433079,
+    "wof:lastmodified":1537623753,
+    "wof:name":"Bagjamse",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.22505,
+    8.06432,
+    -0.22505,
+    8.06432
+],
+  "geometry": {"coordinates":[-0.22505,8.06432],"type":"Point"}
+}

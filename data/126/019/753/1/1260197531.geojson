@@ -1,0 +1,71 @@
+{
+  "id": 1260197531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.76014,6.13163,0.76014,6.13163",
+    "geom:latitude":6.13163,
+    "geom:longitude":0.76014,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Live",
+    "gn:country_code":"GH",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298404,
+    "gn:latitude":6.13163,
+    "gn:longitude":0.76014,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Live",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Live Agbakukorpe",
+        "Live"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298404
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"12c2321ed401c1bb0468e1cb92ca732d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759969,
+            "locality_id":1260197531,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1260197531,
+    "wof:lastmodified":1537623567,
+    "wof:name":"Live",
+    "wof:parent_id":1108759969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.76014,
+    6.13163,
+    0.76014,
+    6.13163
+],
+  "geometry": {"coordinates":[0.76014,6.13163],"type":"Point"}
+}

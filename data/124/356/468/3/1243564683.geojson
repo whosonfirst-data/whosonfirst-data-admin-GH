@@ -1,0 +1,67 @@
+{
+  "id": 1243564683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.38989,5.29032,-2.38989,5.29032",
+    "geom:latitude":5.29032,
+    "geom:longitude":-2.38989,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nyensukrom",
+    "gn:country_code":"GH",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296753,
+    "gn:latitude":5.29032,
+    "gn:longitude":-2.38989,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Nyensukrom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296753
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"bfab0f3b4281674e49a227af49aa16bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760007,
+            "locality_id":1243564683,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1243564683,
+    "wof:lastmodified":1536633689,
+    "wof:name":"Nyensukrom",
+    "wof:parent_id":1108760007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.38989,
+    5.29032,
+    -2.38989,
+    5.29032
+],
+  "geometry": {"coordinates":[-2.38989,5.29032],"type":"Point"}
+}

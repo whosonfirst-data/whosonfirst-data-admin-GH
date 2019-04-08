@@ -1,0 +1,72 @@
+{
+  "id": 1226452539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.76039,5.71341,-0.76039,5.71341",
+    "geom:latitude":5.71341,
+    "geom:longitude":-0.76039,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Eshiem",
+    "gn:country_code":"GH",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301111,
+    "gn:latitude":5.71341,
+    "gn:longitude":-0.76039,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Eshiem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gomua-Ehyiamu",
+        "Ahyiam",
+        "Eshiem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301111
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"800d83719db9ed772262ef63f1f344bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759879,
+            "locality_id":1226452539,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1226452539,
+    "wof:lastmodified":1537623665,
+    "wof:name":"Eshiem",
+    "wof:parent_id":1108759879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.76039,
+    5.71341,
+    -0.76039,
+    5.71341
+],
+  "geometry": {"coordinates":[-0.76039,5.71341],"type":"Point"}
+}

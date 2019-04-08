@@ -1,0 +1,67 @@
+{
+  "id": 1310020469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.68479,6.34952,0.68479,6.34952",
+    "geom:latitude":6.34952,
+    "geom:longitude":0.68479,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Wudjerike",
+    "gn:country_code":"GH",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293982,
+    "gn:latitude":6.34952,
+    "gn:longitude":0.68479,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Wudjerike",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293982
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"170701c1d4cf73720f58fbb71545fe1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759971,
+            "locality_id":1310020469,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1310020469,
+    "wof:lastmodified":1536619539,
+    "wof:name":"Wudjerike",
+    "wof:parent_id":1108759971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.68479,
+    6.34952,
+    0.68479,
+    6.34952
+],
+  "geometry": {"coordinates":[0.68479,6.34952],"type":"Point"}
+}

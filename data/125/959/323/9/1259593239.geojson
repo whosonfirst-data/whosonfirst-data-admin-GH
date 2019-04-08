@@ -1,0 +1,71 @@
+{
+  "id": 1259593239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.67577,5.80771,0.67577,5.80771",
+    "geom:latitude":5.80771,
+    "geom:longitude":0.67577,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Agbletokwei",
+    "gn:country_code":"GH",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305586,
+    "gn:latitude":5.80771,
+    "gn:longitude":0.67577,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Agbletokwei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agbletokoe",
+        "Agbletokwei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305586
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"2e07b54e41cb77dd8564b0105548c2a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759991,
+            "locality_id":1259593239,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1259593239,
+    "wof:lastmodified":1537623826,
+    "wof:name":"Agbletokwei",
+    "wof:parent_id":1108759991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.67577,
+    5.80771,
+    0.67577,
+    5.80771
+],
+  "geometry": {"coordinates":[0.67577,5.80771],"type":"Point"}
+}

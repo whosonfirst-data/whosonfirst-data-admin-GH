@@ -1,0 +1,74 @@
+{
+  "id": 1243472789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.73333,7.13333,-2.73333,7.13333",
+    "geom:latitude":7.13333,
+    "geom:longitude":-2.73333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tronang",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294401,
+    "gn:latitude":7.13333,
+    "gn:longitude":-2.73333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tronang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tromang",
+        "Trewonan",
+        "Tenewonan",
+        "Tronang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294401
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"9e486c2fe3caad959fbc5122dda387e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759821,
+            "locality_id":1243472789,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1243472789,
+    "wof:lastmodified":1537623424,
+    "wof:name":"Tronang",
+    "wof:parent_id":1108759821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.73333,
+    7.13333,
+    -2.73333,
+    7.13333
+],
+  "geometry": {"coordinates":[-2.73333,7.13333],"type":"Point"}
+}

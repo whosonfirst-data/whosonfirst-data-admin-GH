@@ -1,0 +1,67 @@
+{
+  "id": 1243077655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.16636,10.38404,0.16636,10.38404",
+    "geom:latitude":10.38404,
+    "geom:longitude":0.16636,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Wuragbane",
+    "gn:country_code":"GH",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293964,
+    "gn:latitude":10.38404,
+    "gn:longitude":0.16636,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Wuragbane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293964
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"31463f15385957fc90ba0fb79ba8fa1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759917,
+            "locality_id":1243077655,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1243077655,
+    "wof:lastmodified":1536839026,
+    "wof:name":"Wuragbane",
+    "wof:parent_id":1108759917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.16636,
+    10.38404,
+    0.16636,
+    10.38404
+],
+  "geometry": {"coordinates":[0.16636,10.38404],"type":"Point"}
+}

@@ -1,0 +1,130 @@
+{
+  "id": 421195791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.85961,9.21886,-1.85961,9.21886",
+    "geom:latitude":9.21886,
+    "geom:longitude":-1.85961,
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dan_x_preferred":[
+        "Larabanga"
+    ],
+    "name:deu_x_preferred":[
+        "Larabanga"
+    ],
+    "name:dut_x_preferred":[
+        "Larabanga"
+    ],
+    "name:eng_x_preferred":[
+        "Larabanga"
+    ],
+    "name:fre_x_preferred":[
+        "Larabanga"
+    ],
+    "name:geo_x_preferred":[
+        "\u10da\u10d0\u10e0\u10d0\u10d1\u10d0\u10dc\u10d2\u10d0\u10e1 \u10db\u10d4\u10e9\u10d4\u10d7\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Larabanga"
+    ],
+    "name:ita_x_preferred":[
+        "Larabanga"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d0\u10e0\u10d0\u10d1\u10d0\u10dc\u10d2\u10d0\u10e1 \u10db\u10d4\u10e9\u10d4\u10d7\u10d8"
+    ],
+    "name:lit_x_preferred":[
+        "Larabanga"
+    ],
+    "name:may_x_preferred":[
+        "Larabanga"
+    ],
+    "name:msa_x_preferred":[
+        "Larabanga"
+    ],
+    "name:nob_x_preferred":[
+        "Larabanga"
+    ],
+    "name:nor_x_preferred":[
+        "Larabanga"
+    ],
+    "name:spa_x_preferred":[
+        "Larabanga"
+    ],
+    "name:unk_x_variant":[
+        "Laribanga"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0631\u0627\u0628\u0627\u0646\u06af\u0627"
+    ],
+    "qs:gn_country":"GH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2298453,
+    "qs:gn_pop":0,
+    "qs:name":"Larabanga",
+    "qs:name_adm0":"Ghana",
+    "qs:name_adm1":"Northern",
+    "qs:photos":200,
+    "qs:photos_1k":41,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":200,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":910645,
+    "qs:woe_adm0":23424824,
+    "qs:woe_id":1330886,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":190,
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298453,
+        "gp:id":1330886,
+        "qs:id":910645,
+        "wd:id":"Q490731",
+        "wk:page":"Larabanga"
+    },
+    "wof:country":"GH",
+    "wof:created":1459009859,
+    "wof:geomhash":"004508339bac8e0439fa20a6796a4da2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759921,
+            "locality_id":421195791,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":421195791,
+    "wof:lastmodified":1527716117,
+    "wof:name":"Larabanga",
+    "wof:parent_id":1108759921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.85961,
+    9.21886,
+    -1.85961,
+    9.21886
+],
+  "geometry": {"coordinates":[-1.85961,9.21886],"type":"Point"}
+}

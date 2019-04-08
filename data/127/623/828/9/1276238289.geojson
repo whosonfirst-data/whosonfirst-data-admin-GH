@@ -1,0 +1,70 @@
+{
+  "id": 1276238289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.99185,7.55821,-1.99185,7.55821",
+    "geom:latitude":7.55821,
+    "geom:longitude":-1.99185,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Nkwaeso",
+    "gn:country_code":"GH",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297240,
+    "gn:latitude":7.55821,
+    "gn:longitude":-1.99185,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Nkwaeso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nkwaiso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297240
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"5cd743e9f49a7170a262109acc3271c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759837,
+            "locality_id":1276238289,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1276238289,
+    "wof:lastmodified":1537623524,
+    "wof:name":"Nkwaeso",
+    "wof:parent_id":1108759837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.99185,
+    7.55821,
+    -1.99185,
+    7.55821
+],
+  "geometry": {"coordinates":[-1.99185,7.55821],"type":"Point"}
+}

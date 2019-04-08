@@ -1,0 +1,72 @@
+{
+  "id": 1259898031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.37935,6.97449,-2.37935,6.97449",
+    "geom:latitude":6.97449,
+    "geom:longitude":-2.37935,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kenyasi Number 1",
+    "gn:country_code":"GH",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299655,
+    "gn:latitude":6.97449,
+    "gn:longitude":-2.37935,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kenyasi Number 1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kenyase Number 1",
+        "Kenyinase Number 1",
+        "Kenyasi Number 1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299655
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"e557a0ee4fa857f6b76d1d88ced1e115",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759813,
+            "locality_id":1259898031,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1259898031,
+    "wof:lastmodified":1537623608,
+    "wof:name":"Kenyasi Number 1",
+    "wof:parent_id":1108759813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.37935,
+    6.97449,
+    -2.37935,
+    6.97449
+],
+  "geometry": {"coordinates":[-2.37935,6.97449],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226557951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.01636,5.8938,-1.01636,5.8938",
+    "geom:latitude":5.8938,
+    "geom:longitude":-1.01636,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"7648965",
+    "gn:asciiname":"Akim Swedru",
+    "gn:country_code":"GH",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2305164,
+    "gn:latitude":5.8938,
+    "gn:longitude":-1.01636,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Akim Swedru",
+    "gn:population":10000,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305164,
+        "wk:page":"Akim_Swedru"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"13190a95ab512ab72751e93858a0dcf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759879,
+            "locality_id":1226557951,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1226557951,
+    "wof:lastmodified":1537563061,
+    "wof:name":"Akim Swedru",
+    "wof:parent_id":1108759879,
+    "wof:placetype":"locality",
+    "wof:population":10000,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.01636,
+    5.8938,
+    -1.01636,
+    5.8938
+],
+  "geometry": {"coordinates":[-1.01636,5.8938],"type":"Point"}
+}

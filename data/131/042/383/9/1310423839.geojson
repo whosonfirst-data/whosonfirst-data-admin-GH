@@ -1,0 +1,67 @@
+{
+  "id": 1310423839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.57903,6.29305,0.57903,6.29305",
+    "geom:latitude":6.29305,
+    "geom:longitude":0.57903,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kpeveko",
+    "gn:country_code":"GH",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299172,
+    "gn:latitude":6.29305,
+    "gn:longitude":0.57903,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Kpeveko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299172
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"796ca7d1c7518e2678dbf018764c3d21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759967,
+            "locality_id":1310423839,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1310423839,
+    "wof:lastmodified":1537033345,
+    "wof:name":"Kpeveko",
+    "wof:parent_id":1108759967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.57903,
+    6.29305,
+    0.57903,
+    6.29305
+],
+  "geometry": {"coordinates":[0.57903,6.29305],"type":"Point"}
+}

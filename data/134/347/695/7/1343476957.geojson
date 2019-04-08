@@ -1,0 +1,73 @@
+{
+  "id": 1343476957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.11005,6.66645,-3.11005,6.66645",
+    "geom:latitude":6.66645,
+    "geom:longitude":-3.11005,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Essem",
+    "gn:country_code":"GH",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301117,
+    "gn:latitude":6.66645,
+    "gn:longitude":-3.11005,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Essem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Essem"
+    ],
+    "name:eng_x_variant":[
+        "Esem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301117
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"09c89b37b7bb265947d066458204bf21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760003,
+            "locality_id":1343476957,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1343476957,
+    "wof:lastmodified":1537623666,
+    "wof:name":"Essem",
+    "wof:parent_id":1108760003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.11005,
+    6.66645,
+    -3.11005,
+    6.66645
+],
+  "geometry": {"coordinates":[-3.11005,6.66645],"type":"Point"}
+}

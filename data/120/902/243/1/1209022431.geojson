@@ -1,0 +1,61 @@
+{
+  "id": 1209022431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.66513,6.35104,0.66513,6.35104",
+    "geom:latitude":6.35104,
+    "geom:longitude":0.66513,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Agbelechime",
+    "gn:country_code":"GH",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305601,
+    "gn:latitude":6.35104,
+    "gn:longitude":0.66513,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Agbelechime",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305601
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"039d2a4d91718efdcba51899c0da53f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209022431
+        }
+    ],
+    "wof:id":1209022431,
+    "wof:lastmodified":1536300106,
+    "wof:name":"Agbelechime",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.66513,
+    6.35104,
+    0.66513,
+    6.35104
+],
+  "geometry": {"coordinates":[0.66513,6.35104],"type":"Point"}
+}

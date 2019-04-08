@@ -1,0 +1,67 @@
+{
+  "id": 1276781901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.03333,5.95,-0.03333,5.95",
+    "geom:latitude":5.95,
+    "geom:longitude":-0.03333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nyem",
+    "gn:country_code":"GH",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296760,
+    "gn:latitude":5.95,
+    "gn:longitude":-0.03333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Nyem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671353,
+        1108759907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296760
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"cba79659e93d77c8abea9aab5ccde40b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759907,
+            "locality_id":1276781901,
+            "region_id":85671353
+        }
+    ],
+    "wof:id":1276781901,
+    "wof:lastmodified":1536674843,
+    "wof:name":"Nyem",
+    "wof:parent_id":1108759907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.03333,
+    5.95,
+    -0.03333,
+    5.95
+],
+  "geometry": {"coordinates":[-0.03333,5.95],"type":"Point"}
+}

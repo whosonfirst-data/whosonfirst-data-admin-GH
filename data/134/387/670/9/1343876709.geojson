@@ -1,0 +1,74 @@
+{
+  "id": 1343876709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.95919,5.23655,-1.95919,5.23655",
+    "geom:latitude":5.23655,
+    "geom:longitude":-1.95919,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Bonsawire",
+    "gn:country_code":"GH",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304088,
+    "gn:latitude":5.23655,
+    "gn:longitude":-1.95919,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Bonsawire",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bonsawire"
+    ],
+    "name:und_x_variant":[
+        "Asikoma",
+        "Asikuma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304088
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a56df0d26a82556f2bfae7a648a8645b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760017,
+            "locality_id":1343876709,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1343876709,
+    "wof:lastmodified":1537623772,
+    "wof:name":"Bonsawire",
+    "wof:parent_id":1108760017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.95919,
+    5.23655,
+    -1.95919,
+    5.23655
+],
+  "geometry": {"coordinates":[-1.95919,5.23655],"type":"Point"}
+}

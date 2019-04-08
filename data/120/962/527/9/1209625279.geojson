@@ -1,0 +1,64 @@
+{
+  "id": 1209625279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.21977,4.87528,-2.21977,4.87528",
+    "geom:latitude":4.87528,
+    "geom:longitude":-2.21977,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Banso",
+    "gn:country_code":"GH",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303373,
+    "gn:latitude":4.87528,
+    "gn:longitude":-2.21977,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Banso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Banso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303373
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"60a8d8d205243c68405b319db8fe3eaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209625279
+        }
+    ],
+    "wof:id":1209625279,
+    "wof:lastmodified":1537623748,
+    "wof:name":"Banso",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.21977,
+    4.87528,
+    -2.21977,
+    4.87528
+],
+  "geometry": {"coordinates":[-2.21977,4.87528],"type":"Point"}
+}

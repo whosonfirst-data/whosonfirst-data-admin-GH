@@ -1,0 +1,71 @@
+{
+  "id": 1310511509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.68222,10.34074,-2.68222,10.34074",
+    "geom:latitude":10.34074,
+    "geom:longitude":-2.68222,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kankanjia",
+    "gn:country_code":"GH",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299813,
+    "gn:latitude":10.34074,
+    "gn:longitude":-2.68222,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Kankanjia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kankanzie",
+        "Kankanjia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299813
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"03f253adeff156551d9431740a5aefc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759961,
+            "locality_id":1310511509,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1310511509,
+    "wof:lastmodified":1537623614,
+    "wof:name":"Kankanjia",
+    "wof:parent_id":1108759961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.68222,
+    10.34074,
+    -2.68222,
+    10.34074
+],
+  "geometry": {"coordinates":[-2.68222,10.34074],"type":"Point"}
+}

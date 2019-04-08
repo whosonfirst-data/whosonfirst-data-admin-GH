@@ -1,0 +1,65 @@
+{
+  "id": 1209525587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.66811,10.37245,-2.66811,10.37245",
+    "geom:latitude":10.37245,
+    "geom:longitude":-2.66811,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Nadawli",
+    "gn:country_code":"GH",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297729,
+    "gn:latitude":10.37245,
+    "gn:longitude":-2.66811,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Nadawli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nadoli",
+        "Nadawli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297729
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ea851473ca21f6745dfcb1fd3d223ceb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209525587
+        }
+    ],
+    "wof:id":1209525587,
+    "wof:lastmodified":1537623543,
+    "wof:name":"Nadawli",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.66811,
+    10.37245,
+    -2.66811,
+    10.37245
+],
+  "geometry": {"coordinates":[-2.66811,10.37245],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259894693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.53485,6.43608,-1.53485,6.43608",
+    "geom:latitude":6.43608,
+    "geom:longitude":-1.53485,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Abodom",
+    "gn:country_code":"GH",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306285,
+    "gn:latitude":6.43608,
+    "gn:longitude":-1.53485,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Abodom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abodum",
+        "Abodom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306285
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"53eaa29b54f3b9585df0dcc711ec4e1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759783,
+            "locality_id":1259894693,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1259894693,
+    "wof:lastmodified":1537623850,
+    "wof:name":"Abodom",
+    "wof:parent_id":1108759783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.53485,
+    6.43608,
+    -1.53485,
+    6.43608
+],
+  "geometry": {"coordinates":[-1.53485,6.43608],"type":"Point"}
+}

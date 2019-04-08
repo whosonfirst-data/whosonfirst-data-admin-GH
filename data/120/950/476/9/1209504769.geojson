@@ -1,0 +1,68 @@
+{
+  "id": 1209504769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.2016,4.83122,-2.2016,4.83122",
+    "geom:latitude":4.83122,
+    "geom:longitude":-2.2016,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Egyan",
+    "gn:country_code":"GH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593207,
+    "gn:latitude":4.83122,
+    "gn:longitude":-2.2016,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Egyan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Egyan"
+    ],
+    "name:und_x_variant":[
+        "Ejan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593207,
+        "wk:page":"Ejan_%28Ghana%29"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"f5ad6f9698e0ff3ad53cacb7dd38ee7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209504769
+        }
+    ],
+    "wof:id":1209504769,
+    "wof:lastmodified":1537623856,
+    "wof:name":"Egyan",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.2016,
+    4.83122,
+    -2.2016,
+    4.83122
+],
+  "geometry": {"coordinates":[-2.2016,4.83122],"type":"Point"}
+}

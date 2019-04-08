@@ -1,0 +1,71 @@
+{
+  "id": 1310711779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.88648,5.84403,0.88648,5.84403",
+    "geom:latitude":5.84403,
+    "geom:longitude":0.88648,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kodzi",
+    "gn:country_code":"GH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299553,
+    "gn:latitude":5.84403,
+    "gn:longitude":0.88648,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kodzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koji",
+        "Kodzi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299553
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"2f05b02a4bc982ac0eba03385d99cf7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759981,
+            "locality_id":1310711779,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1310711779,
+    "wof:lastmodified":1537623604,
+    "wof:name":"Kodzi",
+    "wof:parent_id":1108759981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.88648,
+    5.84403,
+    0.88648,
+    5.84403
+],
+  "geometry": {"coordinates":[0.88648,5.84403],"type":"Point"}
+}

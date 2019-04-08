@@ -1,0 +1,67 @@
+{
+  "id": 1309818259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.27773,6.77014,-1.27773,6.77014",
+    "geom:latitude":6.77014,
+    "geom:longitude":-1.27773,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Awaham",
+    "gn:country_code":"GH",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303684,
+    "gn:latitude":6.77014,
+    "gn:longitude":-1.27773,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Awaham",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303684
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"d85bcfa4eb75efe9d43d03443d1af770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759807,
+            "locality_id":1309818259,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1309818259,
+    "wof:lastmodified":1536913478,
+    "wof:name":"Awaham",
+    "wof:parent_id":1108759807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.27773,
+    6.77014,
+    -1.27773,
+    6.77014
+],
+  "geometry": {"coordinates":[-1.27773,6.77014],"type":"Point"}
+}

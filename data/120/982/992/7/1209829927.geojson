@@ -1,0 +1,75 @@
+{
+  "id": 1209829927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.16905,6.60129,-2.16905,6.60129",
+    "geom:latitude":6.60129,
+    "geom:longitude":-2.16905,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kyirayaso",
+    "gn:country_code":"GH",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302194,
+    "gn:latitude":6.60129,
+    "gn:longitude":-2.16905,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Kyirayaso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kyirayaso"
+    ],
+    "name:und_x_variant":[
+        "Kyereyaaso",
+        "Chiraiaso",
+        "Chirayaso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302194
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"72802bd72dab3380ef415f2b62bfecff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759791,
+            "locality_id":1209829927,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1209829927,
+    "wof:lastmodified":1537623707,
+    "wof:name":"Kyirayaso",
+    "wof:parent_id":1108759791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.16905,
+    6.60129,
+    -2.16905,
+    6.60129
+],
+  "geometry": {"coordinates":[-2.16905,6.60129],"type":"Point"}
+}

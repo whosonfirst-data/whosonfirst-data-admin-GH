@@ -1,0 +1,67 @@
+{
+  "id": 1327040045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.14289,10.33719,0.14289,10.33719",
+    "geom:latitude":10.33719,
+    "geom:longitude":0.14289,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tuobongo",
+    "gn:country_code":"GH",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294331,
+    "gn:latitude":10.33719,
+    "gn:longitude":0.14289,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Tuobongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294331
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"9a3bb5b5af9ff3459f7dd2be1d47fa11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759929,
+            "locality_id":1327040045,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1327040045,
+    "wof:lastmodified":1536749146,
+    "wof:name":"Tuobongo",
+    "wof:parent_id":1108759929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.14289,
+    10.33719,
+    0.14289,
+    10.33719
+],
+  "geometry": {"coordinates":[0.14289,10.33719],"type":"Point"}
+}

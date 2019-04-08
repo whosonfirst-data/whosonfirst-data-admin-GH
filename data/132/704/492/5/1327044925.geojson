@@ -1,0 +1,71 @@
+{
+  "id": 1327044925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.86675,6.39736,-1.86675,6.39736",
+    "geom:latitude":6.39736,
+    "geom:longitude":-1.86675,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ankam",
+    "gn:country_code":"GH",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304581,
+    "gn:latitude":6.39736,
+    "gn:longitude":-1.86675,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Ankam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manso Ankam",
+        "Ankam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304581
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"bc93aa5ea521de34e4e213c29bad9666",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759785,
+            "locality_id":1327044925,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1327044925,
+    "wof:lastmodified":1537623790,
+    "wof:name":"Ankam",
+    "wof:parent_id":1108759785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.86675,
+    6.39736,
+    -1.86675,
+    6.39736
+],
+  "geometry": {"coordinates":[-1.86675,6.39736],"type":"Point"}
+}

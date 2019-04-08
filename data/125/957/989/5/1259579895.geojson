@@ -1,0 +1,71 @@
+{
+  "id": 1259579895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.62192,4.99624,-2.62192,4.99624",
+    "geom:latitude":4.99624,
+    "geom:longitude":-2.62192,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Aloen",
+    "gn:country_code":"GH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304884,
+    "gn:latitude":4.99624,
+    "gn:longitude":-2.62192,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Aloen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Elonyi",
+        "Aloen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304884
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"878b1341c4c0ef31cf0bdc302115b25a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760001,
+            "locality_id":1259579895,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1259579895,
+    "wof:lastmodified":1537623800,
+    "wof:name":"Aloen",
+    "wof:parent_id":1108760001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.62192,
+    4.99624,
+    -2.62192,
+    4.99624
+],
+  "geometry": {"coordinates":[-2.62192,4.99624],"type":"Point"}
+}

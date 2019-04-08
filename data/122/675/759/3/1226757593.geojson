@@ -1,0 +1,71 @@
+{
+  "id": 1226757593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.68116,5.78241,0.68116,5.78241",
+    "geom:latitude":5.78241,
+    "geom:longitude":0.68116,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Aholupu",
+    "gn:country_code":"GH",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305415,
+    "gn:latitude":5.78241,
+    "gn:longitude":0.68116,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Aholupu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akolupu",
+        "Aholupu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305415
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a637a17e390528cbe081f38f89603887",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759991,
+            "locality_id":1226757593,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1226757593,
+    "wof:lastmodified":1537623820,
+    "wof:name":"Aholupu",
+    "wof:parent_id":1108759991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.68116,
+    5.78241,
+    0.68116,
+    5.78241
+],
+  "geometry": {"coordinates":[0.68116,5.78241],"type":"Point"}
+}

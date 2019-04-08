@@ -1,0 +1,67 @@
+{
+  "id": 1293901715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.23691,9.4243,0.23691,9.4243",
+    "geom:latitude":9.4243,
+    "geom:longitude":0.23691,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ongoni",
+    "gn:country_code":"GH",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296326,
+    "gn:latitude":9.4243,
+    "gn:longitude":0.23691,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Ongoni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296326
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"372d2b821c28c881d6fa7255865d41bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759939,
+            "locality_id":1293901715,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1293901715,
+    "wof:lastmodified":1536687123,
+    "wof:name":"Ongoni",
+    "wof:parent_id":1108759939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.23691,
+    9.4243,
+    0.23691,
+    9.4243
+],
+  "geometry": {"coordinates":[0.23691,9.4243],"type":"Point"}
+}

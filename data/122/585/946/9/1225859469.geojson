@@ -1,0 +1,70 @@
+{
+  "id": 1225859469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.28242,10.03024,-1.28242,10.03024",
+    "geom:latitude":10.03024,
+    "geom:longitude":-1.28242,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mankarigu",
+    "gn:country_code":"GH",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298208,
+    "gn:latitude":10.03024,
+    "gn:longitude":-1.28242,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Mankarigu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mankariga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298208
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"3919045248d452b0f8ae7dc34115f46a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759921,
+            "locality_id":1225859469,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1225859469,
+    "wof:lastmodified":1537623561,
+    "wof:name":"Mankarigu",
+    "wof:parent_id":1108759921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.28242,
+    10.03024,
+    -1.28242,
+    10.03024
+],
+  "geometry": {"coordinates":[-1.28242,10.03024],"type":"Point"}
+}

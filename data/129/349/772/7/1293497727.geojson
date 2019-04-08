@@ -1,0 +1,67 @@
+{
+  "id": 1293497727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.18785,6.57706,0.18785,6.57706",
+    "geom:latitude":6.57706,
+    "geom:longitude":0.18785,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"To",
+    "gn:country_code":"GH",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294543,
+    "gn:latitude":6.57706,
+    "gn:longitude":0.18785,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"To",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294543
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"56c35753e02bbb9e71d50f37290e40a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759985,
+            "locality_id":1293497727,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1293497727,
+    "wof:lastmodified":1536772824,
+    "wof:name":"To",
+    "wof:parent_id":1108759985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.18785,
+    6.57706,
+    0.18785,
+    6.57706
+],
+  "geometry": {"coordinates":[0.18785,6.57706],"type":"Point"}
+}

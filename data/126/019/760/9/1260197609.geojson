@@ -1,0 +1,67 @@
+{
+  "id": 1260197609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.01249,6.23775,-2.01249,6.23775",
+    "geom:latitude":6.23775,
+    "geom:longitude":-2.01249,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Miradani",
+    "gn:country_code":"GH",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297989,
+    "gn:latitude":6.23775,
+    "gn:longitude":-2.01249,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Miradani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297989
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"d060e0989ac9537d3a9111116c39ecf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759785,
+            "locality_id":1260197609,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1260197609,
+    "wof:lastmodified":1536827489,
+    "wof:name":"Miradani",
+    "wof:parent_id":1108759785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.01249,
+    6.23775,
+    -2.01249,
+    6.23775
+],
+  "geometry": {"coordinates":[-2.01249,6.23775],"type":"Point"}
+}

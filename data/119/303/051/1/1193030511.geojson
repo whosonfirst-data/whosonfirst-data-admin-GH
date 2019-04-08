@@ -1,0 +1,71 @@
+{
+  "id": 1193030511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.3359,7.23026,0.3359,7.23026",
+    "geom:latitude":7.23026,
+    "geom:longitude":0.3359,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Burbulakofe",
+    "gn:country_code":"GH",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302403,
+    "gn:latitude":7.23026,
+    "gn:longitude":0.3359,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Burbulakofe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bumbula",
+        "Burbulakofe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302403
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"b94ecf9d085a9828644f2b7c6973c2d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759975,
+            "locality_id":1193030511,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1193030511,
+    "wof:lastmodified":1537623715,
+    "wof:name":"Burbulakofe",
+    "wof:parent_id":1108759975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.3359,
+    7.23026,
+    0.3359,
+    7.23026
+],
+  "geometry": {"coordinates":[0.3359,7.23026],"type":"Point"}
+}

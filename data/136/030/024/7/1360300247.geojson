@@ -1,0 +1,68 @@
+{
+  "id": 1360300247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.46903,11.02307,-0.46903,11.02307",
+    "geom:latitude":11.02307,
+    "geom:longitude":-0.46903,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gango",
+    "gn:country_code":"GH",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300765,
+    "gn:latitude":11.02307,
+    "gn:longitude":-0.46903,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agago",
+        "Ganga",
+        "Gango"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300765
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"3e92757d49e32c3e6cd4254350765163",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1360300247,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360300247,
+    "wof:lastmodified":1537623653,
+    "wof:name":"Gango",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.46903,
+    11.02307,
+    -0.46903,
+    11.02307
+],
+  "geometry": {"coordinates":[-0.46903,11.02307],"type":"Point"}
+}

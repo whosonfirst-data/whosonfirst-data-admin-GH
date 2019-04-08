@@ -1,0 +1,71 @@
+{
+  "id": 1209834025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.495,10.26965,-2.495,10.26965",
+    "geom:latitude":10.26965,
+    "geom:longitude":-2.495,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kanyini",
+    "gn:country_code":"GH",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299792,
+    "gn:latitude":10.26965,
+    "gn:longitude":-2.495,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kanyini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kayeni",
+        "Kanyini"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299792
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"e8f0f38b6d63ecbdd11d8589302a7051",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759961,
+            "locality_id":1209834025,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1209834025,
+    "wof:lastmodified":1537623613,
+    "wof:name":"Kanyini",
+    "wof:parent_id":1108759961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.495,
+    10.26965,
+    -2.495,
+    10.26965
+],
+  "geometry": {"coordinates":[-2.495,10.26965],"type":"Point"}
+}

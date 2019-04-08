@@ -1,0 +1,67 @@
+{
+  "id": 1293010709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.1886,9.66579,-1.1886,9.66579",
+    "geom:latitude":9.66579,
+    "geom:longitude":-1.1886,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kuli",
+    "gn:country_code":"GH",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298939,
+    "gn:latitude":9.66579,
+    "gn:longitude":-1.1886,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Kuli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298939
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"f454dca54ee4714b0598100b9ae060c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759935,
+            "locality_id":1293010709,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1293010709,
+    "wof:lastmodified":1536976689,
+    "wof:name":"Kuli",
+    "wof:parent_id":1108759935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.1886,
+    9.66579,
+    -1.1886,
+    9.66579
+],
+  "geometry": {"coordinates":[-1.1886,9.66579],"type":"Point"}
+}

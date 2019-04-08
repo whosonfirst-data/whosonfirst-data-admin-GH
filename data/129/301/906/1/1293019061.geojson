@@ -1,0 +1,71 @@
+{
+  "id": 1293019061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.29589,10.74005,-2.29589,10.74005",
+    "geom:latitude":10.74005,
+    "geom:longitude":-2.29589,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kuntulo",
+    "gn:country_code":"GH",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298813,
+    "gn:latitude":10.74005,
+    "gn:longitude":-2.29589,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kuntulo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuntule",
+        "Kuntulo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298813
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"6ecf9d896913ef7889dc1e42f6f04720",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759963,
+            "locality_id":1293019061,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1293019061,
+    "wof:lastmodified":1537623581,
+    "wof:name":"Kuntulo",
+    "wof:parent_id":1108759963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.29589,
+    10.74005,
+    -2.29589,
+    10.74005
+],
+  "geometry": {"coordinates":[-2.29589,10.74005],"type":"Point"}
+}

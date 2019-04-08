@@ -1,0 +1,61 @@
+{
+  "id": 1209625295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.08194,5.99575,-0.08194,5.99575",
+    "geom:latitude":5.99575,
+    "geom:longitude":-0.08194,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Awukugua",
+    "gn:country_code":"GH",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303629,
+    "gn:latitude":5.99575,
+    "gn:longitude":-0.08194,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Awukugua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303629
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"8578c4eb7bceb8fdf1806502eaba08ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209625295
+        }
+    ],
+    "wof:id":1209625295,
+    "wof:lastmodified":1536281374,
+    "wof:name":"Awukugua",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.08194,
+    5.99575,
+    -0.08194,
+    5.99575
+],
+  "geometry": {"coordinates":[-0.08194,5.99575],"type":"Point"}
+}

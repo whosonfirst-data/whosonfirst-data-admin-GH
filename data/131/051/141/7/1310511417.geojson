@@ -1,0 +1,72 @@
+{
+  "id": 1310511417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.48333,5.88333,-2.48333,5.88333",
+    "geom:latitude":5.88333,
+    "geom:longitude":-2.48333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ahope",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305410,
+    "gn:latitude":5.88333,
+    "gn:longitude":-2.48333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ahope",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abope",
+        "Ahope"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305410
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"f07659dad877601bd88be67b03e30ab1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760015,
+            "locality_id":1310511417,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1310511417,
+    "wof:lastmodified":1537623820,
+    "wof:name":"Ahope",
+    "wof:parent_id":1108760015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.48333,
+    5.88333,
+    -2.48333,
+    5.88333
+],
+  "geometry": {"coordinates":[-2.48333,5.88333],"type":"Point"}
+}

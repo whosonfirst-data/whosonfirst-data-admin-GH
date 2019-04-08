@@ -1,0 +1,67 @@
+{
+  "id": 1327144641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.54376,5.53996,-2.54376,5.53996",
+    "geom:latitude":5.53996,
+    "geom:longitude":-2.54376,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nkwanta",
+    "gn:country_code":"GH",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297229,
+    "gn:latitude":5.53996,
+    "gn:longitude":-2.54376,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Nkwanta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297229
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"fc7f0500c2a9c660ef48f0cf4986cfe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760015,
+            "locality_id":1327144641,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1327144641,
+    "wof:lastmodified":1537092994,
+    "wof:name":"Nkwanta",
+    "wof:parent_id":1108760015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.54376,
+    5.53996,
+    -2.54376,
+    5.53996
+],
+  "geometry": {"coordinates":[-2.54376,5.53996],"type":"Point"}
+}

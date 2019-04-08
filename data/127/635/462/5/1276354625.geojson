@@ -1,0 +1,67 @@
+{
+  "id": 1276354625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.81667,6.7,-1.81667,6.7",
+    "geom:latitude":6.7,
+    "geom:longitude":-1.81667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kobi",
+    "gn:country_code":"GH",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299580,
+    "gn:latitude":6.7,
+    "gn:longitude":-1.81667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Kobi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299580
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"3e4e00483763cfa2a5a7458031c5f863",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759791,
+            "locality_id":1276354625,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1276354625,
+    "wof:lastmodified":1536749908,
+    "wof:name":"Kobi",
+    "wof:parent_id":1108759791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.81667,
+    6.7,
+    -1.81667,
+    6.7
+],
+  "geometry": {"coordinates":[-1.81667,6.7],"type":"Point"}
+}

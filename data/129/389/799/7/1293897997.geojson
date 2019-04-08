@@ -1,0 +1,71 @@
+{
+  "id": 1293897997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.15813,10.19354,0.15813,10.19354",
+    "geom:latitude":10.19354,
+    "geom:longitude":0.15813,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Itele",
+    "gn:country_code":"GH",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300281,
+    "gn:latitude":10.19354,
+    "gn:longitude":0.15813,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Itele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ite",
+        "Itele"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300281
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"dcfd7754de19e81e9c24d0adaa19fc40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759929,
+            "locality_id":1293897997,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1293897997,
+    "wof:lastmodified":1537623634,
+    "wof:name":"Itele",
+    "wof:parent_id":1108759929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.15813,
+    10.19354,
+    0.15813,
+    10.19354
+],
+  "geometry": {"coordinates":[0.15813,10.19354],"type":"Point"}
+}

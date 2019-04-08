@@ -1,0 +1,70 @@
+{
+  "id": 1309915769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.64534,6.41522,-1.64534,6.41522",
+    "geom:latitude":6.41522,
+    "geom:longitude":-1.64534,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kyekyewere",
+    "gn:country_code":"GH",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302229,
+    "gn:latitude":6.41522,
+    "gn:longitude":-1.64534,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Kyekyewere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chichiwere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302229
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"b4abb51ec9d9da1ecc3668fd913f4b73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759783,
+            "locality_id":1309915769,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1309915769,
+    "wof:lastmodified":1537623708,
+    "wof:name":"Kyekyewere",
+    "wof:parent_id":1108759783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.64534,
+    6.41522,
+    -1.64534,
+    6.41522
+],
+  "geometry": {"coordinates":[-1.64534,6.41522],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327044635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.18074,7.02775,-2.18074,7.02775",
+    "geom:latitude":7.02775,
+    "geom:longitude":-2.18074,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Asubompang",
+    "gn:country_code":"GH",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304014,
+    "gn:latitude":7.02775,
+    "gn:longitude":-2.18074,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Asubompang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Esubompan",
+        "Asubonpang",
+        "Asubompan",
+        "Asubompang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304014
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"4406260bc1da7226e9799d0659309e48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759835,
+            "locality_id":1327044635,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1327044635,
+    "wof:lastmodified":1537623769,
+    "wof:name":"Asubompang",
+    "wof:parent_id":1108759835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.18074,
+    7.02775,
+    -2.18074,
+    7.02775
+],
+  "geometry": {"coordinates":[-2.18074,7.02775],"type":"Point"}
+}

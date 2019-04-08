@@ -1,0 +1,70 @@
+{
+  "id": 1259694107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.90453,5.09256,-1.90453,5.09256",
+    "geom:latitude":5.09256,
+    "geom:longitude":-1.90453,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Sado",
+    "gn:country_code":"GH",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2295742,
+    "gn:latitude":5.09256,
+    "gn:longitude":-1.90453,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Sado",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2295742
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"5bd6fdb52a877b57c328cf1d7e4988df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760017,
+            "locality_id":1259694107,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1259694107,
+    "wof:lastmodified":1537623471,
+    "wof:name":"Sado",
+    "wof:parent_id":1108760017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.90453,
+    5.09256,
+    -1.90453,
+    5.09256
+],
+  "geometry": {"coordinates":[-1.90453,5.09256],"type":"Point"}
+}

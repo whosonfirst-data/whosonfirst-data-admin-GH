@@ -1,0 +1,70 @@
+{
+  "id": 1293603801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.876,5.81446,-1.876,5.81446",
+    "geom:latitude":5.81446,
+    "geom:longitude":-1.876,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Oforikrom",
+    "gn:country_code":"GH",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296435,
+    "gn:latitude":5.81446,
+    "gn:longitude":-1.876,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Oforikrom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Oforikrom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296435
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"9dc4a78fffb048bc644fa778efa68744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760015,
+            "locality_id":1293603801,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1293603801,
+    "wof:lastmodified":1537623495,
+    "wof:name":"Oforikrom",
+    "wof:parent_id":1108760015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.876,
+    5.81446,
+    -1.876,
+    5.81446
+],
+  "geometry": {"coordinates":[-1.876,5.81446],"type":"Point"}
+}

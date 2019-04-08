@@ -1,0 +1,67 @@
+{
+  "id": 1276238165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.69285,6.08237,-0.69285,6.08237",
+    "geom:latitude":6.08237,
+    "geom:longitude":-0.69285,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Apinamang",
+    "gn:country_code":"GH",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304333,
+    "gn:latitude":6.08237,
+    "gn:longitude":-0.69285,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Apinamang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304333
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"e72a274359455fc0b9f99e61da80e6fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759885,
+            "locality_id":1276238165,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1276238165,
+    "wof:lastmodified":1536906341,
+    "wof:name":"Apinamang",
+    "wof:parent_id":1108759885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.69285,
+    6.08237,
+    -0.69285,
+    6.08237
+],
+  "geometry": {"coordinates":[-0.69285,6.08237],"type":"Point"}
+}

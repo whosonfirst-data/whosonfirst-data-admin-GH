@@ -1,0 +1,74 @@
+{
+  "id": 1310611069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.63757,5.87308,-1.63757,5.87308",
+    "geom:latitude":5.87308,
+    "geom:longitude":-1.63757,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Nyamebekyere Nkwanta",
+    "gn:country_code":"GH",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297206,
+    "gn:latitude":5.87308,
+    "gn:longitude":-1.63757,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Nyamebekyere Nkwanta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nyamebekyere Nkwanta"
+    ],
+    "name:und_x_variant":[
+        "Nkwantanan",
+        "Nkwantanang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297206
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"c8dbee6d523eb577ba05de7870e06e43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759865,
+            "locality_id":1310611069,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1310611069,
+    "wof:lastmodified":1537623522,
+    "wof:name":"Nyamebekyere Nkwanta",
+    "wof:parent_id":1108759865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.63757,
+    5.87308,
+    -1.63757,
+    5.87308
+],
+  "geometry": {"coordinates":[-1.63757,5.87308],"type":"Point"}
+}

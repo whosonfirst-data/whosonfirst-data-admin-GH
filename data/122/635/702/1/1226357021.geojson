@@ -1,0 +1,74 @@
+{
+  "id": 1226357021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.66142,6.52356,-1.66142,6.52356",
+    "geom:latitude":6.52356,
+    "geom:longitude":-1.66142,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Adamasu",
+    "gn:country_code":"GH",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305326,
+    "gn:latitude":6.52356,
+    "gn:longitude":-1.66142,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Adamasu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Adamasu"
+    ],
+    "name:und_x_variant":[
+        "Agyamesu",
+        "Ajamaso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305326
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"77df4b2f163276233217fd898ca479b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759793,
+            "locality_id":1226357021,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1226357021,
+    "wof:lastmodified":1537623817,
+    "wof:name":"Adamasu",
+    "wof:parent_id":1108759793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.66142,
+    6.52356,
+    -1.66142,
+    6.52356
+],
+  "geometry": {"coordinates":[-1.66142,6.52356],"type":"Point"}
+}

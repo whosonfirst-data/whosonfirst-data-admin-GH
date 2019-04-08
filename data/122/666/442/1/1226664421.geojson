@@ -1,0 +1,71 @@
+{
+  "id": 1226664421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.63483,6.39109,-2.63483,6.39109",
+    "geom:latitude":6.39109,
+    "geom:longitude":-2.63483,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Afrimakrom",
+    "gn:country_code":"GH",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305642,
+    "gn:latitude":6.39109,
+    "gn:longitude":-2.63483,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Afrimakrom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Afrimkrom",
+        "Afrimakrom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305642
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a49aa2b14bc83c73c25a2ed14f33ddd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760009,
+            "locality_id":1226664421,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1226664421,
+    "wof:lastmodified":1537623828,
+    "wof:name":"Afrimakrom",
+    "wof:parent_id":1108760009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.63483,
+    6.39109,
+    -2.63483,
+    6.39109
+],
+  "geometry": {"coordinates":[-2.63483,6.39109],"type":"Point"}
+}

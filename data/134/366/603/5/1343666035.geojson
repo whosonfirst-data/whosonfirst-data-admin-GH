@@ -1,0 +1,68 @@
+{
+  "id": 1343666035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.03484,5.69951,-0.03484,5.69951",
+    "geom:latitude":5.69951,
+    "geom:longitude":-0.03484,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ashaiman",
+    "gn:country_code":"GH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304121,
+    "gn:latitude":5.69951,
+    "gn:longitude":-0.03484,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Ashaiman",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671353,
+        1108759911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304121,
+        "wk:page":"Ashaiman"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"8acf2f3d525493e5d1820098cbbd8597",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759911,
+            "locality_id":1343666035,
+            "region_id":85671353
+        }
+    ],
+    "wof:id":1343666035,
+    "wof:lastmodified":1537563058,
+    "wof:name":"Ashaiman",
+    "wof:parent_id":1108759911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.03484,
+    5.69951,
+    -0.03484,
+    5.69951
+],
+  "geometry": {"coordinates":[-0.03484,5.69951],"type":"Point"}
+}

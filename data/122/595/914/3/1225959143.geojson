@@ -1,0 +1,72 @@
+{
+  "id": 1225959143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.06667,7.05,-1.06667,7.05",
+    "geom:latitude":7.05,
+    "geom:longitude":-1.06667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Abrofirim",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306173,
+    "gn:latitude":7.05,
+    "gn:longitude":-1.06667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Abrofirim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abofrem",
+        "Abrofirim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306173
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"7d326d6fc76af1f6b823830a9ed2b942",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759807,
+            "locality_id":1225959143,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1225959143,
+    "wof:lastmodified":1537623846,
+    "wof:name":"Abrofirim",
+    "wof:parent_id":1108759807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.06667,
+    7.05,
+    -1.06667,
+    7.05
+],
+  "geometry": {"coordinates":[-1.06667,7.05],"type":"Point"}
+}

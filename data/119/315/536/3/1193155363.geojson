@@ -1,0 +1,71 @@
+{
+  "id": 1193155363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.08592,10.99707,-1.08592,10.99707",
+    "geom:latitude":10.99707,
+    "geom:longitude":-1.08592,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Chania",
+    "gn:country_code":"GH",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302322,
+    "gn:latitude":10.99707,
+    "gn:longitude":-1.08592,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chania",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paga Chania",
+        "Chania"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302322
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"26932597a0f7700bc19b6da4e0fd3715",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759953,
+            "locality_id":1193155363,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1193155363,
+    "wof:lastmodified":1537623712,
+    "wof:name":"Chania",
+    "wof:parent_id":1108759953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.08592,
+    10.99707,
+    -1.08592,
+    10.99707
+],
+  "geometry": {"coordinates":[-1.08592,10.99707],"type":"Point"}
+}

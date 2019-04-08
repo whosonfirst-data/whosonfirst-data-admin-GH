@@ -1,0 +1,65 @@
+{
+  "id": 1209022693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.70141,7.70938,-2.70141,7.70938",
+    "geom:latitude":7.70938,
+    "geom:longitude":-2.70141,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Yaamansa",
+    "gn:country_code":"GH",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293937,
+    "gn:latitude":7.70938,
+    "gn:longitude":-2.70141,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yaamansa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yaomanso",
+        "Yaamansa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293937
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"e662e063000958a78b18c331c4e632b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209022693
+        }
+    ],
+    "wof:id":1209022693,
+    "wof:lastmodified":1537623407,
+    "wof:name":"Yaamansa",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.70141,
+    7.70938,
+    -2.70141,
+    7.70938
+],
+  "geometry": {"coordinates":[-2.70141,7.70938],"type":"Point"}
+}

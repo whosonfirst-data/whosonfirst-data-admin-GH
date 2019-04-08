@@ -1,0 +1,71 @@
+{
+  "id": 1343280079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.72129,9.9171,-2.72129,9.9171",
+    "geom:latitude":9.9171,
+    "geom:longitude":-2.72129,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bamkpoma",
+    "gn:country_code":"GH",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303430,
+    "gn:latitude":9.9171,
+    "gn:longitude":-2.72129,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bamkpoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bankpama",
+        "Bamkpoma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303430
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"972e1fd13243e73de32c56da6ef3c0e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759965,
+            "locality_id":1343280079,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1343280079,
+    "wof:lastmodified":1537623750,
+    "wof:name":"Bamkpoma",
+    "wof:parent_id":1108759965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.72129,
+    9.9171,
+    -2.72129,
+    9.9171
+],
+  "geometry": {"coordinates":[-2.72129,9.9171],"type":"Point"}
+}

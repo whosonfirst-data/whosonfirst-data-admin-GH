@@ -1,0 +1,70 @@
+{
+  "id": 1343473501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.89364,5.6623,-1.89364,5.6623",
+    "geom:latitude":5.6623,
+    "geom:longitude":-1.89364,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Nkontoase",
+    "gn:country_code":"GH",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297294,
+    "gn:latitude":5.6623,
+    "gn:longitude":-1.89364,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Nkontoase",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nkontoase"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297294
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"aabcde332104198a782c025474ee7c8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760015,
+            "locality_id":1343473501,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1343473501,
+    "wof:lastmodified":1537623526,
+    "wof:name":"Nkontoase",
+    "wof:parent_id":1108760015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.89364,
+    5.6623,
+    -1.89364,
+    5.6623
+],
+  "geometry": {"coordinates":[-1.89364,5.6623],"type":"Point"}
+}

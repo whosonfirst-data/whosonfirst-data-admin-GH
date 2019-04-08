@@ -1,0 +1,67 @@
+{
+  "id": 1327343575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.44723,5.97229,-0.44723,5.97229",
+    "geom:latitude":5.97229,
+    "geom:longitude":-0.44723,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kukosu",
+    "gn:country_code":"GH",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298981,
+    "gn:latitude":5.97229,
+    "gn:longitude":-0.44723,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Kukosu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298981
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"c2888212c7ca3666accb8bc0cc6e7d25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759895,
+            "locality_id":1327343575,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1327343575,
+    "wof:lastmodified":1536808625,
+    "wof:name":"Kukosu",
+    "wof:parent_id":1108759895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.44723,
+    5.97229,
+    -0.44723,
+    5.97229
+],
+  "geometry": {"coordinates":[-0.44723,5.97229],"type":"Point"}
+}

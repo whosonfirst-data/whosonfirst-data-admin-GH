@@ -1,0 +1,72 @@
+{
+  "id": 1226660869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.69554,7.94903,-2.69554,7.94903",
+    "geom:latitude":7.94903,
+    "geom:longitude":-2.69554,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sampa",
+    "gn:country_code":"GH",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2295640,
+    "gn:latitude":7.94903,
+    "gn:longitude":-2.69554,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sampa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sikasiko",
+        "Sampa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2295640,
+        "wk:page":"Sampa%2C_Ghana"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"c25537f2b151eec8cb139a4571759ccb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759823,
+            "locality_id":1226660869,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1226660869,
+    "wof:lastmodified":1537623467,
+    "wof:name":"Sampa",
+    "wof:parent_id":1108759823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.69554,
+    7.94903,
+    -2.69554,
+    7.94903
+],
+  "geometry": {"coordinates":[-2.69554,7.94903],"type":"Point"}
+}

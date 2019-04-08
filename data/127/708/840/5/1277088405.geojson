@@ -1,0 +1,74 @@
+{
+  "id": 1277088405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.35383,5.67826,-0.35383,5.67826",
+    "geom:latitude":5.67826,
+    "geom:longitude":-0.35383,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ayikaidoblo",
+    "gn:country_code":"GH",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305381,
+    "gn:latitude":5.67826,
+    "gn:longitude":-0.35383,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Ayikaidoblo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ayikaidoblo"
+    ],
+    "name:und_x_variant":[
+        "Ayikai Doblo",
+        "Aikaidoboro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671353,
+        1108759909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305381
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"45d672d4aea232921ff55842a9955b2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759909,
+            "locality_id":1277088405,
+            "region_id":85671353
+        }
+    ],
+    "wof:id":1277088405,
+    "wof:lastmodified":1537623819,
+    "wof:name":"Ayikaidoblo",
+    "wof:parent_id":1108759909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.35383,
+    5.67826,
+    -0.35383,
+    5.67826
+],
+  "geometry": {"coordinates":[-0.35383,5.67826],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209120823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.14875,5.32792,-1.14875,5.32792",
+    "geom:latitude":5.32792,
+    "geom:longitude":-1.14875,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Odonasi",
+    "gn:country_code":"GH",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296536,
+    "gn:latitude":5.32792,
+    "gn:longitude":-1.14875,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Odonasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Old Donase",
+        "Odonasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296536
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"f279b90f218685bbaa0432bc3a3eb920",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209120823
+        }
+    ],
+    "wof:id":1209120823,
+    "wof:lastmodified":1537623500,
+    "wof:name":"Odonasi",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.14875,
+    5.32792,
+    -1.14875,
+    5.32792
+],
+  "geometry": {"coordinates":[-1.14875,5.32792],"type":"Point"}
+}

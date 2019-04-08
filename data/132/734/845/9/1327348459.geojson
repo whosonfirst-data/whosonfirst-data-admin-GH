@@ -1,0 +1,71 @@
+{
+  "id": 1327348459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.95613,5.38829,-0.95613,5.38829",
+    "geom:latitude":5.38829,
+    "geom:longitude":-0.95613,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kromem",
+    "gn:country_code":"GH",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299056,
+    "gn:latitude":5.38829,
+    "gn:longitude":-0.95613,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kromem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kromaim",
+        "Kromem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299056
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"e1f98aa3001fb75f580f051024009ef4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759845,
+            "locality_id":1327348459,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1327348459,
+    "wof:lastmodified":1537623588,
+    "wof:name":"Kromem",
+    "wof:parent_id":1108759845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.95613,
+    5.38829,
+    -0.95613,
+    5.38829
+],
+  "geometry": {"coordinates":[-0.95613,5.38829],"type":"Point"}
+}

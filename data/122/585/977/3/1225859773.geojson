@@ -1,0 +1,71 @@
+{
+  "id": 1225859773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.81045,6.29818,0.81045,6.29818",
+    "geom:latitude":6.29818,
+    "geom:longitude":0.81045,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kove",
+    "gn:country_code":"GH",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299276,
+    "gn:latitude":6.29818,
+    "gn:longitude":0.81045,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kove",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Korve",
+        "Kove"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299276
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"1b87f86b71667906ff41452953f57a05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759969,
+            "locality_id":1225859773,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1225859773,
+    "wof:lastmodified":1537623595,
+    "wof:name":"Kove",
+    "wof:parent_id":1108759969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.81045,
+    6.29818,
+    0.81045,
+    6.29818
+],
+  "geometry": {"coordinates":[0.81045,6.29818],"type":"Point"}
+}

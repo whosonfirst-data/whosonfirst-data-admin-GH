@@ -1,0 +1,71 @@
+{
+  "id": 1276778425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.95212,6.32104,-1.95212,6.32104",
+    "geom:latitude":6.32104,
+    "geom:longitude":-1.95212,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Fawotriche",
+    "gn:country_code":"GH",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300990,
+    "gn:latitude":6.32104,
+    "gn:longitude":-1.95212,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Fawotriche",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fawotirikye",
+        "Fawotriche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300990
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"8e739502679b2cc6673d61406a7f68de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759785,
+            "locality_id":1276778425,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1276778425,
+    "wof:lastmodified":1537623661,
+    "wof:name":"Fawotriche",
+    "wof:parent_id":1108759785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.95212,
+    6.32104,
+    -1.95212,
+    6.32104
+],
+  "geometry": {"coordinates":[-1.95212,6.32104],"type":"Point"}
+}

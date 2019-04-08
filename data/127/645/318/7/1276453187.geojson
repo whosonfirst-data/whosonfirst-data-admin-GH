@@ -1,0 +1,70 @@
+{
+  "id": 1276453187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.61881,6.29343,-1.61881,6.29343",
+    "geom:latitude":6.29343,
+    "geom:longitude":-1.61881,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bobriase",
+    "gn:country_code":"GH",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302575,
+    "gn:latitude":6.29343,
+    "gn:longitude":-1.61881,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Bobriase",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brobriasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302575
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"5ebd353f5b82a1a5804421d67f9703f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759773,
+            "locality_id":1276453187,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1276453187,
+    "wof:lastmodified":1537623721,
+    "wof:name":"Bobriase",
+    "wof:parent_id":1108759773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.61881,
+    6.29343,
+    -1.61881,
+    6.29343
+],
+  "geometry": {"coordinates":[-1.61881,6.29343],"type":"Point"}
+}

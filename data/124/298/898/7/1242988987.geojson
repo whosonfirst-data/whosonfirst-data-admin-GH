@@ -1,0 +1,67 @@
+{
+  "id": 1242988987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.74856,5.88307,0.74856,5.88307",
+    "geom:latitude":5.88307,
+    "geom:longitude":0.74856,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Agbatsivi",
+    "gn:country_code":"GH",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305605,
+    "gn:latitude":5.88307,
+    "gn:longitude":0.74856,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Agbatsivi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305605
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"dd456d3f342f875dc3b8e2f3bf00b4eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759981,
+            "locality_id":1242988987,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1242988987,
+    "wof:lastmodified":1536967808,
+    "wof:name":"Agbatsivi",
+    "wof:parent_id":1108759981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.74856,
+    5.88307,
+    0.74856,
+    5.88307
+],
+  "geometry": {"coordinates":[0.74856,5.88307],"type":"Point"}
+}

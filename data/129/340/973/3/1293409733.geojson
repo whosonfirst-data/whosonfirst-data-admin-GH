@@ -1,0 +1,71 @@
+{
+  "id": 1293409733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.00007,6.22131,1.00007,6.22131",
+    "geom:latitude":6.22131,
+    "geom:longitude":1.00007,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Demakope",
+    "gn:country_code":"GH",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301839,
+    "gn:latitude":6.22131,
+    "gn:longitude":1.00007,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Demakope",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Demekpo",
+        "Demakope"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301839
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"45924a790134ffc0b032a0f3809e43c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759983,
+            "locality_id":1293409733,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1293409733,
+    "wof:lastmodified":1537623696,
+    "wof:name":"Demakope",
+    "wof:parent_id":1108759983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.00007,
+    6.22131,
+    1.00007,
+    6.22131
+],
+  "geometry": {"coordinates":[1.00007,6.22131],"type":"Point"}
+}

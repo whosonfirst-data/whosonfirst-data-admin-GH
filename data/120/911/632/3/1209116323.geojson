@@ -1,0 +1,65 @@
+{
+  "id": 1209116323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.37938,11.06855,-0.37938,11.06855",
+    "geom:latitude":11.06855,
+    "geom:longitude":-0.37938,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Guzongo",
+    "gn:country_code":"GH",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300506,
+    "gn:latitude":11.06855,
+    "gn:longitude":-0.37938,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guzongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gasongo",
+        "Guzongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300506
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"37209e7c3a24da6459c250f2c3b4da32",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209116323
+        }
+    ],
+    "wof:id":1209116323,
+    "wof:lastmodified":1537623643,
+    "wof:name":"Guzongo",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.37938,
+    11.06855,
+    -0.37938,
+    11.06855
+],
+  "geometry": {"coordinates":[-0.37938,11.06855],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209329297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.38248,6.52815,-1.38248,6.52815",
+    "geom:latitude":6.52815,
+    "geom:longitude":-1.38248,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Pepiakuma",
+    "gn:country_code":"GH",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296002,
+    "gn:latitude":6.52815,
+    "gn:longitude":-1.38248,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pepiakuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pepie Number 2",
+        "Pepiakuma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296002
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"2ce0ca6f868382a410f20d89c2a02047",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209329297
+        }
+    ],
+    "wof:id":1209329297,
+    "wof:lastmodified":1537623480,
+    "wof:name":"Pepiakuma",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.38248,
+    6.52815,
+    -1.38248,
+    6.52815
+],
+  "geometry": {"coordinates":[-1.38248,6.52815],"type":"Point"}
+}

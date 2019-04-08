@@ -1,0 +1,65 @@
+{
+  "id": 1209233009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.4633,10.25918,-0.4633,10.25918",
+    "geom:latitude":10.25918,
+    "geom:longitude":-0.4633,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Zandua",
+    "gn:country_code":"GH",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293697,
+    "gn:latitude":10.25918,
+    "gn:longitude":-0.4633,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zandua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zanduganga",
+        "Zandua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293697
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"b87a99261413da827f085e1dcf13cbcd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209233009
+        }
+    ],
+    "wof:id":1209233009,
+    "wof:lastmodified":1537623399,
+    "wof:name":"Zandua",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4633,
+    10.25918,
+    -0.4633,
+    10.25918
+],
+  "geometry": {"coordinates":[-0.4633,10.25918],"type":"Point"}
+}

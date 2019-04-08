@@ -1,0 +1,71 @@
+{
+  "id": 1293218699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.9512,9.50026,-0.9512,9.50026",
+    "geom:latitude":9.50026,
+    "geom:longitude":-0.9512,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gupanalgo",
+    "gn:country_code":"GH",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300521,
+    "gn:latitude":9.50026,
+    "gn:longitude":-0.9512,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gupanalgo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gupaneirigu",
+        "Gupanalgo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300521
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"bd3aabfc2214afeddd7683361fb8fe57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759935,
+            "locality_id":1293218699,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1293218699,
+    "wof:lastmodified":1537623644,
+    "wof:name":"Gupanalgo",
+    "wof:parent_id":1108759935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.9512,
+    9.50026,
+    -0.9512,
+    9.50026
+],
+  "geometry": {"coordinates":[-0.9512,9.50026],"type":"Point"}
+}

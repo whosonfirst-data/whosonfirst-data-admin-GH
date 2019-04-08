@@ -1,0 +1,71 @@
+{
+  "id": 1276247269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.39475,5.84251,0.39475,5.84251",
+    "geom:latitude":5.84251,
+    "geom:longitude":0.39475,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Agedrafokope",
+    "gn:country_code":"GH",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305561,
+    "gn:latitude":5.84251,
+    "gn:longitude":0.39475,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Agedrafokope",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agdrafokope",
+        "Agedrafokope"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671353,
+        1108759903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305561
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a92e937207767a73e7f6669f5c040e14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759903,
+            "locality_id":1276247269,
+            "region_id":85671353
+        }
+    ],
+    "wof:id":1276247269,
+    "wof:lastmodified":1537623825,
+    "wof:name":"Agedrafokope",
+    "wof:parent_id":1108759903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.39475,
+    5.84251,
+    0.39475,
+    5.84251
+],
+  "geometry": {"coordinates":[0.39475,5.84251],"type":"Point"}
+}

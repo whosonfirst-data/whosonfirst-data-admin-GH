@@ -1,0 +1,91 @@
+{
+  "id": 890444271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.63011,5.00872,-1.63011,5.00872",
+    "geom:latitude":5.00872,
+    "geom:longitude":-1.63011,
+    "gn:country":"GH",
+    "gn:fcode":"PPL",
+    "gn:pop":20946,
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Shama"
+    ],
+    "name:dut_x_preferred":[
+        "Shama"
+    ],
+    "name:eng_x_preferred":[
+        "Shama"
+    ],
+    "name:ger_x_preferred":[
+        "Shama"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e3\u30de"
+    ],
+    "name:swe_x_preferred":[
+        "Shama"
+    ],
+    "name:unk_x_variant":[
+        "Shama"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u0627\u0645\u0627\u060c \u06af\u06be\u0627\u0646\u0627"
+    ],
+    "qs:name":"Shama Junction",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2295385,
+        "gp:id":1485855,
+        "qs:id":1034744,
+        "wd:id":"Q226124"
+    },
+    "wof:country":"GH",
+    "wof:created":1469052463,
+    "wof:geomhash":"9c664682cae6f8e055a9ab044ef27046",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760011,
+            "locality_id":890444271,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":890444271,
+    "wof:lastmodified":1514443742,
+    "wof:name":"Shama Junction",
+    "wof:parent_id":1108760011,
+    "wof:placetype":"locality",
+    "wof:population":20946,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.63011,
+    5.00872,
+    -1.63011,
+    5.00872
+],
+  "geometry": {"coordinates":[-1.63011,5.00872],"type":"Point"}
+}

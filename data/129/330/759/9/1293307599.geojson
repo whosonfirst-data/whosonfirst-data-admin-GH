@@ -1,0 +1,72 @@
+{
+  "id": 1293307599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.15738,6.15349,-2.15738,6.15349",
+    "geom:latitude":6.15349,
+    "geom:longitude":-2.15738,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Diaso",
+    "gn:country_code":"GH",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301770,
+    "gn:latitude":6.15349,
+    "gn:longitude":-2.15738,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Diaso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Deaso",
+        "Diaso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301770,
+        "wk:page":"Diaso"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"12e894be71e36b7d82c02bd763882424",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759865,
+            "locality_id":1293307599,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1293307599,
+    "wof:lastmodified":1537623694,
+    "wof:name":"Diaso",
+    "wof:parent_id":1108759865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.15738,
+    6.15349,
+    -2.15738,
+    6.15349
+],
+  "geometry": {"coordinates":[-2.15738,6.15349],"type":"Point"}
+}

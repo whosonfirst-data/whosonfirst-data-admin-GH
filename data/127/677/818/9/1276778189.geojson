@@ -1,0 +1,71 @@
+{
+  "id": 1276778189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.48297,9.09835,-2.48297,9.09835",
+    "geom:latitude":9.09835,
+    "geom:longitude":-2.48297,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dole",
+    "gn:country_code":"GH",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301641,
+    "gn:latitude":9.09835,
+    "gn:longitude":-2.48297,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Doli",
+        "Dole"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301641
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"6a84993c31ec76af4de5af8fbd3d4e0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759913,
+            "locality_id":1276778189,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1276778189,
+    "wof:lastmodified":1537623689,
+    "wof:name":"Dole",
+    "wof:parent_id":1108759913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.48297,
+    9.09835,
+    -2.48297,
+    9.09835
+],
+  "geometry": {"coordinates":[-2.48297,9.09835],"type":"Point"}
+}

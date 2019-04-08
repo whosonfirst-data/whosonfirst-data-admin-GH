@@ -1,0 +1,71 @@
+{
+  "id": 1259400713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.12513,6.37167,0.12513,6.37167",
+    "geom:latitude":6.37167,
+    "geom:longitude":0.12513,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Domiabra",
+    "gn:country_code":"GH",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301584,
+    "gn:latitude":6.37167,
+    "gn:longitude":0.12513,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Domiabra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Domeabra",
+        "Domiabra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301584
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"6c117e1c3df50de2c672a3c3933356d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759875,
+            "locality_id":1259400713,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1259400713,
+    "wof:lastmodified":1537623687,
+    "wof:name":"Domiabra",
+    "wof:parent_id":1108759875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.12513,
+    6.37167,
+    0.12513,
+    6.37167
+],
+  "geometry": {"coordinates":[0.12513,6.37167],"type":"Point"}
+}

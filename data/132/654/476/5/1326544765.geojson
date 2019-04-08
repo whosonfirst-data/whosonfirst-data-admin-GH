@@ -1,0 +1,71 @@
+{
+  "id": 1326544765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.5165,6.48541,0.5165,6.48541",
+    "geom:latitude":6.48541,
+    "geom:longitude":0.5165,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Komlakofe",
+    "gn:country_code":"GH",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299383,
+    "gn:latitude":6.48541,
+    "gn:longitude":0.5165,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Komlakofe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Komlakorpe Agbohome",
+        "Komlakofe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299383
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"56e0f5fc1d0f4ecb231a30916b7ea0f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759971,
+            "locality_id":1326544765,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1326544765,
+    "wof:lastmodified":1537623599,
+    "wof:name":"Komlakofe",
+    "wof:parent_id":1108759971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.5165,
+    6.48541,
+    0.5165,
+    6.48541
+],
+  "geometry": {"coordinates":[0.5165,6.48541],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343476947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.54072,5.06081,-2.54072,5.06081",
+    "geom:latitude":5.06081,
+    "geom:longitude":-2.54072,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bewia",
+    "gn:country_code":"GH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303087,
+    "gn:latitude":5.06081,
+    "gn:longitude":-2.54072,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bewia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bawia",
+        "Bewia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303087
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"b7d9c616818b661de1c2b0e36ee99507",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760001,
+            "locality_id":1343476947,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1343476947,
+    "wof:lastmodified":1537623738,
+    "wof:name":"Bewia",
+    "wof:parent_id":1108760001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.54072,
+    5.06081,
+    -2.54072,
+    5.06081
+],
+  "geometry": {"coordinates":[-2.54072,5.06081],"type":"Point"}
+}

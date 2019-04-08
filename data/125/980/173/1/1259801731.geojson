@@ -1,0 +1,67 @@
+{
+  "id": 1259801731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.29508,9.44801,-1.29508,9.44801",
+    "geom:latitude":9.44801,
+    "geom:longitude":-1.29508,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gua",
+    "gn:country_code":"GH",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300553,
+    "gn:latitude":9.44801,
+    "gn:longitude":-1.29508,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Gua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300553
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"fe67784cec0dde0f612f0c880d584304",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759935,
+            "locality_id":1259801731,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1259801731,
+    "wof:lastmodified":1536896799,
+    "wof:name":"Gua",
+    "wof:parent_id":1108759935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.29508,
+    9.44801,
+    -1.29508,
+    9.44801
+],
+  "geometry": {"coordinates":[-1.29508,9.44801],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209629981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.20689,5.40615,-1.20689,5.40615",
+    "geom:latitude":5.40615,
+    "geom:longitude":-1.20689,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Jakai",
+    "gn:country_code":"GH",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300248,
+    "gn:latitude":5.40615,
+    "gn:longitude":-1.20689,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jakai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gyakae",
+        "Jakai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300248
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"660093650e2f13e3d92ef7c64b146468",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209629981
+        }
+    ],
+    "wof:id":1209629981,
+    "wof:lastmodified":1537623632,
+    "wof:name":"Jakai",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.20689,
+    5.40615,
+    -1.20689,
+    5.40615
+],
+  "geometry": {"coordinates":[-1.20689,5.40615],"type":"Point"}
+}

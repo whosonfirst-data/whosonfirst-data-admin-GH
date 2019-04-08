@@ -1,0 +1,67 @@
+{
+  "id": 1243085613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.65555,5.15986,-2.65555,5.15986",
+    "geom:latitude":5.15986,
+    "geom:longitude":-2.65555,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Anwiafutu",
+    "gn:country_code":"GH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304479,
+    "gn:latitude":5.15986,
+    "gn:longitude":-2.65555,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Anwiafutu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304479
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"e87e4b8ece34d40a1879881cdd51129e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760001,
+            "locality_id":1243085613,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1243085613,
+    "wof:lastmodified":1536827707,
+    "wof:name":"Anwiafutu",
+    "wof:parent_id":1108760001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.65555,
+    5.15986,
+    -2.65555,
+    5.15986
+],
+  "geometry": {"coordinates":[-2.65555,5.15986],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343646185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.01431,4.79082,-2.01431,4.79082",
+    "geom:latitude":4.79082,
+    "geom:longitude":-2.01431,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Nwuroyekrom",
+    "gn:country_code":"GH",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294194,
+    "gn:latitude":4.79082,
+    "gn:longitude":-2.01431,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Nwuroyekrom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nwuroyekrom"
+    ],
+    "name:und_x_variant":[
+        "Wadiakrom",
+        "Wadikrom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108759993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294194
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a827dd2c42538d28bb6521cd9f922726",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759993,
+            "locality_id":1343646185,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1343646185,
+    "wof:lastmodified":1537623417,
+    "wof:name":"Nwuroyekrom",
+    "wof:parent_id":1108759993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.01431,
+    4.79082,
+    -2.01431,
+    4.79082
+],
+  "geometry": {"coordinates":[-2.01431,4.79082],"type":"Point"}
+}

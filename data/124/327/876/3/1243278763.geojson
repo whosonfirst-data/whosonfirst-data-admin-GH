@@ -1,0 +1,70 @@
+{
+  "id": 1243278763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.57211,6.16222,-1.57211,6.16222",
+    "geom:latitude":6.16222,
+    "geom:longitude":-1.57211,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bepotifi",
+    "gn:country_code":"GH",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303134,
+    "gn:latitude":6.16222,
+    "gn:longitude":-1.57211,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Bepotifi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bepotifi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303134
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"c885b40c9ac9d574f4609eb731832758",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759771,
+            "locality_id":1243278763,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1243278763,
+    "wof:lastmodified":1537623740,
+    "wof:name":"Bepotifi",
+    "wof:parent_id":1108759771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.57211,
+    6.16222,
+    -1.57211,
+    6.16222
+],
+  "geometry": {"coordinates":[-1.57211,6.16222],"type":"Point"}
+}

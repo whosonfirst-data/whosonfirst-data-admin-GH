@@ -1,0 +1,73 @@
+{
+  "id": 1343976187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.31667,10.16667,0.31667,10.16667",
+    "geom:latitude":10.16667,
+    "geom:longitude":0.31667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Buramamate",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302405,
+    "gn:latitude":10.16667,
+    "gn:longitude":0.31667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Buramamate",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bullamalimali",
+        "Buramamale",
+        "Buramamate"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302405
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"f5486d7286b6c1d171e776bb73f86637",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759929,
+            "locality_id":1343976187,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1343976187,
+    "wof:lastmodified":1537623715,
+    "wof:name":"Buramamate",
+    "wof:parent_id":1108759929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.31667,
+    10.16667,
+    0.31667,
+    10.16667
+],
+  "geometry": {"coordinates":[0.31667,10.16667],"type":"Point"}
+}

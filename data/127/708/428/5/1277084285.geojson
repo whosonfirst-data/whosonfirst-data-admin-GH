@@ -1,0 +1,73 @@
+{
+  "id": 1277084285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.66562,5.82724,-1.66562,5.82724",
+    "geom:latitude":5.82724,
+    "geom:longitude":-1.66562,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Owusukurom",
+    "gn:country_code":"GH",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293848,
+    "gn:latitude":5.82724,
+    "gn:longitude":-1.66562,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Owusukurom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Owusukurom"
+    ],
+    "name:und_x_variant":[
+        "Yaowusukrom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293848
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"7ebc4e463e65e536af97645d215d98df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759865,
+            "locality_id":1277084285,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1277084285,
+    "wof:lastmodified":1537623404,
+    "wof:name":"Owusukurom",
+    "wof:parent_id":1108759865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.66562,
+    5.82724,
+    -1.66562,
+    5.82724
+],
+  "geometry": {"coordinates":[-1.66562,5.82724],"type":"Point"}
+}

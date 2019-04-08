@@ -1,0 +1,66 @@
+{
+  "id": 1209229379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.47921,10.97449,-0.47921,10.97449",
+    "geom:latitude":10.97449,
+    "geom:longitude":-0.47921,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Teshi",
+    "gn:country_code":"GH",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294664,
+    "gn:latitude":10.97449,
+    "gn:longitude":-0.47921,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Teshi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Teshi Natinga",
+        "Tesi",
+        "Teshi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294664
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"c6538142e3d5b3e1365c7ca65a3c1978",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209229379
+        }
+    ],
+    "wof:id":1209229379,
+    "wof:lastmodified":1537623434,
+    "wof:name":"Teshi",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.47921,
+    10.97449,
+    -0.47921,
+    10.97449
+],
+  "geometry": {"coordinates":[-0.47921,10.97449],"type":"Point"}
+}

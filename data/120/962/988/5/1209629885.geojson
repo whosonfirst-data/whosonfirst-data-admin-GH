@@ -1,0 +1,61 @@
+{
+  "id": 1209629885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.2143,9.46437,0.2143,9.46437",
+    "geom:latitude":9.46437,
+    "geom:longitude":0.2143,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Namongbani",
+    "gn:country_code":"GH",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297616,
+    "gn:latitude":9.46437,
+    "gn:longitude":0.2143,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Namongbani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297616
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"479a77b0c0636c3347ac947858795c99",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209629885
+        }
+    ],
+    "wof:id":1209629885,
+    "wof:lastmodified":1536281225,
+    "wof:name":"Namongbani",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.2143,
+    9.46437,
+    0.2143,
+    9.46437
+],
+  "geometry": {"coordinates":[0.2143,9.46437],"type":"Point"}
+}

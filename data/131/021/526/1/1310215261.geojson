@@ -1,0 +1,71 @@
+{
+  "id": 1310215261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.03504,10.34811,-1.03504,10.34811",
+    "geom:latitude":10.34811,
+    "geom:longitude":-1.03504,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bulibia",
+    "gn:country_code":"GH",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302472,
+    "gn:latitude":10.34811,
+    "gn:longitude":-1.03504,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bulibia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bulbia",
+        "Bulibia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302472
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"078dbd809f695b807a80b5332440e3c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759937,
+            "locality_id":1310215261,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1310215261,
+    "wof:lastmodified":1537623717,
+    "wof:name":"Bulibia",
+    "wof:parent_id":1108759937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.03504,
+    10.34811,
+    -1.03504,
+    10.34811
+],
+  "geometry": {"coordinates":[-1.03504,10.34811],"type":"Point"}
+}

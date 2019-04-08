@@ -1,0 +1,72 @@
+{
+  "id": 1310584823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.64972,10.70583,-0.64972,10.70583",
+    "geom:latitude":10.70583,
+    "geom:longitude":-0.64972,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Datoko",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301941,
+    "gn:latitude":10.70583,
+    "gn:longitude":-0.64972,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Datoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Datuku",
+        "Datoko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301941
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"0dbefe46ae64c268dd8808b02b05a2f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759947,
+            "locality_id":1310584823,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1310584823,
+    "wof:lastmodified":1537623699,
+    "wof:name":"Datoko",
+    "wof:parent_id":1108759947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.64972,
+    10.70583,
+    -0.64972,
+    10.70583
+],
+  "geometry": {"coordinates":[-0.64972,10.70583],"type":"Point"}
+}

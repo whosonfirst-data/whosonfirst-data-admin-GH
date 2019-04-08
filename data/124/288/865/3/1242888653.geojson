@@ -1,0 +1,75 @@
+{
+  "id": 1242888653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.52928,6.51684,-1.52928,6.51684",
+    "geom:latitude":6.51684,
+    "geom:longitude":-1.52928,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Edwenase",
+    "gn:country_code":"GH",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305242,
+    "gn:latitude":6.51684,
+    "gn:longitude":-1.52928,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Edwenase",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Edwenase"
+    ],
+    "name:und_x_variant":[
+        "Edwinase 2",
+        "Adwinase Number 2",
+        "Ajwinasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305242
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"c83d135778b79ba65740ad34d2093dac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759783,
+            "locality_id":1242888653,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1242888653,
+    "wof:lastmodified":1537623813,
+    "wof:name":"Edwenase",
+    "wof:parent_id":1108759783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.52928,
+    6.51684,
+    -1.52928,
+    6.51684
+],
+  "geometry": {"coordinates":[-1.52928,6.51684],"type":"Point"}
+}

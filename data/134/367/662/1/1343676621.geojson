@@ -1,0 +1,67 @@
+{
+  "id": 1343676621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.27092,5.43916,-1.27092,5.43916",
+    "geom:latitude":5.43916,
+    "geom:longitude":-1.27092,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kwasama",
+    "gn:country_code":"GH",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298603,
+    "gn:latitude":5.43916,
+    "gn:longitude":-1.27092,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Kwasama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298603
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"93caee3238687dcbf95afcd766606e0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759849,
+            "locality_id":1343676621,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1343676621,
+    "wof:lastmodified":1536932422,
+    "wof:name":"Kwasama",
+    "wof:parent_id":1108759849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.27092,
+    5.43916,
+    -1.27092,
+    5.43916
+],
+  "geometry": {"coordinates":[-1.27092,5.43916],"type":"Point"}
+}

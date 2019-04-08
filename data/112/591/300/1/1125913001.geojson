@@ -1,0 +1,121 @@
+{
+  "id": 1125913001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.16308,5.6658,-0.16308,5.6658",
+    "geom:latitude":5.6658,
+    "geom:longitude":-0.16308,
+    "gn:gn_country":"GH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":101207,
+    "gn:population":101207,
+    "iso:country":"GH",
+    "lbl:latitude":5.6658,
+    "lbl:longitude":-0.16308,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:aka_x_preferred":[
+        "Madina"
+    ],
+    "name:dut_x_preferred":[
+        "Madina"
+    ],
+    "name:eng_x_preferred":[
+        "Madina"
+    ],
+    "name:epo_x_preferred":[
+        "Madina"
+    ],
+    "name:fre_x_preferred":[
+        "Madina"
+    ],
+    "name:ger_x_preferred":[
+        "Madina"
+    ],
+    "name:hrv_x_preferred":[
+        "Madina"
+    ],
+    "name:ita_x_preferred":[
+        "Madina"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30c7\u30a3\u30ca"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ub514\ub098"
+    ],
+    "name:pol_x_preferred":[
+        "Madina"
+    ],
+    "name:swe_x_preferred":[
+        "Madina"
+    ],
+    "name:unk_x_variant":[
+        "Madina"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u062f\u06cc\u0646\u06c1\u060c \u06af\u06be\u0627\u0646\u0627"
+    ],
+    "qs_pg:aaroncc":"GH",
+    "qs_pg:gn_country":"GH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2298330,
+    "qs_pg:gn_pop":101207,
+    "qs_pg:name":"Medina Estates",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":1034759,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671353,
+        1108759909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298330,
+        "qs_pg:id":1034759,
+        "wd:id":"Q1316141"
+    },
+    "wof:country":"GH",
+    "wof:created":1497296203,
+    "wof:geomhash":"ea603aadebed07bbc6742eb80d0ebe32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759909,
+            "locality_id":1125913001,
+            "region_id":85671353
+        }
+    ],
+    "wof:id":1125913001,
+    "wof:lastmodified":1514443715,
+    "wof:name":"Medina Estates",
+    "wof:parent_id":1108759909,
+    "wof:placetype":"locality",
+    "wof:population":101207,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.16308,
+    5.6658,
+    -0.16308,
+    5.6658
+],
+  "geometry": {"coordinates":[-0.16308,5.6658],"type":"Point"}
+}

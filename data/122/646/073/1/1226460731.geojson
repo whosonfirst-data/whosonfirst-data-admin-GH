@@ -1,0 +1,71 @@
+{
+  "id": 1226460731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.09489,5.29552,-1.09489,5.29552",
+    "geom:latitude":5.29552,
+    "geom:longitude":-1.09489,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kwamang",
+    "gn:country_code":"GH",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298677,
+    "gn:latitude":5.29552,
+    "gn:longitude":-1.09489,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kwamang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kwaman",
+        "Kwamang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298677
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"45af109c807da640db539b57a5c5b208",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759861,
+            "locality_id":1226460731,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1226460731,
+    "wof:lastmodified":1537623576,
+    "wof:name":"Kwamang",
+    "wof:parent_id":1108759861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.09489,
+    5.29552,
+    -1.09489,
+    5.29552
+],
+  "geometry": {"coordinates":[-1.09489,5.29552],"type":"Point"}
+}

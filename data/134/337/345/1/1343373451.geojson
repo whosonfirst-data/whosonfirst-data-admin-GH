@@ -1,0 +1,68 @@
+{
+  "id": 1343373451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.28285,9.64121,-1.28285,9.64121",
+    "geom:latitude":9.64121,
+    "geom:longitude":-1.28285,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Banjora",
+    "gn:country_code":"GH",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303393,
+    "gn:latitude":9.64121,
+    "gn:longitude":-1.28285,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Banjora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303393,
+        "wk:page":"Banjora"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"788bfd72397429a56084e236c566921e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759935,
+            "locality_id":1343373451,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1343373451,
+    "wof:lastmodified":1537563055,
+    "wof:name":"Banjora",
+    "wof:parent_id":1108759935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.28285,
+    9.64121,
+    -1.28285,
+    9.64121
+],
+  "geometry": {"coordinates":[-1.28285,9.64121],"type":"Point"}
+}

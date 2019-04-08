@@ -1,0 +1,69 @@
+{
+  "id": 1209022603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.74932,10.99814,-2.74932,10.99814",
+    "geom:latitude":10.99814,
+    "geom:longitude":-2.74932,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Hamale",
+    "gn:country_code":"GH",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300465,
+    "gn:latitude":10.99814,
+    "gn:longitude":-2.74932,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Hamale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hamele",
+        "Hameli",
+        "Hamile",
+        "Hamali",
+        "Hamale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300465,
+        "wk:page":"Hamile"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"0008036c8bc085bcdf4ed72d9ad26972",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209022603
+        }
+    ],
+    "wof:id":1209022603,
+    "wof:lastmodified":1537623642,
+    "wof:name":"Hamale",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.74932,
+    10.99814,
+    -2.74932,
+    10.99814
+],
+  "geometry": {"coordinates":[-2.74932,10.99814],"type":"Point"}
+}

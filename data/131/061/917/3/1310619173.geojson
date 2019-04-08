@@ -1,0 +1,74 @@
+{
+  "id": 1310619173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.16789,10.4969,-0.16789,10.4969",
+    "geom:latitude":10.4969,
+    "geom:longitude":-0.16789,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nasuan",
+    "gn:country_code":"GH",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297525,
+    "gn:latitude":10.4969,
+    "gn:longitude":-0.16789,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nasuan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tognara",
+        "Nazwo",
+        "Tokwarra",
+        "Nasuo",
+        "Nasuan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297525
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ce491934dec22cb78b9c4513ddce6243",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759917,
+            "locality_id":1310619173,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1310619173,
+    "wof:lastmodified":1537623534,
+    "wof:name":"Nasuan",
+    "wof:parent_id":1108759917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.16789,
+    10.4969,
+    -0.16789,
+    10.4969
+],
+  "geometry": {"coordinates":[-0.16789,10.4969],"type":"Point"}
+}

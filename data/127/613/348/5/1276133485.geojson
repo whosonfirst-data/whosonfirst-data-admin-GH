@@ -1,0 +1,73 @@
+{
+  "id": 1276133485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.98539,5.73994,-1.98539,5.73994",
+    "geom:latitude":5.73994,
+    "geom:longitude":-1.98539,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ashienso",
+    "gn:country_code":"GH",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304111,
+    "gn:latitude":5.73994,
+    "gn:longitude":-1.98539,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Ashienso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nsuhiem",
+        "Suhyenso",
+        "Suhienso",
+        "Ashienso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304111
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"74377bf1342d2a45a76c4d17acac36e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760015,
+            "locality_id":1276133485,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1276133485,
+    "wof:lastmodified":1537623773,
+    "wof:name":"Ashienso",
+    "wof:parent_id":1108760015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.98539,
+    5.73994,
+    -1.98539,
+    5.73994
+],
+  "geometry": {"coordinates":[-1.98539,5.73994],"type":"Point"}
+}

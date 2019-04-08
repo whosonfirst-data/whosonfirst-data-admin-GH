@@ -1,0 +1,67 @@
+{
+  "id": 1209630011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.61829,10.37861,-2.61829,10.37861",
+    "geom:latitude":10.37861,
+    "geom:longitude":-2.61829,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Manwari",
+    "gn:country_code":"GH",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298139,
+    "gn:latitude":10.37861,
+    "gn:longitude":-2.61829,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Manwari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Manwari"
+    ],
+    "name:und_x_variant":[
+        "Mawari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298139
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"0ca9d53b47880c10922cf4d918f1da72",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209630011
+        }
+    ],
+    "wof:id":1209630011,
+    "wof:lastmodified":1537623558,
+    "wof:name":"Manwari",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.61829,
+    10.37861,
+    -2.61829,
+    10.37861
+],
+  "geometry": {"coordinates":[-2.61829,10.37861],"type":"Point"}
+}

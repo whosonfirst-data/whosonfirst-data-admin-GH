@@ -1,0 +1,65 @@
+{
+  "id": 1209022459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.0592,5.92243,-2.0592,5.92243",
+    "geom:latitude":5.92243,
+    "geom:longitude":-2.0592,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Damang",
+    "gn:country_code":"GH",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302015,
+    "gn:latitude":5.92243,
+    "gn:longitude":-2.0592,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Damang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Acherabo",
+        "Damang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302015
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"6a344654dce7d20e775a9d82403b0ffd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209022459
+        }
+    ],
+    "wof:id":1209022459,
+    "wof:lastmodified":1537623701,
+    "wof:name":"Damang",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.0592,
+    5.92243,
+    -2.0592,
+    5.92243
+],
+  "geometry": {"coordinates":[-2.0592,5.92243],"type":"Point"}
+}

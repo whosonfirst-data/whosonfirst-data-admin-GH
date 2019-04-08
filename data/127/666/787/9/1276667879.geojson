@@ -1,0 +1,71 @@
+{
+  "id": 1276667879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.89698,5.95885,-1.89698,5.95885",
+    "geom:latitude":5.95885,
+    "geom:longitude":-1.89698,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Chremekrom",
+    "gn:country_code":"GH",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302151,
+    "gn:latitude":5.95885,
+    "gn:longitude":-1.89698,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Chremekrom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyremekrom",
+        "Chremekrom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302151
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"e102b115e8c323d4d6b9a00444241ca7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759865,
+            "locality_id":1276667879,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1276667879,
+    "wof:lastmodified":1537623706,
+    "wof:name":"Chremekrom",
+    "wof:parent_id":1108759865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.89698,
+    5.95885,
+    -1.89698,
+    5.95885
+],
+  "geometry": {"coordinates":[-1.89698,5.95885],"type":"Point"}
+}

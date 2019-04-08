@@ -1,0 +1,72 @@
+{
+  "id": 1310420315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.85937,6.5894,-1.85937,6.5894",
+    "geom:latitude":6.5894,
+    "geom:longitude":-1.85937,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Amanchia",
+    "gn:country_code":"GH",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304854,
+    "gn:latitude":6.5894,
+    "gn:longitude":-1.85937,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Amanchia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amanhia",
+        "Amankyia",
+        "Amanchia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304854
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"8816c87e81d338aa9120f9e9df8d6f20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759785,
+            "locality_id":1310420315,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1310420315,
+    "wof:lastmodified":1537623799,
+    "wof:name":"Amanchia",
+    "wof:parent_id":1108759785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.85937,
+    6.5894,
+    -1.85937,
+    6.5894
+],
+  "geometry": {"coordinates":[-1.85937,6.5894],"type":"Point"}
+}

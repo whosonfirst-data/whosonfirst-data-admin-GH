@@ -1,0 +1,67 @@
+{
+  "id": 1310124191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.15846,6.14905,1.15846,6.14905",
+    "geom:latitude":6.14905,
+    "geom:longitude":1.15846,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bugbala",
+    "gn:country_code":"GH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302506,
+    "gn:latitude":6.14905,
+    "gn:longitude":1.15846,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Bugbala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302506
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"cadec1cc40a18e263579c306e7e4bf81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759983,
+            "locality_id":1310124191,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1310124191,
+    "wof:lastmodified":1536969225,
+    "wof:name":"Bugbala",
+    "wof:parent_id":1108759983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.15846,
+    6.14905,
+    1.15846,
+    6.14905
+],
+  "geometry": {"coordinates":[1.15846,6.14905],"type":"Point"}
+}

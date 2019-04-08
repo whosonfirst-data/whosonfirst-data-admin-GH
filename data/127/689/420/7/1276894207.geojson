@@ -1,0 +1,67 @@
+{
+  "id": 1276894207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.05222,6.01167,1.05222,6.01167",
+    "geom:latitude":6.01167,
+    "geom:longitude":1.05222,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Salakope",
+    "gn:country_code":"GH",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2589915,
+    "gn:latitude":6.01167,
+    "gn:longitude":1.05222,
+    "gn:modification_date":"1998-01-27",
+    "gn:name":"Salakope",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2589915
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"c7630481a1b6c63d6aa53c56f763c1aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759981,
+            "locality_id":1276894207,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1276894207,
+    "wof:lastmodified":1537021082,
+    "wof:name":"Salakope",
+    "wof:parent_id":1108759981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.05222,
+    6.01167,
+    1.05222,
+    6.01167
+],
+  "geometry": {"coordinates":[1.05222,6.01167],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242884181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.58009,9.02369,-2.58009,9.02369",
+    "geom:latitude":9.02369,
+    "geom:longitude":-2.58009,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mandari",
+    "gn:country_code":"GH",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298250,
+    "gn:latitude":9.02369,
+    "gn:longitude":-2.58009,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Mandari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mandara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298250
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"b0bb5767b1f058e145b23d1f67384bc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759913,
+            "locality_id":1242884181,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1242884181,
+    "wof:lastmodified":1537623562,
+    "wof:name":"Mandari",
+    "wof:parent_id":1108759913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.58009,
+    9.02369,
+    -2.58009,
+    9.02369
+],
+  "geometry": {"coordinates":[-2.58009,9.02369],"type":"Point"}
+}

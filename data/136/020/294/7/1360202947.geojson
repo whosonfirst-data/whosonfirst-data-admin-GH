@@ -1,0 +1,67 @@
+{
+  "id": 1360202947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.66042,9.55315,-2.66042,9.55315",
+    "geom:latitude":9.55315,
+    "geom:longitude":-2.66042,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kalba",
+    "gn:country_code":"GH",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299878,
+    "gn:latitude":9.55315,
+    "gn:longitude":-2.66042,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Kalba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299878
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"1a0f30f307a87a913ab9aa0b7461c0a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759913,
+            "locality_id":1360202947,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1360202947,
+    "wof:lastmodified":1536776255,
+    "wof:name":"Kalba",
+    "wof:parent_id":1108759913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.66042,
+    9.55315,
+    -2.66042,
+    9.55315
+],
+  "geometry": {"coordinates":[-2.66042,9.55315],"type":"Point"}
+}

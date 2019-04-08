@@ -1,0 +1,71 @@
+{
+  "id": 1209932489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.72971,9.5518,-0.72971,9.5518",
+    "geom:latitude":9.5518,
+    "geom:longitude":-0.72971,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nanton",
+    "gn:country_code":"GH",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297551,
+    "gn:latitude":9.5518,
+    "gn:longitude":-0.72971,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nanton",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nantong",
+        "Nanton"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297551
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"530fceb1d5a49e75de6d2ee721d5b299",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759931,
+            "locality_id":1209932489,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1209932489,
+    "wof:lastmodified":1537623535,
+    "wof:name":"Nanton",
+    "wof:parent_id":1108759931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.72971,
+    9.5518,
+    -0.72971,
+    9.5518
+],
+  "geometry": {"coordinates":[-0.72971,9.5518],"type":"Point"}
+}

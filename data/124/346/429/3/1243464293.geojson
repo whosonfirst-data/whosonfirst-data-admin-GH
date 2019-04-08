@@ -1,0 +1,71 @@
+{
+  "id": 1243464293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.11445,10.88168,-0.11445,10.88168",
+    "geom:latitude":10.88168,
+    "geom:longitude":-0.11445,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nitabosigu",
+    "gn:country_code":"GH",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297346,
+    "gn:latitude":10.88168,
+    "gn:longitude":-0.11445,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nitabosigu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nintabugsugu",
+        "Nitabosigu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297346
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"96c330abf6a874768e11dedc9e7c082d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759943,
+            "locality_id":1243464293,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1243464293,
+    "wof:lastmodified":1537623528,
+    "wof:name":"Nitabosigu",
+    "wof:parent_id":1108759943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.11445,
+    10.88168,
+    -0.11445,
+    10.88168
+],
+  "geometry": {"coordinates":[-0.11445,10.88168],"type":"Point"}
+}

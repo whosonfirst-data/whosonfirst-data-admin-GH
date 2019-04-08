@@ -1,0 +1,66 @@
+{
+  "id": 1209014401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.33333,5.13333,-1.33333,5.13333",
+    "geom:latitude":5.13333,
+    "geom:longitude":-1.33333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ntraunua",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297016,
+    "gn:latitude":5.13333,
+    "gn:longitude":-1.33333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ntraunua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ntranoa",
+        "Ntraunua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297016
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ba06949814c29cabe691f2a730f5715e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209014401
+        }
+    ],
+    "wof:id":1209014401,
+    "wof:lastmodified":1537623515,
+    "wof:name":"Ntraunua",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.33333,
+    5.13333,
+    -1.33333,
+    5.13333
+],
+  "geometry": {"coordinates":[-1.33333,5.13333],"type":"Point"}
+}

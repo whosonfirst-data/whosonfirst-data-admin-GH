@@ -1,0 +1,72 @@
+{
+  "id": 1309721817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.96667,6.31667,0.96667,6.31667",
+    "geom:latitude":6.31667,
+    "geom:longitude":0.96667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kovedji",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299275,
+    "gn:latitude":6.31667,
+    "gn:longitude":0.96667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kovedji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kovedje",
+        "Kovedji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299275
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"b4f381700c82e2973519587dd25a30ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759983,
+            "locality_id":1309721817,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1309721817,
+    "wof:lastmodified":1537623595,
+    "wof:name":"Kovedji",
+    "wof:parent_id":1108759983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.96667,
+    6.31667,
+    0.96667,
+    6.31667
+],
+  "geometry": {"coordinates":[0.96667,6.31667],"type":"Point"}
+}

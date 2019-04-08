@@ -1,0 +1,65 @@
+{
+  "id": 1209425137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.234,6.11767,-0.234,6.11767",
+    "geom:latitude":6.11767,
+    "geom:longitude":-0.234,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Aboabo",
+    "gn:country_code":"GH",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306339,
+    "gn:latitude":6.11767,
+    "gn:longitude":-0.234,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Aboabo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aboabo Yokum",
+        "Aboabo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306339
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"b7ac79b852f56116462ce736ccc65c53",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209425137
+        }
+    ],
+    "wof:id":1209425137,
+    "wof:lastmodified":1537623852,
+    "wof:name":"Aboabo",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.234,
+    6.11767,
+    -0.234,
+    6.11767
+],
+  "geometry": {"coordinates":[-0.234,6.11767],"type":"Point"}
+}

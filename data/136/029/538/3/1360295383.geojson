@@ -1,0 +1,71 @@
+{
+  "id": 1360295383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.46258,10.87164,-2.46258,10.87164",
+    "geom:latitude":10.87164,
+    "geom:longitude":-2.46258,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nimvili",
+    "gn:country_code":"GH",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297372,
+    "gn:latitude":10.87164,
+    "gn:longitude":-2.46258,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nimvili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nyevil",
+        "Nimvili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297372
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"971f618fb366e7b554f40f7788dbbc96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759963,
+            "locality_id":1360295383,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1360295383,
+    "wof:lastmodified":1537623529,
+    "wof:name":"Nimvili",
+    "wof:parent_id":1108759963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.46258,
+    10.87164,
+    -2.46258,
+    10.87164
+],
+  "geometry": {"coordinates":[-2.46258,10.87164],"type":"Point"}
+}

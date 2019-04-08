@@ -1,0 +1,67 @@
+{
+  "id": 1276563055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.23706,6.89737,-1.23706,6.89737",
+    "geom:latitude":6.89737,
+    "geom:longitude":-1.23706,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Abidimisebi",
+    "gn:country_code":"GH",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306378,
+    "gn:latitude":6.89737,
+    "gn:longitude":-1.23706,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Abidimisebi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306378
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"dc92d3cf7c5842069118f1f87ece8d1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759807,
+            "locality_id":1276563055,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1276563055,
+    "wof:lastmodified":1536967947,
+    "wof:name":"Abidimisebi",
+    "wof:parent_id":1108759807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.23706,
+    6.89737,
+    -1.23706,
+    6.89737
+],
+  "geometry": {"coordinates":[-1.23706,6.89737],"type":"Point"}
+}

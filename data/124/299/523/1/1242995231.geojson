@@ -1,0 +1,74 @@
+{
+  "id": 1242995231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.09639,10.51917,0.09639,10.51917",
+    "geom:latitude":10.51917,
+    "geom:longitude":0.09639,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bunkpurugu",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302433,
+    "gn:latitude":10.51917,
+    "gn:longitude":0.09639,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bunkpurugu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gbankurugu",
+        "Bunkpurk",
+        "Bunkpurugu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302433,
+        "wk:page":"Bunkpurugu"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"3df80bac97de85ba33df366e101a283f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759917,
+            "locality_id":1242995231,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1242995231,
+    "wof:lastmodified":1537623716,
+    "wof:name":"Bunkpurugu",
+    "wof:parent_id":1108759917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.09639,
+    10.51917,
+    0.09639,
+    10.51917
+],
+  "geometry": {"coordinates":[0.09639,10.51917],"type":"Point"}
+}

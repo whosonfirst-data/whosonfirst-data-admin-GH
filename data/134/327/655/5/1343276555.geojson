@@ -1,0 +1,75 @@
+{
+  "id": 1343276555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.80938,7.20442,-2.80938,7.20442",
+    "geom:latitude":7.20442,
+    "geom:longitude":-2.80938,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Aboabo Number Three",
+    "gn:country_code":"GH",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306318,
+    "gn:latitude":7.20442,
+    "gn:longitude":-2.80938,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Aboabo Number Three",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Aboabo Number Three"
+    ],
+    "name:eng_x_variant":[
+        "Aboabo Duana",
+        "Aduana",
+        "Aboabo Number 3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306318
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"56f809b501a5d3ecc54fa48f01d2e6c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759821,
+            "locality_id":1343276555,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1343276555,
+    "wof:lastmodified":1537623852,
+    "wof:name":"Aboabo Number Three",
+    "wof:parent_id":1108759821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.80938,
+    7.20442,
+    -2.80938,
+    7.20442
+],
+  "geometry": {"coordinates":[-2.80938,7.20442],"type":"Point"}
+}

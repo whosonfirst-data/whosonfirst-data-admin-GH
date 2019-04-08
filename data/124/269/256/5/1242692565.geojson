@@ -1,0 +1,71 @@
+{
+  "id": 1242692565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.62914,6.41732,-0.62914,6.41732",
+    "geom:latitude":6.41732,
+    "geom:longitude":-0.62914,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bekoasi",
+    "gn:country_code":"GH",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303229,
+    "gn:latitude":6.41732,
+    "gn:longitude":-0.62914,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bekoasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abokoase",
+        "Bekoasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303229
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"9073760ba3e45f7f0f037272d7c1cbaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759881,
+            "locality_id":1242692565,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1242692565,
+    "wof:lastmodified":1537623742,
+    "wof:name":"Bekoasi",
+    "wof:parent_id":1108759881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.62914,
+    6.41732,
+    -0.62914,
+    6.41732
+],
+  "geometry": {"coordinates":[-0.62914,6.41732],"type":"Point"}
+}

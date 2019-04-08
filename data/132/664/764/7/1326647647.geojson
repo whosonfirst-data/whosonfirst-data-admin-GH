@@ -1,0 +1,67 @@
+{
+  "id": 1326647647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.52475,5.70966,-0.52475,5.70966",
+    "geom:latitude":5.70966,
+    "geom:longitude":-0.52475,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dankwakrom",
+    "gn:country_code":"GH",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301983,
+    "gn:latitude":5.70966,
+    "gn:longitude":-0.52475,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Dankwakrom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301983
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"8817c460ee2c0364ad9a05ef2e9c8ddc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759853,
+            "locality_id":1326647647,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1326647647,
+    "wof:lastmodified":1536816833,
+    "wof:name":"Dankwakrom",
+    "wof:parent_id":1108759853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.52475,
+    5.70966,
+    -0.52475,
+    5.70966
+],
+  "geometry": {"coordinates":[-0.52475,5.70966],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226660741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.0553,9.51692,-1.0553,9.51692",
+    "geom:latitude":9.51692,
+    "geom:longitude":-1.0553,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Binayili",
+    "gn:country_code":"GH",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303015,
+    "gn:latitude":9.51692,
+    "gn:longitude":-1.0553,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Binayili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303015
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a05626b7bc7b8b64dd59e8d009e737ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759935,
+            "locality_id":1226660741,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1226660741,
+    "wof:lastmodified":1536836738,
+    "wof:name":"Binayili",
+    "wof:parent_id":1108759935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.0553,
+    9.51692,
+    -1.0553,
+    9.51692
+],
+  "geometry": {"coordinates":[-1.0553,9.51692],"type":"Point"}
+}

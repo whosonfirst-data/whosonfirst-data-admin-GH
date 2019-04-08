@@ -1,0 +1,64 @@
+{
+  "id": 1209324675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.73632,5.02876,-1.73632,5.02876",
+    "geom:latitude":5.02876,
+    "geom:longitude":-1.73632,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ntamakrom",
+    "gn:country_code":"GH",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297056,
+    "gn:latitude":5.02876,
+    "gn:longitude":-1.73632,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Ntamakrom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ntamakrom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297056
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"19c49ff25d7ffb3f37b92d0d9944ac4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209324675
+        }
+    ],
+    "wof:id":1209324675,
+    "wof:lastmodified":1537623517,
+    "wof:name":"Ntamakrom",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.73632,
+    5.02876,
+    -1.73632,
+    5.02876
+],
+  "geometry": {"coordinates":[-1.73632,5.02876],"type":"Point"}
+}

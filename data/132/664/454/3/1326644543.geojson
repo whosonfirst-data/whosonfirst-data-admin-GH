@@ -1,0 +1,71 @@
+{
+  "id": 1326644543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.99827,5.96528,-1.99827,5.96528",
+    "geom:latitude":5.96528,
+    "geom:longitude":-1.99827,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Bebianiha",
+    "gn:country_code":"GH",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303263,
+    "gn:latitude":5.96528,
+    "gn:longitude":-1.99827,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Bebianiha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bebianeha",
+        "Bebianiha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303263
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"f907252e259cbd6fc5d887a7b2d8bec5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760015,
+            "locality_id":1326644543,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1326644543,
+    "wof:lastmodified":1537623744,
+    "wof:name":"Bebianiha",
+    "wof:parent_id":1108760015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.99827,
+    5.96528,
+    -1.99827,
+    5.96528
+],
+  "geometry": {"coordinates":[-1.99827,5.96528],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343476861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.45184,10.68815,-1.45184,10.68815",
+    "geom:latitude":10.68815,
+    "geom:longitude":-1.45184,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nyanbisi",
+    "gn:country_code":"GH",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296828,
+    "gn:latitude":10.68815,
+    "gn:longitude":-1.45184,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nyanbisi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bechawnsi Nyambisa",
+        "Nyanbisi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296828
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a3ec26e6c6b3581f512ee0595095c017",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759951,
+            "locality_id":1343476861,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1343476861,
+    "wof:lastmodified":1537623509,
+    "wof:name":"Nyanbisi",
+    "wof:parent_id":1108759951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.45184,
+    10.68815,
+    -1.45184,
+    10.68815
+],
+  "geometry": {"coordinates":[-1.45184,10.68815],"type":"Point"}
+}

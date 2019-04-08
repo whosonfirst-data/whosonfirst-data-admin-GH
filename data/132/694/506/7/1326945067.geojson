@@ -1,0 +1,70 @@
+{
+  "id": 1326945067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.17669,4.92947,-2.17669,4.92947",
+    "geom:latitude":4.92947,
+    "geom:longitude":-2.17669,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Anwianum",
+    "gn:country_code":"GH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304470,
+    "gn:latitude":4.92947,
+    "gn:longitude":-2.17669,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Anwianum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Anwianum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304470
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"7e94644f42e0b64ca17f99d0864714f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760007,
+            "locality_id":1326945067,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1326945067,
+    "wof:lastmodified":1537623786,
+    "wof:name":"Anwianum",
+    "wof:parent_id":1108760007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.17669,
+    4.92947,
+    -2.17669,
+    4.92947
+],
+  "geometry": {"coordinates":[-2.17669,4.92947],"type":"Point"}
+}

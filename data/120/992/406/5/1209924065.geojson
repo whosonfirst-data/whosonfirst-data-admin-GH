@@ -1,0 +1,71 @@
+{
+  "id": 1209924065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.17618,5.27584,-2.17618,5.27584",
+    "geom:latitude":5.27584,
+    "geom:longitude":-2.17618,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Notiem",
+    "gn:country_code":"GH",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297163,
+    "gn:latitude":5.27584,
+    "gn:longitude":-2.17618,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Notiem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ndouem",
+        "Notiem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297163
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"abd8d42807a12165930779cccdecbc56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760007,
+            "locality_id":1209924065,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1209924065,
+    "wof:lastmodified":1537623521,
+    "wof:name":"Notiem",
+    "wof:parent_id":1108760007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.17618,
+    5.27584,
+    -2.17618,
+    5.27584
+],
+  "geometry": {"coordinates":[-2.17618,5.27584],"type":"Point"}
+}

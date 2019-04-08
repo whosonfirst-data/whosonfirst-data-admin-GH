@@ -1,0 +1,72 @@
+{
+  "id": 1326620747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.01289,6.11787,1.01289,6.11787",
+    "geom:latitude":6.11787,
+    "geom:longitude":1.01289,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Weve",
+    "gn:country_code":"GH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294028,
+    "gn:latitude":6.11787,
+    "gn:longitude":1.01289,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Weve",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huive",
+        "Wive",
+        "Weve"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294028
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"3c54c0f8cb24ec782bb4ed514a281386",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759983,
+            "locality_id":1326620747,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1326620747,
+    "wof:lastmodified":1537623411,
+    "wof:name":"Weve",
+    "wof:parent_id":1108759983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.01289,
+    6.11787,
+    1.01289,
+    6.11787
+],
+  "geometry": {"coordinates":[1.01289,6.11787],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310705825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.2832,5.70521,-0.2832,5.70521",
+    "geom:latitude":5.70521,
+    "geom:longitude":-0.2832,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Afiaman",
+    "gn:country_code":"GH",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305688,
+    "gn:latitude":5.70521,
+    "gn:longitude":-0.2832,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Afiaman",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Afiaman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671353,
+        1108759909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305688
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"874ead99f9cb4c8651a95a04aea9e543",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759909,
+            "locality_id":1310705825,
+            "region_id":85671353
+        }
+    ],
+    "wof:id":1310705825,
+    "wof:lastmodified":1537623829,
+    "wof:name":"Afiaman",
+    "wof:parent_id":1108759909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.2832,
+    5.70521,
+    -0.2832,
+    5.70521
+],
+  "geometry": {"coordinates":[-0.2832,5.70521],"type":"Point"}
+}

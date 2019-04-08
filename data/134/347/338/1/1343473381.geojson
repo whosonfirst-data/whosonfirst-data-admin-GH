@@ -1,0 +1,71 @@
+{
+  "id": 1343473381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.56117,6.61369,-1.56117,6.61369",
+    "geom:latitude":6.61369,
+    "geom:longitude":-1.56117,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Feyiase",
+    "gn:country_code":"GH",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300955,
+    "gn:latitude":6.61369,
+    "gn:longitude":-1.56117,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Feyiase",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fiyasi",
+        "Feyiasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300955
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"2ceb20cf124236297a2697ed2439205d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759793,
+            "locality_id":1343473381,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1343473381,
+    "wof:lastmodified":1537623660,
+    "wof:name":"Feyiase",
+    "wof:parent_id":1108759793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.56117,
+    6.61369,
+    -1.56117,
+    6.61369
+],
+  "geometry": {"coordinates":[-1.56117,6.61369],"type":"Point"}
+}

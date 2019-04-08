@@ -1,0 +1,72 @@
+{
+  "id": 1310423739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.81231,6.6623,-1.81231,6.6623",
+    "geom:latitude":6.6623,
+    "geom:longitude":-1.81231,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Toasi",
+    "gn:country_code":"GH",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294539,
+    "gn:latitude":6.6623,
+    "gn:longitude":-1.81231,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Toasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Toase",
+        "Toasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294539,
+        "wk:page":"Toase"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"e9bb7528f311c8943e42451bd0974be5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759791,
+            "locality_id":1310423739,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1310423739,
+    "wof:lastmodified":1537623429,
+    "wof:name":"Toasi",
+    "wof:parent_id":1108759791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.81231,
+    6.6623,
+    -1.81231,
+    6.6623
+],
+  "geometry": {"coordinates":[-1.81231,6.6623],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209228611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.21647,5.72251,-0.21647,5.72251",
+    "geom:latitude":5.72251,
+    "geom:longitude":-0.21647,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Boi",
+    "gn:country_code":"GH",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302873,
+    "gn:latitude":5.72251,
+    "gn:longitude":-0.21647,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Boi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302873
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"093cbabbb4382900ef4c6ae7b0e8a745",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209228611
+        }
+    ],
+    "wof:id":1209228611,
+    "wof:lastmodified":1536293712,
+    "wof:name":"Boi",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.21647,
+    5.72251,
+    -0.21647,
+    5.72251
+],
+  "geometry": {"coordinates":[-0.21647,5.72251],"type":"Point"}
+}

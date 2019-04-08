@@ -1,0 +1,68 @@
+{
+  "id": 1209424943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.16887,6.5477,-2.16887,6.5477",
+    "geom:latitude":6.5477,
+    "geom:longitude":-2.16887,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Otaakurom",
+    "gn:country_code":"GH",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296235,
+    "gn:latitude":6.5477,
+    "gn:longitude":-2.16887,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Otaakurom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Otaakurom"
+    ],
+    "name:und_x_variant":[
+        "Otakurom",
+        "Otokrom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296235
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"7ae5cf1c99e997b850fdeda0974de9bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209424943
+        }
+    ],
+    "wof:id":1209424943,
+    "wof:lastmodified":1537623488,
+    "wof:name":"Otaakurom",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.16887,
+    6.5477,
+    -2.16887,
+    6.5477
+],
+  "geometry": {"coordinates":[-2.16887,6.5477],"type":"Point"}
+}

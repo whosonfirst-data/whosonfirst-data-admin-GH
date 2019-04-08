@@ -1,0 +1,70 @@
+{
+  "id": 1260098443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.4849,9.45535,-1.4849,9.45535",
+    "geom:latitude":9.45535,
+    "geom:longitude":-1.4849,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kopoto",
+    "gn:country_code":"GH",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299330,
+    "gn:latitude":9.45535,
+    "gn:longitude":-1.4849,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Kopoto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kopota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299330
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"3cd3c858c99eaedc7597c8824fde7689",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759921,
+            "locality_id":1260098443,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1260098443,
+    "wof:lastmodified":1537623597,
+    "wof:name":"Kopoto",
+    "wof:parent_id":1108759921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.4849,
+    9.45535,
+    -1.4849,
+    9.45535
+],
+  "geometry": {"coordinates":[-1.4849,9.45535],"type":"Point"}
+}

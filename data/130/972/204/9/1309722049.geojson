@@ -1,0 +1,73 @@
+{
+  "id": 1309722049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.7907,10.66526,-2.7907,10.66526",
+    "geom:latitude":10.66526,
+    "geom:longitude":-2.7907,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Erimon",
+    "gn:country_code":"GH",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304271,
+    "gn:latitude":10.66526,
+    "gn:longitude":-2.7907,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Erimon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Erimon"
+    ],
+    "name:und_x_variant":[
+        "Arumon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304271
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"7c5eaaa935eb20ef1757a9165f451eeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759957,
+            "locality_id":1309722049,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1309722049,
+    "wof:lastmodified":1537623780,
+    "wof:name":"Erimon",
+    "wof:parent_id":1108759957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.7907,
+    10.66526,
+    -2.7907,
+    10.66526
+],
+  "geometry": {"coordinates":[-2.7907,10.66526],"type":"Point"}
+}

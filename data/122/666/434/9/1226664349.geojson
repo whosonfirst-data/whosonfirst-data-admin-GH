@@ -1,0 +1,71 @@
+{
+  "id": 1226664349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.99094,6.46492,-1.99094,6.46492",
+    "geom:latitude":6.46492,
+    "geom:longitude":-1.99094,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Akuntam",
+    "gn:country_code":"GH",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304984,
+    "gn:latitude":6.46492,
+    "gn:longitude":-1.99094,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Akuntam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akuntum",
+        "Akuntam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304984
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"2641b1a8630c36e43a0b29043a13520a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759785,
+            "locality_id":1226664349,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1226664349,
+    "wof:lastmodified":1537623803,
+    "wof:name":"Akuntam",
+    "wof:parent_id":1108759785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.99094,
+    6.46492,
+    -1.99094,
+    6.46492
+],
+  "geometry": {"coordinates":[-1.99094,6.46492],"type":"Point"}
+}

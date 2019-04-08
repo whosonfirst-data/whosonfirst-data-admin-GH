@@ -1,0 +1,71 @@
+{
+  "id": 1226460553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.98066,4.87592,-1.98066,4.87592",
+    "geom:latitude":4.87592,
+    "geom:longitude":-1.98066,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Yankakrom",
+    "gn:country_code":"GH",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293868,
+    "gn:latitude":4.87592,
+    "gn:longitude":-1.98066,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Yankakrom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yankekrom",
+        "Yankakrom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108759993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293868
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"2d2944cc7903d91b6633f1389d570307",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759993,
+            "locality_id":1226460553,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1226460553,
+    "wof:lastmodified":1537623404,
+    "wof:name":"Yankakrom",
+    "wof:parent_id":1108759993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.98066,
+    4.87592,
+    -1.98066,
+    4.87592
+],
+  "geometry": {"coordinates":[-1.98066,4.87592],"type":"Point"}
+}

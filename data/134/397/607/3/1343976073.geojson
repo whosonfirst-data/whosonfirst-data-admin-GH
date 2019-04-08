@@ -1,0 +1,71 @@
+{
+  "id": 1343976073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.85338,5.80037,-0.85338,5.80037",
+    "geom:latitude":5.80037,
+    "geom:longitude":-0.85338,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Moframfajwini",
+    "gn:country_code":"GH",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297962,
+    "gn:latitude":5.80037,
+    "gn:longitude":-0.85338,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Moframfajwini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mmoframfa Adwene",
+        "Moframfajwini"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297962
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"80aa3473cd7789976c22619d5e05e286",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759879,
+            "locality_id":1343976073,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1343976073,
+    "wof:lastmodified":1537623552,
+    "wof:name":"Moframfajwini",
+    "wof:parent_id":1108759879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.85338,
+    5.80037,
+    -0.85338,
+    5.80037
+],
+  "geometry": {"coordinates":[-0.85338,5.80037],"type":"Point"}
+}

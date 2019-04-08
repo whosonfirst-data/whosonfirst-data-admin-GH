@@ -1,0 +1,65 @@
+{
+  "id": 1209424967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.00213,5.39426,-2.00213,5.39426",
+    "geom:latitude":5.39426,
+    "geom:longitude":-2.00213,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Chiamekrom",
+    "gn:country_code":"GH",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302255,
+    "gn:latitude":5.39426,
+    "gn:longitude":-2.00213,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chiamekrom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chiamikrom",
+        "Chiamekrom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302255
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"47880b9cd4d0b0666bcb423600687bc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209424967
+        }
+    ],
+    "wof:id":1209424967,
+    "wof:lastmodified":1537623710,
+    "wof:name":"Chiamekrom",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.00213,
+    5.39426,
+    -2.00213,
+    5.39426
+],
+  "geometry": {"coordinates":[-2.00213,5.39426],"type":"Point"}
+}

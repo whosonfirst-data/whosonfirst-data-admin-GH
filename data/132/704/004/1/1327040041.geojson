@@ -1,0 +1,67 @@
+{
+  "id": 1327040041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.17926,5.52836,-1.17926,5.52836",
+    "geom:latitude":5.52836,
+    "geom:longitude":-1.17926,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Chinso",
+    "gn:country_code":"GH",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302205,
+    "gn:latitude":5.52836,
+    "gn:longitude":-1.17926,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Chinso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302205
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ea87590ea47509f6d543f57653b627ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759849,
+            "locality_id":1327040041,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1327040041,
+    "wof:lastmodified":1536749152,
+    "wof:name":"Chinso",
+    "wof:parent_id":1108759849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.17926,
+    5.52836,
+    -1.17926,
+    5.52836
+],
+  "geometry": {"coordinates":[-1.17926,5.52836],"type":"Point"}
+}

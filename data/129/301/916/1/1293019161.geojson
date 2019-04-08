@@ -1,0 +1,72 @@
+{
+  "id": 1293019161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.08333,10.81667,-0.08333,10.81667",
+    "geom:latitude":10.81667,
+    "geom:longitude":-0.08333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tobongu",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294533,
+    "gn:latitude":10.81667,
+    "gn:longitude":-0.08333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tobongu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tubong",
+        "Tobongu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294533
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"2f8273573d4109f07e7e93167c430014",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759943,
+            "locality_id":1293019161,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1293019161,
+    "wof:lastmodified":1537623429,
+    "wof:name":"Tobongu",
+    "wof:parent_id":1108759943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.08333,
+    10.81667,
+    -0.08333,
+    10.81667
+],
+  "geometry": {"coordinates":[-0.08333,10.81667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360295457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.38673,9.55088,-0.38673,9.55088",
+    "geom:latitude":9.55088,
+    "geom:longitude":-0.38673,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Manda",
+    "gn:country_code":"GH",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298251,
+    "gn:latitude":9.55088,
+    "gn:longitude":-0.38673,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Manda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298251
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"3ddfc9ef2faaa102945d08f36b968ec2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759925,
+            "locality_id":1360295457,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1360295457,
+    "wof:lastmodified":1536641196,
+    "wof:name":"Manda",
+    "wof:parent_id":1108759925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.38673,
+    9.55088,
+    -0.38673,
+    9.55088
+],
+  "geometry": {"coordinates":[-0.38673,9.55088],"type":"Point"}
+}

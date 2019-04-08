@@ -1,0 +1,67 @@
+{
+  "id": 1360194499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.49441,10.67744,-1.49441,10.67744",
+    "geom:latitude":10.67744,
+    "geom:longitude":-1.49441,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Changanesi",
+    "gn:country_code":"GH",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302325,
+    "gn:latitude":10.67744,
+    "gn:longitude":-1.49441,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Changanesi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302325
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"2f6c96bf998176b8ebedd8ae9ebf599b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759951,
+            "locality_id":1360194499,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1360194499,
+    "wof:lastmodified":1536788193,
+    "wof:name":"Changanesi",
+    "wof:parent_id":1108759951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.49441,
+    10.67744,
+    -1.49441,
+    10.67744
+],
+  "geometry": {"coordinates":[-1.49441,10.67744],"type":"Point"}
+}

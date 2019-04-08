@@ -1,0 +1,72 @@
+{
+  "id": 1360303759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.33333,10.91667,-1.33333,10.91667",
+    "geom:latitude":10.91667,
+    "geom:longitude":-1.33333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dakrenia",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302035,
+    "gn:latitude":10.91667,
+    "gn:longitude":-1.33333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dakrenia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dakrunia",
+        "Dakrenia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302035
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"8fe932543d8e4a3d964db56897dd6ab1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759953,
+            "locality_id":1360303759,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1360303759,
+    "wof:lastmodified":1537623702,
+    "wof:name":"Dakrenia",
+    "wof:parent_id":1108759953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.33333,
+    10.91667,
+    -1.33333,
+    10.91667
+],
+  "geometry": {"coordinates":[-1.33333,10.91667],"type":"Point"}
+}

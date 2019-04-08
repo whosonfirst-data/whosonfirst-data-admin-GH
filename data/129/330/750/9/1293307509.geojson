@@ -1,0 +1,72 @@
+{
+  "id": 1293307509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.31847,9.97959,-2.31847,9.97959",
+    "geom:latitude":9.97959,
+    "geom:longitude":-2.31847,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Manwie",
+    "gn:country_code":"GH",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298162,
+    "gn:latitude":9.97959,
+    "gn:longitude":-2.31847,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Manwie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manwe",
+        "Mengwe",
+        "Manwie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298162
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"e819bd63172e26c38fd7e8bcae34dea9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759965,
+            "locality_id":1293307509,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1293307509,
+    "wof:lastmodified":1537623559,
+    "wof:name":"Manwie",
+    "wof:parent_id":1108759965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.31847,
+    9.97959,
+    -2.31847,
+    9.97959
+],
+  "geometry": {"coordinates":[-2.31847,9.97959],"type":"Point"}
+}

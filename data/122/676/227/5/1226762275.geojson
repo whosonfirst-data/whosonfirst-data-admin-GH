@@ -1,0 +1,71 @@
+{
+  "id": 1226762275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.0474,10.52508,-0.0474,10.52508",
+    "geom:latitude":10.52508,
+    "geom:longitude":-0.0474,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nkpebaok",
+    "gn:country_code":"GH",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297285,
+    "gn:latitude":10.52508,
+    "gn:longitude":-0.0474,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nkpebaok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kpekyala",
+        "Nkpebaok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297285
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"cae68fe04d7b3c80750711745cad8797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759917,
+            "locality_id":1226762275,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1226762275,
+    "wof:lastmodified":1537623526,
+    "wof:name":"Nkpebaok",
+    "wof:parent_id":1108759917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.0474,
+    10.52508,
+    -0.0474,
+    10.52508
+],
+  "geometry": {"coordinates":[-0.0474,10.52508],"type":"Point"}
+}

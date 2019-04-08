@@ -1,0 +1,71 @@
+{
+  "id": 1292921987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.4726,6.7931,-1.4726,6.7931",
+    "geom:latitude":6.7931,
+    "geom:longitude":-1.4726,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bonweri",
+    "gn:country_code":"GH",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302707,
+    "gn:latitude":6.7931,
+    "gn:longitude":-1.4726,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bonweri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bonwere",
+        "Bonweri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302707
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ebd7527f0391f444a2c521b5bde6a856",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759803,
+            "locality_id":1292921987,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1292921987,
+    "wof:lastmodified":1537623726,
+    "wof:name":"Bonweri",
+    "wof:parent_id":1108759803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.4726,
+    6.7931,
+    -1.4726,
+    6.7931
+],
+  "geometry": {"coordinates":[-1.4726,6.7931],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276676215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.8029,5.33781,-0.8029,5.33781",
+    "geom:latitude":5.33781,
+    "geom:longitude":-0.8029,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gomoa Asin",
+    "gn:country_code":"GH",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300598,
+    "gn:latitude":5.33781,
+    "gn:longitude":-0.8029,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gomoa Asin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gomua Asen",
+        "Gomoa Asin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300598
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"cc1ce5862883b6958ca7310b14f1d355",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759857,
+            "locality_id":1276676215,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1276676215,
+    "wof:lastmodified":1537623647,
+    "wof:name":"Gomoa Asin",
+    "wof:parent_id":1108759857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8029,
+    5.33781,
+    -0.8029,
+    5.33781
+],
+  "geometry": {"coordinates":[-0.8029,5.33781],"type":"Point"}
+}

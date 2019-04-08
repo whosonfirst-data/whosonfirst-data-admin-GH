@@ -1,0 +1,71 @@
+{
+  "id": 1343477057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.74072,9.61732,-0.74072,9.61732",
+    "geom:latitude":9.61732,
+    "geom:longitude":-0.74072,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nantongkurugu",
+    "gn:country_code":"GH",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297550,
+    "gn:latitude":9.61732,
+    "gn:longitude":-0.74072,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nantongkurugu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nanton Kurugu",
+        "Nantongkurugu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297550
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"423aeb434e6b5d2b9771b10a9b582876",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759931,
+            "locality_id":1343477057,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1343477057,
+    "wof:lastmodified":1537623535,
+    "wof:name":"Nantongkurugu",
+    "wof:parent_id":1108759931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.74072,
+    9.61732,
+    -0.74072,
+    9.61732
+],
+  "geometry": {"coordinates":[-0.74072,9.61732],"type":"Point"}
+}

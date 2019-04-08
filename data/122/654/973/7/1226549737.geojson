@@ -1,0 +1,71 @@
+{
+  "id": 1226549737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.69484,9.17253,-0.69484,9.17253",
+    "geom:latitude":9.17253,
+    "geom:longitude":-0.69484,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Panshiaw",
+    "gn:country_code":"GH",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296110,
+    "gn:latitude":9.17253,
+    "gn:longitude":-0.69484,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Panshiaw",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kpanshegu",
+        "Panshiaw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296110
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"37aa4eb84e163ca8e274b7f15b1a57b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759919,
+            "locality_id":1226549737,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1226549737,
+    "wof:lastmodified":1537623484,
+    "wof:name":"Panshiaw",
+    "wof:parent_id":1108759919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.69484,
+    9.17253,
+    -0.69484,
+    9.17253
+],
+  "geometry": {"coordinates":[-0.69484,9.17253],"type":"Point"}
+}

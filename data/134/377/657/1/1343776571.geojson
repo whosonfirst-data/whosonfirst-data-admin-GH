@@ -1,0 +1,68 @@
+{
+  "id": 1343776571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.2025,5.16091,-1.2025,5.16091",
+    "geom:latitude":5.16091,
+    "geom:longitude":-1.2025,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Yamoransa",
+    "gn:country_code":"GH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293872,
+    "gn:latitude":5.16091,
+    "gn:longitude":-1.2025,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Yamoransa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293872,
+        "wk:page":"Yamoransa"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a7e13cb273e6e038bf96ab3aa1f11acf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759861,
+            "locality_id":1343776571,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1343776571,
+    "wof:lastmodified":1537563022,
+    "wof:name":"Yamoransa",
+    "wof:parent_id":1108759861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.2025,
+    5.16091,
+    -1.2025,
+    5.16091
+],
+  "geometry": {"coordinates":[-1.2025,5.16091],"type":"Point"}
+}

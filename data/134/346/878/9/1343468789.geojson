@@ -1,0 +1,67 @@
+{
+  "id": 1343468789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.44883,5.84109,-1.44883,5.84109",
+    "geom:latitude":5.84109,
+    "geom:longitude":-1.44883,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ninchiso",
+    "gn:country_code":"GH",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297367,
+    "gn:latitude":5.84109,
+    "gn:longitude":-1.44883,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Ninchiso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297367
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"bab78afad91f7ce19b005a752374bd8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759849,
+            "locality_id":1343468789,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1343468789,
+    "wof:lastmodified":1536734189,
+    "wof:name":"Ninchiso",
+    "wof:parent_id":1108759849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.44883,
+    5.84109,
+    -1.44883,
+    5.84109
+],
+  "geometry": {"coordinates":[-1.44883,5.84109],"type":"Point"}
+}

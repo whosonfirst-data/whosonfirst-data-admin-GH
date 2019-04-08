@@ -1,0 +1,71 @@
+{
+  "id": 1276350515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.93977,6.72293,-1.93977,6.72293",
+    "geom:latitude":6.72293,
+    "geom:longitude":-1.93977,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Abasuapayin",
+    "gn:country_code":"GH",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306434,
+    "gn:latitude":6.72293,
+    "gn:longitude":-1.93977,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Abasuapayin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abansua Panyin",
+        "Abasuapayin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306434
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"4330f93ad7e4dc676ca1fa746e903280",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759791,
+            "locality_id":1276350515,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1276350515,
+    "wof:lastmodified":1537623855,
+    "wof:name":"Abasuapayin",
+    "wof:parent_id":1108759791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.93977,
+    6.72293,
+    -1.93977,
+    6.72293
+],
+  "geometry": {"coordinates":[-1.93977,6.72293],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310124245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.89794,5.1594,-1.89794,5.1594",
+    "geom:latitude":5.1594,
+    "geom:longitude":-1.89794,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Benso Dada",
+    "gn:country_code":"GH",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303176,
+    "gn:latitude":5.1594,
+    "gn:longitude":-1.89794,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Benso Dada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Benso Dada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303176
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"69945d8315e7ec084d5dc0c1c8683699",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760017,
+            "locality_id":1310124245,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1310124245,
+    "wof:lastmodified":1537623741,
+    "wof:name":"Benso Dada",
+    "wof:parent_id":1108760017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.89794,
+    5.1594,
+    -1.89794,
+    5.1594
+],
+  "geometry": {"coordinates":[-1.89794,5.1594],"type":"Point"}
+}

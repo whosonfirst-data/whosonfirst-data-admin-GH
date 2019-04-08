@@ -1,0 +1,67 @@
+{
+  "id": 1310323339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.00534,6.10672,1.00534,6.10672",
+    "geom:latitude":6.10672,
+    "geom:longitude":1.00534,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Yahuni",
+    "gn:country_code":"GH",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293912,
+    "gn:latitude":6.10672,
+    "gn:longitude":1.00534,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Yahuni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293912
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"b07786e1139963d0cd11c0ad9b67937d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759983,
+            "locality_id":1310323339,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1310323339,
+    "wof:lastmodified":1536682181,
+    "wof:name":"Yahuni",
+    "wof:parent_id":1108759983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.00534,
+    6.10672,
+    1.00534,
+    6.10672
+],
+  "geometry": {"coordinates":[1.00534,6.10672],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243564429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.2721,6.39343,-2.2721,6.39343",
+    "geom:latitude":6.39343,
+    "geom:longitude":-2.2721,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dominebo",
+    "gn:country_code":"GH",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301562,
+    "gn:latitude":6.39343,
+    "gn:longitude":-2.2721,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dominebo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dominabo",
+        "Domenebo Number 1",
+        "Dominebo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108759999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301562
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"db502dd5e5af6a245dcb4d271e65d06a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759999,
+            "locality_id":1243564429,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1243564429,
+    "wof:lastmodified":1537623685,
+    "wof:name":"Dominebo",
+    "wof:parent_id":1108759999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.2721,
+    6.39343,
+    -2.2721,
+    6.39343
+],
+  "geometry": {"coordinates":[-2.2721,6.39343],"type":"Point"}
+}

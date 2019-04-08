@@ -1,0 +1,71 @@
+{
+  "id": 1310315079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.14982,5.40553,-1.14982,5.40553",
+    "geom:latitude":5.40553,
+    "geom:longitude":-1.14982,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Odumasi",
+    "gn:country_code":"GH",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296513,
+    "gn:latitude":5.40553,
+    "gn:longitude":-1.14982,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Odumasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Asin Odumase",
+        "Odumasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296513
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ca60b1b64fdb0f7d3c6aa42086bc34d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759849,
+            "locality_id":1310315079,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1310315079,
+    "wof:lastmodified":1537623498,
+    "wof:name":"Odumasi",
+    "wof:parent_id":1108759849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.14982,
+    5.40553,
+    -1.14982,
+    5.40553
+],
+  "geometry": {"coordinates":[-1.14982,5.40553],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1242595915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.78496,7.22423,-2.78496,7.22423",
+    "geom:latitude":7.22423,
+    "geom:longitude":-2.78496,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Amasu",
+    "gn:country_code":"GH",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304742,
+    "gn:latitude":7.22423,
+    "gn:longitude":-2.78496,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Amasu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Amasu"
+    ],
+    "name:und_x_variant":[
+        "Ammasu",
+        "Amaasu",
+        "Amoaso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304742
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"e5693965a49dcb151c46bd5031148ef8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759821,
+            "locality_id":1242595915,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1242595915,
+    "wof:lastmodified":1537623795,
+    "wof:name":"Amasu",
+    "wof:parent_id":1108759821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.78496,
+    7.22423,
+    -2.78496,
+    7.22423
+],
+  "geometry": {"coordinates":[-2.78496,7.22423],"type":"Point"}
+}

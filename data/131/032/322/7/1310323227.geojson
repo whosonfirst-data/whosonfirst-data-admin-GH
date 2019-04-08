@@ -1,0 +1,71 @@
+{
+  "id": 1310323227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.42448,11.06263,-0.42448,11.06263",
+    "geom:latitude":11.06263,
+    "geom:longitude":-0.42448,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Fetiga",
+    "gn:country_code":"GH",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300956,
+    "gn:latitude":11.06263,
+    "gn:longitude":-0.42448,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Fetiga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gyetega",
+        "Fetiga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300956
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"71d445afba0e3e7cbf81f32cab3cb21f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759945,
+            "locality_id":1310323227,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1310323227,
+    "wof:lastmodified":1537623660,
+    "wof:name":"Fetiga",
+    "wof:parent_id":1108759945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.42448,
+    11.06263,
+    -0.42448,
+    11.06263
+],
+  "geometry": {"coordinates":[-0.42448,11.06263],"type":"Point"}
+}

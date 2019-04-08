@@ -1,0 +1,66 @@
+{
+  "id": 1209224625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.41667,9.36667,0.41667,9.36667",
+    "geom:latitude":9.36667,
+    "geom:longitude":0.41667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bonboli",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302777,
+    "gn:latitude":9.36667,
+    "gn:longitude":0.41667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bonboli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bombo\u00e1ne",
+        "Bonboli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302777
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ab3494dce34c53c7ad39f122a59ca3e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209224625
+        }
+    ],
+    "wof:id":1209224625,
+    "wof:lastmodified":1537623729,
+    "wof:name":"Bonboli",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.41667,
+    9.36667,
+    0.41667,
+    9.36667
+],
+  "geometry": {"coordinates":[0.41667,9.36667],"type":"Point"}
+}

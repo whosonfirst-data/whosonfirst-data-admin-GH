@@ -1,0 +1,71 @@
+{
+  "id": 1276137827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.01376,7.12119,-0.01376,7.12119",
+    "geom:latitude":7.12119,
+    "geom:longitude":-0.01376,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Abomasalafuo",
+    "gn:country_code":"GH",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306254,
+    "gn:latitude":7.12119,
+    "gn:longitude":-0.01376,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Abomasalafuo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abomosarefon",
+        "Abomasalafuo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306254
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"4ab78bb7f5786a260d6ec17eaec28f90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759867,
+            "locality_id":1276137827,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1276137827,
+    "wof:lastmodified":1537623849,
+    "wof:name":"Abomasalafuo",
+    "wof:parent_id":1108759867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.01376,
+    7.12119,
+    -0.01376,
+    7.12119
+],
+  "geometry": {"coordinates":[-0.01376,7.12119],"type":"Point"}
+}

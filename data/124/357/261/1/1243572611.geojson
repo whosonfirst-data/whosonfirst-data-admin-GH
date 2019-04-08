@@ -1,0 +1,74 @@
+{
+  "id": 1243572611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.5222,6.44089,-1.5222,6.44089",
+    "geom:latitude":6.44089,
+    "geom:longitude":-1.5222,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Asekyere",
+    "gn:country_code":"GH",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304165,
+    "gn:latitude":6.44089,
+    "gn:longitude":-1.5222,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Asekyere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Asekyere"
+    ],
+    "name:und_x_variant":[
+        "Assekyere",
+        "Asechere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304165
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"1cd70822b7140eae9cfe2b84eec9ff26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759783,
+            "locality_id":1243572611,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1243572611,
+    "wof:lastmodified":1537623776,
+    "wof:name":"Asekyere",
+    "wof:parent_id":1108759783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.5222,
+    6.44089,
+    -1.5222,
+    6.44089
+],
+  "geometry": {"coordinates":[-1.5222,6.44089],"type":"Point"}
+}

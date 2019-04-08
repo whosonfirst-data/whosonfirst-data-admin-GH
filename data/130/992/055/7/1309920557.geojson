@@ -1,0 +1,72 @@
+{
+  "id": 1309920557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.3088,10.1865,-2.3088,10.1865",
+    "geom:latitude":10.1865,
+    "geom:longitude":-2.3088,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Baayiri",
+    "gn:country_code":"GH",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303491,
+    "gn:latitude":10.1865,
+    "gn:longitude":-2.3088,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Baayiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lanfiatuhi",
+        "Baayiri",
+        "Baire"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303491
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"f04dfe349e93bf4b194e1ee684ebf9be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759965,
+            "locality_id":1309920557,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1309920557,
+    "wof:lastmodified":1537623753,
+    "wof:name":"Baayiri",
+    "wof:parent_id":1108759965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.3088,
+    10.1865,
+    -2.3088,
+    10.1865
+],
+  "geometry": {"coordinates":[-2.3088,10.1865],"type":"Point"}
+}

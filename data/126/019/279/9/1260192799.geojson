@@ -1,0 +1,71 @@
+{
+  "id": 1260192799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.57071,6.87659,-2.57071,6.87659",
+    "geom:latitude":6.87659,
+    "geom:longitude":-2.57071,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Yamensakrom",
+    "gn:country_code":"GH",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293877,
+    "gn:latitude":6.87659,
+    "gn:longitude":-2.57071,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yamensakrom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yaw Mensa Kurom Mumber 2",
+        "Yamensakrom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293877
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"412c8be2e6da5c7bdfaf55f04ad5dffa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759811,
+            "locality_id":1260192799,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1260192799,
+    "wof:lastmodified":1537623405,
+    "wof:name":"Yamensakrom",
+    "wof:parent_id":1108759811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.57071,
+    6.87659,
+    -2.57071,
+    6.87659
+],
+  "geometry": {"coordinates":[-2.57071,6.87659],"type":"Point"}
+}

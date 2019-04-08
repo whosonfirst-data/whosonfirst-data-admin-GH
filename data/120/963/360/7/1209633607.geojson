@@ -1,0 +1,65 @@
+{
+  "id": 1209633607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.39015,7.03355,-1.39015,7.03355",
+    "geom:latitude":7.03355,
+    "geom:longitude":-1.39015,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bonkrom",
+    "gn:country_code":"GH",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302749,
+    "gn:latitude":7.03355,
+    "gn:longitude":-1.39015,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bonkrom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bonkron",
+        "Bonkrom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302749
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"fccaf829e34124fa09b90b4a7282707e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209633607
+        }
+    ],
+    "wof:id":1209633607,
+    "wof:lastmodified":1537623727,
+    "wof:name":"Bonkrom",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.39015,
+    7.03355,
+    -1.39015,
+    7.03355
+],
+  "geometry": {"coordinates":[-1.39015,7.03355],"type":"Point"}
+}

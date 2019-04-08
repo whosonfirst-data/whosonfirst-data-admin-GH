@@ -1,0 +1,67 @@
+{
+  "id": 1293502083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.00567,5.28161,-2.00567,5.28161",
+    "geom:latitude":5.28161,
+    "geom:longitude":-2.00567,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Efuenta",
+    "gn:country_code":"GH",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301264,
+    "gn:latitude":5.28161,
+    "gn:longitude":-2.00567,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Efuenta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301264
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ab0a775ddd5c479c86ba02fa754d0606",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760017,
+            "locality_id":1293502083,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1293502083,
+    "wof:lastmodified":1536766321,
+    "wof:name":"Efuenta",
+    "wof:parent_id":1108760017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.00567,
+    5.28161,
+    -2.00567,
+    5.28161
+],
+  "geometry": {"coordinates":[-2.00567,5.28161],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225859491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.77015,5.47149,-0.77015,5.47149",
+    "geom:latitude":5.47149,
+    "geom:longitude":-0.77015,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Esikuma",
+    "gn:country_code":"GH",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301090,
+    "gn:latitude":5.47149,
+    "gn:longitude":-0.77015,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Esikuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301090
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"dce4e16ca9266bd9c2d79c8dc314eee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759857,
+            "locality_id":1225859491,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1225859491,
+    "wof:lastmodified":1536992954,
+    "wof:name":"Esikuma",
+    "wof:parent_id":1108759857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.77015,
+    5.47149,
+    -0.77015,
+    5.47149
+],
+  "geometry": {"coordinates":[-0.77015,5.47149],"type":"Point"}
+}

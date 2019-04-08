@@ -1,0 +1,70 @@
+{
+  "id": 1243282223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.92888,6.92547,-1.92888,6.92547",
+    "geom:latitude":6.92547,
+    "geom:longitude":-1.92888,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Apanimadi",
+    "gn:country_code":"GH",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304385,
+    "gn:latitude":6.92547,
+    "gn:longitude":-1.92888,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Apanimadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Apanimadi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304385
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"59738b628bc6026780e526fa9a8f86a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759781,
+            "locality_id":1243282223,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1243282223,
+    "wof:lastmodified":1537623783,
+    "wof:name":"Apanimadi",
+    "wof:parent_id":1108759781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.92888,
+    6.92547,
+    -1.92888,
+    6.92547
+],
+  "geometry": {"coordinates":[-1.92888,6.92547],"type":"Point"}
+}

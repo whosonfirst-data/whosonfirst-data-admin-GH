@@ -1,0 +1,84 @@
+{
+  "id": 890432197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.75897,5.26176,-0.75897,5.26176",
+    "geom:latitude":5.26176,
+    "geom:longitude":-0.75897,
+    "gn:country":"GH",
+    "gn:fcode":"PPL",
+    "gn:pop":13983,
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Mumford"
+    ],
+    "name:eng_x_preferred":[
+        "Mumford"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30e0\u30d5\u30a9\u30fc\u30c9"
+    ],
+    "name:unk_x_variant":[
+        "Gammah"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0645\u0641\u0648\u0688\u060c \u06af\u06be\u0627\u0646\u0627"
+    ],
+    "qs:name":"Mumford",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":78,
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297810,
+        "gp:id":1327145,
+        "qs:id":278378,
+        "wd:id":"Q6935389",
+        "wk:page":"Mumford"
+    },
+    "wof:country":"GH",
+    "wof:created":1469051932,
+    "wof:geomhash":"3fb399b53c3b489d8acd0b20b4259891",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759857,
+            "locality_id":890432197,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":890432197,
+    "wof:lastmodified":1527793039,
+    "wof:name":"Mumford",
+    "wof:parent_id":1108759857,
+    "wof:placetype":"locality",
+    "wof:population":13983,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.75897,
+    5.26176,
+    -0.75897,
+    5.26176
+],
+  "geometry": {"coordinates":[-0.75897,5.26176],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327249783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.95,5.33333,-1.95,5.33333",
+    "geom:latitude":5.33333,
+    "geom:longitude":-1.95,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Edokrom",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301312,
+    "gn:latitude":5.33333,
+    "gn:longitude":-1.95,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Edokrom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Eduakrom",
+        "Edokrom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301312
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"05b194303a27c0b7dff93a3fd70eadb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760017,
+            "locality_id":1327249783,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1327249783,
+    "wof:lastmodified":1537623674,
+    "wof:name":"Edokrom",
+    "wof:parent_id":1108760017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.95,
+    5.33333,
+    -1.95,
+    5.33333
+],
+  "geometry": {"coordinates":[-1.95,5.33333],"type":"Point"}
+}

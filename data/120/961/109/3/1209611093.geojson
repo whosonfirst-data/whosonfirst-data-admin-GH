@@ -1,0 +1,64 @@
+{
+  "id": 1209611093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.08361,4.83343,-2.08361,4.83343",
+    "geom:latitude":4.83343,
+    "geom:longitude":-2.08361,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Animakrom",
+    "gn:country_code":"GH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304593,
+    "gn:latitude":4.83343,
+    "gn:longitude":-2.08361,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Animakrom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Animakrom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304593
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"c8bae06842abcebf65b06804d78302dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209611093
+        }
+    ],
+    "wof:id":1209611093,
+    "wof:lastmodified":1537623790,
+    "wof:name":"Animakrom",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.08361,
+    4.83343,
+    -2.08361,
+    4.83343
+],
+  "geometry": {"coordinates":[-2.08361,4.83343],"type":"Point"}
+}

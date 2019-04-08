@@ -1,0 +1,74 @@
+{
+  "id": 1343575909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.85211,6.50986,-1.85211,6.50986",
+    "geom:latitude":6.50986,
+    "geom:longitude":-1.85211,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Moseaaso",
+    "gn:country_code":"GH",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297921,
+    "gn:latitude":6.50986,
+    "gn:longitude":-1.85211,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Moseaaso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Moseaaso"
+    ],
+    "name:und_x_variant":[
+        "Mosiaso",
+        "Moseaso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297921
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ebad69ea2ace911ffe5b6ffd76b332c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759785,
+            "locality_id":1343575909,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1343575909,
+    "wof:lastmodified":1537623550,
+    "wof:name":"Moseaaso",
+    "wof:parent_id":1108759785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.85211,
+    6.50986,
+    -1.85211,
+    6.50986
+],
+  "geometry": {"coordinates":[-1.85211,6.50986],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309915789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.79215,4.87338,-1.79215,4.87338",
+    "geom:latitude":4.87338,
+    "geom:longitude":-1.79215,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Fungo",
+    "gn:country_code":"GH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300834,
+    "gn:latitude":4.87338,
+    "gn:longitude":-1.79215,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Fungo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Funko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300834
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"3a9fd8f4ef07d270a8b099b3163dedb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760011,
+            "locality_id":1309915789,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1309915789,
+    "wof:lastmodified":1537623655,
+    "wof:name":"Fungo",
+    "wof:parent_id":1108760011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.79215,
+    4.87338,
+    -1.79215,
+    4.87338
+],
+  "geometry": {"coordinates":[-1.79215,4.87338],"type":"Point"}
+}

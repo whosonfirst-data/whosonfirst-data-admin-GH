@@ -1,0 +1,72 @@
+{
+  "id": 1293877985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.47261,4.96464,-2.47261,4.96464",
+    "geom:latitude":4.96464,
+    "geom:longitude":-2.47261,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Eikwe",
+    "gn:country_code":"GH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301243,
+    "gn:latitude":4.96464,
+    "gn:longitude":-2.47261,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Eikwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Eyukweh",
+        "Eikwe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301243,
+        "wk:page":"Eikwe"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"3cad347d4eb500ae17fe26b06f08f313",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760007,
+            "locality_id":1293877985,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1293877985,
+    "wof:lastmodified":1537623670,
+    "wof:name":"Eikwe",
+    "wof:parent_id":1108760007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.47261,
+    4.96464,
+    -2.47261,
+    4.96464
+],
+  "geometry": {"coordinates":[-2.47261,4.96464],"type":"Point"}
+}

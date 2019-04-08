@@ -1,0 +1,73 @@
+{
+  "id": 1242888847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.33847,7.45023,0.33847,7.45023",
+    "geom:latitude":7.45023,
+    "geom:longitude":0.33847,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tapa Amanya",
+    "gn:country_code":"GH",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294783,
+    "gn:latitude":7.45023,
+    "gn:longitude":0.33847,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tapa Amanya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amainja",
+        "Amanja",
+        "Amanya",
+        "Tapa Amanya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294783
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"da264f62c8ce992c144ef917349a79d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759975,
+            "locality_id":1242888847,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1242888847,
+    "wof:lastmodified":1537623439,
+    "wof:name":"Tapa Amanya",
+    "wof:parent_id":1108759975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.33847,
+    7.45023,
+    0.33847,
+    7.45023
+],
+  "geometry": {"coordinates":[0.33847,7.45023],"type":"Point"}
+}

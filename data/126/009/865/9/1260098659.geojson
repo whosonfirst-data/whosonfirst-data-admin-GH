@@ -1,0 +1,71 @@
+{
+  "id": 1260098659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.80205,8.21959,-1.80205,8.21959",
+    "geom:latitude":8.21959,
+    "geom:longitude":-1.80205,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ntariban",
+    "gn:country_code":"GH",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297052,
+    "gn:latitude":8.21959,
+    "gn:longitude":-1.80205,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Ntariban",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ntanban",
+        "Ntariban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297052
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a377232ffe169172419e88d0e2164de9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759825,
+            "locality_id":1260098659,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1260098659,
+    "wof:lastmodified":1537623517,
+    "wof:name":"Ntariban",
+    "wof:parent_id":1108759825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.80205,
+    8.21959,
+    -1.80205,
+    8.21959
+],
+  "geometry": {"coordinates":[-1.80205,8.21959],"type":"Point"}
+}

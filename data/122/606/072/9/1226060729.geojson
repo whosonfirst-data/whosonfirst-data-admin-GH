@@ -1,0 +1,71 @@
+{
+  "id": 1226060729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.055,5.76505,0.055,5.76505",
+    "geom:latitude":5.76505,
+    "geom:longitude":0.055,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dawhwenya",
+    "gn:country_code":"GH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301919,
+    "gn:latitude":5.76505,
+    "gn:longitude":0.055,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dawhwenya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dorwenya",
+        "Dawhwenya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671353,
+        1108759907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301919
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"46af2c3073ea53cf0da18754cca2d8af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759907,
+            "locality_id":1226060729,
+            "region_id":85671353
+        }
+    ],
+    "wof:id":1226060729,
+    "wof:lastmodified":1537623698,
+    "wof:name":"Dawhwenya",
+    "wof:parent_id":1108759907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.055,
+    5.76505,
+    0.055,
+    5.76505
+],
+  "geometry": {"coordinates":[0.055,5.76505],"type":"Point"}
+}

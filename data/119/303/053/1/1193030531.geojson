@@ -1,0 +1,72 @@
+{
+  "id": 1193030531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.9111,5.31246,-0.9111,5.31246",
+    "geom:latitude":5.31246,
+    "geom:longitude":-0.9111,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Akwansakokro",
+    "gn:country_code":"GH",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304944,
+    "gn:latitude":5.31246,
+    "gn:longitude":-0.9111,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Akwansakokro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akwansakokodo",
+        "Akwansakoko",
+        "Akwansakokro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304944
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"e6c425c887a97a8d735306ca93104523",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759861,
+            "locality_id":1193030531,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1193030531,
+    "wof:lastmodified":1537623802,
+    "wof:name":"Akwansakokro",
+    "wof:parent_id":1108759861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.9111,
+    5.31246,
+    -0.9111,
+    5.31246
+],
+  "geometry": {"coordinates":[-0.9111,5.31246],"type":"Point"}
+}

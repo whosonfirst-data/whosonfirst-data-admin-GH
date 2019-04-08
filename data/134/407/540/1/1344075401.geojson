@@ -1,0 +1,71 @@
+{
+  "id": 1344075401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.1742,5.46676,-2.1742,5.46676",
+    "geom:latitude":5.46676,
+    "geom:longitude":-2.1742,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Katrim",
+    "gn:country_code":"GH",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299719,
+    "gn:latitude":5.46676,
+    "gn:longitude":-2.1742,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Katrim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaitrim",
+        "Katrim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299719
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ce9c864f494424a0dcdaa142b629b0db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760017,
+            "locality_id":1344075401,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1344075401,
+    "wof:lastmodified":1537623611,
+    "wof:name":"Katrim",
+    "wof:parent_id":1108760017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.1742,
+    5.46676,
+    -2.1742,
+    5.46676
+],
+  "geometry": {"coordinates":[-2.1742,5.46676],"type":"Point"}
+}

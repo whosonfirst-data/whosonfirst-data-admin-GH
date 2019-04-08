@@ -1,0 +1,70 @@
+{
+  "id": 1259889873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.80684,6.27263,-1.80684,6.27263",
+    "geom:latitude":6.27263,
+    "geom:longitude":-1.80684,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Esasi",
+    "gn:country_code":"GH",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301121,
+    "gn:latitude":6.27263,
+    "gn:longitude":-1.80684,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Esasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Esasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301121
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"91de50589343a345672c2464b3d522f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759783,
+            "locality_id":1259889873,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1259889873,
+    "wof:lastmodified":1537623666,
+    "wof:name":"Esasi",
+    "wof:parent_id":1108759783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.80684,
+    6.27263,
+    -1.80684,
+    6.27263
+],
+  "geometry": {"coordinates":[-1.80684,6.27263],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242692461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.66608,10.57444,-2.66608,10.57444",
+    "geom:latitude":10.57444,
+    "geom:longitude":-2.66608,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Tigboro",
+    "gn:country_code":"GH",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294621,
+    "gn:latitude":10.57444,
+    "gn:longitude":-2.66608,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Tigboro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tigboro"
+    ],
+    "name:und_x_variant":[
+        "Tiboro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294621
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"69585ce53bb4abeec8f1f9bb57e7cc80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759955,
+            "locality_id":1242692461,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1242692461,
+    "wof:lastmodified":1537623432,
+    "wof:name":"Tigboro",
+    "wof:parent_id":1108759955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.66608,
+    10.57444,
+    -2.66608,
+    10.57444
+],
+  "geometry": {"coordinates":[-2.66608,10.57444],"type":"Point"}
+}

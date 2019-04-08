@@ -1,0 +1,78 @@
+{
+  "id": 1242980835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.71873,6.94755,-1.71873,6.94755",
+    "geom:latitude":6.94755,
+    "geom:longitude":-1.71873,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bonsua Number Two",
+    "gn:country_code":"GH",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302723,
+    "gn:latitude":6.94755,
+    "gn:longitude":-1.71873,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Bonsua Number Two",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bonsua Number Two"
+    ],
+    "name:eng_x_variant":[
+        "Bonsua Number 2"
+    ],
+    "name:und_x_variant":[
+        "Bonsua",
+        "Bonsua Kokoo",
+        "Bonsua Kawkaw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302723
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"156c44bcd3cf51ae67b8e011fd878cfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759805,
+            "locality_id":1242980835,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1242980835,
+    "wof:lastmodified":1537623726,
+    "wof:name":"Bonsua Number Two",
+    "wof:parent_id":1108759805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.71873,
+    6.94755,
+    -1.71873,
+    6.94755
+],
+  "geometry": {"coordinates":[-1.71873,6.94755],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226452403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.76626,4.94573,-1.76626,4.94573",
+    "geom:latitude":4.94573,
+    "geom:longitude":-1.76626,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ntankofu",
+    "gn:country_code":"GH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297054,
+    "gn:latitude":4.94573,
+    "gn:longitude":-1.76626,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Ntankofu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ntankofu"
+    ],
+    "name:und_x_variant":[
+        "Ntanguafo",
+        "Ntangufo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297054
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"00646e20c588a64c99a4590b7f4e9abb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760011,
+            "locality_id":1226452403,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1226452403,
+    "wof:lastmodified":1537623517,
+    "wof:name":"Ntankofu",
+    "wof:parent_id":1108760011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.76626,
+    4.94573,
+    -1.76626,
+    4.94573
+],
+  "geometry": {"coordinates":[-1.76626,4.94573],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243469069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.18333,5.13333,-2.18333,5.13333",
+    "geom:latitude":5.13333,
+    "geom:longitude":-2.18333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Anomabo",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304540,
+    "gn:latitude":5.13333,
+    "gn:longitude":-2.18333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Anomabo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nomabu Eshiem",
+        "Anamobo",
+        "Anomabo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304540
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"86eb05cd4da1dbe382f9d08fd220b724",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760007,
+            "locality_id":1243469069,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1243469069,
+    "wof:lastmodified":1537623788,
+    "wof:name":"Anomabo",
+    "wof:parent_id":1108760007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.18333,
+    5.13333,
+    -2.18333,
+    5.13333
+],
+  "geometry": {"coordinates":[-2.18333,5.13333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293119039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.3702,10.51046,-1.3702,10.51046",
+    "geom:latitude":10.51046,
+    "geom:longitude":-1.3702,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Kanjaga",
+    "gn:country_code":"GH",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299824,
+    "gn:latitude":10.51046,
+    "gn:longitude":-1.3702,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Kanjaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299824
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"540b02339d8bff318e14c313764258b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759951,
+            "locality_id":1293119039,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1293119039,
+    "wof:lastmodified":1536820448,
+    "wof:name":"Kanjaga",
+    "wof:parent_id":1108759951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.3702,
+    10.51046,
+    -1.3702,
+    10.51046
+],
+  "geometry": {"coordinates":[-1.3702,10.51046],"type":"Point"}
+}

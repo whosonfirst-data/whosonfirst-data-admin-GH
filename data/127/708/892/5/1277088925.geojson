@@ -1,0 +1,71 @@
+{
+  "id": 1277088925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.67134,6.95051,-1.67134,6.95051",
+    "geom:latitude":6.95051,
+    "geom:longitude":-1.67134,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Adukuro",
+    "gn:country_code":"GH",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296529,
+    "gn:latitude":6.95051,
+    "gn:longitude":-1.67134,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Adukuro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adukra",
+        "Odukro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296529
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"b7aee1fd1165c65d65689c32753bc3f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759805,
+            "locality_id":1277088925,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1277088925,
+    "wof:lastmodified":1537623499,
+    "wof:name":"Adukuro",
+    "wof:parent_id":1108759805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.67134,
+    6.95051,
+    -1.67134,
+    6.95051
+],
+  "geometry": {"coordinates":[-1.67134,6.95051],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1260201613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.06591,9.43208,-1.06591,9.43208",
+    "geom:latitude":9.43208,
+    "geom:longitude":-1.06591,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tolon",
+    "gn:country_code":"GH",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294484,
+    "gn:latitude":9.43208,
+    "gn:longitude":-1.06591,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Tolon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294484,
+        "wk:page":"Tolon%2C_Ghana"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a2b8194bbeb3c2be07a898c3c0b0e813",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759935,
+            "locality_id":1260201613,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1260201613,
+    "wof:lastmodified":1537563024,
+    "wof:name":"Tolon",
+    "wof:parent_id":1108759935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.06591,
+    9.43208,
+    -1.06591,
+    9.43208
+],
+  "geometry": {"coordinates":[-1.06591,9.43208],"type":"Point"}
+}

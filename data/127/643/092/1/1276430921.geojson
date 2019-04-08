@@ -1,0 +1,71 @@
+{
+  "id": 1276430921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.55495,4.98056,-2.55495,4.98056",
+    "geom:latitude":4.98056,
+    "geom:longitude":-2.55495,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Atuabo",
+    "gn:country_code":"GH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303779,
+    "gn:latitude":4.98056,
+    "gn:longitude":-2.55495,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Atuabo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Atterboe",
+        "Atuabo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303779
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"2be137eec8652f99843027b3e3d5465f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760007,
+            "locality_id":1276430921,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1276430921,
+    "wof:lastmodified":1537623762,
+    "wof:name":"Atuabo",
+    "wof:parent_id":1108760007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.55495,
+    4.98056,
+    -2.55495,
+    4.98056
+],
+  "geometry": {"coordinates":[-2.55495,4.98056],"type":"Point"}
+}

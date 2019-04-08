@@ -1,0 +1,71 @@
+{
+  "id": 1343680169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.53,6.40849,-1.53,6.40849",
+    "geom:latitude":6.40849,
+    "geom:longitude":-1.53,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Eduam",
+    "gn:country_code":"GH",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301303,
+    "gn:latitude":6.40849,
+    "gn:longitude":-1.53,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Eduam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aduam",
+        "Eduam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301303
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"bf13818d6ae1d969182c8785d537f3ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759783,
+            "locality_id":1343680169,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1343680169,
+    "wof:lastmodified":1537623673,
+    "wof:name":"Eduam",
+    "wof:parent_id":1108759783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.53,
+    6.40849,
+    -1.53,
+    6.40849
+],
+  "geometry": {"coordinates":[-1.53,6.40849],"type":"Point"}
+}

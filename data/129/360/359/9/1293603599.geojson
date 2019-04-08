@@ -1,0 +1,74 @@
+{
+  "id": 1293603599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.92931,6.87153,-1.92931,6.87153",
+    "geom:latitude":6.87153,
+    "geom:longitude":-1.92931,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ounyankwanta",
+    "gn:country_code":"GH",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301379,
+    "gn:latitude":6.87153,
+    "gn:longitude":-1.92931,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Ounyankwanta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ounyankwanta"
+    ],
+    "name:und_x_variant":[
+        "Dwenyankwanta",
+        "Dwinyaikwanta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301379
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ae0115e4a85a3b315a1b4f440e7a6f83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759781,
+            "locality_id":1293603599,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1293603599,
+    "wof:lastmodified":1537623677,
+    "wof:name":"Ounyankwanta",
+    "wof:parent_id":1108759781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.92931,
+    6.87153,
+    -1.92931,
+    6.87153
+],
+  "geometry": {"coordinates":[-1.92931,6.87153],"type":"Point"}
+}

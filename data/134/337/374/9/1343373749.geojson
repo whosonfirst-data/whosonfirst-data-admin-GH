@@ -1,0 +1,71 @@
+{
+  "id": 1343373749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.86687,10.54182,-1.86687,10.54182",
+    "geom:latitude":10.54182,
+    "geom:longitude":-1.86687,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bichemboi",
+    "gn:country_code":"GH",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303257,
+    "gn:latitude":10.54182,
+    "gn:longitude":-1.86687,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Bichemboi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bijenbellia",
+        "Bechembeli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303257
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"d8da80e0cf10145016b88c2b1c5632da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759963,
+            "locality_id":1343373749,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1343373749,
+    "wof:lastmodified":1537623744,
+    "wof:name":"Bichemboi",
+    "wof:parent_id":1108759963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.86687,
+    10.54182,
+    -1.86687,
+    10.54182
+],
+  "geometry": {"coordinates":[-1.86687,10.54182],"type":"Point"}
+}

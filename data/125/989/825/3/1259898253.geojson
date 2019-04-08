@@ -1,0 +1,67 @@
+{
+  "id": 1259898253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.69715,7.62014,-2.69715,7.62014",
+    "geom:latitude":7.62014,
+    "geom:longitude":-2.69715,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Meremano",
+    "gn:country_code":"GH",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298051,
+    "gn:latitude":7.62014,
+    "gn:longitude":-2.69715,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Meremano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298051
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"8bf9ff4f35d0e577ab067ee40b225d68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759823,
+            "locality_id":1259898253,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1259898253,
+    "wof:lastmodified":1536757973,
+    "wof:name":"Meremano",
+    "wof:parent_id":1108759823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.69715,
+    7.62014,
+    -2.69715,
+    7.62014
+],
+  "geometry": {"coordinates":[-2.69715,7.62014],"type":"Point"}
+}

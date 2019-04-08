@@ -1,0 +1,67 @@
+{
+  "id": 1343868203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.28333,6.86667,0.28333,6.86667",
+    "geom:latitude":6.86667,
+    "geom:longitude":0.28333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Fodome",
+    "gn:country_code":"GH",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300901,
+    "gn:latitude":6.86667,
+    "gn:longitude":0.28333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Fodome",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300901
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"7ac3678ff09b4ec01f9eb3b5cc66753d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759985,
+            "locality_id":1343868203,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1343868203,
+    "wof:lastmodified":1536655371,
+    "wof:name":"Fodome",
+    "wof:parent_id":1108759985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.28333,
+    6.86667,
+    0.28333,
+    6.86667
+],
+  "geometry": {"coordinates":[0.28333,6.86667],"type":"Point"}
+}

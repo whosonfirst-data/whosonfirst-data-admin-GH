@@ -1,0 +1,72 @@
+{
+  "id": 1209830029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.67003,6.35177,-2.67003,6.35177",
+    "geom:latitude":6.35177,
+    "geom:longitude":-2.67003,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Iyecheri",
+    "gn:country_code":"GH",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300279,
+    "gn:latitude":6.35177,
+    "gn:longitude":-2.67003,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Iyecheri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Achiachiga",
+        "Ekyinkyie",
+        "Iyecheri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300279
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"5b576b9f3b6c95705f92dd1e9d08ab4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760009,
+            "locality_id":1209830029,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1209830029,
+    "wof:lastmodified":1537623634,
+    "wof:name":"Iyecheri",
+    "wof:parent_id":1108760009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.67003,
+    6.35177,
+    -2.67003,
+    6.35177
+],
+  "geometry": {"coordinates":[-2.67003,6.35177],"type":"Point"}
+}

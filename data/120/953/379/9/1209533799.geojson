@@ -1,0 +1,66 @@
+{
+  "id": 1209533799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.33304,10.21201,0.33304,10.21201",
+    "geom:latitude":10.21201,
+    "geom:longitude":0.33304,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Wanjaga",
+    "gn:country_code":"GH",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294104,
+    "gn:latitude":10.21201,
+    "gn:longitude":0.33304,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Wanjaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wanjoga",
+        "Wawjawga",
+        "Wanjaga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294104
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"191bccca84c76f3b024f8d892c162dee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209533799
+        }
+    ],
+    "wof:id":1209533799,
+    "wof:lastmodified":1537623414,
+    "wof:name":"Wanjaga",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.33304,
+    10.21201,
+    0.33304,
+    10.21201
+],
+  "geometry": {"coordinates":[0.33304,10.21201],"type":"Point"}
+}

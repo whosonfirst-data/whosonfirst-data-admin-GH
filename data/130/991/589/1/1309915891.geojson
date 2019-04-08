@@ -1,0 +1,67 @@
+{
+  "id": 1309915891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.11021,10.88644,-2.11021,10.88644",
+    "geom:latitude":10.88644,
+    "geom:longitude":-2.11021,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Boti",
+    "gn:country_code":"GH",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302652,
+    "gn:latitude":10.88644,
+    "gn:longitude":-2.11021,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Boti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302652
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"bc14af5e76d816b37bbaba7b5b7127af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759963,
+            "locality_id":1309915891,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1309915891,
+    "wof:lastmodified":1536772934,
+    "wof:name":"Boti",
+    "wof:parent_id":1108759963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.11021,
+    10.88644,
+    -2.11021,
+    10.88644
+],
+  "geometry": {"coordinates":[-2.11021,10.88644],"type":"Point"}
+}

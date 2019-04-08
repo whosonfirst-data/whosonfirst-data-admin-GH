@@ -1,0 +1,64 @@
+{
+  "id": 1209329241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.51813,6.6211,-1.51813,6.6211",
+    "geom:latitude":6.6211,
+    "geom:longitude":-1.51813,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tetrefu",
+    "gn:country_code":"GH",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294549,
+    "gn:latitude":6.6211,
+    "gn:longitude":-1.51813,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Tetrefu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Titrifu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294549
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"f6432773189f077fd02ed98601f0fa37",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209329241
+        }
+    ],
+    "wof:id":1209329241,
+    "wof:lastmodified":1537623430,
+    "wof:name":"Tetrefu",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.51813,
+    6.6211,
+    -1.51813,
+    6.6211
+],
+  "geometry": {"coordinates":[-1.51813,6.6211],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310516025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.90264,9.85273,-1.90264,9.85273",
+    "geom:latitude":9.85273,
+    "geom:longitude":-1.90264,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gurumbele",
+    "gn:country_code":"GH",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300513,
+    "gn:latitude":9.85273,
+    "gn:longitude":-1.90264,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gurumbele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Belle",
+        "Garumbele",
+        "Gulunbele",
+        "Gurumbele"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300513
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a37d71f99b7e608f3b761f42daf861db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759965,
+            "locality_id":1310516025,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1310516025,
+    "wof:lastmodified":1537623644,
+    "wof:name":"Gurumbele",
+    "wof:parent_id":1108759965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.90264,
+    9.85273,
+    -1.90264,
+    9.85273
+],
+  "geometry": {"coordinates":[-1.90264,9.85273],"type":"Point"}
+}

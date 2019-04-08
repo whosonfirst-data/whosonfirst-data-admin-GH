@@ -1,0 +1,77 @@
+{
+  "id": 1310020665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.74369,6.1497,-1.74369,6.1497",
+    "geom:latitude":6.1497,
+    "geom:longitude":-1.74369,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Apitiso Number Two",
+    "gn:country_code":"GH",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304328,
+    "gn:latitude":6.1497,
+    "gn:longitude":-1.74369,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Apitiso Number Two",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Apitiso Number Two"
+    ],
+    "name:eng_x_variant":[
+        "Apitiso Number 2"
+    ],
+    "name:und_x_variant":[
+        "Apitisu Number 2",
+        "Apitiso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304328
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"321f1efbbd20a5c66772ec2f308c4dac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759783,
+            "locality_id":1310020665,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1310020665,
+    "wof:lastmodified":1537623781,
+    "wof:name":"Apitiso Number Two",
+    "wof:parent_id":1108759783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.74369,
+    6.1497,
+    -1.74369,
+    6.1497
+],
+  "geometry": {"coordinates":[-1.74369,6.1497],"type":"Point"}
+}

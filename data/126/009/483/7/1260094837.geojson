@@ -1,0 +1,77 @@
+{
+  "id": 1260094837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.67836,6.71728,-1.67836,6.71728",
+    "geom:latitude":6.71728,
+    "geom:longitude":-1.67836,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Nyankye Remasi",
+    "gn:country_code":"GH",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296824,
+    "gn:latitude":6.71728,
+    "gn:longitude":-1.67836,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Nyankye Remasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nyankye Remasi"
+    ],
+    "name:eng_x_variant":[
+        "Nyanchremasi"
+    ],
+    "name:und_x_variant":[
+        "Nyankyerenase",
+        "Nyanchreniasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296824
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a04f2ff5c3a098a020cc4e2cd00256a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759801,
+            "locality_id":1260094837,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1260094837,
+    "wof:lastmodified":1537623509,
+    "wof:name":"Nyankye Remasi",
+    "wof:parent_id":1108759801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.67836,
+    6.71728,
+    -1.67836,
+    6.71728
+],
+  "geometry": {"coordinates":[-1.67836,6.71728],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293505861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.71083,6.03714,-1.71083,6.03714",
+    "geom:latitude":6.03714,
+    "geom:longitude":-1.71083,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Lagos",
+    "gn:country_code":"GH",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298496,
+    "gn:latitude":6.03714,
+    "gn:longitude":-1.71083,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Lagos",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lagos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298496
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"f1a4cbfc5bce3d54e75d9705c6e4e8f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759773,
+            "locality_id":1293505861,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1293505861,
+    "wof:lastmodified":1537623570,
+    "wof:name":"Lagos",
+    "wof:parent_id":1108759773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.71083,
+    6.03714,
+    -1.71083,
+    6.03714
+],
+  "geometry": {"coordinates":[-1.71083,6.03714],"type":"Point"}
+}

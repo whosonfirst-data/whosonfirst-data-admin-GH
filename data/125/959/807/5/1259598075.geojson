@@ -1,0 +1,71 @@
+{
+  "id": 1259598075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.19313,6.31197,-0.19313,6.31197",
+    "geom:latitude":6.31197,
+    "geom:longitude":-0.19313,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sekasua",
+    "gn:country_code":"GH",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2295462,
+    "gn:latitude":6.31197,
+    "gn:longitude":-0.19313,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sekasua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sekusua",
+        "Sekasua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2295462
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a78a81675ca8212b2e42506d1483e82b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759899,
+            "locality_id":1259598075,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1259598075,
+    "wof:lastmodified":1537623460,
+    "wof:name":"Sekasua",
+    "wof:parent_id":1108759899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.19313,
+    6.31197,
+    -0.19313,
+    6.31197
+],
+  "geometry": {"coordinates":[-0.19313,6.31197],"type":"Point"}
+}

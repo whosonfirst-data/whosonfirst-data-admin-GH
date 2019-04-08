@@ -1,0 +1,72 @@
+{
+  "id": 1276137489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.54849,6.71323,0.54849,6.71323",
+    "geom:latitude":6.71323,
+    "geom:longitude":0.54849,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tokokoe",
+    "gn:country_code":"GH",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294501,
+    "gn:latitude":6.71323,
+    "gn:longitude":0.54849,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tokokoe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tokokwe",
+        "Tokokoe Mote",
+        "Tokokoe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294501
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"892ddd0a5a0a9603f8f5f81fce7cf87d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759971,
+            "locality_id":1276137489,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1276137489,
+    "wof:lastmodified":1537623428,
+    "wof:name":"Tokokoe",
+    "wof:parent_id":1108759971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.54849,
+    6.71323,
+    0.54849,
+    6.71323
+],
+  "geometry": {"coordinates":[0.54849,6.71323],"type":"Point"}
+}

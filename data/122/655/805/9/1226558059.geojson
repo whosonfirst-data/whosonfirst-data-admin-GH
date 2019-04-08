@@ -1,0 +1,72 @@
+{
+  "id": 1226558059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.85081,5.9474,0.85081,5.9474",
+    "geom:latitude":5.9474,
+    "geom:longitude":0.85081,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Atiavi",
+    "gn:country_code":"GH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303854,
+    "gn:latitude":5.9474,
+    "gn:longitude":0.85081,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Atiavi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Achavi",
+        "Atiavi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303854,
+        "wk:page":"Atiavi"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"d1cb41b69dc96f75b46875f5cf413833",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759981,
+            "locality_id":1226558059,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1226558059,
+    "wof:lastmodified":1537623765,
+    "wof:name":"Atiavi",
+    "wof:parent_id":1108759981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.85081,
+    5.9474,
+    0.85081,
+    5.9474
+],
+  "geometry": {"coordinates":[0.85081,5.9474],"type":"Point"}
+}

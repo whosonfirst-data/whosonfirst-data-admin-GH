@@ -1,0 +1,71 @@
+{
+  "id": 1226157789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.33497,10.70956,-1.33497,10.70956",
+    "geom:latitude":10.70956,
+    "geom:longitude":-1.33497,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Balansa",
+    "gn:country_code":"GH",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303456,
+    "gn:latitude":10.70956,
+    "gn:longitude":-1.33497,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Balansa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sandema Balansa",
+        "Balansa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303456
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"120159daf1a76ed76ba6e95d1db4bd5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759951,
+            "locality_id":1226157789,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1226157789,
+    "wof:lastmodified":1537623751,
+    "wof:name":"Balansa",
+    "wof:parent_id":1108759951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.33497,
+    10.70956,
+    -1.33497,
+    10.70956
+],
+  "geometry": {"coordinates":[-1.33497,10.70956],"type":"Point"}
+}

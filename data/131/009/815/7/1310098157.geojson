@@ -1,0 +1,71 @@
+{
+  "id": 1310098157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.27333,10.57951,-0.27333,10.57951",
+    "geom:latitude":10.57951,
+    "geom:longitude":-0.27333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Sakogu",
+    "gn:country_code":"GH",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2295712,
+    "gn:latitude":10.57951,
+    "gn:longitude":-0.27333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sakogu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sakku",
+        "Sakogu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2295712
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"45db52304134a0d4479404aaddc2c04e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759917,
+            "locality_id":1310098157,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1310098157,
+    "wof:lastmodified":1537623470,
+    "wof:name":"Sakogu",
+    "wof:parent_id":1108759917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.27333,
+    10.57951,
+    -0.27333,
+    10.57951
+],
+  "geometry": {"coordinates":[-0.27333,10.57951],"type":"Point"}
+}

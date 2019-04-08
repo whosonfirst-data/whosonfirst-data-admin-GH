@@ -1,0 +1,70 @@
+{
+  "id": 1276133431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.9671,4.89715,-1.9671,4.89715",
+    "geom:latitude":4.89715,
+    "geom:longitude":-1.9671,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Agona",
+    "gn:country_code":"GH",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305515,
+    "gn:latitude":4.89715,
+    "gn:longitude":-1.9671,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Agona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Agona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108759993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305515
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"5d8160a943d809be1a2368de0abd984e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759993,
+            "locality_id":1276133431,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1276133431,
+    "wof:lastmodified":1537623824,
+    "wof:name":"Agona",
+    "wof:parent_id":1108759993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.9671,
+    4.89715,
+    -1.9671,
+    4.89715
+],
+  "geometry": {"coordinates":[-1.9671,4.89715],"type":"Point"}
+}

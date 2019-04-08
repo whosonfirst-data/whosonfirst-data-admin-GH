@@ -1,0 +1,72 @@
+{
+  "id": 1343752521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.01593,6.1136,1.01593,6.1136",
+    "geom:latitude":6.1136,
+    "geom:longitude":1.01593,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Doyakope",
+    "gn:country_code":"GH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301514,
+    "gn:latitude":6.1136,
+    "gn:longitude":1.01593,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Doyakope",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Doyakofe",
+        "Doyakorpe",
+        "Doyakope"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301514
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"cf8d0f18fcb625847fb12bc6cde54fe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759983,
+            "locality_id":1343752521,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1343752521,
+    "wof:lastmodified":1537623683,
+    "wof:name":"Doyakope",
+    "wof:parent_id":1108759983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.01593,
+    6.1136,
+    1.01593,
+    6.1136
+],
+  "geometry": {"coordinates":[1.01593,6.1136],"type":"Point"}
+}

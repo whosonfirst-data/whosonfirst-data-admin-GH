@@ -1,0 +1,67 @@
+{
+  "id": 1327249811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.41529,5.61691,-1.41529,5.61691",
+    "geom:latitude":5.61691,
+    "geom:longitude":-1.41529,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nsuta",
+    "gn:country_code":"GH",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297082,
+    "gn:latitude":5.61691,
+    "gn:longitude":-1.41529,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Nsuta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297082
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"387b5850393525099a31e5d2b7c11dbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759849,
+            "locality_id":1327249811,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1327249811,
+    "wof:lastmodified":1536944856,
+    "wof:name":"Nsuta",
+    "wof:parent_id":1108759849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.41529,
+    5.61691,
+    -1.41529,
+    5.61691
+],
+  "geometry": {"coordinates":[-1.41529,5.61691],"type":"Point"}
+}

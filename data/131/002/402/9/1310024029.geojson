@@ -1,0 +1,71 @@
+{
+  "id": 1310024029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.97537,5.2279,-0.97537,5.2279",
+    "geom:latitude":5.2279,
+    "geom:longitude":-0.97537,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Asukwa",
+    "gn:country_code":"GH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303978,
+    "gn:latitude":5.2279,
+    "gn:longitude":-0.97537,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Asukwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Asokwa",
+        "Asukwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303978
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"c5650a74db9fb8a76d73582a24a23c84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759861,
+            "locality_id":1310024029,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1310024029,
+    "wof:lastmodified":1537623768,
+    "wof:name":"Asukwa",
+    "wof:parent_id":1108759861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.97537,
+    5.2279,
+    -0.97537,
+    5.2279
+],
+  "geometry": {"coordinates":[-0.97537,5.2279],"type":"Point"}
+}

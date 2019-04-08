@@ -1,0 +1,68 @@
+{
+  "id": 1326948411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.25997,11.16577,-0.25997,11.16577",
+    "geom:latitude":11.16577,
+    "geom:longitude":-0.25997,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gumaketere",
+    "gn:country_code":"GH",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300544,
+    "gn:latitude":11.16577,
+    "gn:longitude":-0.25997,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gumaketere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gumakateri",
+        "Gumakatari",
+        "Gumaketere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300544
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"9ddb353c71c8a244c7b3b72a687a03e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1326948411,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326948411,
+    "wof:lastmodified":1537623645,
+    "wof:name":"Gumaketere",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.25997,
+    11.16577,
+    -0.25997,
+    11.16577
+],
+  "geometry": {"coordinates":[-0.25997,11.16577],"type":"Point"}
+}

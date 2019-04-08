@@ -1,0 +1,71 @@
+{
+  "id": 1327044923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.63397,5.59828,-0.63397,5.59828",
+    "geom:latitude":5.59828,
+    "geom:longitude":-0.63397,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kwanyaku",
+    "gn:country_code":"GH",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298618,
+    "gn:latitude":5.59828,
+    "gn:longitude":-0.63397,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kwanyaku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kwanyako",
+        "Kwanyaku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298618
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"22ca0edf2b17fcc0ccfd5bc497047786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759843,
+            "locality_id":1327044923,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1327044923,
+    "wof:lastmodified":1537623573,
+    "wof:name":"Kwanyaku",
+    "wof:parent_id":1108759843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.63397,
+    5.59828,
+    -0.63397,
+    5.59828
+],
+  "geometry": {"coordinates":[-0.63397,5.59828],"type":"Point"}
+}

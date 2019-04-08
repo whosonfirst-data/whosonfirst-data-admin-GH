@@ -1,0 +1,67 @@
+{
+  "id": 1259900009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.05889,6.13778,1.05889,6.13778",
+    "geom:latitude":6.13778,
+    "geom:longitude":1.05889,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Gedekope",
+    "gn:country_code":"GH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2589874,
+    "gn:latitude":6.13778,
+    "gn:longitude":1.05889,
+    "gn:modification_date":"1998-01-27",
+    "gn:name":"Gedekope",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2589874
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"0b7a84ce21a97caf3e4bec7f936a6521",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759983,
+            "locality_id":1259900009,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1259900009,
+    "wof:lastmodified":1536755421,
+    "wof:name":"Gedekope",
+    "wof:parent_id":1108759983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.05889,
+    6.13778,
+    1.05889,
+    6.13778
+],
+  "geometry": {"coordinates":[1.05889,6.13778],"type":"Point"}
+}

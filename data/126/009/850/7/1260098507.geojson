@@ -1,0 +1,72 @@
+{
+  "id": 1260098507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.16667,7.2,-2.16667,7.2",
+    "geom:latitude":7.2,
+    "geom:longitude":-2.16667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Chwiwaho",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302114,
+    "gn:latitude":7.2,
+    "gn:longitude":-2.16667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chwiwaho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Twewaaho Number 1",
+        "Chwiwaho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302114
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"f7632baf5646c7a781d37b420c71a354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759835,
+            "locality_id":1260098507,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1260098507,
+    "wof:lastmodified":1537623705,
+    "wof:name":"Chwiwaho",
+    "wof:parent_id":1108759835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.16667,
+    7.2,
+    -2.16667,
+    7.2
+],
+  "geometry": {"coordinates":[-2.16667,7.2],"type":"Point"}
+}

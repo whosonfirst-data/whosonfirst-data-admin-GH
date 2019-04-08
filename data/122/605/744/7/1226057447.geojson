@@ -1,0 +1,67 @@
+{
+  "id": 1226057447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.46357,5.35341,-2.46357,5.35341",
+    "geom:latitude":5.35341,
+    "geom:longitude":-2.46357,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kwakumensakrom",
+    "gn:country_code":"GH",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298692,
+    "gn:latitude":5.35341,
+    "gn:longitude":-2.46357,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Kwakumensakrom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298692
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"727f0ae1837d3339e8069e0c8d180f0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760007,
+            "locality_id":1226057447,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1226057447,
+    "wof:lastmodified":1536708530,
+    "wof:name":"Kwakumensakrom",
+    "wof:parent_id":1108760007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.46357,
+    5.35341,
+    -2.46357,
+    5.35341
+],
+  "geometry": {"coordinates":[-2.46357,5.35341],"type":"Point"}
+}

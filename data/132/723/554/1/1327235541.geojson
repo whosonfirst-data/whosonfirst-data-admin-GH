@@ -1,0 +1,71 @@
+{
+  "id": 1327235541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.45857,5.68318,-0.45857,5.68318",
+    "geom:latitude":5.68318,
+    "geom:longitude":-0.45857,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Honise",
+    "gn:country_code":"GH",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300359,
+    "gn:latitude":5.68318,
+    "gn:longitude":-0.45857,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Honise",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Honi Seh",
+        "Honise"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671353,
+        1108759909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300359
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"249126944cb06db986c9ad69e40b5363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759909,
+            "locality_id":1327235541,
+            "region_id":85671353
+        }
+    ],
+    "wof:id":1327235541,
+    "wof:lastmodified":1537623637,
+    "wof:name":"Honise",
+    "wof:parent_id":1108759909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.45857,
+    5.68318,
+    -0.45857,
+    5.68318
+],
+  "geometry": {"coordinates":[-0.45857,5.68318],"type":"Point"}
+}

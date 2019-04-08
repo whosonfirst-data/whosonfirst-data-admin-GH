@@ -1,0 +1,71 @@
+{
+  "id": 1293015387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.56131,5.07449,-2.56131,5.07449",
+    "geom:latitude":5.07449,
+    "geom:longitude":-2.56131,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kunvi",
+    "gn:country_code":"GH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298808,
+    "gn:latitude":5.07449,
+    "gn:longitude":-2.56131,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kunvi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kunyi",
+        "Kunvi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298808
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"e1e7ce135062219f00371c9ac7a2a41e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760001,
+            "locality_id":1293015387,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1293015387,
+    "wof:lastmodified":1537623581,
+    "wof:name":"Kunvi",
+    "wof:parent_id":1108760001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.56131,
+    5.07449,
+    -2.56131,
+    5.07449
+],
+  "geometry": {"coordinates":[-2.56131,5.07449],"type":"Point"}
+}

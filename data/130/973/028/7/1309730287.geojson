@@ -1,0 +1,74 @@
+{
+  "id": 1309730287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.6905,10.4989,-2.6905,10.4989",
+    "geom:latitude":10.4989,
+    "geom:longitude":-2.6905,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kapachuhu",
+    "gn:country_code":"GH",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299789,
+    "gn:latitude":10.4989,
+    "gn:longitude":-2.6905,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Kapachuhu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Moiri"
+    ],
+    "name:und_x_variant":[
+        "Kpachuhu",
+        "Kapachuhu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299789
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"b45a0f8a34080cb7e6bb000df24727b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759955,
+            "locality_id":1309730287,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1309730287,
+    "wof:lastmodified":1537623613,
+    "wof:name":"Kapachuhu",
+    "wof:parent_id":1108759955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.6905,
+    10.4989,
+    -2.6905,
+    10.4989
+],
+  "geometry": {"coordinates":[-2.6905,10.4989],"type":"Point"}
+}

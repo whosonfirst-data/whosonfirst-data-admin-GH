@@ -1,0 +1,65 @@
+{
+  "id": 1209429691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.09628,10.9996,-0.09628,10.9996",
+    "geom:latitude":10.9996,
+    "geom:longitude":-0.09628,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Susuli",
+    "gn:country_code":"GH",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294983,
+    "gn:latitude":10.9996,
+    "gn:longitude":-0.09628,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Susuli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Susudi",
+        "Susuli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294983
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"5ce648f46b54ac53c5303f87ff6bc50e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209429691
+        }
+    ],
+    "wof:id":1209429691,
+    "wof:lastmodified":1537623445,
+    "wof:name":"Susuli",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.09628,
+    10.9996,
+    -0.09628,
+    10.9996
+],
+  "geometry": {"coordinates":[-0.09628,10.9996],"type":"Point"}
+}

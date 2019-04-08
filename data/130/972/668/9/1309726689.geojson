@@ -1,0 +1,72 @@
+{
+  "id": 1309726689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.62568,6.19878,-1.62568,6.19878",
+    "geom:latitude":6.19878,
+    "geom:longitude":-1.62568,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Akaporiso",
+    "gn:country_code":"GH",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305201,
+    "gn:latitude":6.19878,
+    "gn:longitude":-1.62568,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Akaporiso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akapotiso",
+        "Akaporiso",
+        "Akapoliso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305201
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"0c344e4f9dad3d8cc9226b225ef6fcf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759773,
+            "locality_id":1309726689,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1309726689,
+    "wof:lastmodified":1537623812,
+    "wof:name":"Akaporiso",
+    "wof:parent_id":1108759773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.62568,
+    6.19878,
+    -1.62568,
+    6.19878
+],
+  "geometry": {"coordinates":[-1.62568,6.19878],"type":"Point"}
+}

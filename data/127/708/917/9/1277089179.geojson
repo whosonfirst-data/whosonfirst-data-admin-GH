@@ -1,0 +1,67 @@
+{
+  "id": 1277089179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.51667,6.2,0.51667,6.2",
+    "geom:latitude":6.2,
+    "geom:longitude":0.51667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kpekpo",
+    "gn:country_code":"GH",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299202,
+    "gn:latitude":6.2,
+    "gn:longitude":0.51667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Kpekpo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299202
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"701186dc7e6f5b0afe2d978ad62dae7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759967,
+            "locality_id":1277089179,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1277089179,
+    "wof:lastmodified":1536758400,
+    "wof:name":"Kpekpo",
+    "wof:parent_id":1108759967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.51667,
+    6.2,
+    0.51667,
+    6.2
+],
+  "geometry": {"coordinates":[0.51667,6.2],"type":"Point"}
+}

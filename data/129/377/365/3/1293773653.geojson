@@ -1,0 +1,70 @@
+{
+  "id": 1293773653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.10442,4.9164,-2.10442,4.9164",
+    "geom:latitude":4.9164,
+    "geom:longitude":-2.10442,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Nyubasa",
+    "gn:country_code":"GH",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296706,
+    "gn:latitude":4.9164,
+    "gn:longitude":-2.10442,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Nyubasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nyubasa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296706
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"71f6ff3cafc72f20bacb16f607fd9142",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760007,
+            "locality_id":1293773653,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1293773653,
+    "wof:lastmodified":1537623505,
+    "wof:name":"Nyubasa",
+    "wof:parent_id":1108760007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.10442,
+    4.9164,
+    -2.10442,
+    4.9164
+],
+  "geometry": {"coordinates":[-2.10442,4.9164],"type":"Point"}
+}

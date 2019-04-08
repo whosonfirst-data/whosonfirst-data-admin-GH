@@ -1,0 +1,71 @@
+{
+  "id": 1343280365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.9225,5.52558,-1.9225,5.52558",
+    "geom:latitude":5.52558,
+    "geom:longitude":-1.9225,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kuranti",
+    "gn:country_code":"GH",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298798,
+    "gn:latitude":5.52558,
+    "gn:longitude":-1.9225,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Kuranti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Korantsi",
+        "Kuranti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298798
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"5ca5d51266586cbc88412cdbf119b623",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760017,
+            "locality_id":1343280365,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1343280365,
+    "wof:lastmodified":1537623580,
+    "wof:name":"Kuranti",
+    "wof:parent_id":1108760017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.9225,
+    5.52558,
+    -1.9225,
+    5.52558
+],
+  "geometry": {"coordinates":[-1.9225,5.52558],"type":"Point"}
+}

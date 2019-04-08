@@ -1,0 +1,67 @@
+{
+  "id": 1327044621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.01667,5.98333,-0.01667,5.98333",
+    "geom:latitude":5.98333,
+    "geom:longitude":-0.01667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Abonse",
+    "gn:country_code":"GH",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306430,
+    "gn:latitude":5.98333,
+    "gn:longitude":-0.01667,
+    "gn:modification_date":"2017-05-31",
+    "gn:name":"Abonse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306430
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"c81255b7c8cd538f329ca42ca5261878",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759871,
+            "locality_id":1327044621,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1327044621,
+    "wof:lastmodified":1536742515,
+    "wof:name":"Abonse",
+    "wof:parent_id":1108759871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.01667,
+    5.98333,
+    -0.01667,
+    5.98333
+],
+  "geometry": {"coordinates":[-0.01667,5.98333],"type":"Point"}
+}

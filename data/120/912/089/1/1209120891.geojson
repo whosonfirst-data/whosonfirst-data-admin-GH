@@ -1,0 +1,62 @@
+{
+  "id": 1209120891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.01607,5.56575,-2.01607,5.56575",
+    "geom:latitude":5.56575,
+    "geom:longitude":-2.01607,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bogoso",
+    "gn:country_code":"GH",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302877,
+    "gn:latitude":5.56575,
+    "gn:longitude":-2.01607,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Bogoso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302877,
+        "wk:page":"Bogoso"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"53323d67a1f9f76ee6709fbdfc2478a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209120891
+        }
+    ],
+    "wof:id":1209120891,
+    "wof:lastmodified":1537563053,
+    "wof:name":"Bogoso",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.01607,
+    5.56575,
+    -2.01607,
+    5.56575
+],
+  "geometry": {"coordinates":[-2.01607,5.56575],"type":"Point"}
+}

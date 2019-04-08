@@ -1,0 +1,71 @@
+{
+  "id": 1226762185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.8133,6.63741,-1.8133,6.63741",
+    "geom:latitude":6.63741,
+    "geom:longitude":-1.8133,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Jankoba",
+    "gn:country_code":"GH",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300202,
+    "gn:latitude":6.63741,
+    "gn:longitude":-1.8133,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Jankoba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gyankoba",
+        "Jankoba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300202
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a22b24aa5ab5e7b255b6c23260698f62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759791,
+            "locality_id":1226762185,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1226762185,
+    "wof:lastmodified":1537623630,
+    "wof:name":"Jankoba",
+    "wof:parent_id":1108759791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.8133,
+    6.63741,
+    -1.8133,
+    6.63741
+],
+  "geometry": {"coordinates":[-1.8133,6.63741],"type":"Point"}
+}

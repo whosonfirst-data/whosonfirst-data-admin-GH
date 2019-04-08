@@ -1,0 +1,73 @@
+{
+  "id": 1225962525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.69175,5.48511,-1.69175,5.48511",
+    "geom:latitude":5.48511,
+    "geom:longitude":-1.69175,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Dwaben",
+    "gn:country_code":"GH",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300031,
+    "gn:latitude":5.48511,
+    "gn:longitude":-1.69175,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Dwaben",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dwaben"
+    ],
+    "name:eng_x_variant":[
+        "Juaben"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300031
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"0ce597e0e7e675ccbdfddac9b0384a79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760005,
+            "locality_id":1225962525,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1225962525,
+    "wof:lastmodified":1537623623,
+    "wof:name":"Dwaben",
+    "wof:parent_id":1108760005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.69175,
+    5.48511,
+    -1.69175,
+    5.48511
+],
+  "geometry": {"coordinates":[-1.69175,5.48511],"type":"Point"}
+}

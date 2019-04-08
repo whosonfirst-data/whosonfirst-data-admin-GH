@@ -1,0 +1,72 @@
+{
+  "id": 1360094925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.63333,7.68333,-0.63333,7.68333",
+    "geom:latitude":7.68333,
+    "geom:longitude":-0.63333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dwan",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301385,
+    "gn:latitude":7.68333,
+    "gn:longitude":-0.63333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dwan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dwankurom",
+        "Dwan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301385
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ae2f71e7d99a65b8a8d7f1e3dd2bbf86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759829,
+            "locality_id":1360094925,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1360094925,
+    "wof:lastmodified":1537623678,
+    "wof:name":"Dwan",
+    "wof:parent_id":1108759829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.63333,
+    7.68333,
+    -0.63333,
+    7.68333
+],
+  "geometry": {"coordinates":[-0.63333,7.68333],"type":"Point"}
+}

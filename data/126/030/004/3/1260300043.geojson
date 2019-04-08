@@ -1,0 +1,71 @@
+{
+  "id": 1260300043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.80771,5.83567,0.80771,5.83567",
+    "geom:latitude":5.83567,
+    "geom:longitude":0.80771,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Floto",
+    "gn:country_code":"GH",
+    "gn:dem":-2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300907,
+    "gn:latitude":5.83567,
+    "gn:longitude":0.80771,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Floto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Florto",
+        "Floto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300907
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a821b39e66eae364b757beb22fdcf35b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759981,
+            "locality_id":1260300043,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1260300043,
+    "wof:lastmodified":1537623658,
+    "wof:name":"Floto",
+    "wof:parent_id":1108759981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.80771,
+    5.83567,
+    0.80771,
+    5.83567
+],
+  "geometry": {"coordinates":[0.80771,5.83567],"type":"Point"}
+}

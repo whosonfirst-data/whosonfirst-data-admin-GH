@@ -1,0 +1,72 @@
+{
+  "id": 1276350475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.2,5.25,-2.2,5.25",
+    "geom:latitude":5.25,
+    "geom:longitude":-2.2,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Auraso",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303754,
+    "gn:latitude":5.25,
+    "gn:longitude":-2.2,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Auraso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Awurawso",
+        "Auraso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303754
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"7946fb99fb56b862a67e1b166b876a50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760007,
+            "locality_id":1276350475,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1276350475,
+    "wof:lastmodified":1537623761,
+    "wof:name":"Auraso",
+    "wof:parent_id":1108760007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.2,
+    5.25,
+    -2.2,
+    5.25
+],
+  "geometry": {"coordinates":[-2.2,5.25],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343968131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.96667,6.61667,-0.96667,6.61667",
+    "geom:latitude":6.61667,
+    "geom:longitude":-0.96667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Fomangkuma",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300893,
+    "gn:latitude":6.61667,
+    "gn:longitude":-0.96667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Fomangkuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fomankuma",
+        "Fomangkuma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300893
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"42d3ef9eedb027ad77d022dc68f62b63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759789,
+            "locality_id":1343968131,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1343968131,
+    "wof:lastmodified":1537623657,
+    "wof:name":"Fomangkuma",
+    "wof:parent_id":1108759789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.96667,
+    6.61667,
+    -0.96667,
+    6.61667
+],
+  "geometry": {"coordinates":[-0.96667,6.61667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310711649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.7296,6.98683,-1.7296,6.98683",
+    "geom:latitude":6.98683,
+    "geom:longitude":-1.7296,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Nkawdan",
+    "gn:country_code":"GH",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297318,
+    "gn:latitude":6.98683,
+    "gn:longitude":-1.7296,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Nkawdan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nkawdan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297318
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"50b8c944124a265f563f16d6a9247000",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759805,
+            "locality_id":1310711649,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1310711649,
+    "wof:lastmodified":1537623527,
+    "wof:name":"Nkawdan",
+    "wof:parent_id":1108759805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.7296,
+    6.98683,
+    -1.7296,
+    6.98683
+],
+  "geometry": {"coordinates":[-1.7296,6.98683],"type":"Point"}
+}

@@ -1,0 +1,106 @@
+{
+  "id": 421178197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.80876,6.04024,-0.80876,6.04024",
+    "geom:latitude":6.04024,
+    "geom:longitude":-0.80876,
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Akwatia"
+    ],
+    "name:dut_x_preferred":[
+        "Akwatia"
+    ],
+    "name:eng_x_preferred":[
+        "Akwatia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06a9\u0648\u0627\u062a\u06cc\u0627"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30af\u30ef\u30c6\u30a3\u30a2"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u06a9\u0648\u0627\u062a\u06cc\u0627"
+    ],
+    "name:swe_x_preferred":[
+        "Akwatia"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06a9\u0648\u0627\u062a\u06cc\u0627"
+    ],
+    "qs:gn_country":"GH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2304931,
+    "qs:gn_pop":20451,
+    "qs:name":"Akwatia",
+    "qs:name_adm0":"Ghana",
+    "qs:name_adm1":"Eastern",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":24,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":278387,
+    "qs:woe_adm0":23424824,
+    "qs:woe_id":1326807,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":317,
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304931,
+        "gp:id":1326807,
+        "qs:id":278387,
+        "wd:id":"Q4702013",
+        "wk:page":"Akwatia"
+    },
+    "wof:country":"GH",
+    "wof:created":1459009173,
+    "wof:geomhash":"2011075daeb4aa1a3989c305073bc8e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759885,
+            "locality_id":421178197,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":421178197,
+    "wof:lastmodified":1527717724,
+    "wof:name":"Akwatia",
+    "wof:parent_id":1108759885,
+    "wof:placetype":"locality",
+    "wof:population":20451,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.80876,
+    6.04024,
+    -0.80876,
+    6.04024
+],
+  "geometry": {"coordinates":[-0.80876,6.04024],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327249687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.40921,5.81603,-1.40921,5.81603",
+    "geom:latitude":5.81603,
+    "geom:longitude":-1.40921,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ninchiso",
+    "gn:country_code":"GH",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297368,
+    "gn:latitude":5.81603,
+    "gn:longitude":-1.40921,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ninchiso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Basofi Ningo",
+        "Nekyeso Chuanka",
+        "Ninchiso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297368
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"68d5c9cb1156f4a4a562daa2ddba87a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759849,
+            "locality_id":1327249687,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1327249687,
+    "wof:lastmodified":1537623529,
+    "wof:name":"Ninchiso",
+    "wof:parent_id":1108759849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.40921,
+    5.81603,
+    -1.40921,
+    5.81603
+],
+  "geometry": {"coordinates":[-1.40921,5.81603],"type":"Point"}
+}

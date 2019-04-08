@@ -1,0 +1,67 @@
+{
+  "id": 1310519645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.05004,10.4615,-1.05004,10.4615",
+    "geom:latitude":10.4615,
+    "geom:longitude":-1.05004,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Pasinkpe-Ipala",
+    "gn:country_code":"GH",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296078,
+    "gn:latitude":10.4615,
+    "gn:longitude":-1.05004,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Pasinkpe-Ipala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296078
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"7c6b7a4ab5f6f6f8b52a2fd3e5585cd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759937,
+            "locality_id":1310519645,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1310519645,
+    "wof:lastmodified":1536896334,
+    "wof:name":"Pasinkpe-Ipala",
+    "wof:parent_id":1108759937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.05004,
+    10.4615,
+    -1.05004,
+    10.4615
+],
+  "geometry": {"coordinates":[-1.05004,10.4615],"type":"Point"}
+}

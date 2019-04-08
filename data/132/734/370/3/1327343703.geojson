@@ -1,0 +1,70 @@
+{
+  "id": 1327343703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.83682,7.19455,-2.83682,7.19455",
+    "geom:latitude":7.19455,
+    "geom:longitude":-2.83682,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Manteware",
+    "gn:country_code":"GH",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298169,
+    "gn:latitude":7.19455,
+    "gn:longitude":-2.83682,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Manteware",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mantiwari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298169
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ccf676b36cce20cb33c593cfede9d64c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759821,
+            "locality_id":1327343703,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1327343703,
+    "wof:lastmodified":1537623559,
+    "wof:name":"Manteware",
+    "wof:parent_id":1108759821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.83682,
+    7.19455,
+    -2.83682,
+    7.19455
+],
+  "geometry": {"coordinates":[-2.83682,7.19455],"type":"Point"}
+}

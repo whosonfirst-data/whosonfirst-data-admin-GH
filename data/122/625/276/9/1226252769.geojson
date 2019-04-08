@@ -1,0 +1,76 @@
+{
+  "id": 1226252769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.78516,7.5758,-2.78516,7.5758",
+    "geom:latitude":7.5758,
+    "geom:longitude":-2.78516,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"7648987",
+    "gn:asciiname":"Japekrom",
+    "gn:country_code":"GH",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2300182,
+    "gn:latitude":7.5758,
+    "gn:longitude":-2.78516,
+    "gn:modification_date":"2018-03-18",
+    "gn:name":"Japekrom",
+    "gn:population":96000,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gyapekurom",
+        "Japekrom"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300182,
+        "wk:page":"Japekrom"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"b25d28b2c64686f3f9c0ca46fb966824",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759823,
+            "locality_id":1226252769,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1226252769,
+    "wof:lastmodified":1537623629,
+    "wof:name":"Japekrom",
+    "wof:parent_id":1108759823,
+    "wof:placetype":"locality",
+    "wof:population":96000,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.78516,
+    7.5758,
+    -2.78516,
+    7.5758
+],
+  "geometry": {"coordinates":[-2.78516,7.5758],"type":"Point"}
+}

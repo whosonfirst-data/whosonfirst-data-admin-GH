@@ -1,0 +1,71 @@
+{
+  "id": 1277089089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.68444,5.74141,-2.68444,5.74141",
+    "geom:latitude":5.74141,
+    "geom:longitude":-2.68444,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Disuanu",
+    "gn:country_code":"GH",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301723,
+    "gn:latitude":5.74141,
+    "gn:longitude":-2.68444,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Disuanu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Disuenoa",
+        "Disuanu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108759997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301723
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"df10451d79f0eef7479a907b5f47690d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759997,
+            "locality_id":1277089089,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1277089089,
+    "wof:lastmodified":1537623692,
+    "wof:name":"Disuanu",
+    "wof:parent_id":1108759997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.68444,
+    5.74141,
+    -2.68444,
+    5.74141
+],
+  "geometry": {"coordinates":[-2.68444,5.74141],"type":"Point"}
+}

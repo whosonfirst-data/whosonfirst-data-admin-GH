@@ -1,0 +1,70 @@
+{
+  "id": 1276672647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.94551,5.70791,-1.94551,5.70791",
+    "geom:latitude":5.70791,
+    "geom:longitude":-1.94551,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Amakrom",
+    "gn:country_code":"GH",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304869,
+    "gn:latitude":5.70791,
+    "gn:longitude":-1.94551,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Amakrom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Amakrom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304869
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"e1b2d12812a0e38a764fe271aadbb4bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760015,
+            "locality_id":1276672647,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1276672647,
+    "wof:lastmodified":1537623799,
+    "wof:name":"Amakrom",
+    "wof:parent_id":1108760015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.94551,
+    5.70791,
+    -1.94551,
+    5.70791
+],
+  "geometry": {"coordinates":[-1.94551,5.70791],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259493483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.47303,10.18833,-2.47303,10.18833",
+    "geom:latitude":10.18833,
+    "geom:longitude":-2.47303,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tabami",
+    "gn:country_code":"GH",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294959,
+    "gn:latitude":10.18833,
+    "gn:longitude":-2.47303,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tabami",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tibani",
+        "Tabami"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294959
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"2cc5b3e3262b63c740a672d23e6ee7c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759961,
+            "locality_id":1259493483,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1259493483,
+    "wof:lastmodified":1537623445,
+    "wof:name":"Tabami",
+    "wof:parent_id":1108759961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.47303,
+    10.18833,
+    -2.47303,
+    10.18833
+],
+  "geometry": {"coordinates":[-2.47303,10.18833],"type":"Point"}
+}

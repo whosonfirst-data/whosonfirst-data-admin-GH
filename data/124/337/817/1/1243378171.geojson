@@ -1,0 +1,73 @@
+{
+  "id": 1243378171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.56211,8.80524,-1.56211,8.80524",
+    "geom:latitude":8.80524,
+    "geom:longitude":-1.56211,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Old Buipe",
+    "gn:country_code":"GH",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302494,
+    "gn:latitude":8.80524,
+    "gn:longitude":-1.56211,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Old Buipe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "New Buipe",
+        "Buipe",
+        "Old Buipe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302494,
+        "wk:page":"Buipe"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"f0dab213026791d7fae2a848a9556e2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759921,
+            "locality_id":1243378171,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1243378171,
+    "wof:lastmodified":1537623718,
+    "wof:name":"Old Buipe",
+    "wof:parent_id":1108759921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.56211,
+    8.80524,
+    -1.56211,
+    8.80524
+],
+  "geometry": {"coordinates":[-1.56211,8.80524],"type":"Point"}
+}

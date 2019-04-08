@@ -1,0 +1,72 @@
+{
+  "id": 1209928849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.41292,6.29411,-0.41292,6.29411",
+    "geom:latitude":6.29411,
+    "geom:longitude":-0.41292,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bosuso",
+    "gn:country_code":"GH",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302655,
+    "gn:latitude":6.29411,
+    "gn:longitude":-0.41292,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bosuso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bososo",
+        "Bosuso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302655,
+        "wk:page":"Bososo"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"16b33e01df07b92f0b7f8662d3d071aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759883,
+            "locality_id":1209928849,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1209928849,
+    "wof:lastmodified":1537623724,
+    "wof:name":"Bosuso",
+    "wof:parent_id":1108759883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.41292,
+    6.29411,
+    -0.41292,
+    6.29411
+],
+  "geometry": {"coordinates":[-0.41292,6.29411],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260094963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.16056,5.73737,0.16056,5.73737",
+    "geom:latitude":5.73737,
+    "geom:longitude":0.16056,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"New Nigo",
+    "gn:country_code":"GH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297435,
+    "gn:latitude":5.73737,
+    "gn:longitude":0.16056,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"New Nigo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "New Nugo",
+        "New Nungo",
+        "New Ningo",
+        "New Nigo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671353,
+        1108759907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297435
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"eef9bf627047ad1767ec8fa027ce8fd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759907,
+            "locality_id":1260094963,
+            "region_id":85671353
+        }
+    ],
+    "wof:id":1260094963,
+    "wof:lastmodified":1537623531,
+    "wof:name":"New Nigo",
+    "wof:parent_id":1108759907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.16056,
+    5.73737,
+    0.16056,
+    5.73737
+],
+  "geometry": {"coordinates":[0.16056,5.73737],"type":"Point"}
+}

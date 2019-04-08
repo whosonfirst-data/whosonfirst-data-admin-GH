@@ -1,0 +1,61 @@
+{
+  "id": 1209633307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.86563,5.84001,0.86563,5.84001",
+    "geom:latitude":5.84001,
+    "geom:longitude":0.86563,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Deta",
+    "gn:country_code":"GH",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301795,
+    "gn:latitude":5.84001,
+    "gn:longitude":0.86563,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Deta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301795
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"44f3eb2f92fe9b6f03c2fae0d690dc9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209633307
+        }
+    ],
+    "wof:id":1209633307,
+    "wof:lastmodified":1536281122,
+    "wof:name":"Deta",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.8656299999999999,
+    5.84001,
+    0.8656299999999999,
+    5.84001
+],
+  "geometry": {"coordinates":[0.86563,5.84001],"type":"Point"}
+}

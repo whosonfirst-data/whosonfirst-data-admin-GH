@@ -1,0 +1,71 @@
+{
+  "id": 1226460655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.95773,9.35268,-0.95773,9.35268",
+    "geom:latitude":9.35268,
+    "geom:longitude":-0.95773,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Blahogo",
+    "gn:country_code":"GH",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302947,
+    "gn:latitude":9.35268,
+    "gn:longitude":-0.95773,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Blahogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gbulahagu",
+        "Blahogo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302947
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ed140e658cff95bbc11cfa2e5becf7a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759935,
+            "locality_id":1226460655,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1226460655,
+    "wof:lastmodified":1537623733,
+    "wof:name":"Blahogo",
+    "wof:parent_id":1108759935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.95773,
+    9.35268,
+    -0.95773,
+    9.35268
+],
+  "geometry": {"coordinates":[-0.95773,9.35268],"type":"Point"}
+}

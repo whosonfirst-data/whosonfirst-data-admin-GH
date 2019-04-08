@@ -1,0 +1,67 @@
+{
+  "id": 1327144269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.37467,6.71779,0.37467,6.71779",
+    "geom:latitude":6.71779,
+    "geom:longitude":0.37467,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Etoe",
+    "gn:country_code":"GH",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301055,
+    "gn:latitude":6.71779,
+    "gn:longitude":0.37467,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Etoe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301055
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"1877953d2fd2a791623b9c2736bbfa10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759971,
+            "locality_id":1327144269,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1327144269,
+    "wof:lastmodified":1537093545,
+    "wof:name":"Etoe",
+    "wof:parent_id":1108759971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.37467,
+    6.71779,
+    0.37467,
+    6.71779
+],
+  "geometry": {"coordinates":[0.37467,6.71779],"type":"Point"}
+}

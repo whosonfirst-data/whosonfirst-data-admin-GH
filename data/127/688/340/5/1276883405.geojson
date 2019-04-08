@@ -1,0 +1,71 @@
+{
+  "id": 1276883405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.43314,5.79161,0.43314,5.79161",
+    "geom:latitude":5.79161,
+    "geom:longitude":0.43314,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Lolonya",
+    "gn:country_code":"GH",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298385,
+    "gn:latitude":5.79161,
+    "gn:longitude":0.43314,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lolonya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lolanya",
+        "Lolonya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671353,
+        1108759903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298385
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"18c3c8127cbdc010d9c44f9c87d6094f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759903,
+            "locality_id":1276883405,
+            "region_id":85671353
+        }
+    ],
+    "wof:id":1276883405,
+    "wof:lastmodified":1537623566,
+    "wof:name":"Lolonya",
+    "wof:parent_id":1108759903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.43314,
+    5.79161,
+    0.43314,
+    5.79161
+],
+  "geometry": {"coordinates":[0.43314,5.79161],"type":"Point"}
+}

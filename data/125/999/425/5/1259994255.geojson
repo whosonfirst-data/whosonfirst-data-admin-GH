@@ -1,0 +1,72 @@
+{
+  "id": 1259994255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.48333,6.9,-2.48333,6.9",
+    "geom:latitude":6.9,
+    "geom:longitude":-2.48333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nkranfokrom",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297279,
+    "gn:latitude":6.9,
+    "gn:longitude":-2.48333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nkranfokrom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nkranfokurom Number 2",
+        "Nkranfokrom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297279
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"f94752a9f431aab33196942e91e2af5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759813,
+            "locality_id":1259994255,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1259994255,
+    "wof:lastmodified":1537623526,
+    "wof:name":"Nkranfokrom",
+    "wof:parent_id":1108759813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.48333,
+    6.9,
+    -2.48333,
+    6.9
+],
+  "geometry": {"coordinates":[-2.48333,6.9],"type":"Point"}
+}

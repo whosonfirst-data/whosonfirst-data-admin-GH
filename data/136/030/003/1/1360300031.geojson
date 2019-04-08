@@ -1,0 +1,73 @@
+{
+  "id": 1360300031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.16667,10.25,0.16667,10.25",
+    "geom:latitude":10.25,
+    "geom:longitude":0.16667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kokpogele",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299447,
+    "gn:latitude":10.25,
+    "gn:longitude":0.16667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kokpogele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kokpuguri",
+        "Kukpogli",
+        "Kokpogele"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299447
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"3b9800c1b85d6c609f099521cb3b11ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759929,
+            "locality_id":1360300031,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1360300031,
+    "wof:lastmodified":1537623601,
+    "wof:name":"Kokpogele",
+    "wof:parent_id":1108759929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.16667,
+    10.25,
+    0.16667,
+    10.25
+],
+  "geometry": {"coordinates":[0.16667,10.25],"type":"Point"}
+}

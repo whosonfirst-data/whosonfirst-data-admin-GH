@@ -1,0 +1,73 @@
+{
+  "id": 1276133457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.8333,6.14286,-1.8333,6.14286",
+    "geom:latitude":6.14286,
+    "geom:longitude":-1.8333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bunso",
+    "gn:country_code":"GH",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301332,
+    "gn:latitude":6.14286,
+    "gn:longitude":-1.8333,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Bunso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bunso"
+    ],
+    "name:eng_x_variant":[
+        "Ebunuso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301332
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"5e405305cb5a19d1b8360a3555617afe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759783,
+            "locality_id":1276133457,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1276133457,
+    "wof:lastmodified":1537623675,
+    "wof:name":"Bunso",
+    "wof:parent_id":1108759783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.8333,
+    6.14286,
+    -1.8333,
+    6.14286
+],
+  "geometry": {"coordinates":[-1.8333,6.14286],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327449587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.66308,4.99765,-1.66308,4.99765",
+    "geom:latitude":4.99765,
+    "geom:longitude":-1.66308,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nyankrom",
+    "gn:country_code":"GH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296809,
+    "gn:latitude":4.99765,
+    "gn:longitude":-1.66308,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nyankrom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anyakrom",
+        "Nyankrom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296809
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"7a58da4dcd41459118ec02dbceb87783",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760011,
+            "locality_id":1327449587,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1327449587,
+    "wof:lastmodified":1537623508,
+    "wof:name":"Nyankrom",
+    "wof:parent_id":1108760011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.66308,
+    4.99765,
+    -1.66308,
+    4.99765
+],
+  "geometry": {"coordinates":[-1.66308,4.99765],"type":"Point"}
+}

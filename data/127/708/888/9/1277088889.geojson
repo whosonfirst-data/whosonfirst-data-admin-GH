@@ -1,0 +1,70 @@
+{
+  "id": 1277088889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.52829,6.60824,-1.52829,6.60824",
+    "geom:latitude":6.60824,
+    "geom:longitude":-1.52829,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Atobiase",
+    "gn:country_code":"GH",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303817,
+    "gn:latitude":6.60824,
+    "gn:longitude":-1.52829,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Atobiase",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Atobiasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303817
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"23375e1f409791a48da4033ed19a5181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759793,
+            "locality_id":1277088889,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1277088889,
+    "wof:lastmodified":1537623763,
+    "wof:name":"Atobiase",
+    "wof:parent_id":1108759793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.52829,
+    6.60824,
+    -1.52829,
+    6.60824
+],
+  "geometry": {"coordinates":[-1.52829,6.60824],"type":"Point"}
+}

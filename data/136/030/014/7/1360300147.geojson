@@ -1,0 +1,74 @@
+{
+  "id": 1360300147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.62099,5.11775,-1.62099,5.11775",
+    "geom:latitude":5.11775,
+    "geom:longitude":-1.62099,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Dunkwa",
+    "gn:country_code":"GH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301404,
+    "gn:latitude":5.11775,
+    "gn:longitude":-1.62099,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Dunkwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Supon Dunkwa"
+    ],
+    "name:und_x_variant":[
+        "Supowmu Dunkwa",
+        "Dunkwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301404
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"adac12b3034cdc48361f1bbdad6a340e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760005,
+            "locality_id":1360300147,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1360300147,
+    "wof:lastmodified":1537623679,
+    "wof:name":"Dunkwa",
+    "wof:parent_id":1108760005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.62099,
+    5.11775,
+    -1.62099,
+    5.11775
+],
+  "geometry": {"coordinates":[-1.62099,5.11775],"type":"Point"}
+}

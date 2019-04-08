@@ -1,0 +1,65 @@
+{
+  "id": 1209014663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.18563,10.85199,-1.18563,10.85199",
+    "geom:latitude":10.85199,
+    "geom:longitude":-1.18563,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Yipala",
+    "gn:country_code":"GH",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293771,
+    "gn:latitude":10.85199,
+    "gn:longitude":-1.18563,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yipala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chuchilliga Azuguyeri Yipala",
+        "Yipala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293771
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ae56810ecabe5f468b12fb85e6c4ad32",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209014663
+        }
+    ],
+    "wof:id":1209014663,
+    "wof:lastmodified":1537623402,
+    "wof:name":"Yipala",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.18563,
+    10.85199,
+    -1.18563,
+    10.85199
+],
+  "geometry": {"coordinates":[-1.18563,10.85199],"type":"Point"}
+}

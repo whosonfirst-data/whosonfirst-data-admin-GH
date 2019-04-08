@@ -1,0 +1,77 @@
+{
+  "id": 1293399911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.97433,4.76896,-1.97433,4.76896",
+    "geom:latitude":4.76896,
+    "geom:longitude":-1.97433,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Atwiwa",
+    "gn:country_code":"GH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306035,
+    "gn:latitude":4.76896,
+    "gn:longitude":-1.97433,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Atwiwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Atwiwa"
+    ],
+    "name:und_x_variant":[
+        "Atwewa",
+        "Achawa",
+        "Achunwa",
+        "Achowa Acherim",
+        "Achowa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108759993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306035
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"70f1a3fdec594a2b0636b87a45242ddf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759993,
+            "locality_id":1293399911,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1293399911,
+    "wof:lastmodified":1537623841,
+    "wof:name":"Atwiwa",
+    "wof:parent_id":1108759993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.97433,
+    4.76896,
+    -1.97433,
+    4.76896
+],
+  "geometry": {"coordinates":[-1.97433,4.76896],"type":"Point"}
+}

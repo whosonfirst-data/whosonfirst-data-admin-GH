@@ -1,0 +1,65 @@
+{
+  "id": 1209232883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.7084,5.82386,-2.7084,5.82386",
+    "geom:latitude":5.82386,
+    "geom:longitude":-2.7084,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Yauso",
+    "gn:country_code":"GH",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293828,
+    "gn:latitude":5.82386,
+    "gn:longitude":-2.7084,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yauso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yaudukukrom",
+        "Yauso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293828
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"69d8536e226f6bddf7ed2253b9a59bc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209232883
+        }
+    ],
+    "wof:id":1209232883,
+    "wof:lastmodified":1537623403,
+    "wof:name":"Yauso",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.7084,
+    5.82386,
+    -2.7084,
+    5.82386
+],
+  "geometry": {"coordinates":[-2.7084,5.82386],"type":"Point"}
+}

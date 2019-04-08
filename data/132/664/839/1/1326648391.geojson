@@ -1,0 +1,71 @@
+{
+  "id": 1326648391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.71368,5.52066,-0.71368,5.52066",
+    "geom:latitude":5.52066,
+    "geom:longitude":-0.71368,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gomoa Akroful",
+    "gn:country_code":"GH",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300599,
+    "gn:latitude":5.52066,
+    "gn:longitude":-0.71368,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gomoa Akroful",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gomoa Ekuroful",
+        "Gomoa Akroful"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300599
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ca86bf5e573ed0cf65319a60caa72770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759843,
+            "locality_id":1326648391,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1326648391,
+    "wof:lastmodified":1537623647,
+    "wof:name":"Gomoa Akroful",
+    "wof:parent_id":1108759843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.71368,
+    5.52066,
+    -0.71368,
+    5.52066
+],
+  "geometry": {"coordinates":[-0.71368,5.52066],"type":"Point"}
+}

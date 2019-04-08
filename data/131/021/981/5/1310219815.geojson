@@ -1,0 +1,71 @@
+{
+  "id": 1310219815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.43855,5.06422,-1.43855,5.06422",
+    "geom:latitude":5.06422,
+    "geom:longitude":-1.43855,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ampeni",
+    "gn:country_code":"GH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304708,
+    "gn:latitude":5.06422,
+    "gn:longitude":-1.43855,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ampeni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ampenyi",
+        "Ampeni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304708
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"be2a9295b1c7f96b68c10635e6afa61b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759859,
+            "locality_id":1310219815,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1310219815,
+    "wof:lastmodified":1537623794,
+    "wof:name":"Ampeni",
+    "wof:parent_id":1108759859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.43855,
+    5.06422,
+    -1.43855,
+    5.06422
+],
+  "geometry": {"coordinates":[-1.43855,5.06422],"type":"Point"}
+}

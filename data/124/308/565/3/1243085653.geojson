@@ -1,0 +1,67 @@
+{
+  "id": 1243085653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.51577,6.76851,0.51577,6.76851",
+    "geom:latitude":6.76851,
+    "geom:longitude":0.51577,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Awiaso",
+    "gn:country_code":"GH",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303655,
+    "gn:latitude":6.76851,
+    "gn:longitude":0.51577,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Awiaso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303655
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"921895fcdb59eebf5dea0cc49670ab06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759971,
+            "locality_id":1243085653,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1243085653,
+    "wof:lastmodified":1536827653,
+    "wof:name":"Awiaso",
+    "wof:parent_id":1108759971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.51577,
+    6.76851,
+    0.51577,
+    6.76851
+],
+  "geometry": {"coordinates":[0.51577,6.76851],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310519837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.79315,10.93384,-2.79315,10.93384",
+    "geom:latitude":10.93384,
+    "geom:longitude":-2.79315,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Tantuo",
+    "gn:country_code":"GH",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294788,
+    "gn:latitude":10.93384,
+    "gn:longitude":-2.79315,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Tantuo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tantuo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294788
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"9519b91676fce6430277a9b65eb743c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759957,
+            "locality_id":1310519837,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1310519837,
+    "wof:lastmodified":1537623439,
+    "wof:name":"Tantuo",
+    "wof:parent_id":1108759957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.79315,
+    10.93384,
+    -2.79315,
+    10.93384
+],
+  "geometry": {"coordinates":[-2.79315,10.93384],"type":"Point"}
+}

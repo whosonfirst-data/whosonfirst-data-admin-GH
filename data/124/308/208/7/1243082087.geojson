@@ -1,0 +1,71 @@
+{
+  "id": 1243082087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.90495,5.01394,-1.90495,5.01394",
+    "geom:latitude":5.01394,
+    "geom:longitude":-1.90495,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Nyamibechere",
+    "gn:country_code":"GH",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296895,
+    "gn:latitude":5.01394,
+    "gn:longitude":-1.90495,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Nyamibechere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nyamebekyere",
+        "Nyamibechere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296895
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"f5073c950eb6699e0529f5889e2790ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760005,
+            "locality_id":1243082087,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1243082087,
+    "wof:lastmodified":1537623512,
+    "wof:name":"Nyamibechere",
+    "wof:parent_id":1108760005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.90495,
+    5.01394,
+    -1.90495,
+    5.01394
+],
+  "geometry": {"coordinates":[-1.90495,5.01394],"type":"Point"}
+}

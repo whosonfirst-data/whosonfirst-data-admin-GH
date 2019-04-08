@@ -1,0 +1,68 @@
+{
+  "id": 1310214963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.17808,11.02014,-0.17808,11.02014",
+    "geom:latitude":11.02014,
+    "geom:longitude":-0.17808,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gbeogo",
+    "gn:country_code":"GH",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300703,
+    "gn:latitude":11.02014,
+    "gn:longitude":-0.17808,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gbeogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300703,
+        "wk:page":"Gbeogo"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"129001d7f2018e8d484ecde2ebd080ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759943,
+            "locality_id":1310214963,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1310214963,
+    "wof:lastmodified":1537563046,
+    "wof:name":"Gbeogo",
+    "wof:parent_id":1108759943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.17808,
+    11.02014,
+    -0.17808,
+    11.02014
+],
+  "geometry": {"coordinates":[-0.17808,11.02014],"type":"Point"}
+}

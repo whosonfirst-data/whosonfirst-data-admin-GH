@@ -1,0 +1,67 @@
+{
+  "id": 1309813465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.68333,9.3,-0.68333,9.3",
+    "geom:latitude":9.3,
+    "geom:longitude":-0.68333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kpandele",
+    "gn:country_code":"GH",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299234,
+    "gn:latitude":9.3,
+    "gn:longitude":-0.68333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Kpandele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299234
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"6f764d08eeb787324ad7c1b25769bd37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759919,
+            "locality_id":1309813465,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1309813465,
+    "wof:lastmodified":1536920562,
+    "wof:name":"Kpandele",
+    "wof:parent_id":1108759919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.68333,
+    9.3,
+    -0.68333,
+    9.3
+],
+  "geometry": {"coordinates":[-0.68333,9.3],"type":"Point"}
+}

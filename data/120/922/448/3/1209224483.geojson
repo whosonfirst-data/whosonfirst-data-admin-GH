@@ -1,0 +1,65 @@
+{
+  "id": 1209224483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.82255,6.96452,-1.82255,6.96452",
+    "geom:latitude":6.96452,
+    "geom:longitude":-1.82255,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kwasiapiakrom",
+    "gn:country_code":"GH",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298597,
+    "gn:latitude":6.96452,
+    "gn:longitude":-1.82255,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Kwasiapiakrom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kwasiamakrom",
+        "Kwasiapiakrom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298597
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"e3fe9843a4b60e4b5f824824e215040f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209224483
+        }
+    ],
+    "wof:id":1209224483,
+    "wof:lastmodified":1537623573,
+    "wof:name":"Kwasiapiakrom",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.82255,
+    6.96452,
+    -1.82255,
+    6.96452
+],
+  "geometry": {"coordinates":[-1.82255,6.96452],"type":"Point"}
+}

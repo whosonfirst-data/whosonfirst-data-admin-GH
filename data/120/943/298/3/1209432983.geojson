@@ -1,0 +1,68 @@
+{
+  "id": 1209432983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.67695,6.92351,-1.67695,6.92351",
+    "geom:latitude":6.92351,
+    "geom:longitude":-1.67695,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Anyankaso",
+    "gn:country_code":"GH",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304447,
+    "gn:latitude":6.92351,
+    "gn:longitude":-1.67695,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Anyankaso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Anyankaso"
+    ],
+    "name:und_x_variant":[
+        "Ayankasin",
+        "Anyankasu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304447
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ab87aac154b562461f5a49d05bc92ecc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209432983
+        }
+    ],
+    "wof:id":1209432983,
+    "wof:lastmodified":1537623785,
+    "wof:name":"Anyankaso",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.67695,
+    6.92351,
+    -1.67695,
+    6.92351
+],
+  "geometry": {"coordinates":[-1.67695,6.92351],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327241497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.70556,10.59912,-2.70556,10.59912",
+    "geom:latitude":10.59912,
+    "geom:longitude":-2.70556,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Tizza",
+    "gn:country_code":"GH",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294545,
+    "gn:latitude":10.59912,
+    "gn:longitude":-2.70556,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Tizza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tiza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294545
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"d9664fdd8ed5d762add8ccf875f4df67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759955,
+            "locality_id":1327241497,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1327241497,
+    "wof:lastmodified":1537623430,
+    "wof:name":"Tizza",
+    "wof:parent_id":1108759955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.70556,
+    10.59912,
+    -2.70556,
+    10.59912
+],
+  "geometry": {"coordinates":[-2.70556,10.59912],"type":"Point"}
+}

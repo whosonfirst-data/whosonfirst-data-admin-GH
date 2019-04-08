@@ -1,0 +1,77 @@
+{
+  "id": 1276991167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.17729,4.81614,-2.17729,4.81614",
+    "geom:latitude":4.81614,
+    "geom:longitude":-2.17729,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Egyembra",
+    "gn:country_code":"GH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305308,
+    "gn:latitude":4.81614,
+    "gn:longitude":-2.17729,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Egyembra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Egyembra"
+    ],
+    "name:und_x_variant":[
+        "Egyambra",
+        "Ajemera",
+        "Adiembra",
+        "Agyembra",
+        "Ajemra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108759993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305308
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"aa1532f7dd5e61bbe95df9c47960a6fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759993,
+            "locality_id":1276991167,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1276991167,
+    "wof:lastmodified":1537623816,
+    "wof:name":"Egyembra",
+    "wof:parent_id":1108759993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.17729,
+    4.81614,
+    -2.17729,
+    4.81614
+],
+  "geometry": {"coordinates":[-2.17729,4.81614],"type":"Point"}
+}

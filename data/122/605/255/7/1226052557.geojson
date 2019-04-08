@@ -1,0 +1,71 @@
+{
+  "id": 1226052557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.91459,10.75621,-1.91459,10.75621",
+    "geom:latitude":10.75621,
+    "geom:longitude":-1.91459,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nanchula",
+    "gn:country_code":"GH",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297601,
+    "gn:latitude":10.75621,
+    "gn:longitude":-1.91459,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nanchula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nanchalla",
+        "Nanchula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297601
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"6b1b0f0c50c5a8cb75d323be82e038db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759963,
+            "locality_id":1226052557,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1226052557,
+    "wof:lastmodified":1537623537,
+    "wof:name":"Nanchula",
+    "wof:parent_id":1108759963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.91459,
+    10.75621,
+    -1.91459,
+    10.75621
+],
+  "geometry": {"coordinates":[-1.91459,10.75621],"type":"Point"}
+}

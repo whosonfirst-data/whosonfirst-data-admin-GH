@@ -1,0 +1,67 @@
+{
+  "id": 1226057459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.96667,7.55,-1.96667,7.55",
+    "geom:latitude":7.55,
+    "geom:longitude":-1.96667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Chwibia",
+    "gn:country_code":"GH",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302118,
+    "gn:latitude":7.55,
+    "gn:longitude":-1.96667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Chwibia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302118
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"14a0b455b7af7971719cf4eddfa44555",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759837,
+            "locality_id":1226057459,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1226057459,
+    "wof:lastmodified":1536708511,
+    "wof:name":"Chwibia",
+    "wof:parent_id":1108759837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.96667,
+    7.55,
+    -1.96667,
+    7.55
+],
+  "geometry": {"coordinates":[-1.96667,7.55],"type":"Point"}
+}

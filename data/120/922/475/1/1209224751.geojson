@@ -1,0 +1,61 @@
+{
+  "id": 1209224751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.38333,5.8,-2.38333,5.8",
+    "geom:latitude":5.8,
+    "geom:longitude":-2.38333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bopoakaw",
+    "gn:country_code":"GH",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302698,
+    "gn:latitude":5.8,
+    "gn:longitude":-2.38333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Bopoakaw",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302698
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"c4b3b9afaa823dd84333da9c715fc9df",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209224751
+        }
+    ],
+    "wof:id":1209224751,
+    "wof:lastmodified":1536293836,
+    "wof:name":"Bopoakaw",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.38333,
+    5.8,
+    -2.38333,
+    5.8
+],
+  "geometry": {"coordinates":[-2.38333,5.8],"type":"Point"}
+}

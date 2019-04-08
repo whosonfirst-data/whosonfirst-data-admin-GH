@@ -1,0 +1,65 @@
+{
+  "id": 1209433015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.50119,5.99723,0.50119,5.99723",
+    "geom:latitude":5.99723,
+    "geom:longitude":0.50119,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Fopu",
+    "gn:country_code":"GH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300889,
+    "gn:latitude":5.99723,
+    "gn:longitude":0.50119,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Fopu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Forkpo",
+        "Fopu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300889
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"60a14b4dc23fa6c9e4802fd399a97b5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209433015
+        }
+    ],
+    "wof:id":1209433015,
+    "wof:lastmodified":1537623657,
+    "wof:name":"Fopu",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.50119,
+    5.99723,
+    0.50119,
+    5.99723
+],
+  "geometry": {"coordinates":[0.50119,5.99723],"type":"Point"}
+}

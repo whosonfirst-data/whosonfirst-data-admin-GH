@@ -1,0 +1,93 @@
+{
+  "id": 890444267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.61275,6.73453,-1.61275,6.73453",
+    "geom:latitude":6.73453,
+    "geom:longitude":-1.61275,
+    "gn:country":"GH",
+    "gn:fcode":"PPL",
+    "gn:pop":50457,
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:aka_x_preferred":[
+        "Tafo"
+    ],
+    "name:dut_x_preferred":[
+        "Tafo"
+    ],
+    "name:eng_x_preferred":[
+        "Tafo"
+    ],
+    "name:ger_x_preferred":[
+        "Tafo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30d5\u30a9"
+    ],
+    "name:swe_x_preferred":[
+        "Tafo"
+    ],
+    "name:unk_x_variant":[
+        "Old Tafo"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0627\u0641\u0648"
+    ],
+    "qs:name":"Tafo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":377,
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294938,
+        "gp:id":1331548,
+        "qs:id":1034740,
+        "wd:id":"Q7674984",
+        "wk:page":"Tafo"
+    },
+    "wof:country":"GH",
+    "wof:created":1469052462,
+    "wof:geomhash":"782fea7aaf936d34f6e21ebc6fdea1fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759801,
+            "locality_id":890444267,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":890444267,
+    "wof:lastmodified":1553816400,
+    "wof:name":"Tafo",
+    "wof:parent_id":1108759801,
+    "wof:placetype":"locality",
+    "wof:population":50457,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.61275,
+    6.73453,
+    -1.61275,
+    6.73453
+],
+  "geometry": {"coordinates":[-1.61275,6.73453],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260197637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.86561,5.72475,-1.86561,5.72475",
+    "geom:latitude":5.72475,
+    "geom:longitude":-1.86561,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Nkaso",
+    "gn:country_code":"GH",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297325,
+    "gn:latitude":5.72475,
+    "gn:longitude":-1.86561,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Nkaso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nkaso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297325
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"68316a77dbab1e4ddaa85a79de8485c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760015,
+            "locality_id":1260197637,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1260197637,
+    "wof:lastmodified":1537623527,
+    "wof:name":"Nkaso",
+    "wof:parent_id":1108760015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.86561,
+    5.72475,
+    -1.86561,
+    5.72475
+],
+  "geometry": {"coordinates":[-1.86561,5.72475],"type":"Point"}
+}

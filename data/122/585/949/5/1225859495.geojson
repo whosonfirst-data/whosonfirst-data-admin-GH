@@ -1,0 +1,71 @@
+{
+  "id": 1225859495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.63811,6.46244,0.63811,6.46244",
+    "geom:latitude":6.46244,
+    "geom:longitude":0.63811,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Anfoe",
+    "gn:country_code":"GH",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304624,
+    "gn:latitude":6.46244,
+    "gn:longitude":0.63811,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Anfoe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adaklu Anfoe",
+        "Anfoe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304624
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ef9d391295d10f7fde957de06121f53a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759971,
+            "locality_id":1225859495,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1225859495,
+    "wof:lastmodified":1537623791,
+    "wof:name":"Anfoe",
+    "wof:parent_id":1108759971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.63811,
+    6.46244,
+    0.63811,
+    6.46244
+],
+  "geometry": {"coordinates":[0.63811,6.46244],"type":"Point"}
+}

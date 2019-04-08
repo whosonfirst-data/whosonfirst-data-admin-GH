@@ -1,0 +1,71 @@
+{
+  "id": 1193151765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.48837,5.72378,-2.48837,5.72378",
+    "geom:latitude":5.72378,
+    "geom:longitude":-2.48837,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Yirasi",
+    "gn:country_code":"GH",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293762,
+    "gn:latitude":5.72378,
+    "gn:longitude":-2.48837,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yirasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yerase",
+        "Yirasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293762
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"20eeb4ef70f49ab3a1d1de6b20fe9d78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760015,
+            "locality_id":1193151765,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1193151765,
+    "wof:lastmodified":1537623401,
+    "wof:name":"Yirasi",
+    "wof:parent_id":1108760015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.48837,
+    5.72378,
+    -2.48837,
+    5.72378
+],
+  "geometry": {"coordinates":[-2.48837,5.72378],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276354479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.34217,6.61794,-1.34217,6.61794",
+    "geom:latitude":6.61794,
+    "geom:longitude":-1.34217,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Buamadumasi",
+    "gn:country_code":"GH",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302520,
+    "gn:latitude":6.61794,
+    "gn:longitude":-1.34217,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Buamadumasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boamadumase",
+        "Buamadumasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302520
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"9a69ea0c8d37280a3c41dbc8481e8543",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759795,
+            "locality_id":1276354479,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1276354479,
+    "wof:lastmodified":1537623719,
+    "wof:name":"Buamadumasi",
+    "wof:parent_id":1108759795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.34217,
+    6.61794,
+    -1.34217,
+    6.61794
+],
+  "geometry": {"coordinates":[-1.34217,6.61794],"type":"Point"}
+}

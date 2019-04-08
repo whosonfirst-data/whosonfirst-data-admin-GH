@@ -1,0 +1,65 @@
+{
+  "id": 1209014537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.09898,5.63215,-2.09898,5.63215",
+    "geom:latitude":5.63215,
+    "geom:longitude":-2.09898,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bawdia",
+    "gn:country_code":"GH",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303299,
+    "gn:latitude":5.63215,
+    "gn:longitude":-2.09898,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bawdia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bawdie",
+        "Bawdia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303299
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"c9269bea4a847255ac1179790ca7ee9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209014537
+        }
+    ],
+    "wof:id":1209014537,
+    "wof:lastmodified":1537623745,
+    "wof:name":"Bawdia",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.09898,
+    5.63215,
+    -2.09898,
+    5.63215
+],
+  "geometry": {"coordinates":[-2.09898,5.63215],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276247049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.96804,5.84578,-0.96804,5.84578",
+    "geom:latitude":5.84578,
+    "geom:longitude":-0.96804,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Surasi",
+    "gn:country_code":"GH",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294996,
+    "gn:latitude":5.84578,
+    "gn:longitude":-0.96804,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Surasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Osorase",
+        "Surasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294996
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"4f315b228b9deaa49485c7d8bba40486",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759879,
+            "locality_id":1276247049,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1276247049,
+    "wof:lastmodified":1537623445,
+    "wof:name":"Surasi",
+    "wof:parent_id":1108759879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.96804,
+    5.84578,
+    -0.96804,
+    5.84578
+],
+  "geometry": {"coordinates":[-0.96804,5.84578],"type":"Point"}
+}

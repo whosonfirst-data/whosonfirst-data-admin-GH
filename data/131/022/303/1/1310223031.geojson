@@ -1,0 +1,67 @@
+{
+  "id": 1310223031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.01343,5.46312,-2.01343,5.46312",
+    "geom:latitude":5.46312,
+    "geom:longitude":-2.01343,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Adahomasi",
+    "gn:country_code":"GH",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305994,
+    "gn:latitude":5.46312,
+    "gn:longitude":-2.01343,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Adahomasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305994
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"768a57ef8b72f987963b2faa32d7290a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760017,
+            "locality_id":1310223031,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1310223031,
+    "wof:lastmodified":1536826020,
+    "wof:name":"Adahomasi",
+    "wof:parent_id":1108760017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.01343,
+    5.46312,
+    -2.01343,
+    5.46312
+],
+  "geometry": {"coordinates":[-2.01343,5.46312],"type":"Point"}
+}

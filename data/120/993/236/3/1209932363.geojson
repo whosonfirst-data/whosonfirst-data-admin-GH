@@ -1,0 +1,72 @@
+{
+  "id": 1209932363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.67003,5.87893,0.67003,5.87893",
+    "geom:latitude":5.87893,
+    "geom:longitude":0.67003,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Totsyoanyi",
+    "gn:country_code":"GH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294434,
+    "gn:latitude":5.87893,
+    "gn:longitude":0.67003,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Totsyoanyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Totsyornyi",
+        "Tochanhi",
+        "Totsyoanyi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294434
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"9f90a8c0e0c86490c27c7d9d88d76a33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759991,
+            "locality_id":1209932363,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1209932363,
+    "wof:lastmodified":1537623425,
+    "wof:name":"Totsyoanyi",
+    "wof:parent_id":1108759991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.67003,
+    5.87893,
+    0.67003,
+    5.87893
+],
+  "geometry": {"coordinates":[0.67003,5.87893],"type":"Point"}
+}

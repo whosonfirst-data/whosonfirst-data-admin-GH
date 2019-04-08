@@ -1,0 +1,61 @@
+{
+  "id": 1209324777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.38578,6.29919,0.38578,6.29919",
+    "geom:latitude":6.29919,
+    "geom:longitude":0.38578,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Badasi",
+    "gn:country_code":"GH",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303517,
+    "gn:latitude":6.29919,
+    "gn:longitude":0.38578,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Badasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303517
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"e0dbc4f54d5f83034c3585ff4ebe9bb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209324777
+        }
+    ],
+    "wof:id":1209324777,
+    "wof:lastmodified":1536290568,
+    "wof:name":"Badasi",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.38578,
+    6.29919,
+    0.38578,
+    6.29919
+],
+  "geometry": {"coordinates":[0.38578,6.29919],"type":"Point"}
+}

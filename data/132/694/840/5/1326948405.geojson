@@ -1,0 +1,71 @@
+{
+  "id": 1326948405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.32832,10.96423,-0.32832,10.96423",
+    "geom:latitude":10.96423,
+    "geom:longitude":-0.32832,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kupaligogo",
+    "gn:country_code":"GH",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298805,
+    "gn:latitude":10.96423,
+    "gn:longitude":-0.32832,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kupaligogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kumpalgoga",
+        "Kupaligogo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298805
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"b08b32ebbee536be247415a8ca998f23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759943,
+            "locality_id":1326948405,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1326948405,
+    "wof:lastmodified":1537623581,
+    "wof:name":"Kupaligogo",
+    "wof:parent_id":1108759943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.32832,
+    10.96423,
+    -0.32832,
+    10.96423
+],
+  "geometry": {"coordinates":[-0.32832,10.96423],"type":"Point"}
+}

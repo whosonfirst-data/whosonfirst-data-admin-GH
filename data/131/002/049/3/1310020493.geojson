@@ -1,0 +1,71 @@
+{
+  "id": 1310020493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.03549,10.57325,-1.03549,10.57325",
+    "geom:latitude":10.57325,
+    "geom:longitude":-1.03549,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kungongo",
+    "gn:country_code":"GH",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298845,
+    "gn:latitude":10.57325,
+    "gn:longitude":-1.03549,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kungongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naga Kongongo",
+        "Kungongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298845
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"50062b440eff8580474989e14f4889f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759953,
+            "locality_id":1310020493,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1310020493,
+    "wof:lastmodified":1537623582,
+    "wof:name":"Kungongo",
+    "wof:parent_id":1108759953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.03549,
+    10.57325,
+    -1.03549,
+    10.57325
+],
+  "geometry": {"coordinates":[-1.03549,10.57325],"type":"Point"}
+}

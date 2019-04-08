@@ -1,0 +1,72 @@
+{
+  "id": 1209730003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.19281,7.95968,-1.19281,7.95968",
+    "geom:latitude":7.95968,
+    "geom:longitude":-1.19281,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Abeasi",
+    "gn:country_code":"GH",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306420,
+    "gn:latitude":7.95968,
+    "gn:longitude":-1.19281,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Abeasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abease",
+        "Abaase",
+        "Abeasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306420
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"d9cf297a3973cf220022fe0f35ebc0f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759817,
+            "locality_id":1209730003,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1209730003,
+    "wof:lastmodified":1537623854,
+    "wof:name":"Abeasi",
+    "wof:parent_id":1108759817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.19281,
+    7.95968,
+    -1.19281,
+    7.95968
+],
+  "geometry": {"coordinates":[-1.19281,7.95968],"type":"Point"}
+}

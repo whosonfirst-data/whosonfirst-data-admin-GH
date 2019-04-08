@@ -1,0 +1,74 @@
+{
+  "id": 1226765247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.37836,5.54697,-0.37836,5.54697",
+    "geom:latitude":5.54697,
+    "geom:longitude":-0.37836,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tokusemitsigani",
+    "gn:country_code":"GH",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294490,
+    "gn:latitude":5.54697,
+    "gn:longitude":-0.37836,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Tokusemitsigani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tokusemitsigani"
+    ],
+    "name:und_x_variant":[
+        "Tokusee",
+        "Tokuse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294490
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"0c0ef2c05ee2245cedcf49935cbaf070",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759853,
+            "locality_id":1226765247,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1226765247,
+    "wof:lastmodified":1537623428,
+    "wof:name":"Tokusemitsigani",
+    "wof:parent_id":1108759853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.37836,
+    5.54697,
+    -0.37836,
+    5.54697
+],
+  "geometry": {"coordinates":[-0.37836,5.54697],"type":"Point"}
+}

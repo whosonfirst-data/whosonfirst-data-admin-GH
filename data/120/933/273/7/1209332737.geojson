@@ -1,0 +1,61 @@
+{
+  "id": 1209332737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.11504,5.53686,-1.11504,5.53686",
+    "geom:latitude":5.53686,
+    "geom:longitude":-1.11504,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Aberesa",
+    "gn:country_code":"GH",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306396,
+    "gn:latitude":5.53686,
+    "gn:longitude":-1.11504,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Aberesa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306396
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"4c243029525241ddd3d95d7aacfb4e2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209332737
+        }
+    ],
+    "wof:id":1209332737,
+    "wof:lastmodified":1536290322,
+    "wof:name":"Aberesa",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.11504,
+    5.53686,
+    -1.11504,
+    5.53686
+],
+  "geometry": {"coordinates":[-1.11504,5.53686],"type":"Point"}
+}

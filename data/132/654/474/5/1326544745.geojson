@@ -1,0 +1,71 @@
+{
+  "id": 1326544745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.0818,6.21088,-1.0818,6.21088",
+    "geom:latitude":6.21088,
+    "geom:longitude":-1.0818,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Chia",
+    "gn:country_code":"GH",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302260,
+    "gn:latitude":6.21088,
+    "gn:longitude":-1.0818,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyea",
+        "Chia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302260
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"15e020930a6b28b125090de37193c193",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759877,
+            "locality_id":1326544745,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1326544745,
+    "wof:lastmodified":1537623710,
+    "wof:name":"Chia",
+    "wof:parent_id":1108759877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.0818,
+    6.21088,
+    -1.0818,
+    6.21088
+],
+  "geometry": {"coordinates":[-1.0818,6.21088],"type":"Point"}
+}

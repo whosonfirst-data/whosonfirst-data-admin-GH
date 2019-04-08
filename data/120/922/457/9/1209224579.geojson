@@ -1,0 +1,61 @@
+{
+  "id": 1209224579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.88333,6.03333,0.88333,6.03333",
+    "geom:latitude":6.03333,
+    "geom:longitude":0.88333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Heluvi",
+    "gn:country_code":"GH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300426,
+    "gn:latitude":6.03333,
+    "gn:longitude":0.88333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Heluvi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300426
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"16ae83207b27fb0e2fcf2738aac9056c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209224579
+        }
+    ],
+    "wof:id":1209224579,
+    "wof:lastmodified":1536293842,
+    "wof:name":"Heluvi",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.88333,
+    6.03333,
+    0.88333,
+    6.03333
+],
+  "geometry": {"coordinates":[0.88333,6.03333],"type":"Point"}
+}

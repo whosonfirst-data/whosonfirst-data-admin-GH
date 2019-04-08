@@ -1,0 +1,74 @@
+{
+  "id": 1326744913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.50725,6.2459,-1.50725,6.2459",
+    "geom:latitude":6.2459,
+    "geom:longitude":-1.50725,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Adanse Asokwa",
+    "gn:country_code":"GH",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304248,
+    "gn:latitude":6.2459,
+    "gn:longitude":-1.50725,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Adanse Asokwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Adanse Asokwa"
+    ],
+    "name:und_x_variant":[
+        "Asokwa",
+        "Asakwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304248
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"3c490824ff0140d021f5798faa0003b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759771,
+            "locality_id":1326744913,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1326744913,
+    "wof:lastmodified":1537623779,
+    "wof:name":"Adanse Asokwa",
+    "wof:parent_id":1108759771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.50725,
+    6.2459,
+    -1.50725,
+    6.2459
+],
+  "geometry": {"coordinates":[-1.50725,6.2459],"type":"Point"}
+}

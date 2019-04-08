@@ -1,0 +1,71 @@
+{
+  "id": 1343676661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.57778,9.68631,-2.57778,9.68631",
+    "geom:latitude":9.68631,
+    "geom:longitude":-2.57778,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gruma",
+    "gn:country_code":"GH",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300560,
+    "gn:latitude":9.68631,
+    "gn:longitude":-2.57778,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gruma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Grumu",
+        "Gruma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300560
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"f2750755e3a62335a2ef7225ac34cba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759965,
+            "locality_id":1343676661,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1343676661,
+    "wof:lastmodified":1537623645,
+    "wof:name":"Gruma",
+    "wof:parent_id":1108759965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.57778,
+    9.68631,
+    -2.57778,
+    9.68631
+],
+  "geometry": {"coordinates":[-2.57778,9.68631],"type":"Point"}
+}

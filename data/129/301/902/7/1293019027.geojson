@@ -1,0 +1,71 @@
+{
+  "id": 1293019027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.11014,10.099,-1.11014,10.099",
+    "geom:latitude":10.099,
+    "geom:longitude":-1.11014,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nammu",
+    "gn:country_code":"GH",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297622,
+    "gn:latitude":10.099,
+    "gn:longitude":-1.11014,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nammu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Namoo",
+        "Nammu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297622
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"8fd327582eee1576276ceb547a23b54c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759937,
+            "locality_id":1293019027,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1293019027,
+    "wof:lastmodified":1537623538,
+    "wof:name":"Nammu",
+    "wof:parent_id":1108759937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.11014,
+    10.099,
+    -1.11014,
+    10.099
+],
+  "geometry": {"coordinates":[-1.11014,10.099],"type":"Point"}
+}

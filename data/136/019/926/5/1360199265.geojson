@@ -1,0 +1,72 @@
+{
+  "id": 1360199265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.31333,6.82649,-1.31333,6.82649",
+    "geom:latitude":6.82649,
+    "geom:longitude":-1.31333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nyamfa",
+    "gn:country_code":"GH",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296910,
+    "gn:latitude":6.82649,
+    "gn:longitude":-1.31333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nyamfa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Okaekurom",
+        "Okaekurom Nyamfa",
+        "Nyamfa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296910
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"5a977177e77b01f7348286fb07e38299",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759807,
+            "locality_id":1360199265,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1360199265,
+    "wof:lastmodified":1537623512,
+    "wof:name":"Nyamfa",
+    "wof:parent_id":1108759807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.31333,
+    6.82649,
+    -1.31333,
+    6.82649
+],
+  "geometry": {"coordinates":[-1.31333,6.82649],"type":"Point"}
+}

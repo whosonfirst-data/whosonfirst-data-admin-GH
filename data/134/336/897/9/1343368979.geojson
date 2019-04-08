@@ -1,0 +1,67 @@
+{
+  "id": 1343368979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.77478,6.60907,-0.77478,6.60907",
+    "geom:latitude":6.60907,
+    "geom:longitude":-0.77478,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Obo",
+    "gn:country_code":"GH",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296668,
+    "gn:latitude":6.60907,
+    "gn:longitude":-0.77478,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Obo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296668
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"24313b16597bc8af48089ebf7f25d09e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759889,
+            "locality_id":1343368979,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1343368979,
+    "wof:lastmodified":1536877289,
+    "wof:name":"Obo",
+    "wof:parent_id":1108759889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.77478,
+    6.60907,
+    -0.77478,
+    6.60907
+],
+  "geometry": {"coordinates":[-0.77478,6.60907],"type":"Point"}
+}

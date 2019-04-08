@@ -1,0 +1,71 @@
+{
+  "id": 1343368813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.08654,6.45729,-0.08654,6.45729",
+    "geom:latitude":6.45729,
+    "geom:longitude":-0.08654,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kuma Kuma",
+    "gn:country_code":"GH",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298899,
+    "gn:latitude":6.45729,
+    "gn:longitude":-0.08654,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kuma Kuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kumakuma Settlements",
+        "Kuma Kuma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298899
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"6e3f9092c9e23585e0bba0c4ee940a87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759891,
+            "locality_id":1343368813,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1343368813,
+    "wof:lastmodified":1537623583,
+    "wof:name":"Kuma Kuma",
+    "wof:parent_id":1108759891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.08654,
+    6.45729,
+    -0.08654,
+    6.45729
+],
+  "geometry": {"coordinates":[-0.08654,6.45729],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1343771923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.02296,5.81849,-2.02296,5.81849",
+    "geom:latitude":5.81849,
+    "geom:longitude":-2.02296,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Abesewa Gyaman",
+    "gn:country_code":"GH",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300228,
+    "gn:latitude":5.81849,
+    "gn:longitude":-2.02296,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Abesewa Gyaman",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Abesewa Gyaman"
+    ],
+    "name:eng_x_variant":[
+        "Gyama"
+    ],
+    "name:und_x_variant":[
+        "Gyaman",
+        "Jamang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300228
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"5e614d61c11df3bbdf466bf509ea5ef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760015,
+            "locality_id":1343771923,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1343771923,
+    "wof:lastmodified":1537623631,
+    "wof:name":"Abesewa Gyaman",
+    "wof:parent_id":1108760015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.02296,
+    5.81849,
+    -2.02296,
+    5.81849
+],
+  "geometry": {"coordinates":[-2.02296,5.81849],"type":"Point"}
+}

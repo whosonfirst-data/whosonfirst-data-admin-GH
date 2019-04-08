@@ -1,0 +1,67 @@
+{
+  "id": 1243082125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.08333,10.55,-1.08333,10.55",
+    "geom:latitude":10.55,
+    "geom:longitude":-1.08333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Korogadoni",
+    "gn:country_code":"GH",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299316,
+    "gn:latitude":10.55,
+    "gn:longitude":-1.08333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Korogadoni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299316
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"225605e4724d302364926b30a88d7f3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759951,
+            "locality_id":1243082125,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1243082125,
+    "wof:lastmodified":1536832599,
+    "wof:name":"Korogadoni",
+    "wof:parent_id":1108759951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.08333,
+    10.55,
+    -1.08333,
+    10.55
+],
+  "geometry": {"coordinates":[-1.08333,10.55],"type":"Point"}
+}

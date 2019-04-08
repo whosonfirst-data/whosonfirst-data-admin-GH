@@ -1,0 +1,72 @@
+{
+  "id": 1209629941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.62657,6.53477,-1.62657,6.53477",
+    "geom:latitude":6.53477,
+    "geom:longitude":-1.62657,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Twindurasi",
+    "gn:country_code":"GH",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294304,
+    "gn:latitude":6.53477,
+    "gn:longitude":-1.62657,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Twindurasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Twindurasi"
+    ],
+    "name:eng_x_variant":[
+        "Adwuampong"
+    ],
+    "name:und_x_variant":[
+        "Twendruase",
+        "Twenuase",
+        "Twinuasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294304
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ebd79e378c3eaf1729abe74c5fdc3dab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209629941
+        }
+    ],
+    "wof:id":1209629941,
+    "wof:lastmodified":1537623421,
+    "wof:name":"Twindurasi",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.62657,
+    6.53477,
+    -1.62657,
+    6.53477
+],
+  "geometry": {"coordinates":[-1.62657,6.53477],"type":"Point"}
+}

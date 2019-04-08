@@ -1,0 +1,71 @@
+{
+  "id": 1310023825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.84513,6.05788,0.84513,6.05788",
+    "geom:latitude":6.05788,
+    "geom:longitude":0.84513,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Avenopedu",
+    "gn:country_code":"GH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303718,
+    "gn:latitude":6.05788,
+    "gn:longitude":0.84513,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Avenopedu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Avenopedo",
+        "Avenopedu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303718
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a967438f63c4519a4ae38034064eeba3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759981,
+            "locality_id":1310023825,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1310023825,
+    "wof:lastmodified":1537623760,
+    "wof:name":"Avenopedu",
+    "wof:parent_id":1108759981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.84513,
+    6.05788,
+    0.84513,
+    6.05788
+],
+  "geometry": {"coordinates":[0.84513,6.05788],"type":"Point"}
+}

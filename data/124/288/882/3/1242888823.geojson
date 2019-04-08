@@ -1,0 +1,71 @@
+{
+  "id": 1242888823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.17964,6.027,0.17964,6.027",
+    "geom:latitude":6.027,
+    "geom:longitude":0.17964,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Osudoku",
+    "gn:country_code":"GH",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296252,
+    "gn:latitude":6.027,
+    "gn:longitude":0.17964,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Osudoku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Osuwem",
+        "Osudoku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671353,
+        1108759907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296252
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"eb3236fd3336bc5a30ace89dbe7063ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759907,
+            "locality_id":1242888823,
+            "region_id":85671353
+        }
+    ],
+    "wof:id":1242888823,
+    "wof:lastmodified":1537623489,
+    "wof:name":"Osudoku",
+    "wof:parent_id":1108759907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.17964,
+    6.027,
+    0.17964,
+    6.027
+],
+  "geometry": {"coordinates":[0.17964,6.027],"type":"Point"}
+}

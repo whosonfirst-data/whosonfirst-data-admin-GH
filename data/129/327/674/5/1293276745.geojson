@@ -1,0 +1,80 @@
+{
+  "id": 1293276745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.13542,4.79362,-2.13542,4.79362",
+    "geom:latitude":4.79362,
+    "geom:longitude":-2.13542,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Prusi",
+    "gn:country_code":"GH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2295835,
+    "gn:latitude":4.79362,
+    "gn:longitude":-2.13542,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Prusi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Prusi"
+    ],
+    "name:eng_x_variant":[
+        "Princess Town",
+        "Prince\u2019s Town"
+    ],
+    "name:und_x_variant":[
+        "Fort Bladenburg",
+        "Prince",
+        "Princes Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108759993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2295835,
+        "wk:page":"Princes_Town%2C_Ghana"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"adb5120c529d5acdc1d13b6ef62d3acc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759993,
+            "locality_id":1293276745,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1293276745,
+    "wof:lastmodified":1537623474,
+    "wof:name":"Prusi",
+    "wof:parent_id":1108759993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.13542,
+    4.79362,
+    -2.13542,
+    4.79362
+],
+  "geometry": {"coordinates":[-2.13542,4.79362],"type":"Point"}
+}

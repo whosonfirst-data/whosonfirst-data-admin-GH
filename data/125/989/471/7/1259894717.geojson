@@ -1,0 +1,71 @@
+{
+  "id": 1259894717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.60326,10.98816,-2.60326,10.98816",
+    "geom:latitude":10.98816,
+    "geom:longitude":-2.60326,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Fielmon",
+    "gn:country_code":"GH",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300928,
+    "gn:latitude":10.98816,
+    "gn:longitude":-2.60326,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Fielmon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fielmua",
+        "Fielmon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300928
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"54a3e43c4d86360809738e130a636013",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759963,
+            "locality_id":1259894717,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1259894717,
+    "wof:lastmodified":1537623659,
+    "wof:name":"Fielmon",
+    "wof:parent_id":1108759963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.60326,
+    10.98816,
+    -2.60326,
+    10.98816
+],
+  "geometry": {"coordinates":[-2.60326,10.98816],"type":"Point"}
+}

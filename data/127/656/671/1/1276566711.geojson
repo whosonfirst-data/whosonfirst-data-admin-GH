@@ -1,0 +1,70 @@
+{
+  "id": 1276566711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.92974,5.55947,-1.92974,5.55947",
+    "geom:latitude":5.55947,
+    "geom:longitude":-1.92974,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Asomasi",
+    "gn:country_code":"GH",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304053,
+    "gn:latitude":5.55947,
+    "gn:longitude":-1.92974,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Asomasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Asomasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304053
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"8ad1bf6844fa5af77aab74d3016770d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760017,
+            "locality_id":1276566711,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1276566711,
+    "wof:lastmodified":1537623771,
+    "wof:name":"Asomasi",
+    "wof:parent_id":1108760017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.92974,
+    5.55947,
+    -1.92974,
+    5.55947
+],
+  "geometry": {"coordinates":[-1.92974,5.55947],"type":"Point"}
+}

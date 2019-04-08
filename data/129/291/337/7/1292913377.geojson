@@ -1,0 +1,71 @@
+{
+  "id": 1292913377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.55258,7.46797,-2.55258,7.46797",
+    "geom:latitude":7.46797,
+    "geom:longitude":-2.55258,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kutremom",
+    "gn:country_code":"GH",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298766,
+    "gn:latitude":7.46797,
+    "gn:longitude":-2.55258,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kutremom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kutre Number 2",
+        "Kutremom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298766
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"530cf0e5aeb0d194305c3e6a26828356",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759819,
+            "locality_id":1292913377,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1292913377,
+    "wof:lastmodified":1537623579,
+    "wof:name":"Kutremom",
+    "wof:parent_id":1108759819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.55258,
+    7.46797,
+    -2.55258,
+    7.46797
+],
+  "geometry": {"coordinates":[-2.55258,7.46797],"type":"Point"}
+}

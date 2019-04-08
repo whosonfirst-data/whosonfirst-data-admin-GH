@@ -1,0 +1,70 @@
+{
+  "id": 1360202721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.96248,6.80734,-1.96248,6.80734",
+    "geom:latitude":6.80734,
+    "geom:longitude":-1.96248,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kokoteasua",
+    "gn:country_code":"GH",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299454,
+    "gn:latitude":6.80734,
+    "gn:longitude":-1.96248,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Kokoteasua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kokotiesua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299454
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"043e818fd3f2872d89f080bbe6d5387a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759781,
+            "locality_id":1360202721,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1360202721,
+    "wof:lastmodified":1537623601,
+    "wof:name":"Kokoteasua",
+    "wof:parent_id":1108759781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.96248,
+    6.80734,
+    -1.96248,
+    6.80734
+],
+  "geometry": {"coordinates":[-1.96248,6.80734],"type":"Point"}
+}

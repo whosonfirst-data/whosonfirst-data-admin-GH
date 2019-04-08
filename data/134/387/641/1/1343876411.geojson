@@ -1,0 +1,70 @@
+{
+  "id": 1343876411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.9327,6.68116,-1.9327,6.68116",
+    "geom:latitude":6.68116,
+    "geom:longitude":-1.9327,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Anyinamso",
+    "gn:country_code":"GH",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304418,
+    "gn:latitude":6.68116,
+    "gn:longitude":-1.9327,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Anyinamso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Anyinamso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304418
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"80c92b76cb317b3b02ffd9fd05aa19a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759791,
+            "locality_id":1343876411,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1343876411,
+    "wof:lastmodified":1537623784,
+    "wof:name":"Anyinamso",
+    "wof:parent_id":1108759791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.9327,
+    6.68116,
+    -1.9327,
+    6.68116
+],
+  "geometry": {"coordinates":[-1.9327,6.68116],"type":"Point"}
+}

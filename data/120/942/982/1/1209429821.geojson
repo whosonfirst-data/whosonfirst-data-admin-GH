@@ -1,0 +1,66 @@
+{
+  "id": 1209429821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.27891,9.30231,-0.27891,9.30231",
+    "geom:latitude":9.30231,
+    "geom:longitude":-0.27891,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tintungu",
+    "gn:country_code":"GH",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294562,
+    "gn:latitude":9.30231,
+    "gn:longitude":-0.27891,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tintungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tintanga",
+        "Tintunngu",
+        "Tintungu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294562
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"5277372527b6cd94cea6dad0da9ab561",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209429821
+        }
+    ],
+    "wof:id":1209429821,
+    "wof:lastmodified":1537623430,
+    "wof:name":"Tintungu",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.27891,
+    9.30231,
+    -0.27891,
+    9.30231
+],
+  "geometry": {"coordinates":[-0.27891,9.30231],"type":"Point"}
+}

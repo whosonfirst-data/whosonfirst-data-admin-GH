@@ -1,0 +1,67 @@
+{
+  "id": 1260197741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.98333,5.28333,-0.98333,5.28333",
+    "geom:latitude":5.28333,
+    "geom:longitude":-0.98333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Anumenchen",
+    "gn:country_code":"GH",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304497,
+    "gn:latitude":5.28333,
+    "gn:longitude":-0.98333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Anumenchen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304497
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ba334b4fb69d00af90cd926ec7d9c50e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759861,
+            "locality_id":1260197741,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1260197741,
+    "wof:lastmodified":1536827304,
+    "wof:name":"Anumenchen",
+    "wof:parent_id":1108759861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.98333,
+    5.28333,
+    -0.98333,
+    5.28333
+],
+  "geometry": {"coordinates":[-0.98333,5.28333],"type":"Point"}
+}

@@ -1,0 +1,103 @@
+{
+  "id": 421175895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.37738,6.38706,-0.37738,6.38706",
+    "geom:latitude":6.38706,
+    "geom:longitude":-0.37738,
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u0433\u043e\u0440\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Begoro"
+    ],
+    "name:dut_x_preferred":[
+        "Begoro"
+    ],
+    "name:eng_x_preferred":[
+        "Begoro"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30b4\u30ed"
+    ],
+    "name:swe_x_preferred":[
+        "Begoro"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u06af\u0648\u0631\u0648"
+    ],
+    "qs:gn_country":"GH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2303236,
+    "qs:gn_pop":23759,
+    "qs:name":"Begoro",
+    "qs:name_adm0":"Ghana",
+    "qs:name_adm1":"Eastern",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1034790,
+    "qs:woe_adm0":23424824,
+    "qs:woe_id":1327874,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":105,
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303236,
+        "gp:id":1327874,
+        "qs:id":1034790,
+        "wd:id":"Q4880592",
+        "wk:page":"Begoro"
+    },
+    "wof:country":"GH",
+    "wof:created":1459009083,
+    "wof:geomhash":"af5fd73355ebe54153eeb3df729c37b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759883,
+            "locality_id":421175895,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":421175895,
+    "wof:lastmodified":1527716338,
+    "wof:name":"Begoro",
+    "wof:parent_id":1108759883,
+    "wof:placetype":"locality",
+    "wof:population":23759,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.37738,
+    6.38706,
+    -0.37738,
+    6.38706
+],
+  "geometry": {"coordinates":[-0.37738,6.38706],"type":"Point"}
+}

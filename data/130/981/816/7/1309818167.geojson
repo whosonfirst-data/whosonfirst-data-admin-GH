@@ -1,0 +1,72 @@
+{
+  "id": 1309818167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.6735,10.72696,-0.6735,10.72696",
+    "geom:latitude":10.72696,
+    "geom:longitude":-0.6735,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Yale",
+    "gn:country_code":"GH",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293888,
+    "gn:latitude":10.72696,
+    "gn:longitude":-0.6735,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dusi Yale",
+        "Yari",
+        "Yale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293888
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ef8a811f48357acd596614c2fd2140b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759947,
+            "locality_id":1309818167,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1309818167,
+    "wof:lastmodified":1537623405,
+    "wof:name":"Yale",
+    "wof:parent_id":1108759947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.6735,
+    10.72696,
+    -0.6735,
+    10.72696
+],
+  "geometry": {"coordinates":[-0.6735,10.72696],"type":"Point"}
+}

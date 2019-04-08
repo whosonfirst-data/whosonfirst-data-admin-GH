@@ -1,0 +1,73 @@
+{
+  "id": 1259400727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.55,8.7,-0.55,8.7",
+    "geom:latitude":8.7,
+    "geom:longitude":-0.55,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kabache",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299985,
+    "gn:latitude":8.7,
+    "gn:longitude":-0.55,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kabache",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kabachi",
+        "Kabiase Gonja",
+        "Kabache"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299985
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"7f62ade234e44053a128a7dd02b199dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759919,
+            "locality_id":1259400727,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1259400727,
+    "wof:lastmodified":1537623621,
+    "wof:name":"Kabache",
+    "wof:parent_id":1108759919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.55,
+    8.7,
+    -0.55,
+    8.7
+],
+  "geometry": {"coordinates":[-0.55,8.7],"type":"Point"}
+}

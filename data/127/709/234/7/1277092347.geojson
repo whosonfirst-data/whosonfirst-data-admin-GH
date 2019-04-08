@@ -1,0 +1,71 @@
+{
+  "id": 1277092347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.57129,6.04504,-1.57129,6.04504",
+    "geom:latitude":6.04504,
+    "geom:longitude":-1.57129,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Abem",
+    "gn:country_code":"GH",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306412,
+    "gn:latitude":6.04504,
+    "gn:longitude":-1.57129,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Abem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abeni",
+        "Abem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306412
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"8c1c13c9c790db93fb3b572c3f430a54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759773,
+            "locality_id":1277092347,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1277092347,
+    "wof:lastmodified":1537623854,
+    "wof:name":"Abem",
+    "wof:parent_id":1108759773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.57129,
+    6.04504,
+    -1.57129,
+    6.04504
+],
+  "geometry": {"coordinates":[-1.57129,6.04504],"type":"Point"}
+}

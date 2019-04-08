@@ -1,0 +1,72 @@
+{
+  "id": 1243378023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.29773,6.05185,0.29773,6.05185",
+    "geom:latitude":6.05185,
+    "geom:longitude":0.29773,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Luponya",
+    "gn:country_code":"GH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298341,
+    "gn:latitude":6.05185,
+    "gn:longitude":0.29773,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Luponya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agbeko Korpe",
+        "Lukpenya",
+        "Luponya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671353,
+        1108759907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298341
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"4609b12c230420e8ca41c511a3940d8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759907,
+            "locality_id":1243378023,
+            "region_id":85671353
+        }
+    ],
+    "wof:id":1243378023,
+    "wof:lastmodified":1537623565,
+    "wof:name":"Luponya",
+    "wof:parent_id":1108759907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.29773,
+    6.05185,
+    0.29773,
+    6.05185
+],
+  "geometry": {"coordinates":[0.29773,6.05185],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327149067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.00582,10.49887,-1.00582,10.49887",
+    "geom:latitude":10.49887,
+    "geom:longitude":-1.00582,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Jakasi",
+    "gn:country_code":"GH",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300247,
+    "gn:latitude":10.49887,
+    "gn:longitude":-1.00582,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Jakasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300247
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"aec68597995f47f67b7f4c43b1265cba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759937,
+            "locality_id":1327149067,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1327149067,
+    "wof:lastmodified":1537086638,
+    "wof:name":"Jakasi",
+    "wof:parent_id":1108759937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.00582,
+    10.49887,
+    -1.00582,
+    10.49887
+],
+  "geometry": {"coordinates":[-1.00582,10.49887],"type":"Point"}
+}

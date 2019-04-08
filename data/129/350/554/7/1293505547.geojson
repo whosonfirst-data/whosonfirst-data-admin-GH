@@ -1,0 +1,72 @@
+{
+  "id": 1293505547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.31667,5.88333,-2.31667,5.88333",
+    "geom:latitude":5.88333,
+    "geom:longitude":-2.31667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Jedua",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300163,
+    "gn:latitude":5.88333,
+    "gn:longitude":-2.31667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jedua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gyedua",
+        "Jedua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300163
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"0579ab7153812addf1d2e0ef61e26c4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760015,
+            "locality_id":1293505547,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1293505547,
+    "wof:lastmodified":1537623628,
+    "wof:name":"Jedua",
+    "wof:parent_id":1108760015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.31667,
+    5.88333,
+    -2.31667,
+    5.88333
+],
+  "geometry": {"coordinates":[-2.31667,5.88333],"type":"Point"}
+}

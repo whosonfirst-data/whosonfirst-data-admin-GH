@@ -1,0 +1,71 @@
+{
+  "id": 1326844937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.21818,5.81926,-0.21818,5.81926",
+    "geom:latitude":5.81926,
+    "geom:longitude":-0.21818,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kokobin",
+    "gn:country_code":"GH",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299488,
+    "gn:latitude":5.81926,
+    "gn:longitude":-0.21818,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kokobin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kokoben",
+        "Kokobin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299488
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"e8b13c190df2db122d1ecf39e88d8ec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759873,
+            "locality_id":1326844937,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1326844937,
+    "wof:lastmodified":1537623602,
+    "wof:name":"Kokobin",
+    "wof:parent_id":1108759873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.21818,
+    5.81926,
+    -0.21818,
+    5.81926
+],
+  "geometry": {"coordinates":[-0.21818,5.81926],"type":"Point"}
+}

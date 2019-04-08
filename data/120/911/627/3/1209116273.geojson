@@ -1,0 +1,61 @@
+{
+  "id": 1209116273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.03507,5.60863,-1.03507,5.60863",
+    "geom:latitude":5.60863,
+    "geom:longitude":-1.03507,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Akroma",
+    "gn:country_code":"GH",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305042,
+    "gn:latitude":5.60863,
+    "gn:longitude":-1.03507,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Akroma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305042
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"3017f525e07d3cb1d98d9fe983907474",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209116273
+        }
+    ],
+    "wof:id":1209116273,
+    "wof:lastmodified":1536297243,
+    "wof:name":"Akroma",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.0350700000000002,
+    5.608630000000002,
+    -1.0350700000000002,
+    5.608630000000002
+],
+  "geometry": {"coordinates":[-1.03507,5.60863],"type":"Point"}
+}

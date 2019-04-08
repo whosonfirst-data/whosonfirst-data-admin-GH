@@ -1,0 +1,67 @@
+{
+  "id": 1276243323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.80595,5.72613,-0.80595,5.72613",
+    "geom:latitude":5.72613,
+    "geom:longitude":-0.80595,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nsubirim",
+    "gn:country_code":"GH",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297103,
+    "gn:latitude":5.72613,
+    "gn:longitude":-0.80595,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Nsubirim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297103
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"3c77eba85ace24181cf98b549c197e2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759843,
+            "locality_id":1276243323,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1276243323,
+    "wof:lastmodified":1536899214,
+    "wof:name":"Nsubirim",
+    "wof:parent_id":1108759843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.80595,
+    5.72613,
+    -0.80595,
+    5.72613
+],
+  "geometry": {"coordinates":[-0.80595,5.72613],"type":"Point"}
+}

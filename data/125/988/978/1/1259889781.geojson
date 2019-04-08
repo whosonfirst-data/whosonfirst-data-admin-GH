@@ -1,0 +1,70 @@
+{
+  "id": 1259889781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.67071,6.24791,-1.67071,6.24791",
+    "geom:latitude":6.24791,
+    "geom:longitude":-1.67071,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Metemanu",
+    "gn:country_code":"GH",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298037,
+    "gn:latitude":6.24791,
+    "gn:longitude":-1.67071,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Metemanu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Metemanu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298037
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"e6e87c4fedbf765e3630faf06db7fdf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759773,
+            "locality_id":1259889781,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1259889781,
+    "wof:lastmodified":1537623554,
+    "wof:name":"Metemanu",
+    "wof:parent_id":1108759773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.67071,
+    6.24791,
+    -1.67071,
+    6.24791
+],
+  "geometry": {"coordinates":[-1.67071,6.24791],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226352209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.44957,10.26232,-1.44957,10.26232",
+    "geom:latitude":10.26232,
+    "geom:longitude":-1.44957,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Izabisi",
+    "gn:country_code":"GH",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300278,
+    "gn:latitude":10.26232,
+    "gn:longitude":-1.44957,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Izabisi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yezebisi",
+        "Izabisi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300278
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"cf169cf9333d025b7675dbea7da0622f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759937,
+            "locality_id":1226352209,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1226352209,
+    "wof:lastmodified":1537623634,
+    "wof:name":"Izabisi",
+    "wof:parent_id":1108759937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.44957,
+    10.26232,
+    -1.44957,
+    10.26232
+],
+  "geometry": {"coordinates":[-1.44957,10.26232],"type":"Point"}
+}

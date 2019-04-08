@@ -1,0 +1,71 @@
+{
+  "id": 1226765793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.77558,10.83758,-0.77558,10.83758",
+    "geom:latitude":10.83758,
+    "geom:longitude":-0.77558,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dakiu",
+    "gn:country_code":"GH",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302041,
+    "gn:latitude":10.83758,
+    "gn:longitude":-0.77558,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dakiu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zuarungu Dakiu",
+        "Dakiu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302041
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"42e46080ba939afc482c8e0ab85fbc31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759947,
+            "locality_id":1226765793,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1226765793,
+    "wof:lastmodified":1537623702,
+    "wof:name":"Dakiu",
+    "wof:parent_id":1108759947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.77558,
+    10.83758,
+    -0.77558,
+    10.83758
+],
+  "geometry": {"coordinates":[-0.77558,10.83758],"type":"Point"}
+}

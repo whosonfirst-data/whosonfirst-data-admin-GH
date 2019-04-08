@@ -1,0 +1,71 @@
+{
+  "id": 1360194679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.07388,6.14717,0.07388,6.14717",
+    "geom:latitude":6.14717,
+    "geom:longitude":0.07388,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nobochu",
+    "gn:country_code":"GH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297185,
+    "gn:latitude":6.14717,
+    "gn:longitude":0.07388,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nobochu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nobochi",
+        "Nobochu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297185
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"8aa839df12b72690b8465a7d7b98a726",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759891,
+            "locality_id":1360194679,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1360194679,
+    "wof:lastmodified":1537623521,
+    "wof:name":"Nobochu",
+    "wof:parent_id":1108759891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.07388,
+    6.14717,
+    0.07388,
+    6.14717
+],
+  "geometry": {"coordinates":[0.07388,6.14717],"type":"Point"}
+}

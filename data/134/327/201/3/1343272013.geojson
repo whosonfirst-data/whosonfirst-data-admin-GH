@@ -1,0 +1,71 @@
+{
+  "id": 1343272013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.43571,9.54409,-1.43571,9.54409",
+    "geom:latitude":9.54409,
+    "geom:longitude":-1.43571,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Semisi",
+    "gn:country_code":"GH",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2295445,
+    "gn:latitude":9.54409,
+    "gn:longitude":-1.43571,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Semisi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Semissi",
+        "Semisi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2295445
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a365d5d68e9e33caed6eb2f209fb8b62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759921,
+            "locality_id":1343272013,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1343272013,
+    "wof:lastmodified":1537623459,
+    "wof:name":"Semisi",
+    "wof:parent_id":1108759921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.43571,
+    9.54409,
+    -1.43571,
+    9.54409
+],
+  "geometry": {"coordinates":[-1.43571,9.54409],"type":"Point"}
+}

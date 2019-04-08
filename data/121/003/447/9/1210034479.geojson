@@ -1,0 +1,71 @@
+{
+  "id": 1210034479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.44104,10.88647,-0.44104,10.88647",
+    "geom:latitude":10.88647,
+    "geom:longitude":-0.44104,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tune",
+    "gn:country_code":"GH",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294338,
+    "gn:latitude":10.88647,
+    "gn:longitude":-0.44104,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tune",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tuni",
+        "Tune"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294338
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"18bfcfdb2fd7a7f3f564a43f8bfa004a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759945,
+            "locality_id":1210034479,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1210034479,
+    "wof:lastmodified":1537623422,
+    "wof:name":"Tune",
+    "wof:parent_id":1108759945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.44104,
+    10.88647,
+    -0.44104,
+    10.88647
+],
+  "geometry": {"coordinates":[-0.44104,10.88647],"type":"Point"}
+}

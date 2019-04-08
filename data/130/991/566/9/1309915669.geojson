@@ -1,0 +1,67 @@
+{
+  "id": 1309915669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.11514,7.15021,-1.11514,7.15021",
+    "geom:latitude":7.15021,
+    "geom:longitude":-1.11514,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Aframso",
+    "gn:country_code":"GH",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305661,
+    "gn:latitude":7.15021,
+    "gn:longitude":-1.11514,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Aframso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305661
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ba9a778e8b6f87c5efbd5674fc1bc42e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759809,
+            "locality_id":1309915669,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1309915669,
+    "wof:lastmodified":1536773274,
+    "wof:name":"Aframso",
+    "wof:parent_id":1108759809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.11514,
+    7.15021,
+    -1.11514,
+    7.15021
+],
+  "geometry": {"coordinates":[-1.11514,7.15021],"type":"Point"}
+}

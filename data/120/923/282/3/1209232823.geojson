@@ -1,0 +1,65 @@
+{
+  "id": 1209232823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.66903,5.45031,-0.66903,5.45031",
+    "geom:latitude":5.45031,
+    "geom:longitude":-0.66903,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Awomiro",
+    "gn:country_code":"GH",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303646,
+    "gn:latitude":5.45031,
+    "gn:longitude":-0.66903,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Awomiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Awomerew",
+        "Awomiro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303646
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"1e508838528352c599e4897a2a88e278",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209232823
+        }
+    ],
+    "wof:id":1209232823,
+    "wof:lastmodified":1537623758,
+    "wof:name":"Awomiro",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.66903,
+    5.45031,
+    -0.66903,
+    5.45031
+],
+  "geometry": {"coordinates":[-0.66903,5.45031],"type":"Point"}
+}

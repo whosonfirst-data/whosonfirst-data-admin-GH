@@ -1,0 +1,75 @@
+{
+  "id": 1276995839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.75,7.13333,-1.75,7.13333",
+    "geom:latitude":7.13333,
+    "geom:longitude":-1.75,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Abofour",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306278,
+    "gn:latitude":7.13333,
+    "gn:longitude":-1.75,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Abofour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abufaw",
+        "Abofoo",
+        "Abofaw",
+        "Abofour"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306278,
+        "wk:page":"Abofour"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"32a55cdfce8450230739dce590d4f142",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759805,
+            "locality_id":1276995839,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1276995839,
+    "wof:lastmodified":1537623850,
+    "wof:name":"Abofour",
+    "wof:parent_id":1108759805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.75,
+    7.13333,
+    -1.75,
+    7.13333
+],
+  "geometry": {"coordinates":[-1.75,7.13333],"type":"Point"}
+}

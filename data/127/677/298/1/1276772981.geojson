@@ -1,0 +1,71 @@
+{
+  "id": 1276772981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.21385,6.30409,-0.21385,6.30409",
+    "geom:latitude":6.30409,
+    "geom:longitude":-0.21385,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ajaman",
+    "gn:country_code":"GH",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305327,
+    "gn:latitude":6.30409,
+    "gn:longitude":-0.21385,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ajaman",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dzaman",
+        "Ajaman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305327
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ac2695dbe40768764812103ca6fcea9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759899,
+            "locality_id":1276772981,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1276772981,
+    "wof:lastmodified":1537623817,
+    "wof:name":"Ajaman",
+    "wof:parent_id":1108759899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.21385,
+    6.30409,
+    -0.21385,
+    6.30409
+],
+  "geometry": {"coordinates":[-0.21385,6.30409],"type":"Point"}
+}

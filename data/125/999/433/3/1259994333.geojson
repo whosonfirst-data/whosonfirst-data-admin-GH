@@ -1,0 +1,71 @@
+{
+  "id": 1259994333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.40063,6.71103,-1.40063,6.71103",
+    "geom:latitude":6.71103,
+    "geom:longitude":-1.40063,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Etia",
+    "gn:country_code":"GH",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301058,
+    "gn:latitude":6.71103,
+    "gn:longitude":-1.40063,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Etia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Attia",
+        "Etia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301058
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"13e65b77a765e5afb94dc6369f711d23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759795,
+            "locality_id":1259994333,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1259994333,
+    "wof:lastmodified":1537623664,
+    "wof:name":"Etia",
+    "wof:parent_id":1108759795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.40063,
+    6.71103,
+    -1.40063,
+    6.71103
+],
+  "geometry": {"coordinates":[-1.40063,6.71103],"type":"Point"}
+}

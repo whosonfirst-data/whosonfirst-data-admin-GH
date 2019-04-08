@@ -1,0 +1,67 @@
+{
+  "id": 1343976253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.07456,10.85289,-0.07456,10.85289",
+    "geom:latitude":10.85289,
+    "geom:longitude":-0.07456,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kunkomadaga",
+    "gn:country_code":"GH",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298840,
+    "gn:latitude":10.85289,
+    "gn:longitude":-0.07456,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Kunkomadaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298840
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"4e4d8f2b88629fd42c79979ff88af56c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759943,
+            "locality_id":1343976253,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1343976253,
+    "wof:lastmodified":1536996451,
+    "wof:name":"Kunkomadaga",
+    "wof:parent_id":1108759943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.07456,
+    10.85289,
+    -0.07456,
+    10.85289
+],
+  "geometry": {"coordinates":[-0.07456,10.85289],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360004087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.08147,5.38663,-2.08147,5.38663",
+    "geom:latitude":5.38663,
+    "geom:longitude":-2.08147,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Antimoa",
+    "gn:country_code":"GH",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304521,
+    "gn:latitude":5.38663,
+    "gn:longitude":-2.08147,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Antimoa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304521
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a2418c5147de8904c2055428dd387c16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760017,
+            "locality_id":1360004087,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1360004087,
+    "wof:lastmodified":1537059867,
+    "wof:name":"Antimoa",
+    "wof:parent_id":1108760017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.08147,
+    5.38663,
+    -2.08147,
+    5.38663
+],
+  "geometry": {"coordinates":[-2.08147,5.38663],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243572465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.01512,6.24401,1.01512,6.24401",
+    "geom:latitude":6.24401,
+    "geom:longitude":1.01512,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tokofe",
+    "gn:country_code":"GH",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294502,
+    "gn:latitude":6.24401,
+    "gn:longitude":1.01512,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Tokofe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294502
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"85ca60cc98341ca0ba77d7053f0c591c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759983,
+            "locality_id":1243572465,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1243572465,
+    "wof:lastmodified":1536621898,
+    "wof:name":"Tokofe",
+    "wof:parent_id":1108759983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.01512,
+    6.24401,
+    1.01512,
+    6.24401
+],
+  "geometry": {"coordinates":[1.01512,6.24401],"type":"Point"}
+}

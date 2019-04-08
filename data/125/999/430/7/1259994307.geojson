@@ -1,0 +1,71 @@
+{
+  "id": 1259994307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.71001,5.35906,-0.71001,5.35906",
+    "geom:latitude":5.35906,
+    "geom:longitude":-0.71001,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Otaw",
+    "gn:country_code":"GH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296247,
+    "gn:latitude":5.35906,
+    "gn:longitude":-0.71001,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Otaw",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Otsew Dwokwaa",
+        "Otaw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296247
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"b28eca0912a95794ea01f977898635b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759857,
+            "locality_id":1259994307,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1259994307,
+    "wof:lastmodified":1537623488,
+    "wof:name":"Otaw",
+    "wof:parent_id":1108759857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.71001,
+    5.35906,
+    -0.71001,
+    5.35906
+],
+  "geometry": {"coordinates":[-0.71001,5.35906],"type":"Point"}
+}

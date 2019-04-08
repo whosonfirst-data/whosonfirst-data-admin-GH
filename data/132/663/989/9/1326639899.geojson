@@ -1,0 +1,67 @@
+{
+  "id": 1326639899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.68333,5.95,-0.68333,5.95",
+    "geom:latitude":5.95,
+    "geom:longitude":-0.68333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nyadieya",
+    "gn:country_code":"GH",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296935,
+    "gn:latitude":5.95,
+    "gn:longitude":-0.68333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Nyadieya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296935
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"aa8552854a87770d23833c54008d4b85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759897,
+            "locality_id":1326639899,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1326639899,
+    "wof:lastmodified":1536827705,
+    "wof:name":"Nyadieya",
+    "wof:parent_id":1108759897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.68333,
+    5.95,
+    -0.68333,
+    5.95
+],
+  "geometry": {"coordinates":[-0.68333,5.95],"type":"Point"}
+}

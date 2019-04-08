@@ -1,0 +1,67 @@
+{
+  "id": 1260179539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.78905,9.62941,-1.78905,9.62941",
+    "geom:latitude":9.62941,
+    "geom:longitude":-1.78905,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Konkori",
+    "gn:country_code":"GH",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299356,
+    "gn:latitude":9.62941,
+    "gn:longitude":-1.78905,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Konkori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299356
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"279f33a362719299846c93d2185a76e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759921,
+            "locality_id":1260179539,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1260179539,
+    "wof:lastmodified":1536852333,
+    "wof:name":"Konkori",
+    "wof:parent_id":1108759921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.78905,
+    9.62941,
+    -1.78905,
+    9.62941
+],
+  "geometry": {"coordinates":[-1.78905,9.62941],"type":"Point"}
+}

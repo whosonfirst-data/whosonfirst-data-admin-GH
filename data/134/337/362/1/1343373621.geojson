@@ -1,0 +1,71 @@
+{
+  "id": 1343373621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.42317,6.65191,-2.42317,6.65191",
+    "geom:latitude":6.65191,
+    "geom:longitude":-2.42317,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nobekaw",
+    "gn:country_code":"GH",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297187,
+    "gn:latitude":6.65191,
+    "gn:longitude":-2.42317,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nobekaw",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nobeko",
+        "Nobekaw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297187
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"78ee76089100863717c26ec0afe1e7da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759811,
+            "locality_id":1343373621,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1343373621,
+    "wof:lastmodified":1537623521,
+    "wof:name":"Nobekaw",
+    "wof:parent_id":1108759811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.42317,
+    6.65191,
+    -2.42317,
+    6.65191
+],
+  "geometry": {"coordinates":[-2.42317,6.65191],"type":"Point"}
+}

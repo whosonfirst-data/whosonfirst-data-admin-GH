@@ -1,0 +1,71 @@
+{
+  "id": 1210026505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.74244,10.27335,-0.74244,10.27335",
+    "geom:latitude":10.27335,
+    "geom:longitude":-0.74244,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bugeya",
+    "gn:country_code":"GH",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302503,
+    "gn:latitude":10.27335,
+    "gn:longitude":-0.74244,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bugeya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bugiya",
+        "Bugeya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302503
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"bf737f277ec74b4c1a14d3d465cb6d24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759937,
+            "locality_id":1210026505,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1210026505,
+    "wof:lastmodified":1537623718,
+    "wof:name":"Bugeya",
+    "wof:parent_id":1108759937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.74244,
+    10.27335,
+    -0.74244,
+    10.27335
+],
+  "geometry": {"coordinates":[-0.74244,10.27335],"type":"Point"}
+}

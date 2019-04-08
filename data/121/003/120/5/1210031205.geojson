@@ -1,0 +1,71 @@
+{
+  "id": 1210031205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.34134,7.77769,-1.34134,7.77769",
+    "geom:latitude":7.77769,
+    "geom:longitude":-1.34134,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Fiakwasa",
+    "gn:country_code":"GH",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300942,
+    "gn:latitude":7.77769,
+    "gn:longitude":-1.34134,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Fiakwasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fakwasi",
+        "Fiakwasa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300942
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"33f92d8f6dbc2ccb966b891257462f2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759817,
+            "locality_id":1210031205,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1210031205,
+    "wof:lastmodified":1537623659,
+    "wof:name":"Fiakwasa",
+    "wof:parent_id":1108759817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.34134,
+    7.77769,
+    -1.34134,
+    7.77769
+],
+  "geometry": {"coordinates":[-1.34134,7.77769],"type":"Point"}
+}

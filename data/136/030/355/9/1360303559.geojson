@@ -1,0 +1,77 @@
+{
+  "id": 1360303559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.61038,6.36969,-1.61038,6.36969",
+    "geom:latitude":6.36969,
+    "geom:longitude":-1.61038,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Begoroase",
+    "gn:country_code":"GH",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303231,
+    "gn:latitude":6.36969,
+    "gn:longitude":-1.61038,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Begoroase",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Begoroase"
+    ],
+    "name:eng_x_variant":[
+        "Chinkado"
+    ],
+    "name:und_x_variant":[
+        "Begroase",
+        "Bejuasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303231
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"5680330fe7e2c9003d038288d44d0b0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759783,
+            "locality_id":1360303559,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1360303559,
+    "wof:lastmodified":1537623742,
+    "wof:name":"Begoroase",
+    "wof:parent_id":1108759783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.61038,
+    6.36969,
+    -1.61038,
+    6.36969
+],
+  "geometry": {"coordinates":[-1.61038,6.36969],"type":"Point"}
+}

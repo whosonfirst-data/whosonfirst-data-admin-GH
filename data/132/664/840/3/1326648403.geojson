@@ -1,0 +1,71 @@
+{
+  "id": 1326648403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.66445,5.60129,-0.66445,5.60129",
+    "geom:latitude":5.60129,
+    "geom:longitude":-0.66445,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kukoadu",
+    "gn:country_code":"GH",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298983,
+    "gn:latitude":5.60129,
+    "gn:longitude":-0.66445,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kukoadu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kunoadu",
+        "Kukoadu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298983
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"58094332a2a121ce81eb4aa2cef7f29e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759843,
+            "locality_id":1326648403,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1326648403,
+    "wof:lastmodified":1537623586,
+    "wof:name":"Kukoadu",
+    "wof:parent_id":1108759843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.66445,
+    5.60129,
+    -0.66445,
+    5.60129
+],
+  "geometry": {"coordinates":[-0.66445,5.60129],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293117051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.58333,9.98333,-2.58333,9.98333",
+    "geom:latitude":9.98333,
+    "geom:longitude":-2.58333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Valempele",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294279,
+    "gn:latitude":9.98333,
+    "gn:longitude":-2.58333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Valempele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Verinpere",
+        "Valempele"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294279
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"1ce7ab5e25e7b98e1ba0f3e3e698f981",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759965,
+            "locality_id":1293117051,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1293117051,
+    "wof:lastmodified":1537623420,
+    "wof:name":"Valempele",
+    "wof:parent_id":1108759965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.58333,
+    9.98333,
+    -2.58333,
+    9.98333
+],
+  "geometry": {"coordinates":[-2.58333,9.98333],"type":"Point"}
+}

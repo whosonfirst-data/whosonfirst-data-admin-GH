@@ -1,0 +1,65 @@
+{
+  "id": 1209625273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.94143,6.45896,-0.94143,6.45896",
+    "geom:latitude":6.45896,
+    "geom:longitude":-0.94143,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nwiso",
+    "gn:country_code":"GH",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296943,
+    "gn:latitude":6.45896,
+    "gn:longitude":-0.94143,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nwiso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nwinso",
+        "Nwiso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296943
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"c56bf44a2ee6a0c0e18c6eb6ca5c8880",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209625273
+        }
+    ],
+    "wof:id":1209625273,
+    "wof:lastmodified":1537623513,
+    "wof:name":"Nwiso",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.94143,
+    6.45896,
+    -0.94143,
+    6.45896
+],
+  "geometry": {"coordinates":[-0.94143,6.45896],"type":"Point"}
+}

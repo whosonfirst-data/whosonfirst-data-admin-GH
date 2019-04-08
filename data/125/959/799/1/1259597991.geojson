@@ -1,0 +1,71 @@
+{
+  "id": 1259597991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.6169,7.35853,-1.6169,7.35853",
+    "geom:latitude":7.35853,
+    "geom:longitude":-1.6169,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Chiradeso",
+    "gn:country_code":"GH",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302200,
+    "gn:latitude":7.35853,
+    "gn:longitude":-1.6169,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chiradeso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyiradeso",
+        "Chiradeso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302200
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"55514aeea89efdf59d25d988b63292f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759827,
+            "locality_id":1259597991,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1259597991,
+    "wof:lastmodified":1537623707,
+    "wof:name":"Chiradeso",
+    "wof:parent_id":1108759827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.6169,
+    7.35853,
+    -1.6169,
+    7.35853
+],
+  "geometry": {"coordinates":[-1.6169,7.35853],"type":"Point"}
+}

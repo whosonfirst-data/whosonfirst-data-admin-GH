@@ -1,0 +1,67 @@
+{
+  "id": 1260294861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.15951,9.94389,-2.15951,9.94389",
+    "geom:latitude":9.94389,
+    "geom:longitude":-2.15951,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bisikan",
+    "gn:country_code":"GH",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302962,
+    "gn:latitude":9.94389,
+    "gn:longitude":-2.15951,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Bisikan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302962
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ad8c8a3dfe34d0b63d05bc5ee8ef80b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759965,
+            "locality_id":1260294861,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1260294861,
+    "wof:lastmodified":1536696789,
+    "wof:name":"Bisikan",
+    "wof:parent_id":1108759965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.15951,
+    9.94389,
+    -2.15951,
+    9.94389
+],
+  "geometry": {"coordinates":[-2.15951,9.94389],"type":"Point"}
+}

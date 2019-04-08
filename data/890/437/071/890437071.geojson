@@ -1,0 +1,87 @@
+{
+  "id": 890437071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.31938,6.46346,-2.31938,6.46346",
+    "geom:latitude":6.46346,
+    "geom:longitude":-2.31938,
+    "gn:country":"GH",
+    "gn:fcode":"PPL",
+    "gn:pop":19076,
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0411\u0438\u0431\u0438\u0430\u043d\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Bibiani"
+    ],
+    "name:eng_x_preferred":[
+        "Bibiani"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30d3\u30a2\u30cb"
+    ],
+    "name:swe_x_preferred":[
+        "Bibiani"
+    ],
+    "name:unk_x_variant":[
+        "Bebiani"
+    ],
+    "qs:name":"Bibiani",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":63,
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108759999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303060,
+        "gp:id":1327976,
+        "qs:id":1034781,
+        "wd:id":"Q4903040",
+        "wk:page":"Bibiani"
+    },
+    "wof:country":"GH",
+    "wof:created":1469052137,
+    "wof:geomhash":"709237811c5b96a13c9b1dc22845a63e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759999,
+            "locality_id":890437071,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":890437071,
+    "wof:lastmodified":1527729749,
+    "wof:name":"Bibiani",
+    "wof:parent_id":1108759999,
+    "wof:placetype":"locality",
+    "wof:population":19076,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.31938,
+    6.46346,
+    -2.31938,
+    6.46346
+],
+  "geometry": {"coordinates":[-2.31938,6.46346],"type":"Point"}
+}

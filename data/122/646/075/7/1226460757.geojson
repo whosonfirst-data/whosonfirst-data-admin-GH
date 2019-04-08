@@ -1,0 +1,73 @@
+{
+  "id": 1226460757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.09655,6.95721,-2.09655,6.95721",
+    "geom:latitude":6.95721,
+    "geom:longitude":-2.09655,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Anyinasuso",
+    "gn:country_code":"GH",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304408,
+    "gn:latitude":6.95721,
+    "gn:longitude":-2.09655,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Anyinasuso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Anyinasuso"
+    ],
+    "name:eng_x_variant":[
+        "Ayinasuaso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304408
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"e5789a905c8a5ddcf35da0049e965a65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759777,
+            "locality_id":1226460757,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1226460757,
+    "wof:lastmodified":1537623783,
+    "wof:name":"Anyinasuso",
+    "wof:parent_id":1108759777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.09655,
+    6.95721,
+    -2.09655,
+    6.95721
+],
+  "geometry": {"coordinates":[-2.09655,6.95721],"type":"Point"}
+}

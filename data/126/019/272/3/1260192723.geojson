@@ -1,0 +1,71 @@
+{
+  "id": 1260192723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.23031,10.59467,-1.23031,10.59467",
+    "geom:latitude":10.59467,
+    "geom:longitude":-1.23031,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gadem",
+    "gn:country_code":"GH",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300789,
+    "gn:latitude":10.59467,
+    "gn:longitude":-1.23031,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gadem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kadema Gaddem",
+        "Gadem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300789
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"8c0f82289eb360f75b2fc7d15afa5ff6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759951,
+            "locality_id":1260192723,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1260192723,
+    "wof:lastmodified":1537623654,
+    "wof:name":"Gadem",
+    "wof:parent_id":1108759951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.23031,
+    10.59467,
+    -1.23031,
+    10.59467
+],
+  "geometry": {"coordinates":[-1.23031,10.59467],"type":"Point"}
+}

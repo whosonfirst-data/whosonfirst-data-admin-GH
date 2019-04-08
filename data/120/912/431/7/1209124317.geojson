@@ -1,0 +1,65 @@
+{
+  "id": 1209124317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.22955,6.36617,0.22955,6.36617",
+    "geom:latitude":6.36617,
+    "geom:longitude":0.22955,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kosigakofe",
+    "gn:country_code":"GH",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299310,
+    "gn:latitude":6.36617,
+    "gn:longitude":0.22955,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kosigakofe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kosikofe",
+        "Kosigakofe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299310
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"09cc118e8af0a9fde06a8a35e93bacc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209124317
+        }
+    ],
+    "wof:id":1209124317,
+    "wof:lastmodified":1537623596,
+    "wof:name":"Kosigakofe",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.22955,
+    6.36617,
+    0.22955,
+    6.36617
+],
+  "geometry": {"coordinates":[0.22955,6.36617],"type":"Point"}
+}

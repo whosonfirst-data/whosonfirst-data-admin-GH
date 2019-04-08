@@ -1,0 +1,68 @@
+{
+  "id": 1226157817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.18333,6.1,1.18333,6.1",
+    "geom:latitude":6.1,
+    "geom:longitude":1.18333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kudaokofe",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299011,
+    "gn:latitude":6.1,
+    "gn:longitude":1.18333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kudaokofe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kudawukorpe",
+        "Kudaokofe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299011
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"90ed5f0635642e31c8d52364a808cbc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1226157817,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226157817,
+    "wof:lastmodified":1537623587,
+    "wof:name":"Kudaokofe",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.18333,
+    6.1,
+    1.18333,
+    6.1
+],
+  "geometry": {"coordinates":[1.18333,6.1],"type":"Point"}
+}

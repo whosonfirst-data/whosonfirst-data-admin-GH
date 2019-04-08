@@ -1,0 +1,72 @@
+{
+  "id": 1243274239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.5,7.6,-2.5,7.6",
+    "geom:latitude":7.6,
+    "geom:longitude":-2.5,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Forikrom",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300887,
+    "gn:latitude":7.6,
+    "gn:longitude":-2.5,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Forikrom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Forikurom",
+        "Forikrom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300887
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"e35176e6ee1064dd55b66089ebb5baea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759819,
+            "locality_id":1243274239,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1243274239,
+    "wof:lastmodified":1537623657,
+    "wof:name":"Forikrom",
+    "wof:parent_id":1108759819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.5,
+    7.6,
+    -2.5,
+    7.6
+],
+  "geometry": {"coordinates":[-2.5,7.6],"type":"Point"}
+}

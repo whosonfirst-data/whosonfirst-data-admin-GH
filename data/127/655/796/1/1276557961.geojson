@@ -1,0 +1,71 @@
+{
+  "id": 1276557961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.94625,6.43602,-0.94625,6.43602",
+    "geom:latitude":6.43602,
+    "geom:longitude":-0.94625,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nyafomang",
+    "gn:country_code":"GH",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296931,
+    "gn:latitude":6.43602,
+    "gn:longitude":-0.94625,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nyafomang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nyafoman",
+        "Nyafomang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296931
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"921fe01ab8f56b78f731a7557702a522",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759877,
+            "locality_id":1276557961,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1276557961,
+    "wof:lastmodified":1537623513,
+    "wof:name":"Nyafomang",
+    "wof:parent_id":1108759877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.94625,
+    6.43602,
+    -0.94625,
+    6.43602
+],
+  "geometry": {"coordinates":[-0.94625,6.43602],"type":"Point"}
+}

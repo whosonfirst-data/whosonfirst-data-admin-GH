@@ -1,0 +1,70 @@
+{
+  "id": 1243472595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.68148,6.96762,-1.68148,6.96762",
+    "geom:latitude":6.96762,
+    "geom:longitude":-1.68148,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Namon",
+    "gn:country_code":"GH",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297617,
+    "gn:latitude":6.96762,
+    "gn:longitude":-1.68148,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Namon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Namong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297617
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"afb5b063bc66f5b32e7d5f85d89e2798",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759805,
+            "locality_id":1243472595,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1243472595,
+    "wof:lastmodified":1537623538,
+    "wof:name":"Namon",
+    "wof:parent_id":1108759805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.68148,
+    6.96762,
+    -1.68148,
+    6.96762
+],
+  "geometry": {"coordinates":[-1.68148,6.96762],"type":"Point"}
+}

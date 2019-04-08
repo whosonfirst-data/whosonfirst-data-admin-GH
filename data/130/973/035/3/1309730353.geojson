@@ -1,0 +1,71 @@
+{
+  "id": 1309730353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.46394,10.78689,-1.46394,10.78689",
+    "geom:latitude":10.78689,
+    "geom:longitude":-1.46394,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Yelania",
+    "gn:country_code":"GH",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293803,
+    "gn:latitude":10.78689,
+    "gn:longitude":-1.46394,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yelania",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nakong Yelania",
+        "Yelania"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293803
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"332fbe88a834b375251296b74a64ce52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759953,
+            "locality_id":1309730353,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1309730353,
+    "wof:lastmodified":1537623403,
+    "wof:name":"Yelania",
+    "wof:parent_id":1108759953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.46394,
+    10.78689,
+    -1.46394,
+    10.78689
+],
+  "geometry": {"coordinates":[-1.46394,10.78689],"type":"Point"}
+}

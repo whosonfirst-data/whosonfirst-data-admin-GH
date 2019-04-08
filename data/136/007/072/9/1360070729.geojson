@@ -1,0 +1,67 @@
+{
+  "id": 1360070729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.03472,6.03222,1.03472,6.03222",
+    "geom:latitude":6.03222,
+    "geom:longitude":1.03472,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tasikome",
+    "gn:country_code":"GH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2589907,
+    "gn:latitude":6.03222,
+    "gn:longitude":1.03472,
+    "gn:modification_date":"1998-01-27",
+    "gn:name":"Tasikome",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2589907
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"afa71f5dc6599a7ca1112f2aad53a36c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759983,
+            "locality_id":1360070729,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1360070729,
+    "wof:lastmodified":1536966196,
+    "wof:name":"Tasikome",
+    "wof:parent_id":1108759983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.03472,
+    6.03222,
+    1.03472,
+    6.03222
+],
+  "geometry": {"coordinates":[1.03472,6.03222],"type":"Point"}
+}

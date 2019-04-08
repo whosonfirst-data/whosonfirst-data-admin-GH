@@ -1,0 +1,64 @@
+{
+  "id": 1209399217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.13814,4.86941,-2.13814,4.86941",
+    "geom:latitude":4.86941,
+    "geom:longitude":-2.13814,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tandokwere",
+    "gn:country_code":"GH",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294843,
+    "gn:latitude":4.86941,
+    "gn:longitude":-2.13814,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tandokwere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tandokwere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294843
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"8f568f5b046cea26bbdc250b7ed2a841",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209399217
+        }
+    ],
+    "wof:id":1209399217,
+    "wof:lastmodified":1537623440,
+    "wof:name":"Tandokwere",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.13814,
+    4.86941,
+    -2.13814,
+    4.86941
+],
+  "geometry": {"coordinates":[-2.13814,4.86941],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209433183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.99321,6.72834,-1.99321,6.72834",
+    "geom:latitude":6.72834,
+    "geom:longitude":-1.99321,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Akonchi",
+    "gn:country_code":"GH",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305125,
+    "gn:latitude":6.72834,
+    "gn:longitude":-1.99321,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Akonchi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akonkyi",
+        "Akonchi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305125
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"d8606ac1a801c2dc10e10606b05bb53a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209433183
+        }
+    ],
+    "wof:id":1209433183,
+    "wof:lastmodified":1537623809,
+    "wof:name":"Akonchi",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.99321,
+    6.72834,
+    -1.99321,
+    6.72834
+],
+  "geometry": {"coordinates":[-1.99321,6.72834],"type":"Point"}
+}

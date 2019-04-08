@@ -1,0 +1,67 @@
+{
+  "id": 1193030689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.13673,8.35092,-2.13673,8.35092",
+    "geom:latitude":8.35092,
+    "geom:longitude":-2.13673,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Banda Nkwanta",
+    "gn:country_code":"GH",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303412,
+    "gn:latitude":8.35092,
+    "gn:longitude":-2.13673,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Banda Nkwanta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303412
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"55480c6ee0d19e0461179f65578a834a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759913,
+            "locality_id":1193030689,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1193030689,
+    "wof:lastmodified":1536364456,
+    "wof:name":"Banda Nkwanta",
+    "wof:parent_id":1108759913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.13673,
+    8.35092,
+    -2.13673,
+    8.35092
+],
+  "geometry": {"coordinates":[-2.13673,8.35092],"type":"Point"}
+}

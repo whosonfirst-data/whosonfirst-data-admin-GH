@@ -1,0 +1,74 @@
+{
+  "id": 890432195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.07713,5.60106,-0.07713,5.60106",
+    "geom:latitude":5.60106,
+    "geom:longitude":-0.07713,
+    "gn:country":"GH",
+    "gn:fcode":"PPLX",
+    "gn:pop":70483,
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Nungua"
+    ],
+    "name:unk_x_variant":[
+        "Nungwa"
+    ],
+    "qs:name":"Nungua",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":126,
+    "wof:belongsto":[
+        102191573,
+        85671353,
+        85632189,
+        1108759901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296969,
+        "qs:id":278376,
+        "wd:id":"Q493990",
+        "wk:page":"Nungua"
+    },
+    "wof:country":"GH",
+    "wof:created":1469051932,
+    "wof:geomhash":"3a7567e933e46a0b094cb6b40e5cacfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759901,
+            "neighbourhood_id":890432195,
+            "region_id":85671353
+        }
+    ],
+    "wof:id":890432195,
+    "wof:lastmodified":1527793032,
+    "wof:name":"Nungua",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":70483,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.07713,
+    5.60106,
+    -0.07713,
+    5.60106
+],
+  "geometry": {"coordinates":[-0.07713,5.60106],"type":"Point"}
+}

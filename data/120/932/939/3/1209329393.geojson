@@ -1,0 +1,61 @@
+{
+  "id": 1209329393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.11667,5.23333,-1.11667,5.23333",
+    "geom:latitude":5.23333,
+    "geom:longitude":-1.11667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Anumansa",
+    "gn:country_code":"GH",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304501,
+    "gn:latitude":5.23333,
+    "gn:longitude":-1.11667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Anumansa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304501
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"e332ea13ca432276326d38bfc54f7fd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209329393
+        }
+    ],
+    "wof:id":1209329393,
+    "wof:lastmodified":1536290421,
+    "wof:name":"Anumansa",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.11667,
+    5.2333300000000005,
+    -1.11667,
+    5.2333300000000005
+],
+  "geometry": {"coordinates":[-1.11667,5.23333],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209022589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.41004,5.19375,-1.41004,5.19375",
+    "geom:latitude":5.19375,
+    "geom:longitude":-1.41004,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ankasi",
+    "gn:country_code":"GH",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304569,
+    "gn:latitude":5.19375,
+    "gn:longitude":-1.41004,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ankasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abrem Ankase",
+        "Ankasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304569
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"d2e42499963d21a1d81813dc5b7117ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209022589
+        }
+    ],
+    "wof:id":1209022589,
+    "wof:lastmodified":1537623790,
+    "wof:name":"Ankasi",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.41004,
+    5.19375,
+    -1.41004,
+    5.19375
+],
+  "geometry": {"coordinates":[-1.41004,5.19375],"type":"Point"}
+}

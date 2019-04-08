@@ -1,0 +1,68 @@
+{
+  "id": 1193025831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.09873,5.88114,-0.09873,5.88114",
+    "geom:latitude":5.88114,
+    "geom:longitude":-0.09873,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dodowa",
+    "gn:country_code":"GH",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301665,
+    "gn:latitude":5.88114,
+    "gn:longitude":-0.09873,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Dodowa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671353,
+        1108759907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301665,
+        "wk:page":"Dodowa"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"1560822a8acf8b8a00057ccd70cb6c78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759907,
+            "locality_id":1193025831,
+            "region_id":85671353
+        }
+    ],
+    "wof:id":1193025831,
+    "wof:lastmodified":1537563050,
+    "wof:name":"Dodowa",
+    "wof:parent_id":1108759907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.09873,
+    5.88114,
+    -0.09873,
+    5.88114
+],
+  "geometry": {"coordinates":[-0.09873,5.88114],"type":"Point"}
+}

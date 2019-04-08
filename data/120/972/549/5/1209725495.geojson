@@ -1,0 +1,71 @@
+{
+  "id": 1209725495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.47981,5.41347,-1.47981,5.41347",
+    "geom:latitude":5.41347,
+    "geom:longitude":-1.47981,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Wawasi",
+    "gn:country_code":"GH",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294116,
+    "gn:latitude":5.41347,
+    "gn:longitude":-1.47981,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Wawasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wawase",
+        "Wawasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294116
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"168f3a6201777ca4fcaa8844176aa67f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759863,
+            "locality_id":1209725495,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1209725495,
+    "wof:lastmodified":1537623415,
+    "wof:name":"Wawasi",
+    "wof:parent_id":1108759863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.47981,
+    5.41347,
+    -1.47981,
+    5.41347
+],
+  "geometry": {"coordinates":[-1.47981,5.41347],"type":"Point"}
+}

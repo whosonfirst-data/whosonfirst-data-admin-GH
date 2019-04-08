@@ -1,0 +1,70 @@
+{
+  "id": 1225954373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.04229,5.79749,-2.04229,5.79749",
+    "geom:latitude":5.79749,
+    "geom:longitude":-2.04229,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Pebabitina",
+    "gn:country_code":"GH",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296047,
+    "gn:latitude":5.79749,
+    "gn:longitude":-2.04229,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Pebabitina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pebabitina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296047
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"bd30566a3008f2a4251e9b44a7ba1d7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760015,
+            "locality_id":1225954373,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1225954373,
+    "wof:lastmodified":1537623481,
+    "wof:name":"Pebabitina",
+    "wof:parent_id":1108760015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.04229,
+    5.79749,
+    -2.04229,
+    5.79749
+],
+  "geometry": {"coordinates":[-2.04229,5.79749],"type":"Point"}
+}

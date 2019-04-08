@@ -1,0 +1,74 @@
+{
+  "id": 1209928945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.84769,10.61713,-2.84769,10.61713",
+    "geom:latitude":10.61713,
+    "geom:longitude":-2.84769,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kalsare",
+    "gn:country_code":"GH",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299867,
+    "gn:latitude":10.61713,
+    "gn:longitude":-2.84769,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Kalsare",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kalsare"
+    ],
+    "name:und_x_variant":[
+        "Kalsagri",
+        "Kalsara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299867
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"e91d7eda47f56fc01290886b72595d55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759957,
+            "locality_id":1209928945,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1209928945,
+    "wof:lastmodified":1537623617,
+    "wof:name":"Kalsare",
+    "wof:parent_id":1108759957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.84769,
+    10.61713,
+    -2.84769,
+    10.61713
+],
+  "geometry": {"coordinates":[-2.84769,10.61713],"type":"Point"}
+}

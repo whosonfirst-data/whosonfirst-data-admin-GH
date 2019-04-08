@@ -1,0 +1,75 @@
+{
+  "id": 1209932365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.67678,5.35192,-1.67678,5.35192",
+    "geom:latitude":5.35192,
+    "geom:longitude":-1.67678,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Esaaman",
+    "gn:country_code":"GH",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301128,
+    "gn:latitude":5.35192,
+    "gn:longitude":-1.67678,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Esaaman",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Esaaman"
+    ],
+    "name:und_x_variant":[
+        "Asamang",
+        "Essaman",
+        "Esamang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301128
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"fb04060740bbc57c47e6f1997777403c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760005,
+            "locality_id":1209932365,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1209932365,
+    "wof:lastmodified":1537623666,
+    "wof:name":"Esaaman",
+    "wof:parent_id":1108760005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.67678,
+    5.35192,
+    -1.67678,
+    5.35192
+],
+  "geometry": {"coordinates":[-1.67678,5.35192],"type":"Point"}
+}

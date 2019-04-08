@@ -1,0 +1,70 @@
+{
+  "id": 1226554447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.8009,8.0719,-1.8009,8.0719",
+    "geom:latitude":8.0719,
+    "geom:longitude":-1.8009,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Yabraso",
+    "gn:country_code":"GH",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293926,
+    "gn:latitude":8.0719,
+    "gn:longitude":-1.8009,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Yabraso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yabraso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293926
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"83e5a42c13c427090c3ed605f99dea62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759825,
+            "locality_id":1226554447,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1226554447,
+    "wof:lastmodified":1537623407,
+    "wof:name":"Yabraso",
+    "wof:parent_id":1108759825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.8009,
+    8.0719,
+    -1.8009,
+    8.0719
+],
+  "geometry": {"coordinates":[-1.8009,8.0719],"type":"Point"}
+}

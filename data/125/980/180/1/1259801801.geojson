@@ -1,0 +1,72 @@
+{
+  "id": 1259801801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.77136,5.34734,-0.77136,5.34734",
+    "geom:latitude":5.34734,
+    "geom:longitude":-0.77136,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ajumako",
+    "gn:country_code":"GH",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305257,
+    "gn:latitude":5.34734,
+    "gn:longitude":-0.77136,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ajumako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Edwumako",
+        "Ajumaku",
+        "Ajumako"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305257
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"789ea522baa08971988e9299649a6f8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759857,
+            "locality_id":1259801801,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1259801801,
+    "wof:lastmodified":1537623814,
+    "wof:name":"Ajumako",
+    "wof:parent_id":1108759857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.77136,
+    5.34734,
+    -0.77136,
+    5.34734
+],
+  "geometry": {"coordinates":[-0.77136,5.34734],"type":"Point"}
+}

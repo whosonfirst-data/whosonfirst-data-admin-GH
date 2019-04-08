@@ -1,0 +1,61 @@
+{
+  "id": 1209232889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.5064,6.04354,0.5064,6.04354",
+    "geom:latitude":6.04354,
+    "geom:longitude":0.5064,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Zawtipo",
+    "gn:country_code":"GH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293667,
+    "gn:latitude":6.04354,
+    "gn:longitude":0.5064,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Zawtipo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293667
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"0d9369b208438bb7f39684c38a53f8be",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209232889
+        }
+    ],
+    "wof:id":1209232889,
+    "wof:lastmodified":1536293581,
+    "wof:name":"Zawtipo",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.5064,
+    6.04354,
+    0.5064,
+    6.04354
+],
+  "geometry": {"coordinates":[0.5064,6.04354],"type":"Point"}
+}

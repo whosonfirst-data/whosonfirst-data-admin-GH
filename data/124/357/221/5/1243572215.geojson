@@ -1,0 +1,71 @@
+{
+  "id": 1243572215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.02868,9.21725,-2.02868,9.21725",
+    "geom:latitude":9.21725,
+    "geom:longitude":-2.02868,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kabanpe",
+    "gn:country_code":"GH",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299977,
+    "gn:latitude":9.21725,
+    "gn:longitude":-2.02868,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kabanpe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kabampe",
+        "Kabanpe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299977
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"f656d4f8d9f6356eed1b45ef414e88dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759921,
+            "locality_id":1243572215,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1243572215,
+    "wof:lastmodified":1537623620,
+    "wof:name":"Kabanpe",
+    "wof:parent_id":1108759921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.02868,
+    9.21725,
+    -2.02868,
+    9.21725
+],
+  "geometry": {"coordinates":[-2.02868,9.21725],"type":"Point"}
+}

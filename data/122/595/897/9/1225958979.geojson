@@ -1,0 +1,70 @@
+{
+  "id": 1225958979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.81998,6.93765,-1.81998,6.93765",
+    "geom:latitude":6.93765,
+    "geom:longitude":-1.81998,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Baso",
+    "gn:country_code":"GH",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303324,
+    "gn:latitude":6.93765,
+    "gn:longitude":-1.81998,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Baso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Baso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303324
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"48773a0d82d3ec190dd48743a48c0108",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759791,
+            "locality_id":1225958979,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1225958979,
+    "wof:lastmodified":1537623746,
+    "wof:name":"Baso",
+    "wof:parent_id":1108759791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.81998,
+    6.93765,
+    -1.81998,
+    6.93765
+],
+  "geometry": {"coordinates":[-1.81998,6.93765],"type":"Point"}
+}

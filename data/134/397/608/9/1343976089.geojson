@@ -1,0 +1,67 @@
+{
+  "id": 1343976089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.1,5.86667,-1.1,5.86667",
+    "geom:latitude":5.86667,
+    "geom:longitude":-1.1,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Aboabo",
+    "gn:country_code":"GH",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306345,
+    "gn:latitude":5.86667,
+    "gn:longitude":-1.1,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Aboabo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306345
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"eac60ac13774daa4af0d8a2e04427df4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759879,
+            "locality_id":1343976089,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1343976089,
+    "wof:lastmodified":1536996702,
+    "wof:name":"Aboabo",
+    "wof:parent_id":1108759879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.1,
+    5.86667,
+    -1.1,
+    5.86667
+],
+  "geometry": {"coordinates":[-1.1,5.86667],"type":"Point"}
+}

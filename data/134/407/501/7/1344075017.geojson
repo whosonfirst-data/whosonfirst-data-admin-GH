@@ -1,0 +1,74 @@
+{
+  "id": 1344075017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.73898,6.20687,-1.73898,6.20687",
+    "geom:latitude":6.20687,
+    "geom:longitude":-1.73898,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Wiase",
+    "gn:country_code":"GH",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297020,
+    "gn:latitude":6.20687,
+    "gn:longitude":-1.73898,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Wiase",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Wiase"
+    ],
+    "name:und_x_variant":[
+        "Supuso",
+        "Ntonsua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297020
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"81122c89b55514841c95211fc7a68341",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759783,
+            "locality_id":1344075017,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1344075017,
+    "wof:lastmodified":1537623515,
+    "wof:name":"Wiase",
+    "wof:parent_id":1108759783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.73898,
+    6.20687,
+    -1.73898,
+    6.20687
+],
+  "geometry": {"coordinates":[-1.73898,6.20687],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343369053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.94295,4.91674,-1.94295,4.91674",
+    "geom:latitude":4.91674,
+    "geom:longitude":-1.94295,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kwamekrom",
+    "gn:country_code":"GH",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298654,
+    "gn:latitude":4.91674,
+    "gn:longitude":-1.94295,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Kwamekrom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kwamkrom",
+        "Kwamikrom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298654
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"156f23df14912c140a9bbf653369a48f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760005,
+            "locality_id":1343369053,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1343369053,
+    "wof:lastmodified":1537623574,
+    "wof:name":"Kwamekrom",
+    "wof:parent_id":1108760005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.94295,
+    4.91674,
+    -1.94295,
+    4.91674
+],
+  "geometry": {"coordinates":[-1.94295,4.91674],"type":"Point"}
+}

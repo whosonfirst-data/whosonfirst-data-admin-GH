@@ -1,0 +1,71 @@
+{
+  "id": 1260375025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.52047,4.97295,-2.52047,4.97295",
+    "geom:latitude":4.97295,
+    "geom:longitude":-2.52047,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Anochi",
+    "gn:country_code":"GH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304546,
+    "gn:latitude":4.97295,
+    "gn:longitude":-2.52047,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Anochi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nalochi",
+        "Anochi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304546
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"709ea8fe419c80821f73ffe964026ae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760007,
+            "locality_id":1260375025,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1260375025,
+    "wof:lastmodified":1537623789,
+    "wof:name":"Anochi",
+    "wof:parent_id":1108760007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.52047,
+    4.97295,
+    -2.52047,
+    4.97295
+],
+  "geometry": {"coordinates":[-2.52047,4.97295],"type":"Point"}
+}

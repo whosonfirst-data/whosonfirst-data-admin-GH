@@ -1,0 +1,70 @@
+{
+  "id": 1259997935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.76362,5.94078,-1.76362,5.94078",
+    "geom:latitude":5.94078,
+    "geom:longitude":-1.76362,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Abuakwankwanta",
+    "gn:country_code":"GH",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306158,
+    "gn:latitude":5.94078,
+    "gn:longitude":-1.76362,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Abuakwankwanta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Abuakwankwanta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306158
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"cc3398205eb99940a49427e6df10d52d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759865,
+            "locality_id":1259997935,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1259997935,
+    "wof:lastmodified":1537623846,
+    "wof:name":"Abuakwankwanta",
+    "wof:parent_id":1108759865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.76362,
+    5.94078,
+    -1.76362,
+    5.94078
+],
+  "geometry": {"coordinates":[-1.76362,5.94078],"type":"Point"}
+}

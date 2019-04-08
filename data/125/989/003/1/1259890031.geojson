@@ -1,0 +1,70 @@
+{
+  "id": 1259890031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.92266,5.49342,-1.92266,5.49342",
+    "geom:latitude":5.49342,
+    "geom:longitude":-1.92266,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tinkwakrom",
+    "gn:country_code":"GH",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294571,
+    "gn:latitude":5.49342,
+    "gn:longitude":-1.92266,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Tinkwakrom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tinkwakrom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294571
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"3652763c88a6d1438e965a65eee65b46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760017,
+            "locality_id":1259890031,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1259890031,
+    "wof:lastmodified":1537623430,
+    "wof:name":"Tinkwakrom",
+    "wof:parent_id":1108760017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.92266,
+    5.49342,
+    -1.92266,
+    5.49342
+],
+  "geometry": {"coordinates":[-1.92266,5.49342],"type":"Point"}
+}

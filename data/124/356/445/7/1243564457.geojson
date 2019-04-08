@@ -1,0 +1,70 @@
+{
+  "id": 1243564457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.93433,5.40563,-1.93433,5.40563",
+    "geom:latitude":5.40563,
+    "geom:longitude":-1.93433,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Nduam",
+    "gn:country_code":"GH",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297462,
+    "gn:latitude":5.40563,
+    "gn:longitude":-1.93433,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Nduam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nduam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297462
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"cea5f74c5bb0e84365db4ea51595f464",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760017,
+            "locality_id":1243564457,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1243564457,
+    "wof:lastmodified":1537623532,
+    "wof:name":"Nduam",
+    "wof:parent_id":1108760017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.93433,
+    5.40563,
+    -1.93433,
+    5.40563
+],
+  "geometry": {"coordinates":[-1.93433,5.40563],"type":"Point"}
+}

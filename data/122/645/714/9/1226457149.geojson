@@ -1,0 +1,67 @@
+{
+  "id": 1226457149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.44272,5.15027,-1.44272,5.15027",
+    "geom:latitude":5.15027,
+    "geom:longitude":-1.44272,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Hiawa",
+    "gn:country_code":"GH",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300397,
+    "gn:latitude":5.15027,
+    "gn:longitude":-1.44272,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Hiawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300397
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a7f12e19ea39e0ec9de3991e98c54ef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759859,
+            "locality_id":1226457149,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1226457149,
+    "wof:lastmodified":1536627193,
+    "wof:name":"Hiawa",
+    "wof:parent_id":1108759859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.44272,
+    5.15027,
+    -1.44272,
+    5.15027
+],
+  "geometry": {"coordinates":[-1.44272,5.15027],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1260098355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.03645,10.20417,0.03645,10.20417",
+    "geom:latitude":10.20417,
+    "geom:longitude":0.03645,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nasamwiaga",
+    "gn:country_code":"GH",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297535,
+    "gn:latitude":10.20417,
+    "gn:longitude":0.03645,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nasamwiaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nasuweigu",
+        "Nasamwiaga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297535
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"06fb10b899ff5965a6be72dc6a10c8a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759925,
+            "locality_id":1260098355,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1260098355,
+    "wof:lastmodified":1537623534,
+    "wof:name":"Nasamwiaga",
+    "wof:parent_id":1108759925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.03645,
+    10.20417,
+    0.03645,
+    10.20417
+],
+  "geometry": {"coordinates":[0.03645,10.20417],"type":"Point"}
+}

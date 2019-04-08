@@ -1,0 +1,67 @@
+{
+  "id": 1210030961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.33302,5.28779,-1.33302,5.28779",
+    "geom:latitude":5.28779,
+    "geom:longitude":-1.33302,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Watreso",
+    "gn:country_code":"GH",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294127,
+    "gn:latitude":5.28779,
+    "gn:longitude":-1.33302,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Watreso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294127
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"609af52059b2e43cf6863623c6bd372d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759863,
+            "locality_id":1210030961,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1210030961,
+    "wof:lastmodified":1536388587,
+    "wof:name":"Watreso",
+    "wof:parent_id":1108759863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.33302,
+    5.28779,
+    -1.33302,
+    5.28779
+],
+  "geometry": {"coordinates":[-1.33302,5.28779],"type":"Point"}
+}

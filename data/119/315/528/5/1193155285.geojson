@@ -1,0 +1,71 @@
+{
+  "id": 1193155285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.22033,5.7496,-2.22033,5.7496",
+    "geom:latitude":5.7496,
+    "geom:longitude":-2.22033,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Aiyinabrim",
+    "gn:country_code":"GH",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305345,
+    "gn:latitude":5.7496,
+    "gn:longitude":-2.22033,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Aiyinabrim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Enyinaberemu",
+        "Aiyinabrim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305345
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"19001069b0427078e9d4a74eb87c2b38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760015,
+            "locality_id":1193155285,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1193155285,
+    "wof:lastmodified":1537623818,
+    "wof:name":"Aiyinabrim",
+    "wof:parent_id":1108760015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.22033,
+    5.7496,
+    -2.22033,
+    5.7496
+],
+  "geometry": {"coordinates":[-2.22033,5.7496],"type":"Point"}
+}

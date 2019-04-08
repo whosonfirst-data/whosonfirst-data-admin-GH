@@ -1,0 +1,67 @@
+{
+  "id": 1343976007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.47802,9.8795,-0.47802,9.8795",
+    "geom:latitude":9.8795,
+    "geom:longitude":-0.47802,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kopalli",
+    "gn:country_code":"GH",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299337,
+    "gn:latitude":9.8795,
+    "gn:longitude":-0.47802,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Kopalli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299337
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"70c41fd44fc267a26e49370002f72122",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759925,
+            "locality_id":1343976007,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1343976007,
+    "wof:lastmodified":1536996826,
+    "wof:name":"Kopalli",
+    "wof:parent_id":1108759925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.47802,
+    9.8795,
+    -0.47802,
+    9.8795
+],
+  "geometry": {"coordinates":[-0.47802,9.8795],"type":"Point"}
+}

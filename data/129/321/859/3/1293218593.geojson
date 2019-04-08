@@ -1,0 +1,72 @@
+{
+  "id": 1293218593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.61411,5.73767,-0.61411,5.73767",
+    "geom:latitude":5.73767,
+    "geom:longitude":-0.61411,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kwaban",
+    "gn:country_code":"GH",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298752,
+    "gn:latitude":5.73767,
+    "gn:longitude":-0.61411,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kwaban",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kwaben",
+        "Kwabaa",
+        "Kwaban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298752
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"793070d5883cd9919bbc9775971f792e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759897,
+            "locality_id":1293218593,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1293218593,
+    "wof:lastmodified":1537623579,
+    "wof:name":"Kwaban",
+    "wof:parent_id":1108759897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.61411,
+    5.73767,
+    -0.61411,
+    5.73767
+],
+  "geometry": {"coordinates":[-0.61411,5.73767],"type":"Point"}
+}

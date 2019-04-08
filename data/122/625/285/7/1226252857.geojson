@@ -1,0 +1,70 @@
+{
+  "id": 1226252857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.76537,6.36125,-1.76537,6.36125",
+    "geom:latitude":6.36125,
+    "geom:longitude":-1.76537,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tinkorang",
+    "gn:country_code":"GH",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294573,
+    "gn:latitude":6.36125,
+    "gn:longitude":-1.76537,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Tinkorang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tinkorang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294573
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"fbd37efdbb4ac1dec80bab474a1894a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759783,
+            "locality_id":1226252857,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1226252857,
+    "wof:lastmodified":1537623430,
+    "wof:name":"Tinkorang",
+    "wof:parent_id":1108759783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.76537,
+    6.36125,
+    -1.76537,
+    6.36125
+],
+  "geometry": {"coordinates":[-1.76537,6.36125],"type":"Point"}
+}

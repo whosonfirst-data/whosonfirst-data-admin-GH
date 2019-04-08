@@ -1,0 +1,61 @@
+{
+  "id": 1209324511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.1,5.0,-2.1,5.0",
+    "geom:latitude":5.0,
+    "geom:longitude":-2.1,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nyaben",
+    "gn:country_code":"GH",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296940,
+    "gn:latitude":5.0,
+    "gn:longitude":-2.1,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Nyaben",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296940
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"4e887e317bd7163a80e4baba9036baf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209324511
+        }
+    ],
+    "wof:id":1209324511,
+    "wof:lastmodified":1536290577,
+    "wof:name":"Nyaben",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.1,
+    5.0,
+    -2.1,
+    5.0
+],
+  "geometry": {"coordinates":[-2.1,5.0],"type":"Point"}
+}

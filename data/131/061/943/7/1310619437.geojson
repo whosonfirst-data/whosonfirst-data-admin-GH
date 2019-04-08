@@ -1,0 +1,75 @@
+{
+  "id": 1310619437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.04536,7.0222,-3.04536,7.0222",
+    "geom:latitude":7.0222,
+    "geom:longitude":-3.04536,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Amkromkwanta",
+    "gn:country_code":"GH",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304557,
+    "gn:latitude":7.0222,
+    "gn:longitude":-3.04536,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Amkromkwanta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Amkromkwanta"
+    ],
+    "name:und_x_variant":[
+        "Nkrankwanta",
+        "Ankrakwanto",
+        "Ankrankwanta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304557
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"938db97cf069a2a8eb21b34b8337c026",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759821,
+            "locality_id":1310619437,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1310619437,
+    "wof:lastmodified":1537623789,
+    "wof:name":"Amkromkwanta",
+    "wof:parent_id":1108759821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.04536,
+    7.0222,
+    -3.04536,
+    7.0222
+],
+  "geometry": {"coordinates":[-3.04536,7.0222],"type":"Point"}
+}

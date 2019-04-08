@@ -1,0 +1,72 @@
+{
+  "id": 1310124117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.73964,10.90159,-0.73964,10.90159",
+    "geom:latitude":10.90159,
+    "geom:longitude":-0.73964,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Adaboya",
+    "gn:country_code":"GH",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306007,
+    "gn:latitude":10.90159,
+    "gn:longitude":-0.73964,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Adaboya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daboya",
+        "Beo Adaboya",
+        "Adaboya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306007
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"e106073dcf78f5a04150b37ef4e67059",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759949,
+            "locality_id":1310124117,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1310124117,
+    "wof:lastmodified":1537623840,
+    "wof:name":"Adaboya",
+    "wof:parent_id":1108759949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.73964,
+    10.90159,
+    -0.73964,
+    10.90159
+],
+  "geometry": {"coordinates":[-0.73964,10.90159],"type":"Point"}
+}

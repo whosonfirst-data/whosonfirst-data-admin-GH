@@ -1,0 +1,97 @@
+{
+  "id": 421200741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.93982,4.80603,-1.93982,4.80603",
+    "geom:latitude":4.80603,
+    "geom:longitude":-1.93982,
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Busua"
+    ],
+    "name:dut_x_preferred":[
+        "Busua"
+    ],
+    "name:eng_x_preferred":[
+        "Busua"
+    ],
+    "name:fre_x_preferred":[
+        "Busua"
+    ],
+    "name:ger_x_preferred":[
+        "Busua"
+    ],
+    "name:unk_x_variant":[
+        "Bushau"
+    ],
+    "qs:gn_country":"GH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2302384,
+    "qs:gn_pop":0,
+    "qs:name":"Busua",
+    "qs:name_adm0":"Ghana",
+    "qs:name_adm1":"Western",
+    "qs:photos":120,
+    "qs:photos_1k":24,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":120,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":894029,
+    "qs:woe_adm0":23424824,
+    "qs:woe_id":1328349,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":377,
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108759993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302384,
+        "gp:id":1328349,
+        "qs:id":894029,
+        "wd:id":"Q1017789",
+        "wk:page":"Busua"
+    },
+    "wof:country":"GH",
+    "wof:created":1459010036,
+    "wof:geomhash":"13f8a414401e1ae65debf2a32db03b0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759993,
+            "locality_id":421200741,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":421200741,
+    "wof:lastmodified":1527716425,
+    "wof:name":"Busua",
+    "wof:parent_id":1108759993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.93982,
+    4.80603,
+    -1.93982,
+    4.80603
+],
+  "geometry": {"coordinates":[-1.93982,4.80603],"type":"Point"}
+}

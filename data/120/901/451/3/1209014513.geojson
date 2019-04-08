@@ -1,0 +1,66 @@
+{
+  "id": 1209014513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.75,6.31667,0.75,6.31667",
+    "geom:latitude":6.31667,
+    "geom:longitude":0.75,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Agbanyokofe",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305607,
+    "gn:latitude":6.31667,
+    "gn:longitude":0.75,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Agbanyokofe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agbanyokorpe",
+        "Agbanyokofe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305607
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"f9ccd62ad74aa2c7043af5585d58f96d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209014513
+        }
+    ],
+    "wof:id":1209014513,
+    "wof:lastmodified":1537623826,
+    "wof:name":"Agbanyokofe",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.75,
+    6.31667,
+    0.75,
+    6.31667
+],
+  "geometry": {"coordinates":[0.75,6.31667],"type":"Point"}
+}

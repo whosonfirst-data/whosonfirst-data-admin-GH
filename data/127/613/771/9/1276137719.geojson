@@ -1,0 +1,70 @@
+{
+  "id": 1276137719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.82288,5.91271,-1.82288,5.91271",
+    "geom:latitude":5.91271,
+    "geom:longitude":-1.82288,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Chirebraso",
+    "gn:country_code":"GH",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302192,
+    "gn:latitude":5.91271,
+    "gn:longitude":-1.82288,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Chirebraso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chirebraso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302192
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"20abd6dada202d4d3c681163d67f3075",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759865,
+            "locality_id":1276137719,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1276137719,
+    "wof:lastmodified":1537623707,
+    "wof:name":"Chirebraso",
+    "wof:parent_id":1108759865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.82288,
+    5.91271,
+    -1.82288,
+    5.91271
+],
+  "geometry": {"coordinates":[-1.82288,5.91271],"type":"Point"}
+}

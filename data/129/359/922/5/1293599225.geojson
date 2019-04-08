@@ -1,0 +1,71 @@
+{
+  "id": 1293599225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.5352,5.05726,-2.5352,5.05726",
+    "geom:latitude":5.05726,
+    "geom:longitude":-2.5352,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mpem",
+    "gn:country_code":"GH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297858,
+    "gn:latitude":5.05726,
+    "gn:longitude":-2.5352,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mpem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mgbem",
+        "Mpem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297858
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"6b6cb8a13bd79e7d46ee32563e53d19e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760001,
+            "locality_id":1293599225,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1293599225,
+    "wof:lastmodified":1537623548,
+    "wof:name":"Mpem",
+    "wof:parent_id":1108760001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.5352,
+    5.05726,
+    -2.5352,
+    5.05726
+],
+  "geometry": {"coordinates":[-2.5352,5.05726],"type":"Point"}
+}

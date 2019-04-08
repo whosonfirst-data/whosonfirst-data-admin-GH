@@ -1,0 +1,67 @@
+{
+  "id": 1276462109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.23834,5.32599,-2.23834,5.32599",
+    "geom:latitude":5.32599,
+    "geom:longitude":-2.23834,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Fanchenebra",
+    "gn:country_code":"GH",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301016,
+    "gn:latitude":5.32599,
+    "gn:longitude":-2.23834,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Fanchenebra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301016
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"1ab86e23acb1f954a75a2dd736d4f4ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760007,
+            "locality_id":1276462109,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1276462109,
+    "wof:lastmodified":1536603111,
+    "wof:name":"Fanchenebra",
+    "wof:parent_id":1108760007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.23834,
+    5.32599,
+    -2.23834,
+    5.32599
+],
+  "geometry": {"coordinates":[-2.23834,5.32599],"type":"Point"}
+}

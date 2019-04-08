@@ -1,0 +1,72 @@
+{
+  "id": 1309822113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.18307,10.87883,-0.18307,10.87883",
+    "geom:latitude":10.87883,
+    "geom:longitude":-0.18307,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kurawgo",
+    "gn:country_code":"GH",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298794,
+    "gn:latitude":10.87883,
+    "gn:longitude":-0.18307,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kurawgo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuk Raago",
+        "Kuguragu",
+        "Kurawgo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298794
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"9898caf2ae0d7cb173538bd2ff109a36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759943,
+            "locality_id":1309822113,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1309822113,
+    "wof:lastmodified":1537623580,
+    "wof:name":"Kurawgo",
+    "wof:parent_id":1108759943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.18307,
+    10.87883,
+    -0.18307,
+    10.87883
+],
+  "geometry": {"coordinates":[-0.18307,10.87883],"type":"Point"}
+}

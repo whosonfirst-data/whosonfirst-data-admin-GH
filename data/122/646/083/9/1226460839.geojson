@@ -1,0 +1,73 @@
+{
+  "id": 1226460839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.80577,10.95634,-0.80577,10.95634",
+    "geom:latitude":10.95634,
+    "geom:longitude":-0.80577,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ayeopian",
+    "gn:country_code":"GH",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303585,
+    "gn:latitude":10.95634,
+    "gn:longitude":-0.80577,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ayeopian",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Samboligu Ayeopia",
+        "Aeopea",
+        "Adokobisi",
+        "Ayeopian"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303585
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"5cf09f63bd78d86aeee9c5302935294f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759949,
+            "locality_id":1226460839,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1226460839,
+    "wof:lastmodified":1537623756,
+    "wof:name":"Ayeopian",
+    "wof:parent_id":1108759949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.80577,
+    10.95634,
+    -0.80577,
+    10.95634
+],
+  "geometry": {"coordinates":[-0.80577,10.95634],"type":"Point"}
+}

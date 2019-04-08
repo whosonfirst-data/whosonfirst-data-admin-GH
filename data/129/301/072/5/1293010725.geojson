@@ -1,0 +1,71 @@
+{
+  "id": 1293010725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.03873,10.25146,0.03873,10.25146",
+    "geom:latitude":10.25146,
+    "geom:longitude":0.03873,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tejenga",
+    "gn:country_code":"GH",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294708,
+    "gn:latitude":10.25146,
+    "gn:longitude":0.03873,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tejenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tijenga",
+        "Tejenga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294708
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"2fbbe801e043c22a2bd521254e11115e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759925,
+            "locality_id":1293010725,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1293010725,
+    "wof:lastmodified":1537623436,
+    "wof:name":"Tejenga",
+    "wof:parent_id":1108759925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.03873,
+    10.25146,
+    0.03873,
+    10.25146
+],
+  "geometry": {"coordinates":[0.03873,10.25146],"type":"Point"}
+}

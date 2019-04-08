@@ -1,0 +1,70 @@
+{
+  "id": 1327241651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.78565,10.96316,-2.78565,10.96316",
+    "geom:latitude":10.96316,
+    "geom:longitude":-2.78565,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kokoligu",
+    "gn:country_code":"GH",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299466,
+    "gn:latitude":10.96316,
+    "gn:longitude":-2.78565,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Kokoligu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kokolubu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299466
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"e54e0674362a1b6d3afc51d45129e181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759957,
+            "locality_id":1327241651,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1327241651,
+    "wof:lastmodified":1537623601,
+    "wof:name":"Kokoligu",
+    "wof:parent_id":1108759957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.78565,
+    10.96316,
+    -2.78565,
+    10.96316
+],
+  "geometry": {"coordinates":[-2.78565,10.96316],"type":"Point"}
+}

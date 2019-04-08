@@ -1,0 +1,67 @@
+{
+  "id": 1327144481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.55362,9.21573,-0.55362,9.21573",
+    "geom:latitude":9.21573,
+    "geom:longitude":-0.55362,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sangba",
+    "gn:country_code":"GH",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2295604,
+    "gn:latitude":9.21573,
+    "gn:longitude":-0.55362,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Sangba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2295604
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"5a4bd816c8cd3570a181abac776e3f45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759919,
+            "locality_id":1327144481,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1327144481,
+    "wof:lastmodified":1537093241,
+    "wof:name":"Sangba",
+    "wof:parent_id":1108759919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.55362,
+    9.21573,
+    -0.55362,
+    9.21573
+],
+  "geometry": {"coordinates":[-0.55362,9.21573],"type":"Point"}
+}

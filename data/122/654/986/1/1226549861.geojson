@@ -1,0 +1,71 @@
+{
+  "id": 1226549861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.48369,10.70149,-0.48369,10.70149",
+    "geom:latitude":10.70149,
+    "geom:longitude":-0.48369,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gwosi",
+    "gn:country_code":"GH",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300483,
+    "gn:latitude":10.70149,
+    "gn:longitude":-0.48369,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gwosi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Owosi",
+        "Gwosi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300483
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"533583e91a3bf293d0269f65c5bd75a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759945,
+            "locality_id":1226549861,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1226549861,
+    "wof:lastmodified":1537623642,
+    "wof:name":"Gwosi",
+    "wof:parent_id":1108759945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.48369,
+    10.70149,
+    -0.48369,
+    10.70149
+],
+  "geometry": {"coordinates":[-0.48369,10.70149],"type":"Point"}
+}

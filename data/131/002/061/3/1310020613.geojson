@@ -1,0 +1,67 @@
+{
+  "id": 1310020613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.08333,5.08333,-2.08333,5.08333",
+    "geom:latitude":5.08333,
+    "geom:longitude":-2.08333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Chiriamang",
+    "gn:country_code":"GH",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302180,
+    "gn:latitude":5.08333,
+    "gn:longitude":-2.08333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Chiriamang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302180
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"1a8fd39faf4a73b19a1d0c6d9d1c5a19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760017,
+            "locality_id":1310020613,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1310020613,
+    "wof:lastmodified":1536619322,
+    "wof:name":"Chiriamang",
+    "wof:parent_id":1108760017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.08333,
+    5.08333,
+    -2.08333,
+    5.08333
+],
+  "geometry": {"coordinates":[-2.08333,5.08333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327144565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.97988,9.39598,-0.97988,9.39598",
+    "geom:latitude":9.39598,
+    "geom:longitude":-0.97988,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nyankpala",
+    "gn:country_code":"GH",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296810,
+    "gn:latitude":9.39598,
+    "gn:longitude":-0.97988,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nyankpala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niankpwala",
+        "Nyankpala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296810,
+        "wk:page":"Nyankpala"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"3d0dca2d4f4a2af122e151c83843b3f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759935,
+            "locality_id":1327144565,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1327144565,
+    "wof:lastmodified":1537623508,
+    "wof:name":"Nyankpala",
+    "wof:parent_id":1108759935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.97988,
+    9.39598,
+    -0.97988,
+    9.39598
+],
+  "geometry": {"coordinates":[-0.97988,9.39598],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309818283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.93639,6.49073,-2.93639,6.49073",
+    "geom:latitude":6.49073,
+    "geom:longitude":-2.93639,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Biano",
+    "gn:country_code":"GH",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303068,
+    "gn:latitude":6.49073,
+    "gn:longitude":-2.93639,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Biano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Biano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303068
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"0d6f910dc299f157f037c1edf0d2bd51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760003,
+            "locality_id":1309818283,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1309818283,
+    "wof:lastmodified":1537623738,
+    "wof:name":"Biano",
+    "wof:parent_id":1108760003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.93639,
+    6.49073,
+    -2.93639,
+    6.49073
+],
+  "geometry": {"coordinates":[-2.93639,6.49073],"type":"Point"}
+}

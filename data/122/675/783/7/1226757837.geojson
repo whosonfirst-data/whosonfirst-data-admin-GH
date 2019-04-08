@@ -1,0 +1,67 @@
+{
+  "id": 1226757837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.1,10.05,0.1,10.05",
+    "geom:latitude":10.05,
+    "geom:longitude":0.1,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Jirimbale",
+    "gn:country_code":"GH",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300060,
+    "gn:latitude":10.05,
+    "gn:longitude":0.1,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Jirimbale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300060
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"6345a7df2f55723c948a079bd55f6ee0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759925,
+            "locality_id":1226757837,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1226757837,
+    "wof:lastmodified":1536698305,
+    "wof:name":"Jirimbale",
+    "wof:parent_id":1108759925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.1,
+    10.05,
+    0.1,
+    10.05
+],
+  "geometry": {"coordinates":[0.1,10.05],"type":"Point"}
+}

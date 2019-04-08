@@ -1,0 +1,72 @@
+{
+  "id": 1226656155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.93333,8.85,-0.93333,8.85",
+    "geom:latitude":8.85,
+    "geom:longitude":-0.93333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Chama",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302336,
+    "gn:latitude":8.85,
+    "gn:longitude":-0.93333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Charma",
+        "Chama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302336
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"85b2b554c4caf8a9e7e48948d8c2f6f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759921,
+            "locality_id":1226656155,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1226656155,
+    "wof:lastmodified":1537623713,
+    "wof:name":"Chama",
+    "wof:parent_id":1108759921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.93333,
+    8.85,
+    -0.93333,
+    8.85
+],
+  "geometry": {"coordinates":[-0.93333,8.85],"type":"Point"}
+}

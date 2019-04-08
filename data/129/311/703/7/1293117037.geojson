@@ -1,0 +1,74 @@
+{
+  "id": 1293117037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.95309,6.87956,-1.95309,6.87956",
+    "geom:latitude":6.87956,
+    "geom:longitude":-1.95309,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Baaneekurom",
+    "gn:country_code":"GH",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303396,
+    "gn:latitude":6.87956,
+    "gn:longitude":-1.95309,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Baaneekurom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Baaneekurom"
+    ],
+    "name:und_x_variant":[
+        "Baniekurom",
+        "Baniekrom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303396
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ca7ddd07f99b2facf4c120a40e407fd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759781,
+            "locality_id":1293117037,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1293117037,
+    "wof:lastmodified":1537623749,
+    "wof:name":"Baaneekurom",
+    "wof:parent_id":1108759781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.95309,
+    6.87956,
+    -1.95309,
+    6.87956
+],
+  "geometry": {"coordinates":[-1.95309,6.87956],"type":"Point"}
+}

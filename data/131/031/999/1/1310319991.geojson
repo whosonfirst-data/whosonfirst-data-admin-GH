@@ -1,0 +1,70 @@
+{
+  "id": 1310319991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.64482,5.99363,-1.64482,5.99363",
+    "geom:latitude":5.99363,
+    "geom:longitude":-1.64482,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ochereso",
+    "gn:country_code":"GH",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296583,
+    "gn:latitude":5.99363,
+    "gn:longitude":-1.64482,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Ochereso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ochereso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296583
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"96ea2b6933d1512429843375710a654e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759773,
+            "locality_id":1310319991,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1310319991,
+    "wof:lastmodified":1537623501,
+    "wof:name":"Ochereso",
+    "wof:parent_id":1108759773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.64482,
+    5.99363,
+    -1.64482,
+    5.99363
+],
+  "geometry": {"coordinates":[-1.64482,5.99363],"type":"Point"}
+}

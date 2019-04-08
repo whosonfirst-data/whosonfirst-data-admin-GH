@@ -1,0 +1,90 @@
+{
+  "id": 421195683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.3211,7.11461,0.3211,7.11461",
+    "geom:latitude":7.11461,
+    "geom:longitude":0.3211,
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Nkonya Ahenkro"
+    ],
+    "name:eng_x_preferred":[
+        "Nkonya Ahenkro"
+    ],
+    "name:swe_x_preferred":[
+        "Nkonya Ahenkro"
+    ],
+    "name:unk_x_variant":[
+        "Ukonia Ahenkro"
+    ],
+    "qs:gn_country":"GH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2305453,
+    "qs:gn_pop":0,
+    "qs:name":"Ahenkto",
+    "qs:name_adm0":"Ghana",
+    "qs:name_adm1":"Volta",
+    "qs:photos":442,
+    "qs:photos_1k":90,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":442,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":492809,
+    "qs:woe_adm0":23424824,
+    "qs:woe_id":1326462,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305453,
+        "gp:id":1326462,
+        "qs:id":492809,
+        "wd:id":"Q7042609",
+        "wk:page":"Nkonya Ahenkro"
+    },
+    "wof:country":"GH",
+    "wof:created":1459009855,
+    "wof:geomhash":"c8e5c35c1bb6d98220338ec3d9a2357e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759975,
+            "locality_id":421195683,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":421195683,
+    "wof:lastmodified":1514443662,
+    "wof:name":"Ahenkto",
+    "wof:parent_id":1108759975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.3211,
+    7.11461,
+    0.3211,
+    7.11461
+],
+  "geometry": {"coordinates":[0.3211,7.11461],"type":"Point"}
+}

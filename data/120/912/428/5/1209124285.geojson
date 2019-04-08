@@ -1,0 +1,65 @@
+{
+  "id": 1209124285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.41803,6.4727,-2.41803,6.4727",
+    "geom:latitude":6.4727,
+    "geom:longitude":-2.41803,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Jireso",
+    "gn:country_code":"GH",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300064,
+    "gn:latitude":6.4727,
+    "gn:longitude":-2.41803,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jireso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gyireso",
+        "Jireso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300064
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"8a12bd5b3493f2e65b7b99d6c0d38dfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209124285
+        }
+    ],
+    "wof:id":1209124285,
+    "wof:lastmodified":1537623624,
+    "wof:name":"Jireso",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.41803,
+    6.4727,
+    -2.41803,
+    6.4727
+],
+  "geometry": {"coordinates":[-2.41803,6.4727],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343680197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.17149,5.49571,-2.17149,5.49571",
+    "geom:latitude":5.49571,
+    "geom:longitude":-2.17149,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Babianiha",
+    "gn:country_code":"GH",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303532,
+    "gn:latitude":5.49571,
+    "gn:longitude":-2.17149,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Babianiha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chemrekrom",
+        "Babianiha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303532
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"f0b464c2e6881e4b0da1c8a040441eb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760017,
+            "locality_id":1343680197,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1343680197,
+    "wof:lastmodified":1537623754,
+    "wof:name":"Babianiha",
+    "wof:parent_id":1108760017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.17149,
+    5.49571,
+    -2.17149,
+    5.49571
+],
+  "geometry": {"coordinates":[-2.17149,5.49571],"type":"Point"}
+}

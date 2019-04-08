@@ -1,0 +1,75 @@
+{
+  "id": 1226060539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.48438,5.58606,-0.48438,5.58606",
+    "geom:latitude":5.58606,
+    "geom:longitude":-0.48438,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Darkoyaw",
+    "gn:country_code":"GH",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302030,
+    "gn:latitude":5.58606,
+    "gn:longitude":-0.48438,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Darkoyaw",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Darkoyaw"
+    ],
+    "name:und_x_variant":[
+        "Dukayaw",
+        "Dakuyau Number1",
+        "Dakuyau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302030
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"392c9bcd0bac70702cccd7e3d35c8cc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759853,
+            "locality_id":1226060539,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1226060539,
+    "wof:lastmodified":1537623701,
+    "wof:name":"Darkoyaw",
+    "wof:parent_id":1108759853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.48438,
+    5.58606,
+    -0.48438,
+    5.58606
+],
+  "geometry": {"coordinates":[-0.48438,5.58606],"type":"Point"}
+}

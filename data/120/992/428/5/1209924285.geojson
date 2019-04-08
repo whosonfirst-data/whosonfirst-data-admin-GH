@@ -1,0 +1,71 @@
+{
+  "id": 1209924285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.85452,10.79411,-0.85452,10.79411",
+    "geom:latitude":10.79411,
+    "geom:longitude":-0.85452,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bukere",
+    "gn:country_code":"GH",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302492,
+    "gn:latitude":10.79411,
+    "gn:longitude":-0.85452,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bukere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bolga Bukeere",
+        "Bukere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302492
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"739848fed8bbf235269e18f8ea86d620",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759947,
+            "locality_id":1209924285,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1209924285,
+    "wof:lastmodified":1537623718,
+    "wof:name":"Bukere",
+    "wof:parent_id":1108759947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.85452,
+    10.79411,
+    -0.85452,
+    10.79411
+],
+  "geometry": {"coordinates":[-0.85452,10.79411],"type":"Point"}
+}

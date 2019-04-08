@@ -1,0 +1,71 @@
+{
+  "id": 1343373763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.29126,6.88987,0.29126,6.88987",
+    "geom:latitude":6.88987,
+    "geom:longitude":0.29126,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Wodemahe",
+    "gn:country_code":"GH",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294022,
+    "gn:latitude":6.88987,
+    "gn:longitude":0.29126,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Wodemahe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wademahe",
+        "Wodemahe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294022
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"e1d7b60ea4e80a0dfcf9af116d6ffd23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759985,
+            "locality_id":1343373763,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1343373763,
+    "wof:lastmodified":1537623411,
+    "wof:name":"Wodemahe",
+    "wof:parent_id":1108759985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.29126,
+    6.88987,
+    0.29126,
+    6.88987
+],
+  "geometry": {"coordinates":[0.29126,6.88987],"type":"Point"}
+}

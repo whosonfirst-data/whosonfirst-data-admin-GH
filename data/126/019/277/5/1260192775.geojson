@@ -1,0 +1,74 @@
+{
+  "id": 1260192775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.76181,5.02786,-2.76181,5.02786",
+    "geom:latitude":5.02786,
+    "geom:longitude":-2.76181,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Bokakole",
+    "gn:country_code":"GH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302850,
+    "gn:latitude":5.02786,
+    "gn:longitude":-2.76181,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Bokakole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bokakole"
+    ],
+    "name:eng_x_variant":[
+        "Bokakre",
+        "Bokale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302850
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"07ca934fc3f2f5820df5f237f951cf0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760001,
+            "locality_id":1260192775,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1260192775,
+    "wof:lastmodified":1537623730,
+    "wof:name":"Bokakole",
+    "wof:parent_id":1108760001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.76181,
+    5.02786,
+    -2.76181,
+    5.02786
+],
+  "geometry": {"coordinates":[-2.76181,5.02786],"type":"Point"}
+}

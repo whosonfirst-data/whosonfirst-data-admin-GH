@@ -1,0 +1,71 @@
+{
+  "id": 1343369029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.23615,10.86961,-0.23615,10.86961",
+    "geom:latitude":10.86961,
+    "geom:longitude":-0.23615,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kpatua",
+    "gn:country_code":"GH",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299216,
+    "gn:latitude":10.86961,
+    "gn:longitude":-0.23615,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kpatua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kpatuya",
+        "Kpatua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299216
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"5efb2a81a94e86ffd400998676ab6216",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759943,
+            "locality_id":1343369029,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1343369029,
+    "wof:lastmodified":1537623593,
+    "wof:name":"Kpatua",
+    "wof:parent_id":1108759943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.23615,
+    10.86961,
+    -0.23615,
+    10.86961
+],
+  "geometry": {"coordinates":[-0.23615,10.86961],"type":"Point"}
+}

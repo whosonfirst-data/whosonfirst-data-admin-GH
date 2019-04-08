@@ -1,0 +1,64 @@
+{
+  "id": 1209425115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.67149,6.22614,-1.67149,6.22614",
+    "geom:latitude":6.22614,
+    "geom:longitude":-1.67149,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Asempaneye",
+    "gn:country_code":"GH",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304149,
+    "gn:latitude":6.22614,
+    "gn:longitude":-1.67149,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Asempaneye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Asempaneye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304149
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"0135cd9c39b7aeb4ef46ed651c79754d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209425115
+        }
+    ],
+    "wof:id":1209425115,
+    "wof:lastmodified":1537623775,
+    "wof:name":"Asempaneye",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.67149,
+    6.22614,
+    -1.67149,
+    6.22614
+],
+  "geometry": {"coordinates":[-1.67149,6.22614],"type":"Point"}
+}

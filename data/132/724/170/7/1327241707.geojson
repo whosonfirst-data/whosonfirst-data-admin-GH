@@ -1,0 +1,67 @@
+{
+  "id": 1327241707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.63333,9.88333,-0.63333,9.88333",
+    "geom:latitude":9.88333,
+    "geom:longitude":-0.63333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sampa",
+    "gn:country_code":"GH",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2295639,
+    "gn:latitude":9.88333,
+    "gn:longitude":-0.63333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Sampa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2295639
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"fc9c39fe92d50822489f96b80c7ad31e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759925,
+            "locality_id":1327241707,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1327241707,
+    "wof:lastmodified":1536956063,
+    "wof:name":"Sampa",
+    "wof:parent_id":1108759925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.63333,
+    9.88333,
+    -0.63333,
+    9.88333
+],
+  "geometry": {"coordinates":[-0.63333,9.88333],"type":"Point"}
+}

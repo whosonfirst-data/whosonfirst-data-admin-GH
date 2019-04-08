@@ -1,0 +1,71 @@
+{
+  "id": 1344271699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.71789,6.11936,0.71789,6.11936",
+    "geom:latitude":6.11936,
+    "geom:longitude":0.71789,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gavashikofe",
+    "gn:country_code":"GH",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300753,
+    "gn:latitude":6.11936,
+    "gn:longitude":0.71789,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gavashikofe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gavasikorpe",
+        "Gavashikofe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300753
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"55a496e546529845769784d8915f939c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759991,
+            "locality_id":1344271699,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1344271699,
+    "wof:lastmodified":1537623652,
+    "wof:name":"Gavashikofe",
+    "wof:parent_id":1108759991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.71789,
+    6.11936,
+    0.71789,
+    6.11936
+],
+  "geometry": {"coordinates":[0.71789,6.11936],"type":"Point"}
+}

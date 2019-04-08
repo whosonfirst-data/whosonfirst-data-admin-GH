@@ -1,0 +1,72 @@
+{
+  "id": 1226257251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.48268,5.27161,-1.48268,5.27161",
+    "geom:latitude":5.27161,
+    "geom:longitude":-1.48268,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Akutuasi",
+    "gn:country_code":"GH",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304967,
+    "gn:latitude":5.27161,
+    "gn:longitude":-1.48268,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Akutuasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ekutuase",
+        "Akotoasi",
+        "Akutuasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304967
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"4a7dfc8eca1e43debb12d1c8341a623c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760005,
+            "locality_id":1226257251,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1226257251,
+    "wof:lastmodified":1537623803,
+    "wof:name":"Akutuasi",
+    "wof:parent_id":1108760005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.48268,
+    5.27161,
+    -1.48268,
+    5.27161
+],
+  "geometry": {"coordinates":[-1.48268,5.27161],"type":"Point"}
+}

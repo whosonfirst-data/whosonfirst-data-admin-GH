@@ -1,0 +1,71 @@
+{
+  "id": 1293599179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.4345,6.08853,0.4345,6.08853",
+    "geom:latitude":6.08853,
+    "geom:longitude":0.4345,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Titikofe",
+    "gn:country_code":"GH",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294550,
+    "gn:latitude":6.08853,
+    "gn:longitude":0.4345,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Titikofe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Titikorpe",
+        "Titikofe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294550
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"1dcaf0a13b4098d9815430a865f5ea5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759967,
+            "locality_id":1293599179,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1293599179,
+    "wof:lastmodified":1537623430,
+    "wof:name":"Titikofe",
+    "wof:parent_id":1108759967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.4345,
+    6.08853,
+    0.4345,
+    6.08853
+],
+  "geometry": {"coordinates":[0.4345,6.08853],"type":"Point"}
+}

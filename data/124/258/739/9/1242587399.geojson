@@ -1,0 +1,67 @@
+{
+  "id": 1242587399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.26722,10.70593,-0.26722,10.70593",
+    "geom:latitude":10.70593,
+    "geom:longitude":-0.26722,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mengyam",
+    "gn:country_code":"GH",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298086,
+    "gn:latitude":10.70593,
+    "gn:longitude":-0.26722,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Mengyam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298086
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"22bbd4491481fb15e38d5b79f5d1855a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759943,
+            "locality_id":1242587399,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1242587399,
+    "wof:lastmodified":1537047418,
+    "wof:name":"Mengyam",
+    "wof:parent_id":1108759943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.26722,
+    10.70593,
+    -0.26722,
+    10.70593
+],
+  "geometry": {"coordinates":[-0.26722,10.70593],"type":"Point"}
+}

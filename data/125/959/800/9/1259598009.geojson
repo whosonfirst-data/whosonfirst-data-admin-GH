@@ -1,0 +1,67 @@
+{
+  "id": 1259598009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.50738,5.94933,-2.50738,5.94933",
+    "geom:latitude":5.94933,
+    "geom:longitude":-2.50738,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Asimpa",
+    "gn:country_code":"GH",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304076,
+    "gn:latitude":5.94933,
+    "gn:longitude":-2.50738,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Asimpa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108759997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304076
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"802d4ada2b71ddf15901602a12fec468",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759997,
+            "locality_id":1259598009,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1259598009,
+    "wof:lastmodified":1536693988,
+    "wof:name":"Asimpa",
+    "wof:parent_id":1108759997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.50738,
+    5.94933,
+    -2.50738,
+    5.94933
+],
+  "geometry": {"coordinates":[-2.50738,5.94933],"type":"Point"}
+}

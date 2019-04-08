@@ -1,0 +1,73 @@
+{
+  "id": 1243077593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.10596,6.33265,-0.10596,6.33265",
+    "geom:latitude":6.33265,
+    "geom:longitude":-0.10596,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dawa Jakoru",
+    "gn:country_code":"GH",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301927,
+    "gn:latitude":6.33265,
+    "gn:longitude":-0.10596,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dawa Jakoru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dawa Ogome",
+        "Dawa Jakaru",
+        "Dawa Jakani",
+        "Dawa Jakoru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301927
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"abd86588072933fd3a7357d7abe83e44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759891,
+            "locality_id":1243077593,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1243077593,
+    "wof:lastmodified":1537623699,
+    "wof:name":"Dawa Jakoru",
+    "wof:parent_id":1108759891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.10596,
+    6.33265,
+    -0.10596,
+    6.33265
+],
+  "geometry": {"coordinates":[-0.10596,6.33265],"type":"Point"}
+}

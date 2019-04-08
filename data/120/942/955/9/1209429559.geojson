@@ -1,0 +1,65 @@
+{
+  "id": 1209429559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.23656,10.12484,0.23656,10.12484",
+    "geom:latitude":10.12484,
+    "geom:longitude":0.23656,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Jakwa",
+    "gn:country_code":"GH",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300235,
+    "gn:latitude":10.12484,
+    "gn:longitude":0.23656,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jakwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jakpa",
+        "Jakwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300235
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"8126b58d463d06a1df545c4f82babbd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209429559
+        }
+    ],
+    "wof:id":1209429559,
+    "wof:lastmodified":1537623632,
+    "wof:name":"Jakwa",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.23656,
+    10.12484,
+    0.23656,
+    10.12484
+],
+  "geometry": {"coordinates":[0.23656,10.12484],"type":"Point"}
+}

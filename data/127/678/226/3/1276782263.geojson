@@ -1,0 +1,73 @@
+{
+  "id": 1276782263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.38333,5.83333,-0.38333,5.83333",
+    "geom:latitude":5.83333,
+    "geom:longitude":-0.38333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Akufu",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305001,
+    "gn:latitude":5.83333,
+    "gn:longitude":-0.38333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Akufu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akofu",
+        "Akuamu",
+        "Akufu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305001
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"19d684c7cda267a3cd997d8f393797cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759873,
+            "locality_id":1276782263,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1276782263,
+    "wof:lastmodified":1537623804,
+    "wof:name":"Akufu",
+    "wof:parent_id":1108759873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.38333,
+    5.83333,
+    -0.38333,
+    5.83333
+],
+  "geometry": {"coordinates":[-0.38333,5.83333],"type":"Point"}
+}

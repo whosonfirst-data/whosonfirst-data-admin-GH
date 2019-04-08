@@ -1,0 +1,72 @@
+{
+  "id": 1276781843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.09887,10.2068,-0.09887,10.2068",
+    "geom:latitude":10.2068,
+    "geom:longitude":-0.09887,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bienda",
+    "gn:country_code":"GH",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303046,
+    "gn:latitude":10.2068,
+    "gn:longitude":-0.09887,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bienda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Berem",
+        "Bierim",
+        "Bienda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303046
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a8323d99558759f408220892f2a52809",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759925,
+            "locality_id":1276781843,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1276781843,
+    "wof:lastmodified":1537623737,
+    "wof:name":"Bienda",
+    "wof:parent_id":1108759925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.09887,
+    10.2068,
+    -0.09887,
+    10.2068
+],
+  "geometry": {"coordinates":[-0.09887,10.2068],"type":"Point"}
+}

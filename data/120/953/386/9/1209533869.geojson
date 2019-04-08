@@ -1,0 +1,61 @@
+{
+  "id": 1209533869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.56292,9.62713,-0.56292,9.62713",
+    "geom:latitude":9.62713,
+    "geom:longitude":-0.56292,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Zindimdo",
+    "gn:country_code":"GH",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293639,
+    "gn:latitude":9.62713,
+    "gn:longitude":-0.56292,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Zindimdo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293639
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"0f847331ad134704048b7fe1d8c28105",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209533869
+        }
+    ],
+    "wof:id":1209533869,
+    "wof:lastmodified":1536284200,
+    "wof:name":"Zindimdo",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.56292,
+    9.62713,
+    -0.56292,
+    9.62713
+],
+  "geometry": {"coordinates":[-0.56292,9.62713],"type":"Point"}
+}

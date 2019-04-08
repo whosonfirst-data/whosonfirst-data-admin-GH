@@ -1,0 +1,67 @@
+{
+  "id": 1344171653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.70698,6.42404,0.70698,6.42404",
+    "geom:latitude":6.42404,
+    "geom:longitude":0.70698,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Heti",
+    "gn:country_code":"GH",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300414,
+    "gn:latitude":6.42404,
+    "gn:longitude":0.70698,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Heti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300414
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"0faacf826842291a6c16742464c5ba37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759971,
+            "locality_id":1344171653,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1344171653,
+    "wof:lastmodified":1536715394,
+    "wof:name":"Heti",
+    "wof:parent_id":1108759971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.70698,
+    6.42404,
+    0.70698,
+    6.42404
+],
+  "geometry": {"coordinates":[0.70698,6.42404],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209725287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.26123,5.57903,-0.26123,5.57903",
+    "geom:latitude":5.57903,
+    "geom:longitude":-0.26123,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Odorkor",
+    "gn:country_code":"GH",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11282129,
+    "gn:latitude":5.57903,
+    "gn:longitude":-0.26123,
+    "gn:modification_date":"2016-11-03",
+    "gn:name":"Odorkor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671353,
+        1108759901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11282129
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"24be16a6e2de2991ba76898d726b55e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759901,
+            "locality_id":1209725287,
+            "region_id":85671353
+        }
+    ],
+    "wof:id":1209725287,
+    "wof:lastmodified":1536384362,
+    "wof:name":"Odorkor",
+    "wof:parent_id":1108759901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.26123,
+    5.57903,
+    -0.26123,
+    5.57903
+],
+  "geometry": {"coordinates":[-0.26123,5.57903],"type":"Point"}
+}

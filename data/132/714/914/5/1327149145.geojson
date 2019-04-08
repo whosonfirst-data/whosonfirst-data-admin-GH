@@ -1,0 +1,74 @@
+{
+  "id": 1327149145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.66565,5.83003,-1.66565,5.83003",
+    "geom:latitude":5.83003,
+    "geom:longitude":-1.66565,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Oseikurom",
+    "gn:country_code":"GH",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300291,
+    "gn:latitude":5.83003,
+    "gn:longitude":-1.66565,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Oseikurom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Oseikurom"
+    ],
+    "name:und_x_variant":[
+        "Yanka",
+        "Isakakrom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300291
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"b9670206ea2343e38f7e73e4dd394637",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759865,
+            "locality_id":1327149145,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1327149145,
+    "wof:lastmodified":1537623634,
+    "wof:name":"Oseikurom",
+    "wof:parent_id":1108759865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.66565,
+    5.83003,
+    -1.66565,
+    5.83003
+],
+  "geometry": {"coordinates":[-1.66565,5.83003],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209116257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.19694,6.20662,0.19694,6.20662",
+    "geom:latitude":6.20662,
+    "geom:longitude":0.19694,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Takpakofe",
+    "gn:country_code":"GH",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294907,
+    "gn:latitude":6.20662,
+    "gn:longitude":0.19694,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Takpakofe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294907
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"69439f7c9f7bf5fdfd009a068aac3a1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209116257
+        }
+    ],
+    "wof:id":1209116257,
+    "wof:lastmodified":1536297244,
+    "wof:name":"Takpakofe",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.19694,
+    6.20662,
+    0.19694,
+    6.20662
+],
+  "geometry": {"coordinates":[0.19694,6.20662],"type":"Point"}
+}

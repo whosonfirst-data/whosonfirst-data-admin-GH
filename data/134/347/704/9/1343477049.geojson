@@ -1,0 +1,71 @@
+{
+  "id": 1343477049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.99139,6.27753,0.99139,6.27753",
+    "geom:latitude":6.27753,
+    "geom:longitude":0.99139,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Adibafe",
+    "gn:country_code":"GH",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305896,
+    "gn:latitude":6.27753,
+    "gn:longitude":0.99139,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Adibafe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adibare",
+        "Adibafe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305896
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"d4292362a20a53e5acfeb35b422dc8d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759983,
+            "locality_id":1343477049,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1343477049,
+    "wof:lastmodified":1537623836,
+    "wof:name":"Adibafe",
+    "wof:parent_id":1108759983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.99139,
+    6.27753,
+    0.99139,
+    6.27753
+],
+  "geometry": {"coordinates":[0.99139,6.27753],"type":"Point"}
+}

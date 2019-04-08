@@ -1,0 +1,71 @@
+{
+  "id": 1343373635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.46808,5.89088,-1.46808,5.89088",
+    "geom:latitude":5.89088,
+    "geom:longitude":-1.46808,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Fwidiem",
+    "gn:country_code":"GH",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300804,
+    "gn:latitude":5.89088,
+    "gn:longitude":-1.46808,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Fwidiem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hwediem",
+        "Fwidiem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300804
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"0ee432c7a1239a1e47d097e012a79b4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759771,
+            "locality_id":1343373635,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1343373635,
+    "wof:lastmodified":1537623654,
+    "wof:name":"Fwidiem",
+    "wof:parent_id":1108759771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.46808,
+    5.89088,
+    -1.46808,
+    5.89088
+],
+  "geometry": {"coordinates":[-1.46808,5.89088],"type":"Point"}
+}

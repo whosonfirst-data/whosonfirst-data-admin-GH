@@ -1,0 +1,71 @@
+{
+  "id": 1310615945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.67323,5.00643,-2.67323,5.00643",
+    "geom:latitude":5.00643,
+    "geom:longitude":-2.67323,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Twenani",
+    "gn:country_code":"GH",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294317,
+    "gn:latitude":5.00643,
+    "gn:longitude":-2.67323,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Twenani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Twenene",
+        "Twenani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294317
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"04fb2b61f673d6f1c038bb4ffe972707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760001,
+            "locality_id":1310615945,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1310615945,
+    "wof:lastmodified":1537623421,
+    "wof:name":"Twenani",
+    "wof:parent_id":1108760001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.67323,
+    5.00643,
+    -2.67323,
+    5.00643
+],
+  "geometry": {"coordinates":[-2.67323,5.00643],"type":"Point"}
+}

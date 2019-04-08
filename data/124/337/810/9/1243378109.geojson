@@ -1,0 +1,71 @@
+{
+  "id": 1243378109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.31041,5.96399,-1.31041,5.96399",
+    "geom:latitude":5.96399,
+    "geom:longitude":-1.31041,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Wuriyiye",
+    "gn:country_code":"GH",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293957,
+    "gn:latitude":5.96399,
+    "gn:longitude":-1.31041,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Wuriyiye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wuruyiye",
+        "Wuriyiye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293957
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"e8b42f90695ca28cb7848d77d77396e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759771,
+            "locality_id":1243378109,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1243378109,
+    "wof:lastmodified":1537623408,
+    "wof:name":"Wuriyiye",
+    "wof:parent_id":1108759771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.31041,
+    5.96399,
+    -1.31041,
+    5.96399
+],
+  "geometry": {"coordinates":[-1.31041,5.96399],"type":"Point"}
+}

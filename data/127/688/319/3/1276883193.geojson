@@ -1,0 +1,67 @@
+{
+  "id": 1276883193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.31216,6.44167,0.31216,6.44167",
+    "geom:latitude":6.44167,
+    "geom:longitude":0.31216,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Betyikpo",
+    "gn:country_code":"GH",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303091,
+    "gn:latitude":6.44167,
+    "gn:longitude":0.31216,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Betyikpo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303091
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"aee8611a80910f67eff13d14df513e2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759971,
+            "locality_id":1276883193,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1276883193,
+    "wof:lastmodified":1537035052,
+    "wof:name":"Betyikpo",
+    "wof:parent_id":1108759971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.31216,
+    6.44167,
+    0.31216,
+    6.44167
+],
+  "geometry": {"coordinates":[0.31216,6.44167],"type":"Point"}
+}

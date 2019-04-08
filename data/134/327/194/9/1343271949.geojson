@@ -1,0 +1,70 @@
+{
+  "id": 1343271949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.07865,5.79642,-2.07865,5.79642",
+    "geom:latitude":5.79642,
+    "geom:longitude":-2.07865,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Chichiwere",
+    "gn:country_code":"GH",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302236,
+    "gn:latitude":5.79642,
+    "gn:longitude":-2.07865,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Chichiwere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chichiwere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302236
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"1df9a73ed5fa215760ff3f0a8b525af6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760015,
+            "locality_id":1343271949,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1343271949,
+    "wof:lastmodified":1537623709,
+    "wof:name":"Chichiwere",
+    "wof:parent_id":1108760015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.07865,
+    5.79642,
+    -2.07865,
+    5.79642
+],
+  "geometry": {"coordinates":[-2.07865,5.79642],"type":"Point"}
+}

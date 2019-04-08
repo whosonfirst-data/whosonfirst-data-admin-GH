@@ -1,0 +1,71 @@
+{
+  "id": 1310219681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.45018,5.99412,0.45018,5.99412",
+    "geom:latitude":5.99412,
+    "geom:longitude":0.45018,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Folikope",
+    "gn:country_code":"GH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300895,
+    "gn:latitude":5.99412,
+    "gn:longitude":0.45018,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Folikope",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Foli Korpe",
+        "Folikope"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300895
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"7f17818dfb970569589b20a3fdbf093b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759967,
+            "locality_id":1310219681,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1310219681,
+    "wof:lastmodified":1537623657,
+    "wof:name":"Folikope",
+    "wof:parent_id":1108759967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.45018,
+    5.99412,
+    0.45018,
+    5.99412
+],
+  "geometry": {"coordinates":[0.45018,5.99412],"type":"Point"}
+}

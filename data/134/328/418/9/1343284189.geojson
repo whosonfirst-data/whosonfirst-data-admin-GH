@@ -1,0 +1,74 @@
+{
+  "id": 1343284189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.16381,9.94913,0.16381,9.94913",
+    "geom:latitude":9.94913,
+    "geom:longitude":0.16381,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Segbeli",
+    "gn:country_code":"GH",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293710,
+    "gn:latitude":9.94913,
+    "gn:longitude":0.16381,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Segbeli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Segberi",
+        "Zegberi",
+        "Old Zagbeli",
+        "Zagbeli",
+        "Segbeli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293710
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"7bbc4d66c7b35c1dc62ac49e4939664e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759929,
+            "locality_id":1343284189,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1343284189,
+    "wof:lastmodified":1537623399,
+    "wof:name":"Segbeli",
+    "wof:parent_id":1108759929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.16381,
+    9.94913,
+    0.16381,
+    9.94913
+],
+  "geometry": {"coordinates":[0.16381,9.94913],"type":"Point"}
+}

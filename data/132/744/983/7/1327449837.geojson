@@ -1,0 +1,72 @@
+{
+  "id": 1327449837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.89687,10.06653,-0.89687,10.06653",
+    "geom:latitude":10.06653,
+    "geom:longitude":-0.89687,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Daboya",
+    "gn:country_code":"GH",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302094,
+    "gn:latitude":10.06653,
+    "gn:longitude":-0.89687,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Daboya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Soo Dobaya",
+        "Daboiya",
+        "Daboya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302094
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"64c82e69b395881a5c4d310e873b0233",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759937,
+            "locality_id":1327449837,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1327449837,
+    "wof:lastmodified":1537623704,
+    "wof:name":"Daboya",
+    "wof:parent_id":1108759937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.89687,
+    10.06653,
+    -0.89687,
+    10.06653
+],
+  "geometry": {"coordinates":[-0.89687,10.06653],"type":"Point"}
+}

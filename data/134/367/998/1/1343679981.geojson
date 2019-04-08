@@ -1,0 +1,72 @@
+{
+  "id": 1343679981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.22646,5.07046,-2.22646,5.07046",
+    "geom:latitude":5.07046,
+    "geom:longitude":-2.22646,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ampansie",
+    "gn:country_code":"GH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304711,
+    "gn:latitude":5.07046,
+    "gn:longitude":-2.22646,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ampansie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mpansi",
+        "Mansi",
+        "Ampansie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304711
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"f28ca533edbe472e505000d2997eab5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760007,
+            "locality_id":1343679981,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1343679981,
+    "wof:lastmodified":1537623794,
+    "wof:name":"Ampansie",
+    "wof:parent_id":1108760007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.22646,
+    5.07046,
+    -2.22646,
+    5.07046
+],
+  "geometry": {"coordinates":[-2.22646,5.07046],"type":"Point"}
+}

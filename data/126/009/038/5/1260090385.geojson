@@ -1,0 +1,71 @@
+{
+  "id": 1260090385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.24818,6.80656,0.24818,6.80656",
+    "geom:latitude":6.80656,
+    "geom:longitude":0.24818,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Anyinabasi",
+    "gn:country_code":"GH",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304434,
+    "gn:latitude":6.80656,
+    "gn:longitude":0.24818,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Anyinabasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wusuta Anyinabase Gbohome",
+        "Anyinabasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304434
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"e59dd8fb28c7889e3556cf0fc06ca314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759985,
+            "locality_id":1260090385,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1260090385,
+    "wof:lastmodified":1537623785,
+    "wof:name":"Anyinabasi",
+    "wof:parent_id":1108759985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.24818,
+    6.80656,
+    0.24818,
+    6.80656
+],
+  "geometry": {"coordinates":[0.24818,6.80656],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 421185451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.28657,5.70119,-1.28657,5.70119",
+    "geom:latitude":5.70119,
+    "geom:longitude":-1.28657,
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"GH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2300883,
+    "qs:gn_pop":15637,
+    "qs:name":"Foso",
+    "qs:name_adm0":"Ghana",
+    "qs:name_adm1":"Central",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1024932,
+    "qs:woe_adm0":23424824,
+    "qs:woe_id":1485111,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300883,
+        "gp:id":1485111,
+        "qs:id":1024932,
+        "wd:id":"Q4808889",
+        "wk:page":"Assin Foso"
+    },
+    "wof:country":"GH",
+    "wof:created":1459009443,
+    "wof:geomhash":"6b4f264531c467b2ab2bb1779939a8d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759849,
+            "locality_id":421185451,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":421185451,
+    "wof:lastmodified":1505340693,
+    "wof:name":"Foso",
+    "wof:parent_id":1108759849,
+    "wof:placetype":"locality",
+    "wof:population":15637,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.28657,
+    5.70119,
+    -1.28657,
+    5.70119
+],
+  "geometry": {"coordinates":[-1.28657,5.70119],"type":"Point"}
+}

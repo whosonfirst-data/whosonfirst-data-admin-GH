@@ -1,0 +1,73 @@
+{
+  "id": 1243469089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.63136,6.66,-1.63136,6.66",
+    "geom:latitude":6.66,
+    "geom:longitude":-1.63136,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Adeemmra",
+    "gn:country_code":"GH",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305860,
+    "gn:latitude":6.66,
+    "gn:longitude":-1.63136,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Adeemmra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Adeemmra"
+    ],
+    "name:eng_x_variant":[
+        "Adiembra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305860
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"86b9ae9a7093b90bb783ff18b3d1c85d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759801,
+            "locality_id":1243469089,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1243469089,
+    "wof:lastmodified":1537623835,
+    "wof:name":"Adeemmra",
+    "wof:parent_id":1108759801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.63136,
+    6.66,
+    -1.63136,
+    6.66
+],
+  "geometry": {"coordinates":[-1.63136,6.66],"type":"Point"}
+}

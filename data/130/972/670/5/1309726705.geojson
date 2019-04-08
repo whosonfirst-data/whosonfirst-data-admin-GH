@@ -1,0 +1,71 @@
+{
+  "id": 1309726705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.71865,5.60007,-0.71865,5.60007",
+    "geom:latitude":5.60007,
+    "geom:longitude":-0.71865,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Amanfor",
+    "gn:country_code":"GH",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304851,
+    "gn:latitude":5.60007,
+    "gn:longitude":-0.71865,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Amanfor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amanful",
+        "Amanfor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304851
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"0a6440f5a643e4c9de385e643a83b002",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759843,
+            "locality_id":1309726705,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1309726705,
+    "wof:lastmodified":1537623799,
+    "wof:name":"Amanfor",
+    "wof:parent_id":1108759843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.71865,
+    5.60007,
+    -0.71865,
+    5.60007
+],
+  "geometry": {"coordinates":[-0.71865,5.60007],"type":"Point"}
+}

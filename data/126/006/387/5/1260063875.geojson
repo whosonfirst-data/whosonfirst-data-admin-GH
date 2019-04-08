@@ -1,0 +1,67 @@
+{
+  "id": 1260063875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.43333,10.78333,-0.43333,10.78333",
+    "geom:latitude":10.78333,
+    "geom:longitude":-0.43333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Boggo",
+    "gn:country_code":"GH",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11352321,
+    "gn:latitude":10.78333,
+    "gn:longitude":-0.43333,
+    "gn:modification_date":"2016-11-30",
+    "gn:name":"Boggo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11352321
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"7bfe9e7f61122fb3e8847e3d5c006216",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759945,
+            "locality_id":1260063875,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1260063875,
+    "wof:lastmodified":1537015550,
+    "wof:name":"Boggo",
+    "wof:parent_id":1108759945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.43333,
+    10.78333,
+    -0.43333,
+    10.78333
+],
+  "geometry": {"coordinates":[-0.43333,10.78333],"type":"Point"}
+}

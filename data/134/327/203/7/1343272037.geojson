@@ -1,0 +1,71 @@
+{
+  "id": 1343272037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.24625,11.10321,-0.24625,11.10321",
+    "geom:latitude":11.10321,
+    "geom:longitude":-0.24625,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kpalaga",
+    "gn:country_code":"GH",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299260,
+    "gn:latitude":11.10321,
+    "gn:longitude":-0.24625,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kpalaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kpalugu",
+        "Kpalaga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299260
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a3469a9f81b52a02eed225a3d635d65b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759943,
+            "locality_id":1343272037,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1343272037,
+    "wof:lastmodified":1537623595,
+    "wof:name":"Kpalaga",
+    "wof:parent_id":1108759943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.24625,
+    11.10321,
+    -0.24625,
+    11.10321
+],
+  "geometry": {"coordinates":[-0.24625,11.10321],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226664331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.9074,6.84994,-1.9074,6.84994",
+    "geom:latitude":6.84994,
+    "geom:longitude":-1.9074,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Nyameadom Bredi",
+    "gn:country_code":"GH",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296906,
+    "gn:latitude":6.84994,
+    "gn:longitude":-1.9074,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Nyameadom Bredi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nyameadom Bredi"
+    ],
+    "name:eng_x_variant":[
+        "Nyamiadom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296906
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"91c92ce9e76e2e95616c32236d78d68c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759781,
+            "locality_id":1226664331,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1226664331,
+    "wof:lastmodified":1537623512,
+    "wof:name":"Nyameadom Bredi",
+    "wof:parent_id":1108759781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.9074,
+    6.84994,
+    -1.9074,
+    6.84994
+],
+  "geometry": {"coordinates":[-1.9074,6.84994],"type":"Point"}
+}

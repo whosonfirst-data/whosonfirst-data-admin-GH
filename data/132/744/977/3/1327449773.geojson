@@ -1,0 +1,74 @@
+{
+  "id": 1327449773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.78021,10.595,-2.78021,10.595",
+    "geom:latitude":10.595,
+    "geom:longitude":-2.78021,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Duori",
+    "gn:country_code":"GH",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301395,
+    "gn:latitude":10.595,
+    "gn:longitude":-2.78021,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Duori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Duori"
+    ],
+    "name:und_x_variant":[
+        "Duori Nakyeni Yiri",
+        "Duri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301395
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"bca1074ce67253c4657ad94a0f167ea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759955,
+            "locality_id":1327449773,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1327449773,
+    "wof:lastmodified":1537623678,
+    "wof:name":"Duori",
+    "wof:parent_id":1108759955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.78021,
+    10.595,
+    -2.78021,
+    10.595
+],
+  "geometry": {"coordinates":[-2.78021,10.595],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293116717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.56485,7.36301,-1.56485,7.36301",
+    "geom:latitude":7.36301,
+    "geom:longitude":-1.56485,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nkrampo",
+    "gn:country_code":"GH",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297281,
+    "gn:latitude":7.36301,
+    "gn:longitude":-1.56485,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Nkrampo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297281
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"9bfb16f6acf9172517f7a425e3dea73e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759799,
+            "locality_id":1293116717,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1293116717,
+    "wof:lastmodified":1536823729,
+    "wof:name":"Nkrampo",
+    "wof:parent_id":1108759799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.56485,
+    7.36301,
+    -1.56485,
+    7.36301
+],
+  "geometry": {"coordinates":[-1.56485,7.36301],"type":"Point"}
+}

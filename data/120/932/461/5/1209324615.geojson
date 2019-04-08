@@ -1,0 +1,66 @@
+{
+  "id": 1209324615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.71295,6.48642,0.71295,6.48642",
+    "geom:latitude":6.48642,
+    "geom:longitude":0.71295,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Akpokofe",
+    "gn:country_code":"GH",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305077,
+    "gn:latitude":6.48642,
+    "gn:longitude":0.71295,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Akpokofe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agbokofe",
+        "Akpokorpe",
+        "Akpokofe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305077
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"d0b58f7ffea37f229ddfd9c7e2c63f4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209324615
+        }
+    ],
+    "wof:id":1209324615,
+    "wof:lastmodified":1537623807,
+    "wof:name":"Akpokofe",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.71295,
+    6.48642,
+    0.71295,
+    6.48642
+],
+  "geometry": {"coordinates":[0.71295,6.48642],"type":"Point"}
+}

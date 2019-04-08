@@ -1,0 +1,71 @@
+{
+  "id": 1293603675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.0548,6.22206,-1.0548,6.22206",
+    "geom:latitude":6.22206,
+    "geom:longitude":-1.0548,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Miaoni",
+    "gn:country_code":"GH",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298018,
+    "gn:latitude":6.22206,
+    "gn:longitude":-1.0548,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Miaoni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Miawani",
+        "Miaoni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298018
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"b4da02463621b3dda1b92d9f9820d383",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759877,
+            "locality_id":1293603675,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1293603675,
+    "wof:lastmodified":1537623554,
+    "wof:name":"Miaoni",
+    "wof:parent_id":1108759877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.0548,
+    6.22206,
+    -1.0548,
+    6.22206
+],
+  "geometry": {"coordinates":[-1.0548,6.22206],"type":"Point"}
+}

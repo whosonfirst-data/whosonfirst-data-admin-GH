@@ -1,0 +1,67 @@
+{
+  "id": 1343271731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.71667,7.13333,-1.71667,7.13333",
+    "geom:latitude":7.13333,
+    "geom:longitude":-1.71667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dumisua",
+    "gn:country_code":"GH",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301420,
+    "gn:latitude":7.13333,
+    "gn:longitude":-1.71667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Dumisua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301420
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"8b53ca8387e6395cda18705b89e8bda4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759805,
+            "locality_id":1343271731,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1343271731,
+    "wof:lastmodified":1537017814,
+    "wof:name":"Dumisua",
+    "wof:parent_id":1108759805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.71667,
+    7.13333,
+    -1.71667,
+    7.13333
+],
+  "geometry": {"coordinates":[-1.71667,7.13333],"type":"Point"}
+}

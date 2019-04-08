@@ -1,0 +1,71 @@
+{
+  "id": 1242884265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.23829,11.08683,-0.23829,11.08683",
+    "geom:latitude":11.08683,
+    "geom:longitude":-0.23829,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bongo",
+    "gn:country_code":"GH",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302767,
+    "gn:latitude":11.08683,
+    "gn:longitude":-0.23829,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boango",
+        "Bongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302767
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"91a06ef00182aaa97ddf57cbc5d9108d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759943,
+            "locality_id":1242884265,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1242884265,
+    "wof:lastmodified":1537623728,
+    "wof:name":"Bongo",
+    "wof:parent_id":1108759943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.23829,
+    11.08683,
+    -0.23829,
+    11.08683
+],
+  "geometry": {"coordinates":[-0.23829,11.08683],"type":"Point"}
+}

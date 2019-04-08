@@ -1,0 +1,71 @@
+{
+  "id": 1343280021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.1861,5.76873,-2.1861,5.76873",
+    "geom:latitude":5.76873,
+    "geom:longitude":-2.1861,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Wasaw-Kumasi",
+    "gn:country_code":"GH",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294138,
+    "gn:latitude":5.76873,
+    "gn:longitude":-2.1861,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Wasaw-Kumasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wasa Kumasi",
+        "Wasaw-Kumasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294138
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"3753703ba8bc21400aeb57629ab8720e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760015,
+            "locality_id":1343280021,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1343280021,
+    "wof:lastmodified":1537623415,
+    "wof:name":"Wasaw-Kumasi",
+    "wof:parent_id":1108760015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.1861,
+    5.76873,
+    -2.1861,
+    5.76873
+],
+  "geometry": {"coordinates":[-2.1861,5.76873],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193034089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.74866,6.36613,0.74866,6.36613",
+    "geom:latitude":6.36613,
+    "geom:longitude":0.74866,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dotsokofe",
+    "gn:country_code":"GH",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301521,
+    "gn:latitude":6.36613,
+    "gn:longitude":0.74866,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Dotsokofe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301521
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"4f4420dade0f2684978a9ef9b2f9d66d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759971,
+            "locality_id":1193034089,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1193034089,
+    "wof:lastmodified":1536382919,
+    "wof:name":"Dotsokofe",
+    "wof:parent_id":1108759971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.74866,
+    6.36613,
+    0.74866,
+    6.36613
+],
+  "geometry": {"coordinates":[0.74866,6.36613],"type":"Point"}
+}

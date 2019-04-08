@@ -1,0 +1,68 @@
+{
+  "id": 1209625053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.0133,6.38379,-2.0133,6.38379",
+    "geom:latitude":6.38379,
+    "geom:longitude":-2.0133,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kobinaso",
+    "gn:country_code":"GH",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298745,
+    "gn:latitude":6.38379,
+    "gn:longitude":-2.0133,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Kobinaso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kobinaso"
+    ],
+    "name:und_x_variant":[
+        "Kobnaso",
+        "Kwabenaso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298745
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"021751485905d38f6b4c9a4bad8bf4e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209625053
+        }
+    ],
+    "wof:id":1209625053,
+    "wof:lastmodified":1537623579,
+    "wof:name":"Kobinaso",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.0133,
+    6.38379,
+    -2.0133,
+    6.38379
+],
+  "geometry": {"coordinates":[-2.0133,6.38379],"type":"Point"}
+}

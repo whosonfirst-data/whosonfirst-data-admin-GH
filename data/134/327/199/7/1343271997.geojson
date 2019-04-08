@@ -1,0 +1,67 @@
+{
+  "id": 1343271997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.35798,5.20805,-1.35798,5.20805",
+    "geom:latitude":5.20805,
+    "geom:longitude":-1.35798,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Esiam",
+    "gn:country_code":"GH",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301106,
+    "gn:latitude":5.20805,
+    "gn:longitude":-1.35798,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Esiam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301106
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"66ed72a4556f6b21f921ea9359791eae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759859,
+            "locality_id":1343271997,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1343271997,
+    "wof:lastmodified":1537017443,
+    "wof:name":"Esiam",
+    "wof:parent_id":1108759859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.35798,
+    5.20805,
+    -1.35798,
+    5.20805
+],
+  "geometry": {"coordinates":[-1.35798,5.20805],"type":"Point"}
+}

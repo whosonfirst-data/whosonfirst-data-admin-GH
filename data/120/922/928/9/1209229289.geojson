@@ -1,0 +1,61 @@
+{
+  "id": 1209229289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.74722,4.95601,-1.74722,4.95601",
+    "geom:latitude":4.95601,
+    "geom:longitude":-1.74722,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ahinkofikrom",
+    "gn:country_code":"GH",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305439,
+    "gn:latitude":4.95601,
+    "gn:longitude":-1.74722,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Ahinkofikrom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305439
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"3ed15596ca98a3fc04420718ff66d035",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209229289
+        }
+    ],
+    "wof:id":1209229289,
+    "wof:lastmodified":1536293690,
+    "wof:name":"Ahinkofikrom",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.74722,
+    4.95601,
+    -1.74722,
+    4.95601
+],
+  "geometry": {"coordinates":[-1.74722,4.95601],"type":"Point"}
+}

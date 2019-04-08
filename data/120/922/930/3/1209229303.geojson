@@ -1,0 +1,70 @@
+{
+  "id": 1209229303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.87027,6.46369,-1.87027,6.46369",
+    "geom:latitude":6.46369,
+    "geom:longitude":-1.87027,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Old Atwedee",
+    "gn:country_code":"GH",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296340,
+    "gn:latitude":6.46369,
+    "gn:longitude":-1.87027,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Old Atwedee",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Old Atwedee"
+    ],
+    "name:und_x_variant":[
+        "Atwidie",
+        "Manso Atwere",
+        "Old Atwidia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296340,
+        "wk:page":"Manso_Atwere"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"288d7cd568bd635ec88a570052cd4aea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209229303
+        }
+    ],
+    "wof:id":1209229303,
+    "wof:lastmodified":1537623492,
+    "wof:name":"Old Atwedee",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.87027,
+    6.46369,
+    -1.87027,
+    6.46369
+],
+  "geometry": {"coordinates":[-1.87027,6.46369],"type":"Point"}
+}

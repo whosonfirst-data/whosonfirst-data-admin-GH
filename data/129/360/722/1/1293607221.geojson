@@ -1,0 +1,70 @@
+{
+  "id": 1293607221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.96052,6.06862,-1.96052,6.06862",
+    "geom:latitude":6.06862,
+    "geom:longitude":-1.96052,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Awomaso",
+    "gn:country_code":"GH",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303647,
+    "gn:latitude":6.06862,
+    "gn:longitude":-1.96052,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Awomaso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Awomaso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303647
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"1f44ed5b73a047c85d91aebcd07cdc7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759783,
+            "locality_id":1293607221,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1293607221,
+    "wof:lastmodified":1537623758,
+    "wof:name":"Awomaso",
+    "wof:parent_id":1108759783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.96052,
+    6.06862,
+    -1.96052,
+    6.06862
+],
+  "geometry": {"coordinates":[-1.96052,6.06862],"type":"Point"}
+}

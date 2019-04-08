@@ -1,0 +1,64 @@
+{
+  "id": 1209324695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.75891,5.8603,-1.75891,5.8603",
+    "geom:latitude":5.8603,
+    "geom:longitude":-1.75891,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ninety",
+    "gn:country_code":"GH",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297366,
+    "gn:latitude":5.8603,
+    "gn:longitude":-1.75891,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Ninety",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ninety"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297366
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"21df34a7c66f6a703af41e615e0b0894",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209324695
+        }
+    ],
+    "wof:id":1209324695,
+    "wof:lastmodified":1537623529,
+    "wof:name":"Ninety",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.75891,
+    5.8603,
+    -1.75891,
+    5.8603
+],
+  "geometry": {"coordinates":[-1.75891,5.8603],"type":"Point"}
+}

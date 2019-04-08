@@ -1,0 +1,72 @@
+{
+  "id": 1260098519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.24306,10.32355,-1.24306,10.32355",
+    "geom:latitude":10.32355,
+    "geom:longitude":-1.24306,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Godemblissa",
+    "gn:country_code":"GH",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300619,
+    "gn:latitude":10.32355,
+    "gn:longitude":-1.24306,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Godemblissa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gbedembilisi Central",
+        "Gbedembilisi Nayeri",
+        "Godemblissa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300619
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"dc50f3e5151531b1ee9df539ce6f2665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759951,
+            "locality_id":1260098519,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1260098519,
+    "wof:lastmodified":1537623648,
+    "wof:name":"Godemblissa",
+    "wof:parent_id":1108759951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.24306,
+    10.32355,
+    -1.24306,
+    10.32355
+],
+  "geometry": {"coordinates":[-1.24306,10.32355],"type":"Point"}
+}

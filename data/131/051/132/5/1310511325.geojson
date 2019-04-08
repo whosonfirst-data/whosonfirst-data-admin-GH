@@ -1,0 +1,71 @@
+{
+  "id": 1310511325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.20963,11.14714,-0.20963,11.14714",
+    "geom:latitude":11.14714,
+    "geom:longitude":-0.20963,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kulugungu",
+    "gn:country_code":"GH",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298918,
+    "gn:latitude":11.14714,
+    "gn:longitude":-0.20963,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kulugungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kulungugu",
+        "Kulugungu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298918
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"9bf6b46f7e1dd6de3c99fa206cdd9102",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759943,
+            "locality_id":1310511325,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1310511325,
+    "wof:lastmodified":1537623584,
+    "wof:name":"Kulugungu",
+    "wof:parent_id":1108759943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.20963,
+    11.14714,
+    -0.20963,
+    11.14714
+],
+  "geometry": {"coordinates":[-0.20963,11.14714],"type":"Point"}
+}

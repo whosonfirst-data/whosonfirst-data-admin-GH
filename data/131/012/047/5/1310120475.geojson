@@ -1,0 +1,71 @@
+{
+  "id": 1310120475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.16573,6.05334,-1.16573,6.05334",
+    "geom:latitude":6.05334,
+    "geom:longitude":-1.16573,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Adibeasi",
+    "gn:country_code":"GH",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305895,
+    "gn:latitude":6.05334,
+    "gn:longitude":-1.16573,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Adibeasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adubease",
+        "Adibeasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305895
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"7caae639d694eb8ad284aa137b58f6dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759877,
+            "locality_id":1310120475,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1310120475,
+    "wof:lastmodified":1537623836,
+    "wof:name":"Adibeasi",
+    "wof:parent_id":1108759877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.16573,
+    6.05334,
+    -1.16573,
+    6.05334
+],
+  "geometry": {"coordinates":[-1.16573,6.05334],"type":"Point"}
+}

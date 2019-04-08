@@ -1,0 +1,68 @@
+{
+  "id": 1327149271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.38051,5.33078,-1.38051,5.33078",
+    "geom:latitude":5.33078,
+    "geom:longitude":-1.38051,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Abrafo",
+    "gn:country_code":"GH",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306204,
+    "gn:latitude":5.33078,
+    "gn:longitude":-1.38051,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Abrafo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306204,
+        "wk:page":"Abrafo"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"598af8c1dab267c727472e8af919cf89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759863,
+            "locality_id":1327149271,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1327149271,
+    "wof:lastmodified":1537563064,
+    "wof:name":"Abrafo",
+    "wof:parent_id":1108759863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.38051,
+    5.33078,
+    -1.38051,
+    5.33078
+],
+  "geometry": {"coordinates":[-1.38051,5.33078],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276676365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.48977,10.68524,-1.48977,10.68524",
+    "geom:latitude":10.68524,
+    "geom:longitude":-1.48977,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bechaunsi",
+    "gn:country_code":"GH",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303259,
+    "gn:latitude":10.68524,
+    "gn:longitude":-1.48977,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bechaunsi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bechawnsi",
+        "Bechawnsi Central",
+        "Bechawnsi Nanyensi",
+        "Bechaunsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303259
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"39c5773b2c7e40061b8ae3436789b443",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759951,
+            "locality_id":1276676365,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1276676365,
+    "wof:lastmodified":1537623744,
+    "wof:name":"Bechaunsi",
+    "wof:parent_id":1108759951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.48977,
+    10.68524,
+    -1.48977,
+    10.68524
+],
+  "geometry": {"coordinates":[-1.48977,10.68524],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209232815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.03445,6.03243,1.03445,6.03243",
+    "geom:latitude":6.03243,
+    "geom:longitude":1.03445,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Biko",
+    "gn:country_code":"GH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303039,
+    "gn:latitude":6.03243,
+    "gn:longitude":1.03445,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Biko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bikor",
+        "Biko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303039
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"de4132c3d4e57b5328a1d7c6038fa95d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209232815
+        }
+    ],
+    "wof:id":1209232815,
+    "wof:lastmodified":1537623737,
+    "wof:name":"Biko",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.03445,
+    6.03243,
+    1.03445,
+    6.03243
+],
+  "geometry": {"coordinates":[1.03445,6.03243],"type":"Point"}
+}

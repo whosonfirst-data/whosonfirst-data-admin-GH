@@ -1,0 +1,71 @@
+{
+  "id": 1327352009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.79425,5.96593,-1.79425,5.96593",
+    "geom:latitude":5.96593,
+    "geom:longitude":-1.79425,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Atechem",
+    "gn:country_code":"GH",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303874,
+    "gn:latitude":5.96593,
+    "gn:longitude":-1.79425,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Atechem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Atekyem",
+        "Atechem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303874
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"9bad6dc014355705fef97b0656d07e50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759865,
+            "locality_id":1327352009,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1327352009,
+    "wof:lastmodified":1537623765,
+    "wof:name":"Atechem",
+    "wof:parent_id":1108759865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.79425,
+    5.96593,
+    -1.79425,
+    5.96593
+],
+  "geometry": {"coordinates":[-1.79425,5.96593],"type":"Point"}
+}

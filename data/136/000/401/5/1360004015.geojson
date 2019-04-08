@@ -1,0 +1,73 @@
+{
+  "id": 1360004015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.90367,6.9321,-1.90367,6.9321",
+    "geom:latitude":6.9321,
+    "geom:longitude":-1.90367,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Aburaso",
+    "gn:country_code":"GH",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301331,
+    "gn:latitude":6.9321,
+    "gn:longitude":-1.90367,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Aburaso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Aburaso"
+    ],
+    "name:eng_x_variant":[
+        "Eburaso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301331
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"0597f3ddf13ca069bc006fc43eb5a6db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759781,
+            "locality_id":1360004015,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1360004015,
+    "wof:lastmodified":1537623675,
+    "wof:name":"Aburaso",
+    "wof:parent_id":1108759781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.90367,
+    6.9321,
+    -1.90367,
+    6.9321
+],
+  "geometry": {"coordinates":[-1.90367,6.9321],"type":"Point"}
+}

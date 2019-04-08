@@ -1,0 +1,71 @@
+{
+  "id": 1310020417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.54376,6.14607,0.54376,6.14607",
+    "geom:latitude":6.14607,
+    "geom:longitude":0.54376,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Anfen",
+    "gn:country_code":"GH",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304628,
+    "gn:latitude":6.14607,
+    "gn:longitude":0.54376,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Anfen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anfoe",
+        "Anfen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304628
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"3deb35d65acef584f6f53b8c809b1617",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759967,
+            "locality_id":1310020417,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1310020417,
+    "wof:lastmodified":1537623792,
+    "wof:name":"Anfen",
+    "wof:parent_id":1108759967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.54376,
+    6.14607,
+    0.54376,
+    6.14607
+],
+  "geometry": {"coordinates":[0.54376,6.14607],"type":"Point"}
+}

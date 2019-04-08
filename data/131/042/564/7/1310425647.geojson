@@ -1,0 +1,72 @@
+{
+  "id": 1310425647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.00879,6.02632,1.00879,6.02632",
+    "geom:latitude":6.02632,
+    "geom:longitude":1.00879,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Dogbekope",
+    "gn:country_code":"GH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301657,
+    "gn:latitude":6.02632,
+    "gn:longitude":1.00879,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dogbekope",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dogbekorpe",
+        "Dogbuikofe",
+        "Dogbekope"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301657
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"abf4f1c3276f2c59164ef7926f3e47cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759983,
+            "locality_id":1310425647,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1310425647,
+    "wof:lastmodified":1537623690,
+    "wof:name":"Dogbekope",
+    "wof:parent_id":1108759983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.00879,
+    6.02632,
+    1.00879,
+    6.02632
+],
+  "geometry": {"coordinates":[1.00879,6.02632],"type":"Point"}
+}

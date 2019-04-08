@@ -1,0 +1,71 @@
+{
+  "id": 1276773133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.07539,6.38995,-0.07539,6.38995",
+    "geom:latitude":6.38995,
+    "geom:longitude":-0.07539,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Akokoma",
+    "gn:country_code":"GH",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305137,
+    "gn:latitude":6.38995,
+    "gn:longitude":-0.07539,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Akokoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akokoma Teima",
+        "Akokoma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305137
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"5ea7025474bfa1fdc3e02fbca9cc88b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759891,
+            "locality_id":1276773133,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1276773133,
+    "wof:lastmodified":1537623810,
+    "wof:name":"Akokoma",
+    "wof:parent_id":1108759891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.07539,
+    6.38995,
+    -0.07539,
+    6.38995
+],
+  "geometry": {"coordinates":[-0.07539,6.38995],"type":"Point"}
+}

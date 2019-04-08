@@ -1,0 +1,71 @@
+{
+  "id": 1226664211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.81278,5.78766,-0.81278,5.78766",
+    "geom:latitude":5.78766,
+    "geom:longitude":-0.81278,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tabita",
+    "gn:country_code":"GH",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294954,
+    "gn:latitude":5.78766,
+    "gn:longitude":-0.81278,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tabita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tabitan",
+        "Tabita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294954
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"9401e58521d4b62bb5594e58b9e8fae1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759879,
+            "locality_id":1226664211,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1226664211,
+    "wof:lastmodified":1537623444,
+    "wof:name":"Tabita",
+    "wof:parent_id":1108759879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.81278,
+    5.78766,
+    -0.81278,
+    5.78766
+],
+  "geometry": {"coordinates":[-0.81278,5.78766],"type":"Point"}
+}

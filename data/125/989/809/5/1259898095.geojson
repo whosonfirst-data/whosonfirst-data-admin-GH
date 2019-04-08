@@ -1,0 +1,67 @@
+{
+  "id": 1259898095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.06341,10.05972,-0.06341,10.05972",
+    "geom:latitude":10.05972,
+    "geom:longitude":-0.06341,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ngbalenchere",
+    "gn:country_code":"GH",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297410,
+    "gn:latitude":10.05972,
+    "gn:longitude":-0.06341,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Ngbalenchere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297410
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"97dbb928753e03578847d2e88c7397e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759925,
+            "locality_id":1259898095,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1259898095,
+    "wof:lastmodified":1536758203,
+    "wof:name":"Ngbalenchere",
+    "wof:parent_id":1108759925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.06341,
+    10.05972,
+    -0.06341,
+    10.05972
+],
+  "geometry": {"coordinates":[-0.06341,10.05972],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327048555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.77043,6.43575,-2.77043,6.43575",
+    "geom:latitude":6.43575,
+    "geom:longitude":-2.77043,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Benkyema",
+    "gn:country_code":"GH",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303198,
+    "gn:latitude":6.43575,
+    "gn:longitude":-2.77043,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Benkyema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Benkyema Nkatieso",
+        "Benchema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303198
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"5ff20f7ac5ed1b9b48b1272010139c79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760003,
+            "locality_id":1327048555,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1327048555,
+    "wof:lastmodified":1537623742,
+    "wof:name":"Benkyema",
+    "wof:parent_id":1108760003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.77043,
+    6.43575,
+    -2.77043,
+    6.43575
+],
+  "geometry": {"coordinates":[-2.77043,6.43575],"type":"Point"}
+}

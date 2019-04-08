@@ -1,0 +1,71 @@
+{
+  "id": 1210034631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.18,9.96686,-2.18,9.96686",
+    "geom:latitude":9.96686,
+    "geom:longitude":-2.18,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Chago",
+    "gn:country_code":"GH",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2302347,
+    "gn:latitude":9.96686,
+    "gn:longitude":-2.18,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chago",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chagu",
+        "Chago"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302347
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"7347de69f1122f04728677cc088e0e84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759965,
+            "locality_id":1210034631,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1210034631,
+    "wof:lastmodified":1537623714,
+    "wof:name":"Chago",
+    "wof:parent_id":1108759965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.18,
+    9.96686,
+    -2.18,
+    9.96686
+],
+  "geometry": {"coordinates":[-2.18,9.96686],"type":"Point"}
+}

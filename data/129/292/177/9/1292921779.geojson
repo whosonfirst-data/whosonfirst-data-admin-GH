@@ -1,0 +1,71 @@
+{
+  "id": 1292921779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.94124,5.08609,-2.94124,5.08609",
+    "geom:latitude":5.08609,
+    "geom:longitude":-2.94124,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Gyawue Wharf",
+    "gn:country_code":"GH",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300115,
+    "gn:latitude":5.08609,
+    "gn:longitude":-2.94124,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Gyawue Wharf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jewi Wharf",
+        "Jewi Ahonozo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300115
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"52209a45981b09a7abee767184281b1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760001,
+            "locality_id":1292921779,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1292921779,
+    "wof:lastmodified":1537623626,
+    "wof:name":"Gyawue Wharf",
+    "wof:parent_id":1108760001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.94124,
+    5.08609,
+    -2.94124,
+    5.08609
+],
+  "geometry": {"coordinates":[-2.94124,5.08609],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310099421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.28866,10.77986,-0.28866,10.77986",
+    "geom:latitude":10.77986,
+    "geom:longitude":-0.28866,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Kugri Natinga",
+    "gn:country_code":"GH",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298999,
+    "gn:latitude":10.77986,
+    "gn:longitude":-0.28866,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kugri Natinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuguri",
+        "Kugri",
+        "Kugri Natinga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671323,
+        1108759943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298999
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a3e58e28ba1f5058e7995d823b6d3a55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759943,
+            "locality_id":1310099421,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":1310099421,
+    "wof:lastmodified":1537623586,
+    "wof:name":"Kugri Natinga",
+    "wof:parent_id":1108759943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.28866,
+    10.77986,
+    -0.28866,
+    10.77986
+],
+  "geometry": {"coordinates":[-0.28866,10.77986],"type":"Point"}
+}

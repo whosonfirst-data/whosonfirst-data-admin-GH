@@ -1,0 +1,64 @@
+{
+  "id": 1209120965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.99648,6.86296,-1.99648,6.86296",
+    "geom:latitude":6.86296,
+    "geom:longitude":-1.99648,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Nyasiso",
+    "gn:country_code":"GH",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296775,
+    "gn:latitude":6.86296,
+    "gn:longitude":-1.99648,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Nyasiso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nyasiso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296775
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"8057b2465fd682c50b981a7f219278a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209120965
+        }
+    ],
+    "wof:id":1209120965,
+    "wof:lastmodified":1537623507,
+    "wof:name":"Nyasiso",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.99648,
+    6.86296,
+    -1.99648,
+    6.86296
+],
+  "geometry": {"coordinates":[-1.99648,6.86296],"type":"Point"}
+}

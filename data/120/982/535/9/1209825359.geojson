@@ -1,0 +1,67 @@
+{
+  "id": 1209825359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.03333,6.73333,-1.03333,6.73333",
+    "geom:latitude":6.73333,
+    "geom:longitude":-1.03333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nyenawasi",
+    "gn:country_code":"GH",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296755,
+    "gn:latitude":6.73333,
+    "gn:longitude":-1.03333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Nyenawasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296755
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"2a3d58dd50a88417f66f42beefd6fab0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759787,
+            "locality_id":1209825359,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1209825359,
+    "wof:lastmodified":1536374272,
+    "wof:name":"Nyenawasi",
+    "wof:parent_id":1108759787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.03333,
+    6.73333,
+    -1.03333,
+    6.73333
+],
+  "geometry": {"coordinates":[-1.03333,6.73333],"type":"Point"}
+}

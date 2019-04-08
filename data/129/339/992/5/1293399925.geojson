@@ -1,0 +1,73 @@
+{
+  "id": 1293399925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.51667,6.03333,0.51667,6.03333",
+    "geom:latitude":6.03333,
+    "geom:longitude":0.51667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kabenu",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299973,
+    "gn:latitude":6.03333,
+    "gn:longitude":0.51667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kabenu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kubenu",
+        "Kebenu",
+        "Kabenu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299973
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"5b025170c6a48373dce3631e50ca2f1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759967,
+            "locality_id":1293399925,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1293399925,
+    "wof:lastmodified":1537623620,
+    "wof:name":"Kabenu",
+    "wof:parent_id":1108759967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.51667,
+    6.03333,
+    0.51667,
+    6.03333
+],
+  "geometry": {"coordinates":[0.51667,6.03333],"type":"Point"}
+}

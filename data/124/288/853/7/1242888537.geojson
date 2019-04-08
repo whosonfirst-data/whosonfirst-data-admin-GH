@@ -1,0 +1,71 @@
+{
+  "id": 1242888537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.31714,6.04939,0.31714,6.04939",
+    "geom:latitude":6.04939,
+    "geom:longitude":0.31714,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Jopo",
+    "gn:country_code":"GH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300034,
+    "gn:latitude":6.04939,
+    "gn:longitude":0.31714,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jopo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dzokpo",
+        "Jopo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671353,
+        1108759907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300034
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"13f164d1e1e8d0ae8efd7d7ac7cd53aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759907,
+            "locality_id":1242888537,
+            "region_id":85671353
+        }
+    ],
+    "wof:id":1242888537,
+    "wof:lastmodified":1537623623,
+    "wof:name":"Jopo",
+    "wof:parent_id":1108759907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.31714,
+    6.04939,
+    0.31714,
+    6.04939
+],
+  "geometry": {"coordinates":[0.31714,6.04939],"type":"Point"}
+}

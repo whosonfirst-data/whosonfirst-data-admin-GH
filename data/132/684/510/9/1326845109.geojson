@@ -1,0 +1,67 @@
+{
+  "id": 1326845109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.40866,6.82212,0.40866,6.82212",
+    "geom:latitude":6.82212,
+    "geom:longitude":0.40866,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Djogbefeme",
+    "gn:country_code":"GH",
+    "gn:dem":505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2301692,
+    "gn:latitude":6.82212,
+    "gn:longitude":0.40866,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Djogbefeme",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2301692
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"3bbaf4fb3d45b708df6db69150b86343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759971,
+            "locality_id":1326845109,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1326845109,
+    "wof:lastmodified":1537028879,
+    "wof:name":"Djogbefeme",
+    "wof:parent_id":1108759971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.40866,
+    6.82212,
+    0.40866,
+    6.82212
+],
+  "geometry": {"coordinates":[0.40866,6.82212],"type":"Point"}
+}

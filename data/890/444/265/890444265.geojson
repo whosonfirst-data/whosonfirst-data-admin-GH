@@ -1,0 +1,77 @@
+{
+  "id": 890444265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.10722,5.58365,-0.10722,5.58365",
+    "geom:latitude":5.58365,
+    "geom:longitude":-0.10722,
+    "gn:country":"GH",
+    "gn:fcode":"PPLX",
+    "gn:pop":144013,
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Teshie"
+    ],
+    "name:eng_x_preferred":[
+        "Teshie"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u0449\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Tassi"
+    ],
+    "qs:name":"Teshi Old Town",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"9",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85671353,
+        85632189,
+        1108759901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294665,
+        "qs:id":1034738
+    },
+    "wof:country":"GH",
+    "wof:created":1469052462,
+    "wof:geomhash":"c7a178657047409ccf0e7a19086ea526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759901,
+            "neighbourhood_id":890444265,
+            "region_id":85671353
+        }
+    ],
+    "wof:id":890444265,
+    "wof:lastmodified":1505343598,
+    "wof:name":"Teshi Old Town",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":144013,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.10722,
+    5.58365,
+    -0.10722,
+    5.58365
+],
+  "geometry": {"coordinates":[-0.10722,5.58365],"type":"Point"}
+}

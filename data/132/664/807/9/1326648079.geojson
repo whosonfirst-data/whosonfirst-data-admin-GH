@@ -1,0 +1,71 @@
+{
+  "id": 1326648079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.03123,5.30032,-2.03123,5.30032",
+    "geom:latitude":5.30032,
+    "geom:longitude":-2.03123,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Susumienu",
+    "gn:country_code":"GH",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2294981,
+    "gn:latitude":5.30032,
+    "gn:longitude":-2.03123,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Susumienu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Susumenu",
+        "Susumienu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2294981
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"33882c29723694fd9ab2cba43b4b2868",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760017,
+            "locality_id":1326648079,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1326648079,
+    "wof:lastmodified":1537623445,
+    "wof:name":"Susumienu",
+    "wof:parent_id":1108760017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.03123,
+    5.30032,
+    -2.03123,
+    5.30032
+],
+  "geometry": {"coordinates":[-2.03123,5.30032],"type":"Point"}
+}

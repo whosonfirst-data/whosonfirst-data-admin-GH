@@ -1,0 +1,71 @@
+{
+  "id": 1343671967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.345,6.05222,0.345,6.05222",
+    "geom:latitude":6.05222,
+    "geom:longitude":0.345,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Klodosukofe",
+    "gn:country_code":"GH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299600,
+    "gn:latitude":6.05222,
+    "gn:longitude":0.345,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Klodosukofe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Klodosukorpe",
+        "Klodosukofe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671353,
+        1108759907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299600
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"cd715a16c1df76d4ef06a7552bf81edd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759907,
+            "locality_id":1343671967,
+            "region_id":85671353
+        }
+    ],
+    "wof:id":1343671967,
+    "wof:lastmodified":1537623606,
+    "wof:name":"Klodosukofe",
+    "wof:parent_id":1108759907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.345,
+    6.05222,
+    0.345,
+    6.05222
+],
+  "geometry": {"coordinates":[0.345,6.05222],"type":"Point"}
+}

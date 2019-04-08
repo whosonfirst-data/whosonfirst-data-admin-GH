@@ -1,0 +1,100 @@
+{
+  "id": 421195999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.81819,9.08337,-1.81819,9.08337",
+    "geom:latitude":9.08337,
+    "geom:longitude":-1.81819,
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u9054\u8499\u6208"
+    ],
+    "name:deu_x_preferred":[
+        "Damongo"
+    ],
+    "name:dut_x_preferred":[
+        "Damongo"
+    ],
+    "name:eng_x_preferred":[
+        "Damongo"
+    ],
+    "name:ger_x_preferred":[
+        "Damongo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u043c\u043e\u043d\u0433\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Damongo"
+    ],
+    "qs:gn_country":"GH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2302002,
+    "qs:gn_pop":0,
+    "qs:name":"Damongo",
+    "qs:name_adm0":"Ghana",
+    "qs:name_adm1":"Northern",
+    "qs:photos":87,
+    "qs:photos_1k":18,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":87,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1034778,
+    "qs:woe_adm0":23424824,
+    "qs:woe_id":1328574,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":84,
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2302002,
+        "gp:id":1328574,
+        "qs:id":1034778,
+        "wd:id":"Q1158732",
+        "wk:page":"Damongo"
+    },
+    "wof:country":"GH",
+    "wof:created":1459009866,
+    "wof:geomhash":"10480f14e234167bf5367701ca67399c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759921,
+            "locality_id":421195999,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":421195999,
+    "wof:lastmodified":1527716118,
+    "wof:name":"Damongo",
+    "wof:parent_id":1108759921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.81819,
+    9.08337,
+    -1.81819,
+    9.08337
+],
+  "geometry": {"coordinates":[-1.81819,9.08337],"type":"Point"}
+}

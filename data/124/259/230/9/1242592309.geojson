@@ -1,0 +1,70 @@
+{
+  "id": 1242592309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.54679,10.01943,-2.54679,10.01943",
+    "geom:latitude":10.01943,
+    "geom:longitude":-2.54679,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Nakori",
+    "gn:country_code":"GH",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297687,
+    "gn:latitude":10.01943,
+    "gn:longitude":-2.54679,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Nakori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nakora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671327,
+        1108759965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297687
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"1b9d8c30b8ebead349f38174153aed2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759965,
+            "locality_id":1242592309,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":1242592309,
+    "wof:lastmodified":1537623541,
+    "wof:name":"Nakori",
+    "wof:parent_id":1108759965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.54679,
+    10.01943,
+    -2.54679,
+    10.01943
+],
+  "geometry": {"coordinates":[-2.54679,10.01943],"type":"Point"}
+}

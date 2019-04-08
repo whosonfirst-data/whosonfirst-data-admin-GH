@@ -1,0 +1,67 @@
+{
+  "id": 1327044801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.85,5.28333,-0.85,5.28333",
+    "geom:latitude":5.28333,
+    "geom:longitude":-0.85,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Suani",
+    "gn:country_code":"GH",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2295178,
+    "gn:latitude":5.28333,
+    "gn:longitude":-0.85,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Suani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2295178
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"10dc50a1e4d9eebd7e6f1ec56e75305e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759861,
+            "locality_id":1327044801,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1327044801,
+    "wof:lastmodified":1536742258,
+    "wof:name":"Suani",
+    "wof:parent_id":1108759861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.85,
+    5.28333,
+    -0.85,
+    5.28333
+],
+  "geometry": {"coordinates":[-0.85,5.28333],"type":"Point"}
+}

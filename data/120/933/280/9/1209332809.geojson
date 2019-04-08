@@ -1,0 +1,68 @@
+{
+  "id": 1209332809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.16764,5.95085,-2.16764,5.95085",
+    "geom:latitude":5.95085,
+    "geom:longitude":-2.16764,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Dwukwa",
+    "gn:country_code":"GH",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300009,
+    "gn:latitude":5.95085,
+    "gn:longitude":-2.16764,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Dwukwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dwukwa"
+    ],
+    "name:und_x_variant":[
+        "Dwokwaa",
+        "Jukwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300009
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"d34079b78e17bf3568d7f3b2904506a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209332809
+        }
+    ],
+    "wof:id":1209332809,
+    "wof:lastmodified":1537623622,
+    "wof:name":"Dwukwa",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.16764,
+    5.95085,
+    -2.16764,
+    5.95085
+],
+  "geometry": {"coordinates":[-2.16764,5.95085],"type":"Point"}
+}

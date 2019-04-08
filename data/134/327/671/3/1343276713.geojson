@@ -1,0 +1,67 @@
+{
+  "id": 1343276713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.51831,9.19806,0.51831,9.19806",
+    "geom:latitude":9.19806,
+    "geom:longitude":0.51831,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nabon",
+    "gn:country_code":"GH",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2297751,
+    "gn:latitude":9.19806,
+    "gn:longitude":0.51831,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Nabon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671319,
+        1108759939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2297751
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"8557093caedc0fcfdc5aaca259f994b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759939,
+            "locality_id":1343276713,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1343276713,
+    "wof:lastmodified":1537010683,
+    "wof:name":"Nabon",
+    "wof:parent_id":1108759939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.51831,
+    9.19806,
+    0.51831,
+    9.19806
+],
+  "geometry": {"coordinates":[0.51831,9.19806],"type":"Point"}
+}

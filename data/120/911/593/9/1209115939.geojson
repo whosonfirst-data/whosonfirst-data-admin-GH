@@ -1,0 +1,65 @@
+{
+  "id": 1209115939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.54705,7.47497,-2.54705,7.47497",
+    "geom:latitude":7.47497,
+    "geom:longitude":-2.54705,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kutire",
+    "gn:country_code":"GH",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298770,
+    "gn:latitude":7.47497,
+    "gn:longitude":-2.54705,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kutire",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kutre Number 1",
+        "Kutire"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298770
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"9baf2aaa28f9c6087b163c37337ade62",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209115939
+        }
+    ],
+    "wof:id":1209115939,
+    "wof:lastmodified":1537623579,
+    "wof:name":"Kutire",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.54705,
+    7.47497,
+    -2.54705,
+    7.47497
+],
+  "geometry": {"coordinates":[-2.54705,7.47497],"type":"Point"}
+}

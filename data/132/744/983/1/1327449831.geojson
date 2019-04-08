@@ -1,0 +1,67 @@
+{
+  "id": 1327449831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.67758,6.27637,0.67758,6.27637",
+    "geom:latitude":6.27637,
+    "geom:longitude":0.67758,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kpevenu",
+    "gn:country_code":"GH",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299171,
+    "gn:latitude":6.27637,
+    "gn:longitude":0.67758,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Kpevenu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671357,
+        1108759969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299171
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ad48356b85a561c7e85b3b63c137e1f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759969,
+            "locality_id":1327449831,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":1327449831,
+    "wof:lastmodified":1536655610,
+    "wof:name":"Kpevenu",
+    "wof:parent_id":1108759969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.67758,
+    6.27637,
+    0.67758,
+    6.27637
+],
+  "geometry": {"coordinates":[0.67758,6.27637],"type":"Point"}
+}

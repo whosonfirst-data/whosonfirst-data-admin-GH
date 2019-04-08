@@ -1,0 +1,71 @@
+{
+  "id": 1276344985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.19997,5.69163,-0.19997,5.69163",
+    "geom:latitude":5.69163,
+    "geom:longitude":-0.19997,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Agbogba",
+    "gn:country_code":"GH",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305577,
+    "gn:latitude":5.69163,
+    "gn:longitude":-0.19997,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Agbogba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agboogba",
+        "Agbogba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671353,
+        1108759909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305577
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"1da7999aabb7d55e94b8ac0840af67e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759909,
+            "locality_id":1276344985,
+            "region_id":85671353
+        }
+    ],
+    "wof:id":1276344985,
+    "wof:lastmodified":1537623825,
+    "wof:name":"Agbogba",
+    "wof:parent_id":1108759909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.19997,
+    5.69163,
+    -0.19997,
+    5.69163
+],
+  "geometry": {"coordinates":[-0.19997,5.69163],"type":"Point"}
+}

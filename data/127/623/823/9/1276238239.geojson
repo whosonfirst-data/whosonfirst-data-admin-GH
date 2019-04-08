@@ -1,0 +1,73 @@
+{
+  "id": 1276238239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.50108,6.45875,-1.50108,6.45875",
+    "geom:latitude":6.45875,
+    "geom:longitude":-1.50108,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ehuren",
+    "gn:country_code":"GH",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305389,
+    "gn:latitude":6.45875,
+    "gn:longitude":-1.50108,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Ehuren",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ahwiren"
+    ],
+    "name:und_x_variant":[
+        "Ahuren"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305389
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"c1d9245c8688d03279213e0203eb043d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759783,
+            "locality_id":1276238239,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1276238239,
+    "wof:lastmodified":1537623819,
+    "wof:name":"Ehuren",
+    "wof:parent_id":1108759783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.50108,
+    6.45875,
+    -1.50108,
+    6.45875
+],
+  "geometry": {"coordinates":[-1.50108,6.45875],"type":"Point"}
+}

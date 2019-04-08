@@ -1,0 +1,65 @@
+{
+  "id": 1209611103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.32595,4.92727,-2.32595,4.92727",
+    "geom:latitude":4.92727,
+    "geom:longitude":-2.32595,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kikam",
+    "gn:country_code":"GH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2299635,
+    "gn:latitude":4.92727,
+    "gn:longitude":-2.32595,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kikam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kikum",
+        "Kikam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2299635
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"78bb292df188acce9172a340bfa81f77",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209611103
+        }
+    ],
+    "wof:id":1209611103,
+    "wof:lastmodified":1537623607,
+    "wof:name":"Kikam",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.32595,
+    4.92727,
+    -2.32595,
+    4.92727
+],
+  "geometry": {"coordinates":[-2.32595,4.92727],"type":"Point"}
+}

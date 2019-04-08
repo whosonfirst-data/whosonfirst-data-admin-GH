@@ -1,0 +1,71 @@
+{
+  "id": 1260197535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.11925,6.20833,-0.11925,6.20833",
+    "geom:latitude":6.20833,
+    "geom:longitude":-0.11925,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Oterkpolu",
+    "gn:country_code":"GH",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296243,
+    "gn:latitude":6.20833,
+    "gn:longitude":-0.11925,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Oterkpolu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Otekpawulu",
+        "Oterkpolu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671343,
+        1108759899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296243
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"67bf4b059d02290ab0d37aad5744327f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759899,
+            "locality_id":1260197535,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":1260197535,
+    "wof:lastmodified":1537623488,
+    "wof:name":"Oterkpolu",
+    "wof:parent_id":1108759899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.11925,
+    6.20833,
+    -0.11925,
+    6.20833
+],
+  "geometry": {"coordinates":[-0.11925,6.20833],"type":"Point"}
+}

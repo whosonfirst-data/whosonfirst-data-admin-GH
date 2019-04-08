@@ -1,0 +1,67 @@
+{
+  "id": 1276883375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.71667,7.91667,-2.71667,7.91667",
+    "geom:latitude":7.91667,
+    "geom:longitude":-2.71667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nwereme",
+    "gn:country_code":"GH",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296947,
+    "gn:latitude":7.91667,
+    "gn:longitude":-2.71667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Nwereme",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296947
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"8ecc485b13dd9a195c2e96ba0e41198a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759823,
+            "locality_id":1276883375,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1276883375,
+    "wof:lastmodified":1537034816,
+    "wof:name":"Nwereme",
+    "wof:parent_id":1108759823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.71667,
+    7.91667,
+    -2.71667,
+    7.91667
+],
+  "geometry": {"coordinates":[-2.71667,7.91667],"type":"Point"}
+}

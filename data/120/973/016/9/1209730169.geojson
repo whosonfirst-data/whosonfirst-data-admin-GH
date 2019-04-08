@@ -1,0 +1,74 @@
+{
+  "id": 1209730169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.31015,5.82606,-1.31015,5.82606",
+    "geom:latitude":5.82606,
+    "geom:longitude":-1.31015,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Akonfudi",
+    "gn:country_code":"GH",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2305124,
+    "gn:latitude":5.82606,
+    "gn:longitude":-1.31015,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Akonfudi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akomfodi",
+        "Akonfode",
+        "Akonferi",
+        "Akonfuri",
+        "Akonfudi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671341,
+        1108759849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2305124
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"54b977ebfeadc9f3885487fe227fd748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759849,
+            "locality_id":1209730169,
+            "region_id":85671341
+        }
+    ],
+    "wof:id":1209730169,
+    "wof:lastmodified":1537623809,
+    "wof:name":"Akonfudi",
+    "wof:parent_id":1108759849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.31015,
+    5.82606,
+    -1.31015,
+    5.82606
+],
+  "geometry": {"coordinates":[-1.31015,5.82606],"type":"Point"}
+}

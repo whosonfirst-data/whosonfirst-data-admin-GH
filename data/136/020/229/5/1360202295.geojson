@@ -1,0 +1,73 @@
+{
+  "id": 1360202295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.40019,5.67519,-0.40019,5.67519",
+    "geom:latitude":5.67519,
+    "geom:longitude":-0.40019,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Obakrowe",
+    "gn:country_code":"GH",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2296694,
+    "gn:latitude":5.67519,
+    "gn:longitude":-0.40019,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Obakrowe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Obakrowe"
+    ],
+    "name:eng_x_variant":[
+        "Obakrowa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671353,
+        1108759909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2296694
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"ca19c5eccee69b7c334812e7fd5cb8fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759909,
+            "locality_id":1360202295,
+            "region_id":85671353
+        }
+    ],
+    "wof:id":1360202295,
+    "wof:lastmodified":1537623504,
+    "wof:name":"Obakrowe",
+    "wof:parent_id":1108759909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.40019,
+    5.67519,
+    -0.40019,
+    5.67519
+],
+  "geometry": {"coordinates":[-0.40019,5.67519],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276137785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.37873,4.94814,-2.37873,4.94814",
+    "geom:latitude":4.94814,
+    "geom:longitude":-2.37873,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Asrunun",
+    "gn:country_code":"GH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2304042,
+    "gn:latitude":4.94814,
+    "gn:longitude":-2.37873,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Asrunun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Azulenloanu",
+        "Asrunun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671347,
+        1108760007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2304042
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"0c0cbb515699a8e1610c1cad6a11fd33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108760007,
+            "locality_id":1276137785,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":1276137785,
+    "wof:lastmodified":1537623770,
+    "wof:name":"Asrunun",
+    "wof:parent_id":1108760007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.37873,
+    4.94814,
+    -2.37873,
+    4.94814
+],
+  "geometry": {"coordinates":[-2.37873,4.94814],"type":"Point"}
+}

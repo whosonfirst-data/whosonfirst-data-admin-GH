@@ -1,0 +1,67 @@
+{
+  "id": 1292906563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.54639,6.69222,-1.54639,6.69222",
+    "geom:latitude":6.69222,
+    "geom:longitude":-1.54639,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Oduom",
+    "gn:country_code":"GH",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11429197,
+    "gn:latitude":6.69222,
+    "gn:longitude":-1.54639,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Oduom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11429197
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"69229ecf46d5975b0f958508d0c78e4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759801,
+            "locality_id":1292906563,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1292906563,
+    "wof:lastmodified":1536628699,
+    "wof:name":"Oduom",
+    "wof:parent_id":1108759801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.54639,
+    6.69222,
+    -1.54639,
+    6.69222
+],
+  "geometry": {"coordinates":[-1.54639,6.69222],"type":"Point"}
+}

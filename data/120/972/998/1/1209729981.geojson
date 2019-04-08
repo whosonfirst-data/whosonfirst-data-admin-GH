@@ -1,0 +1,72 @@
+{
+  "id": 1209729981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.13333,6.95,-1.13333,6.95",
+    "geom:latitude":6.95,
+    "geom:longitude":-1.13333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Abodiem",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306290,
+    "gn:latitude":6.95,
+    "gn:longitude":-1.13333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Abodiem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abodeem",
+        "Abodiem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671331,
+        1108759807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306290
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"dd1c34c293331958671676beef00e259",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759807,
+            "locality_id":1209729981,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":1209729981,
+    "wof:lastmodified":1537623850,
+    "wof:name":"Abodiem",
+    "wof:parent_id":1108759807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.13333,
+    6.95,
+    -1.13333,
+    6.95
+],
+  "geometry": {"coordinates":[-1.13333,6.95],"type":"Point"}
+}

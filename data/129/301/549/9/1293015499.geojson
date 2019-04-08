@@ -1,0 +1,68 @@
+{
+  "id": 1293015499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.44275,6.69447,-2.44275,6.69447",
+    "geom:latitude":6.69447,
+    "geom:longitude":-2.44275,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kukuom",
+    "gn:country_code":"GH",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2298964,
+    "gn:latitude":6.69447,
+    "gn:longitude":-2.44275,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Kukuom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2298964,
+        "wk:page":"Kukuom"
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"8fa93489c76f05c3c143fb00b45a3975",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759811,
+            "locality_id":1293015499,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1293015499,
+    "wof:lastmodified":1537563039,
+    "wof:name":"Kukuom",
+    "wof:parent_id":1108759811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.44275,
+    6.69447,
+    -2.44275,
+    6.69447
+],
+  "geometry": {"coordinates":[-2.44275,6.69447],"type":"Point"}
+}

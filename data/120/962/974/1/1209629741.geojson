@@ -1,0 +1,66 @@
+{
+  "id": 1209629741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.65,6.31667,0.65,6.31667",
+    "geom:latitude":6.31667,
+    "geom:longitude":0.65,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gidikpe Chegakofe",
+    "gn:cc2":"GH",
+    "gn:country_code":"GH",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2300652,
+    "gn:latitude":6.31667,
+    "gn:longitude":0.65,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gidikpe Chegakofe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gidikpe Tsegakorpe",
+        "Gidikpe Chegakofe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2300652
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"a49ceaba1af48071ca9c93084a1601ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209629741
+        }
+    ],
+    "wof:id":1209629741,
+    "wof:lastmodified":1537623649,
+    "wof:name":"Gidikpe Chegakofe",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.65,
+    6.31667,
+    0.65,
+    6.31667
+],
+  "geometry": {"coordinates":[0.65,6.31667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343280337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.82768,7.81769,-2.82768,7.81769",
+    "geom:latitude":7.81769,
+    "geom:longitude":-2.82768,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Biama",
+    "gn:country_code":"GH",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2303075,
+    "gn:latitude":7.81769,
+    "gn:longitude":-2.82768,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Biama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Biama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632189,
+        85671337,
+        1108759823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2303075
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"e9374cf7ef469ec0263ca87023fa4382",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759823,
+            "locality_id":1343280337,
+            "region_id":85671337
+        }
+    ],
+    "wof:id":1343280337,
+    "wof:lastmodified":1537623738,
+    "wof:name":"Biama",
+    "wof:parent_id":1108759823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.82768,
+    7.81769,
+    -2.82768,
+    7.81769
+],
+  "geometry": {"coordinates":[-2.82768,7.81769],"type":"Point"}
+}

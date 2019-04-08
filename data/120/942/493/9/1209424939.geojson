@@ -1,0 +1,61 @@
+{
+  "id": 1209424939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.13333,10.0,-0.13333,10.0",
+    "geom:latitude":10.0,
+    "geom:longitude":-0.13333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sambobugu",
+    "gn:country_code":"GH",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2295652,
+    "gn:latitude":10.0,
+    "gn:longitude":-0.13333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Sambobugu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Accra",
+    "iso:country":"GH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2295652
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"bde1dfe938a6544c6c5caaa441df895a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632189,
+            "locality_id":1209424939
+        }
+    ],
+    "wof:id":1209424939,
+    "wof:lastmodified":1536287410,
+    "wof:name":"Sambobugu",
+    "wof:parent_id":85632189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.13333,
+    10.0,
+    -0.13333,
+    10.0
+],
+  "geometry": {"coordinates":[-0.13333,10.0],"type":"Point"}
+}
