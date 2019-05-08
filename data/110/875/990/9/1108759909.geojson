@@ -10,6 +10,12 @@
     "geom:latitude":5.681976,
     "geom:longitude":-0.336065,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Ga District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":5.669162,
     "lbl:longitude":-0.333376,
     "meso:adm1_en":"Greater Accra",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108759909,
-    "wof:lastmodified":1536615761,
+    "wof:lastmodified":1553718729,
     "wof:name":"Ga",
     "wof:parent_id":85671353,
     "wof:placetype":"county",

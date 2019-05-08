@@ -10,6 +10,12 @@
     "geom:latitude":5.641449,
     "geom:longitude":-1.010083,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Asikuma Odoben Brakwa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":5.637143,
     "lbl:longitude":-1.01284,
     "meso:adm1_en":"Central",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108759847,
-    "wof:lastmodified":1536615759,
+    "wof:lastmodified":1553718728,
     "wof:name":"Asikuma Odoben Brakwa",
     "wof:parent_id":85671341,
     "wof:placetype":"county",

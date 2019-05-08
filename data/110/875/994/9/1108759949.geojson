@@ -10,6 +10,12 @@
     "geom:latitude":10.918261,
     "geom:longitude":-0.785298,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Bongo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":10.924574,
     "lbl:longitude":-0.798468,
     "meso:adm1_en":"Upper East",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108759949,
-    "wof:lastmodified":1553816509,
+    "wof:lastmodified":1555037248,
     "wof:name":"Bongo",
     "wof:parent_id":85671323,
     "wof:placetype":"county",

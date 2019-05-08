@@ -10,6 +10,12 @@
     "geom:latitude":5.830896,
     "geom:longitude":-0.26853,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Akwapim S. District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":5.853957,
     "lbl:longitude":-0.280453,
     "meso:adm1_en":"Eastern",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108759873,
-    "wof:lastmodified":1536615760,
+    "wof:lastmodified":1555092025,
     "wof:name":"Akwapim South",
     "wof:parent_id":85671343,
     "wof:placetype":"county",

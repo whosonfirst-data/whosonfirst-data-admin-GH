@@ -10,6 +10,12 @@
     "geom:latitude":5.99162,
     "geom:longitude":-0.15956,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Akwapim N. District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":5.986514,
     "lbl:longitude":-0.162049,
     "meso:adm1_en":"Eastern",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108759871,
-    "wof:lastmodified":1536615760,
+    "wof:lastmodified":1555092025,
     "wof:name":"Akwapim North",
     "wof:parent_id":85671343,
     "wof:placetype":"county",

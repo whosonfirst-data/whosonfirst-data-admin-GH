@@ -10,6 +10,12 @@
     "geom:latitude":10.691161,
     "geom:longitude":-1.931602,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Sissala District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":10.690448,
     "lbl:longitude":-1.891874,
     "meso:adm1_en":"Upper West",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108759963,
-    "wof:lastmodified":1536615763,
+    "wof:lastmodified":1553718732,
     "wof:name":"Sissala",
     "wof:parent_id":85671327,
     "wof:placetype":"county",

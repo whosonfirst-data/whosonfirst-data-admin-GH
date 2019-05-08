@@ -10,6 +10,12 @@
     "geom:latitude":5.164197,
     "geom:longitude":-1.291175,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Cape Coast Municipal District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipal district"
+    ],
     "lbl:latitude":5.162863,
     "lbl:longitude":-1.290053,
     "meso:adm1_en":"Central",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108759855,
-    "wof:lastmodified":1536615759,
+    "wof:lastmodified":1553718728,
     "wof:name":"Cape Coast",
     "wof:parent_id":85671341,
     "wof:placetype":"county",

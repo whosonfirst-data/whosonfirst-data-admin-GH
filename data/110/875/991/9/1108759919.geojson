@@ -10,6 +10,12 @@
     "geom:latitude":8.610556,
     "geom:longitude":-0.601277,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Gonja E. District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":9.007405,
     "lbl:longitude":-0.48968,
     "meso:adm1_en":"Northern",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108759919,
-    "wof:lastmodified":1536615761,
+    "wof:lastmodified":1555092026,
     "wof:name":"Gonja East",
     "wof:parent_id":85671319,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":9.920826,
     "geom:longitude":0.205591,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Saboba/ Chereponi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":9.86768,
     "lbl:longitude":0.202007,
     "meso:adm1_en":"Northern",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1108759929,
-    "wof:lastmodified":1536615762,
+    "wof:lastmodified":1553718731,
     "wof:name":"Saboba/ Chereponi",
     "wof:parent_id":85671319,
     "wof:placetype":"county",

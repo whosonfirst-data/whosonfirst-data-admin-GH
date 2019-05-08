@@ -10,6 +10,12 @@
     "geom:latitude":5.272435,
     "geom:longitude":-1.202295,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Abura Dunkwa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":5.284825,
     "lbl:longitude":-1.214356,
     "meso:adm1_en":"Central",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108759841,
-    "wof:lastmodified":1536615759,
+    "wof:lastmodified":1553718727,
     "wof:name":"Abura Dunkwa",
     "wof:parent_id":85671341,
     "wof:placetype":"county",

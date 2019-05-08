@@ -10,6 +10,12 @@
     "geom:latitude":5.87099,
     "geom:longitude":0.47825,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Dangme E. District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":5.883199,
     "lbl:longitude":0.473089,
     "meso:adm1_en":"Greater Accra",
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":1108759903,
-    "wof:lastmodified":1536615761,
+    "wof:lastmodified":1555092026,
     "wof:name":"Dangme East",
     "wof:parent_id":85671353,
     "wof:placetype":"county",

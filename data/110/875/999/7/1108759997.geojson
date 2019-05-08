@@ -10,6 +10,12 @@
     "geom:latitude":5.784421,
     "geom:longitude":-2.78353,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Aowin/ Suaman District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":5.791339,
     "lbl:longitude":-2.762795,
     "meso:adm1_en":"Weastern",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108759997,
-    "wof:lastmodified":1536615764,
+    "wof:lastmodified":1553718733,
     "wof:name":"Aowin/ Suaman",
     "wof:parent_id":85671347,
     "wof:placetype":"county",

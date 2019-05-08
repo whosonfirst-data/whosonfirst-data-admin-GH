@@ -10,6 +10,12 @@
     "geom:latitude":6.791324,
     "geom:longitude":-1.056404,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Asante Akim N. District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.906722,
     "lbl:longitude":-0.958978,
     "meso:adm1_en":"Ashanti",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1108759787,
-    "wof:lastmodified":1536615757,
+    "wof:lastmodified":1555092025,
     "wof:name":"Asante Akim North",
     "wof:parent_id":85671331,
     "wof:placetype":"county",

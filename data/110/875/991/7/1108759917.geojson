@@ -10,6 +10,12 @@
     "geom:latitude":10.458808,
     "geom:longitude":-0.23564,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "East Mamprusi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":10.463964,
     "lbl:longitude":-0.229029,
     "meso:adm1_en":"Northern",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108759917,
-    "wof:lastmodified":1536615761,
+    "wof:lastmodified":1553718730,
     "wof:name":"East Mamprusi",
     "wof:parent_id":85671319,
     "wof:placetype":"county",

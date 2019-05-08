@@ -10,6 +10,12 @@
     "geom:latitude":7.617811,
     "geom:longitude":-1.603033,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Nkoranza District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":7.622251,
     "lbl:longitude":-1.626728,
     "meso:adm1_en":"Brong Ahafo",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108759827,
-    "wof:lastmodified":1536615759,
+    "wof:lastmodified":1553718727,
     "wof:name":"Nkoranza",
     "wof:parent_id":85671337,
     "wof:placetype":"county",

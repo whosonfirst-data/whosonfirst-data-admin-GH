@@ -10,6 +10,12 @@
     "geom:latitude":5.858435,
     "geom:longitude":-0.957251,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Birim S. District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":5.851503,
     "lbl:longitude":-0.934488,
     "meso:adm1_en":"Eastern",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108759879,
-    "wof:lastmodified":1536615760,
+    "wof:lastmodified":1555092026,
     "wof:name":"Birim South",
     "wof:parent_id":85671343,
     "wof:placetype":"county",

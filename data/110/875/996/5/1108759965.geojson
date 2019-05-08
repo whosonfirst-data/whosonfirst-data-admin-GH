@@ -10,6 +10,12 @@
     "geom:latitude":9.992887,
     "geom:longitude":-2.235957,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Wa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":9.992399,
     "lbl:longitude":-2.235879,
     "meso:adm1_en":"Upper West",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108759965,
-    "wof:lastmodified":1536615763,
+    "wof:lastmodified":1553718731,
     "wof:name":"Wa",
     "wof:parent_id":85671327,
     "wof:placetype":"county",

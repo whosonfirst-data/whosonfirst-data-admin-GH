@@ -10,6 +10,12 @@
     "geom:latitude":6.215615,
     "geom:longitude":0.794874,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Akatsi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.260036,
     "lbl:longitude":0.784677,
     "meso:adm1_en":"Volta",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108759969,
-    "wof:lastmodified":1536615763,
+    "wof:lastmodified":1553718731,
     "wof:name":"Akatsi",
     "wof:parent_id":85671357,
     "wof:placetype":"county",

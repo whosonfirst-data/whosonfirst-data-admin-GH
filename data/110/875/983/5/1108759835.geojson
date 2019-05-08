@@ -10,6 +10,12 @@
     "geom:latitude":7.188629,
     "geom:longitude":-2.097855,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Tano District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":7.183852,
     "lbl:longitude":-2.101333,
     "meso:adm1_en":"Brong Ahafo",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108759835,
-    "wof:lastmodified":1536615759,
+    "wof:lastmodified":1553718727,
     "wof:name":"Tano",
     "wof:parent_id":85671337,
     "wof:placetype":"county",

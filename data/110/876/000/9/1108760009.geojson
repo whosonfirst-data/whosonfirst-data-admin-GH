@@ -10,6 +10,12 @@
     "geom:latitude":6.176995,
     "geom:longitude":-2.618994,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Sefwi Wiaso District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.14565,
     "lbl:longitude":-2.538429,
     "meso:adm1_en":"Weastern",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108760009,
-    "wof:lastmodified":1536615765,
+    "wof:lastmodified":1553718733,
     "wof:name":"Sefwi Wiaso",
     "wof:parent_id":85671347,
     "wof:placetype":"county",

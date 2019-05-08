@@ -10,6 +10,12 @@
     "geom:latitude":6.908632,
     "geom:longitude":-2.211316,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Ahafo Ano N. District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.930031,
     "lbl:longitude":-2.213705,
     "meso:adm1_en":"Ashanti",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1108759777,
-    "wof:lastmodified":1536615757,
+    "wof:lastmodified":1555092025,
     "wof:name":"Ahafo Ano North",
     "wof:parent_id":85671331,
     "wof:placetype":"county",

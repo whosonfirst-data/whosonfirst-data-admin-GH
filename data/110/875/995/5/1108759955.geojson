@@ -10,6 +10,12 @@
     "geom:latitude":10.687563,
     "geom:longitude":-2.599095,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Jirapa/ Lambussie District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":10.660648,
     "lbl:longitude":-2.550662,
     "meso:adm1_en":"Upper West",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108759955,
-    "wof:lastmodified":1536615763,
+    "wof:lastmodified":1553718731,
     "wof:name":"Jirapa/ Lambussie",
     "wof:parent_id":85671327,
     "wof:placetype":"county",

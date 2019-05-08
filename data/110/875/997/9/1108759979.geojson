@@ -10,6 +10,12 @@
     "geom:latitude":7.723085,
     "geom:longitude":0.491645,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Kadjebi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":7.769381,
     "lbl:longitude":0.532143,
     "meso:adm1_en":"Volta",
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":1108759979,
-    "wof:lastmodified":1536615764,
+    "wof:lastmodified":1553718732,
     "wof:name":"Kadjebi",
     "wof:parent_id":85671357,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":4.99053,
     "geom:longitude":-1.71984,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Shama Ahanta East Metro"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "metropolitan district"
+    ],
     "lbl:latitude":4.957986,
     "lbl:longitude":-1.782767,
     "meso:adm1_en":"Weastern",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108760011,
-    "wof:lastmodified":1536615765,
+    "wof:lastmodified":1555092027,
     "wof:name":"Shama Ahanta East",
     "wof:parent_id":85671347,
     "wof:placetype":"county",

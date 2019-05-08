@@ -10,6 +10,12 @@
     "geom:latitude":6.694023,
     "geom:longitude":-1.610251,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Kumasi Metro"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "metropolitan district"
+    ],
     "lbl:latitude":6.694708,
     "lbl:longitude":-1.610247,
     "meso:adm1_en":"Ashanti",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108759801,
-    "wof:lastmodified":1536615758,
+    "wof:lastmodified":1555092025,
     "wof:name":"Kumasi Metro",
     "wof:parent_id":85671331,
     "wof:placetype":"county",

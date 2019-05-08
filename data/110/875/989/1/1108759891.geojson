@@ -10,6 +10,12 @@
     "geom:latitude":6.355094,
     "geom:longitude":-0.08133,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Manya Krobo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.414837,
     "lbl:longitude":-0.11041,
     "meso:adm1_en":"Eastern",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108759891,
-    "wof:lastmodified":1536615760,
+    "wof:lastmodified":1553718729,
     "wof:name":"Manya Krobo",
     "wof:parent_id":85671343,
     "wof:placetype":"county",

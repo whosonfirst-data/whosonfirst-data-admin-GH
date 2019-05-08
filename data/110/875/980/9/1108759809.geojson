@@ -10,6 +10,12 @@
     "geom:latitude":7.226175,
     "geom:longitude":-1.217579,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Sekyere W. District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":7.199866,
     "lbl:longitude":-1.249164,
     "meso:adm1_en":"Ashanti",
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":1108759809,
-    "wof:lastmodified":1536615758,
+    "wof:lastmodified":1555092025,
     "wof:name":"Sekyere West",
     "wof:parent_id":85671331,
     "wof:placetype":"county",

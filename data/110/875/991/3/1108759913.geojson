@@ -10,6 +10,12 @@
     "geom:latitude":9.055778,
     "geom:longitude":-2.302128,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Bole District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":9.050245,
     "lbl:longitude":-2.438656,
     "meso:adm1_en":"Northern",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108759913,
-    "wof:lastmodified":1536615761,
+    "wof:lastmodified":1553718730,
     "wof:name":"Bole",
     "wof:parent_id":85671319,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":6.124821,
     "geom:longitude":-1.624967,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Adansi W. District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.047311,
     "lbl:longitude":-1.651836,
     "meso:adm1_en":"Ashanti",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108759773,
-    "wof:lastmodified":1536615757,
+    "wof:lastmodified":1555092025,
     "wof:name":"Adansi West",
     "wof:parent_id":85671331,
     "wof:placetype":"county",

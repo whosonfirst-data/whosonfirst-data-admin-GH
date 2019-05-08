@@ -10,6 +10,12 @@
     "geom:latitude":6.224908,
     "geom:longitude":-1.048564,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Birim N. District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.082994,
     "lbl:longitude":-1.085411,
     "meso:adm1_en":"Eastern",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108759877,
-    "wof:lastmodified":1536615760,
+    "wof:lastmodified":1555092025,
     "wof:name":"Birim North",
     "wof:parent_id":85671343,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":5.122337,
     "geom:longitude":-2.307355,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Nzema E. District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":5.116703,
     "lbl:longitude":-2.303898,
     "meso:adm1_en":"Weastern",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1108760007,
-    "wof:lastmodified":1536615765,
+    "wof:lastmodified":1555092026,
     "wof:name":"Nzema East",
     "wof:parent_id":85671347,
     "wof:placetype":"county",

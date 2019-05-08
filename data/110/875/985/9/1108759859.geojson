@@ -10,6 +10,12 @@
     "geom:latitude":5.137287,
     "geom:longitude":-1.44322,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Komenda/ Edina/ Eguafo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":5.155193,
     "lbl:longitude":-1.413288,
     "meso:adm1_en":"Central",
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":1108759859,
-    "wof:lastmodified":1536615759,
+    "wof:lastmodified":1553718728,
     "wof:name":"Komenda/ Edina/ Eguafo",
     "wof:parent_id":85671341,
     "wof:placetype":"county",

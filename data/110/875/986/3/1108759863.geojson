@@ -10,6 +10,12 @@
     "geom:latitude":5.520316,
     "geom:longitude":-1.52249,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Twifo Heman/ Lower Denkyira District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":5.496078,
     "lbl:longitude":-1.526124,
     "meso:adm1_en":"Central",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108759863,
-    "wof:lastmodified":1536615760,
+    "wof:lastmodified":1553718728,
     "wof:name":"Twifo Heman/ Lower Denkyira",
     "wof:parent_id":85671341,
     "wof:placetype":"county",

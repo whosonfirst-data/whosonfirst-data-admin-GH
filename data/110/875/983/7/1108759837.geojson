@@ -10,6 +10,12 @@
     "geom:latitude":7.649291,
     "geom:longitude":-1.971436,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Techiman District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":7.580517,
     "lbl:longitude":-1.953014,
     "meso:adm1_en":"Brong Ahafo",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108759837,
-    "wof:lastmodified":1536615759,
+    "wof:lastmodified":1553718727,
     "wof:name":"Techiman",
     "wof:parent_id":85671337,
     "wof:placetype":"county",

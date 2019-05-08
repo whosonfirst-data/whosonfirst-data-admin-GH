@@ -10,6 +10,12 @@
     "geom:latitude":6.962326,
     "geom:longitude":-2.46256,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Asutifi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":7.019583,
     "lbl:longitude":-2.443174,
     "meso:adm1_en":"Brong Ahafo",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1108759813,
-    "wof:lastmodified":1536615758,
+    "wof:lastmodified":1553718727,
     "wof:name":"Asutifi",
     "wof:parent_id":85671337,
     "wof:placetype":"county",

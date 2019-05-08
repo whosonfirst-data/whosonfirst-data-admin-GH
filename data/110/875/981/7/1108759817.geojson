@@ -10,6 +10,12 @@
     "geom:latitude":7.918426,
     "geom:longitude":-1.066073,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Atebubu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":7.8129,
     "lbl:longitude":-1.072646,
     "meso:adm1_en":"Brong Ahafo",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108759817,
-    "wof:lastmodified":1536615758,
+    "wof:lastmodified":1553718727,
     "wof:name":"Atebubu",
     "wof:parent_id":85671337,
     "wof:placetype":"county",

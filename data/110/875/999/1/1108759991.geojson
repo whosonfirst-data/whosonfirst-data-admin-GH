@@ -10,6 +10,12 @@
     "geom:latitude":5.985462,
     "geom:longitude":0.651402,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Sogakope District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":5.995355,
     "lbl:longitude":0.62964,
     "meso:adm1_en":"Volta",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1108759991,
-    "wof:lastmodified":1536615764,
+    "wof:lastmodified":1553718732,
     "wof:name":"Sogakope",
     "wof:parent_id":85671357,
     "wof:placetype":"county",

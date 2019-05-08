@@ -10,6 +10,12 @@
     "geom:latitude":7.379723,
     "geom:longitude":-1.439432,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Ejura/ Sekyeredumase District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":7.425434,
     "lbl:longitude":-1.396539,
     "meso:adm1_en":"Ashanti",
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":1108759799,
-    "wof:lastmodified":1536615758,
+    "wof:lastmodified":1553718726,
     "wof:name":"Ejura/ Sekyeredumase",
     "wof:parent_id":85671331,
     "wof:placetype":"county",

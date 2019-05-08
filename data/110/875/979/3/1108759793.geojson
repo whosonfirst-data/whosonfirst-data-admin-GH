@@ -10,6 +10,12 @@
     "geom:latitude":6.572138,
     "geom:longitude":-1.583981,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Bosomtwe/ Atwima/ Kwanwoma District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.592197,
     "lbl:longitude":-1.687132,
     "meso:adm1_en":"Ashanti",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108759793,
-    "wof:lastmodified":1536615757,
+    "wof:lastmodified":1553718726,
     "wof:name":"Bosomtwe/ Atwima/ Kwanwoma",
     "wof:parent_id":85671331,
     "wof:placetype":"county",

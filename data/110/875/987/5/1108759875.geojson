@@ -10,6 +10,12 @@
     "geom:latitude":6.376803,
     "geom:longitude":0.096866,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Asuogyaman District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.39218,
     "lbl:longitude":0.112343,
     "meso:adm1_en":"Eastern",
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":1108759875,
-    "wof:lastmodified":1536615760,
+    "wof:lastmodified":1553718728,
     "wof:name":"Asuogyaman",
     "wof:parent_id":85671343,
     "wof:placetype":"county",

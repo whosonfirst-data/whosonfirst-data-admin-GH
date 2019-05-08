@@ -10,6 +10,12 @@
     "geom:latitude":9.169668,
     "geom:longitude":0.374748,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Zabzugu/ Tatale District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":9.193372,
     "lbl:longitude":0.35098,
     "meso:adm1_en":"Northern",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108759939,
-    "wof:lastmodified":1536615762,
+    "wof:lastmodified":1553718732,
     "wof:name":"Zabzugu/ Tatale",
     "wof:parent_id":85671319,
     "wof:placetype":"county",

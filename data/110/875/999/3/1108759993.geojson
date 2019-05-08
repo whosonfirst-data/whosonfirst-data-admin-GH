@@ -10,6 +10,12 @@
     "geom:latitude":4.84141,
     "geom:longitude":-2.012499,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Ahanta W. District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":4.837213,
     "lbl:longitude":-2.01553,
     "meso:adm1_en":"Weastern",
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":1108759993,
-    "wof:lastmodified":1536615764,
+    "wof:lastmodified":1555092026,
     "wof:name":"Ahanta West",
     "wof:parent_id":85671347,
     "wof:placetype":"county",

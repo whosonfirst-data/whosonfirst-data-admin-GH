@@ -10,6 +10,12 @@
     "geom:latitude":6.282168,
     "geom:longitude":-0.587492,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "East Akim District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.308896,
     "lbl:longitude":-0.616045,
     "meso:adm1_en":"Eastern",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1108759881,
-    "wof:lastmodified":1536615760,
+    "wof:lastmodified":1553718729,
     "wof:name":"East Akim",
     "wof:parent_id":85671343,
     "wof:placetype":"county",

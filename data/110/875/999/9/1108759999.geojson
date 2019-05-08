@@ -10,6 +10,12 @@
     "geom:latitude":6.285129,
     "geom:longitude":-2.262497,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Bibiani Anhwiaso District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.250673,
     "lbl:longitude":-2.259234,
     "meso:adm1_en":"Weastern",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108759999,
-    "wof:lastmodified":1536615764,
+    "wof:lastmodified":1553718733,
     "wof:name":"Bibiani Anhwiaso",
     "wof:parent_id":85671347,
     "wof:placetype":"county",

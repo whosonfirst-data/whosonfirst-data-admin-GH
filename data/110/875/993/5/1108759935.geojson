@@ -10,6 +10,12 @@
     "geom:latitude":9.66581,
     "geom:longitude":-1.106067,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Tolon/ Kumbungu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":9.539821,
     "lbl:longitude":-1.120714,
     "meso:adm1_en":"Northern",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108759935,
-    "wof:lastmodified":1536615762,
+    "wof:lastmodified":1553718730,
     "wof:name":"Tolon/ Kumbungu",
     "wof:parent_id":85671319,
     "wof:placetype":"county",

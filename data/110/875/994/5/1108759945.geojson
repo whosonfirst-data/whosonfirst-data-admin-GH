@@ -10,6 +10,12 @@
     "geom:latitude":10.821635,
     "geom:longitude":-0.465068,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Bawku W. District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":10.885785,
     "lbl:longitude":-0.491242,
     "meso:adm1_en":"Upper East",
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":1108759945,
-    "wof:lastmodified":1536615763,
+    "wof:lastmodified":1555092026,
     "wof:name":"Bawku West",
     "wof:parent_id":85671323,
     "wof:placetype":"county",

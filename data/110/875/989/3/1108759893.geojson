@@ -10,6 +10,12 @@
     "geom:latitude":6.117483,
     "geom:longitude":-0.285313,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "New Juaben Municipal District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipal district"
+    ],
     "lbl:latitude":6.12172,
     "lbl:longitude":-0.284138,
     "meso:adm1_en":"Eastern",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108759893,
-    "wof:lastmodified":1536615760,
+    "wof:lastmodified":1553718729,
     "wof:name":"New Juaben",
     "wof:parent_id":85671343,
     "wof:placetype":"county",

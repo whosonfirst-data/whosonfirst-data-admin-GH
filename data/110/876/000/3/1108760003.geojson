@@ -10,6 +10,12 @@
     "geom:latitude":6.520611,
     "geom:longitude":-2.979883,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Juabeso/ Bia District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.494593,
     "lbl:longitude":-3.004135,
     "meso:adm1_en":"Weastern",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108760003,
-    "wof:lastmodified":1536615765,
+    "wof:lastmodified":1553718733,
     "wof:name":"Juabeso/ Bia",
     "wof:parent_id":85671347,
     "wof:placetype":"county",

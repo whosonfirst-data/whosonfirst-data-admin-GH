@@ -10,6 +10,12 @@
     "geom:latitude":5.718629,
     "geom:longitude":-0.05662,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Tema Municipal District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipal district"
+    ],
     "lbl:latitude":5.705948,
     "lbl:longitude":-0.054364,
     "meso:adm1_en":"Greater Accra",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108759911,
-    "wof:lastmodified":1536615761,
+    "wof:lastmodified":1553718729,
     "wof:name":"Tema",
     "wof:parent_id":85671353,
     "wof:placetype":"county",

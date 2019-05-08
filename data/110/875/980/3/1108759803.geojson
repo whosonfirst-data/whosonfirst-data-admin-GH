@@ -10,6 +10,12 @@
     "geom:latitude":6.805547,
     "geom:longitude":-1.561791,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Kwabre District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.808354,
     "lbl:longitude":-1.550339,
     "meso:adm1_en":"Ashanti",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":1108759803,
-    "wof:lastmodified":1536615758,
+    "wof:lastmodified":1553718726,
     "wof:name":"Kwabre",
     "wof:parent_id":85671331,
     "wof:placetype":"county",

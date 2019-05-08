@@ -10,6 +10,12 @@
     "geom:latitude":6.48603,
     "geom:longitude":-0.33249,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Fanteakwa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.485692,
     "lbl:longitude":-0.336131,
     "meso:adm1_en":"Eastern",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1108759883,
-    "wof:lastmodified":1536615760,
+    "wof:lastmodified":1553718729,
     "wof:name":"Fanteakwa",
     "wof:parent_id":85671343,
     "wof:placetype":"county",

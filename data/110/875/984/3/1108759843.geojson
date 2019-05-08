@@ -10,6 +10,12 @@
     "geom:latitude":5.620887,
     "geom:longitude":-0.745008,
     "iso:country":"GH",
+    "label:eng_x_preferred_longname":[
+        "Agona District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":5.616598,
     "lbl:longitude":-0.747811,
     "meso:adm1_en":"Central",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108759843,
-    "wof:lastmodified":1536615759,
+    "wof:lastmodified":1553718728,
     "wof:name":"Agona",
     "wof:parent_id":85671341,
     "wof:placetype":"county",
