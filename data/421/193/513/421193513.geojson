@@ -26,17 +26,14 @@
     "name:ceb_x_preferred":[
         "Wa"
     ],
-    "name:chi_x_preferred":[
-        "\u74e6\u57ce"
-    ],
     "name:dan_x_preferred":[
         "Wa"
     ],
     "name:deu_x_preferred":[
         "Wa"
     ],
-    "name:dut_x_preferred":[
-        "Wa"
+    "name:ell_x_preferred":[
+        "\u0392\u03b1"
     ],
     "name:eng_x_preferred":[
         "Wa"
@@ -49,15 +46,6 @@
     ],
     "name:fra_x_preferred":[
         "Wa"
-    ],
-    "name:fre_x_preferred":[
-        "Wa"
-    ],
-    "name:ger_x_preferred":[
-        "Wa"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0abe"
@@ -98,7 +86,7 @@
     "name:mar_x_preferred":[
         "\u0935\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Wa"
     ],
     "name:nld_x_preferred":[
@@ -117,9 +105,6 @@
         "Wa"
     ],
     "name:ron_x_preferred":[
-        "Wa"
-    ],
-    "name:rum_x_preferred":[
         "Wa"
     ],
     "name:rus_x_preferred":[
@@ -154,6 +139,9 @@
     ],
     "name:vie_x_preferred":[
         "Wa"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u57ce"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Ghana",
@@ -295,7 +283,7 @@
         }
     ],
     "wof:id":421193513,
-    "wof:lastmodified":1527716151,
+    "wof:lastmodified":1561840430,
     "wof:name":"Wa",
     "wof:parent_id":1108759965,
     "wof:placetype":"locality",

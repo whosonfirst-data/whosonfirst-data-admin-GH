@@ -16,13 +16,7 @@
     "name:ceb_x_preferred":[
         "Konongo"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u8fb2\u6208"
-    ],
     "name:deu_x_preferred":[
-        "Konongo"
-    ],
-    "name:dut_x_preferred":[
         "Konongo"
     ],
     "name:eng_x_preferred":[
@@ -31,10 +25,7 @@
     "name:fin_x_preferred":[
         "Konongo"
     ],
-    "name:fre_x_preferred":[
-        "Konongo"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Konongo"
     ],
     "name:heb_x_preferred":[
@@ -114,7 +105,7 @@
         }
     ],
     "wof:id":421191707,
-    "wof:lastmodified":1527716372,
+    "wof:lastmodified":1561840431,
     "wof:name":"Konongo",
     "wof:parent_id":1108759787,
     "wof:placetype":"locality",

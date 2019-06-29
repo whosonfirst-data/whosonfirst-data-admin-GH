@@ -16,16 +16,13 @@
     "name:deu_x_preferred":[
         "Busua"
     ],
-    "name:dut_x_preferred":[
-        "Busua"
-    ],
     "name:eng_x_preferred":[
         "Busua"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Busua"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Busua"
     ],
     "name:unk_x_variant":[
@@ -78,7 +75,7 @@
         }
     ],
     "wof:id":421200741,
-    "wof:lastmodified":1527716425,
+    "wof:lastmodified":1561840431,
     "wof:name":"Busua",
     "wof:parent_id":1108759993,
     "wof:placetype":"locality",

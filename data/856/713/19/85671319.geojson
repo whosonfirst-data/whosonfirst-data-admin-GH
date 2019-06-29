@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.740421,
-    "geom:area_square_m":70034815394.512115,
+    "geom:area_square_m":70034815394.512207,
     "geom:bbox":"-2.78023,7.96566015794,0.566955333,10.7076057325",
     "geom:latitude":9.348013,
     "geom:longitude":-0.969633,
@@ -43,14 +43,14 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 Septentrional"
     ],
-    "name:chi_x_preferred":[
-        "\u5317\u90e8\u5730\u5340"
-    ],
     "name:dan_x_preferred":[
         "Northern"
     ],
-    "name:dut_x_preferred":[
-        "Northern"
+    "name:deu_x_preferred":[
+        "Northern Region"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03cc\u03c1\u03b5\u03b9\u03b1 \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Northern"
@@ -58,17 +58,14 @@
     "name:epo_x_preferred":[
         "Norda Regiono"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u0634\u0645\u0627\u0644\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Northern Ghana"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "R\u00e9gion du Nord"
-    ],
-    "name:ger_x_preferred":[
-        "Northern Region"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03cc\u03c1\u03b5\u03b9\u03b1 \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0acb\u0ab0\u0acd\u0aa7\u0aa8 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -100,14 +97,14 @@
     "name:mar_x_preferred":[
         "\u0909\u0924\u094d\u0924\u0930 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Northern Region"
+    ],
+    "name:nld_x_preferred":[
+        "Northern"
     ],
     "name:nob_x_preferred":[
         "Northern"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0646\u0637\u0642\u0647 \u0634\u0645\u0627\u0644\u06cc"
     ],
     "name:pol_x_preferred":[
         "Region P\u00f3\u0142nocny"
@@ -115,7 +112,7 @@
     "name:por_x_preferred":[
         "Regi\u00e3o Norte"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea de Nord"
     ],
     "name:rus_x_preferred":[
@@ -153,6 +150,9 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Mi\u1ec1n Nam"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u90e8\u5730\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"GHA",
@@ -280,7 +280,7 @@
         "ewe",
         "gaa"
     ],
-    "wof:lastmodified":1553814771,
+    "wof:lastmodified":1561840408,
     "wof:name":"Northern",
     "wof:parent_id":85632189,
     "wof:placetype":"region",

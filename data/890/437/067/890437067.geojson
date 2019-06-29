@@ -18,14 +18,14 @@
     "name:aka_x_preferred":[
         "Kyebi"
     ],
-    "name:dut_x_preferred":[
-        "Kibi"
-    ],
     "name:eng_x_preferred":[
         "Kibi"
     ],
     "name:jpn_x_preferred":[
         "\u30ad\u30d3"
+    ],
+    "name:nld_x_preferred":[
+        "Kibi"
     ],
     "name:swe_x_preferred":[
         "Kibi"
@@ -69,7 +69,7 @@
         }
     ],
     "wof:id":890437067,
-    "wof:lastmodified":1553816397,
+    "wof:lastmodified":1561840431,
     "wof:name":"Kibi",
     "wof:parent_id":1108759881,
     "wof:placetype":"locality",

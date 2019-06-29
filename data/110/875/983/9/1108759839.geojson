@@ -33,20 +33,20 @@
     "mps:longitude":-2.30958,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Wenchi Municipal District"
+    "name:deu_x_preferred":[
+        "Wenchi District"
     ],
     "name:eng_x_preferred":[
         "Wenchi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Wenchi municipalit\u00e9"
-    ],
-    "name:ger_x_preferred":[
-        "Wenchi District"
     ],
     "name:ita_x_preferred":[
         "Distretto di Wenchi"
+    ],
+    "name:nld_x_preferred":[
+        "Wenchi Municipal District"
     ],
     "name:por_x_preferred":[
         "Wenchi"
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":1108759839,
-    "wof:lastmodified":1553718728,
+    "wof:lastmodified":1561840422,
     "wof:name":"Wenchi",
     "wof:parent_id":85671337,
     "wof:placetype":"county",

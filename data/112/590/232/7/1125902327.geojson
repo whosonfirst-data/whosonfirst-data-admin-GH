@@ -22,13 +22,10 @@
     "name:aka_x_preferred":[
         "Gbawe"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Gbawe"
     ],
     "name:eng_x_preferred":[
-        "Gbawe"
-    ],
-    "name:ger_x_preferred":[
         "Gbawe"
     ],
     "name:ita_x_preferred":[
@@ -36,6 +33,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b0\u30d0\u30a6\u30a7"
+    ],
+    "name:nld_x_preferred":[
+        "Gbawe"
     ],
     "name:swe_x_preferred":[
         "Gbawe"
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":1125902327,
-    "wof:lastmodified":1514443703,
+    "wof:lastmodified":1561840432,
     "wof:name":"Gbawe",
     "wof:parent_id":1108759909,
     "wof:placetype":"locality",

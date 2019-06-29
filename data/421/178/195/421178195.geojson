@@ -19,25 +19,13 @@
     "name:ceb_x_preferred":[
         "Hohoe"
     ],
-    "name:chi_x_preferred":[
-        "\u970d\u970d\u57c3"
-    ],
     "name:deu_x_preferred":[
-        "Hohoe"
-    ],
-    "name:dut_x_preferred":[
         "Hohoe"
     ],
     "name:eng_x_preferred":[
         "Hohoe"
     ],
     "name:fra_x_preferred":[
-        "Hohoe"
-    ],
-    "name:fre_x_preferred":[
-        "Hohoe"
-    ],
-    "name:ger_x_preferred":[
         "Hohoe"
     ],
     "name:ita_x_preferred":[
@@ -59,9 +47,6 @@
         "Hohoe"
     ],
     "name:ron_x_preferred":[
-        "Hohoe"
-    ],
-    "name:rum_x_preferred":[
         "Hohoe"
     ],
     "name:swe_x_preferred":[
@@ -126,7 +111,7 @@
         }
     ],
     "wof:id":421178195,
-    "wof:lastmodified":1527717718,
+    "wof:lastmodified":1561840431,
     "wof:name":"Hohoe",
     "wof:parent_id":1108759973,
     "wof:placetype":"locality",

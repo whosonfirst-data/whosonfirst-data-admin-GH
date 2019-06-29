@@ -25,19 +25,10 @@
     "name:deu_x_preferred":[
         "Tarkwa"
     ],
-    "name:dut_x_preferred":[
-        "Tarkwa"
-    ],
     "name:eng_x_preferred":[
         "Tarkwa"
     ],
     "name:fra_x_preferred":[
-        "Tarkwa"
-    ],
-    "name:fre_x_preferred":[
-        "Tarkwa"
-    ],
-    "name:ger_x_preferred":[
         "Tarkwa"
     ],
     "name:ita_x_preferred":[
@@ -112,7 +103,7 @@
         }
     ],
     "wof:id":421182419,
-    "wof:lastmodified":1527726456,
+    "wof:lastmodified":1561840431,
     "wof:name":"Tarkwa",
     "wof:parent_id":1108760017,
     "wof:placetype":"locality",

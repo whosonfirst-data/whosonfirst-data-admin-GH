@@ -28,17 +28,14 @@
     "name:cat_x_preferred":[
         "Tema"
     ],
-    "name:chi_x_preferred":[
-        "\u7279\u9a6c"
-    ],
     "name:dan_x_preferred":[
         "Tema"
     ],
     "name:deu_x_preferred":[
         "Tema"
     ],
-    "name:dut_x_preferred":[
-        "Tema"
+    "name:ell_x_preferred":[
+        "\u03a4\u03ad\u03bc\u03b1"
     ],
     "name:eng_x_preferred":[
         "Tema"
@@ -52,14 +49,8 @@
     "name:fin_x_preferred":[
         "Tema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tema"
-    ],
-    "name:ger_x_preferred":[
-        "Tema"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03ad\u03bc\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0ac7\u0aae\u0abe"
@@ -103,7 +94,7 @@
     "name:mar_x_preferred":[
         "\u0924\u0947\u092e\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Tema"
     ],
     "name:nld_x_preferred":[
@@ -112,16 +103,13 @@
     "name:nob_x_preferred":[
         "Tema"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0645\u0627"
-    ],
     "name:pol_x_preferred":[
         "Tema"
     ],
     "name:por_x_preferred":[
         "Tema"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tema"
     ],
     "name:rus_x_preferred":[
@@ -298,7 +286,7 @@
         }
     ],
     "wof:id":890444261,
-    "wof:lastmodified":1527782130,
+    "wof:lastmodified":1561840432,
     "wof:name":"Tema",
     "wof:parent_id":1108759911,
     "wof:placetype":"locality",

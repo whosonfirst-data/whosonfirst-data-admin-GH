@@ -29,17 +29,14 @@
     "name:ceb_x_preferred":[
         "Obuasi"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u5e03\u74e6\u897f"
-    ],
     "name:dan_x_preferred":[
         "Obuasi"
     ],
     "name:deu_x_preferred":[
         "Obuasi"
     ],
-    "name:dut_x_preferred":[
-        "Obuasi"
+    "name:ell_x_preferred":[
+        "\u039f\u03bc\u03c0\u03bf\u03c5\u03ac\u03c3\u03b9"
     ],
     "name:eng_x_preferred":[
         "Obuasi"
@@ -52,15 +49,6 @@
     ],
     "name:fra_x_preferred":[
         "Obuasi"
-    ],
-    "name:fre_x_preferred":[
-        "Obuasi"
-    ],
-    "name:ger_x_preferred":[
-        "Obuasi"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03bc\u03c0\u03bf\u03c5\u03ac\u03c3\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0aac\u0ac1\u0ab8\u0ac0"
@@ -95,7 +83,7 @@
     "name:mar_x_preferred":[
         "\u0913\u092c\u0941\u0938\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Obuasi"
     ],
     "name:nld_x_preferred":[
@@ -114,9 +102,6 @@
         "Obuasi"
     ],
     "name:ron_x_preferred":[
-        "Obuasi"
-    ],
-    "name:rum_x_preferred":[
         "Obuasi"
     ],
     "name:rus_x_preferred":[
@@ -157,6 +142,9 @@
     ],
     "name:vol_x_preferred":[
         "Obuasi"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u5e03\u74e6\u897f"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Ghana",
@@ -298,7 +286,7 @@
         }
     ],
     "wof:id":421175633,
-    "wof:lastmodified":1527716337,
+    "wof:lastmodified":1561840430,
     "wof:name":"Obuasi",
     "wof:parent_id":1108759773,
     "wof:placetype":"locality",

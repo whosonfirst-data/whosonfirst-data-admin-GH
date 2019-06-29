@@ -20,16 +20,10 @@
     "name:ceb_x_preferred":[
         "Bolgatanga"
     ],
-    "name:chi_x_preferred":[
-        "\u535a\u723e\u52a0\u5766\u52a0"
-    ],
     "name:dan_x_preferred":[
         "Bolgatanga"
     ],
     "name:deu_x_preferred":[
-        "Bolgatanga"
-    ],
-    "name:dut_x_preferred":[
         "Bolgatanga"
     ],
     "name:eng_x_preferred":[
@@ -38,13 +32,7 @@
     "name:fra_x_preferred":[
         "Bolgatanga"
     ],
-    "name:fre_x_preferred":[
-        "Bolgatanga"
-    ],
     "name:frr_x_preferred":[
-        "Bolgatanga"
-    ],
-    "name:ger_x_preferred":[
         "Bolgatanga"
     ],
     "name:hrv_x_preferred":[
@@ -78,9 +66,6 @@
         "Bolgatanga"
     ],
     "name:ron_x_preferred":[
-        "Bolgatanga"
-    ],
-    "name:rum_x_preferred":[
         "Bolgatanga"
     ],
     "name:rus_x_preferred":[
@@ -246,7 +231,7 @@
         }
     ],
     "wof:id":421195909,
-    "wof:lastmodified":1527716116,
+    "wof:lastmodified":1561840430,
     "wof:name":"Bolgatanga",
     "wof:parent_id":1108759947,
     "wof:placetype":"locality",

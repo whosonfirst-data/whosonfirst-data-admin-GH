@@ -19,22 +19,13 @@
     "name:ceb_x_preferred":[
         "Navrongo"
     ],
-    "name:chi_x_preferred":[
-        "\u7d0d\u592b\u9686\u54e5"
-    ],
     "name:deu_x_preferred":[
-        "Navrongo"
-    ],
-    "name:dut_x_preferred":[
         "Navrongo"
     ],
     "name:eng_x_preferred":[
         "Navrongo"
     ],
-    "name:fre_x_preferred":[
-        "Navrongo"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Navrongo"
     ],
     "name:jpn_x_preferred":[
@@ -108,7 +99,7 @@
         }
     ],
     "wof:id":421199935,
-    "wof:lastmodified":1527716415,
+    "wof:lastmodified":1561840431,
     "wof:name":"Navrongo",
     "wof:parent_id":1108759953,
     "wof:placetype":"locality",
