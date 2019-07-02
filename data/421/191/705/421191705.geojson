@@ -19,16 +19,10 @@
     "name:deu_x_preferred":[
         "Ejura"
     ],
-    "name:dut_x_preferred":[
-        "Ejura"
-    ],
     "name:eng_x_preferred":[
         "Ejura"
     ],
-    "name:fre_x_preferred":[
-        "Ejura"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ejura"
     ],
     "name:ita_x_preferred":[
@@ -94,7 +88,7 @@
         }
     ],
     "wof:id":421191705,
-    "wof:lastmodified":1527716381,
+    "wof:lastmodified":1561840431,
     "wof:name":"Ejura",
     "wof:parent_id":1108759799,
     "wof:placetype":"locality",

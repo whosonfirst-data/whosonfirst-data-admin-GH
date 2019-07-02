@@ -25,17 +25,14 @@
     "name:ceb_x_preferred":[
         "Techiman"
     ],
-    "name:chi_x_preferred":[
-        "\u6cf0\u5947\u66fc"
-    ],
     "name:dan_x_preferred":[
         "Techiman"
     ],
     "name:deu_x_preferred":[
         "Techiman"
     ],
-    "name:dut_x_preferred":[
-        "Techiman"
+    "name:ell_x_preferred":[
+        "\u03a4\u03ad\u03c4\u03c3\u03b9\u03bc\u03b1\u03bd"
     ],
     "name:eng_x_preferred":[
         "Techiman"
@@ -45,15 +42,6 @@
     ],
     "name:fra_x_preferred":[
         "Techiman"
-    ],
-    "name:fre_x_preferred":[
-        "Techiman"
-    ],
-    "name:ger_x_preferred":[
-        "Techiman"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03ad\u03c4\u03c3\u03b9\u03bc\u03b1\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0ac7\u0a9a\u0abf\u0aae\u0abe\u0aa8"
@@ -88,7 +76,7 @@
     "name:mar_x_preferred":[
         "\u091f\u0947\u0915\u093f\u092e\u0945\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Techiman"
     ],
     "name:nld_x_preferred":[
@@ -104,9 +92,6 @@
         "Techiman"
     ],
     "name:ron_x_preferred":[
-        "Techiman"
-    ],
-    "name:rum_x_preferred":[
         "Techiman"
     ],
     "name:rus_x_preferred":[
@@ -196,7 +181,7 @@
         }
     ],
     "wof:id":421175893,
-    "wof:lastmodified":1527716338,
+    "wof:lastmodified":1561840431,
     "wof:name":"Techiman",
     "wof:parent_id":1108759837,
     "wof:placetype":"locality",

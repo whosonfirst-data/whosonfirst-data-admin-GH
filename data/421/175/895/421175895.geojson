@@ -19,14 +19,14 @@
     "name:ceb_x_preferred":[
         "Begoro"
     ],
-    "name:dut_x_preferred":[
-        "Begoro"
-    ],
     "name:eng_x_preferred":[
         "Begoro"
     ],
     "name:jpn_x_preferred":[
         "\u30d9\u30b4\u30ed"
+    ],
+    "name:nld_x_preferred":[
+        "Begoro"
     ],
     "name:swe_x_preferred":[
         "Begoro"
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":421175895,
-    "wof:lastmodified":1527716338,
+    "wof:lastmodified":1561840431,
     "wof:name":"Begoro",
     "wof:parent_id":1108759883,
     "wof:placetype":"locality",

@@ -33,17 +33,17 @@
     "mps:longitude":-0.336131,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Fanteakwa District"
-    ],
     "name:eng_x_preferred":[
         "Fanteakwa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Fanteakwa"
     ],
     "name:ita_x_preferred":[
         "Distretto di Fanteakwa"
+    ],
+    "name:nld_x_preferred":[
+        "Fanteakwa District"
     ],
     "name:swe_x_preferred":[
         "Fanteakwa"
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":1108759883,
-    "wof:lastmodified":1553718729,
+    "wof:lastmodified":1561840425,
     "wof:name":"Fanteakwa",
     "wof:parent_id":85671343,
     "wof:placetype":"county",

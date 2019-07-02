@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.805935,
-    "geom:area_square_m":9918474360.926081,
+    "geom:area_square_m":9918474360.926064,
     "geom:bbox":"-2.16851987502,5.030416489,-0.36665133214,6.32641629898",
     "geom:latitude":5.565615,
     "geom:longitude":-1.210832,
@@ -46,14 +46,14 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 Central"
     ],
-    "name:chi_x_preferred":[
-        "\u4e2d\u90e8\u5730\u5340"
-    ],
     "name:dan_x_preferred":[
         "Central"
     ],
-    "name:dut_x_preferred":[
-        "Central"
+    "name:deu_x_preferred":[
+        "Central Region"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Central"
@@ -61,17 +61,14 @@
     "name:epo_x_preferred":[
         "Centra Regiono"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u0645\u0631\u06a9\u0632\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Centralin hallintoalue"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "R\u00e9gion du Centre"
-    ],
-    "name:ger_x_preferred":[
-        "Central Region"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f\u0acd\u0ab0\u0ab2 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -103,14 +100,14 @@
     "name:mar_x_preferred":[
         "\u092e\u0927\u094d\u092f\u0935\u0930\u094d\u0924\u0940 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Central Region"
+    ],
+    "name:nld_x_preferred":[
+        "Central"
     ],
     "name:nob_x_preferred":[
         "Central"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0646\u0637\u0642\u0647 \u0645\u0631\u06a9\u0632\u06cc"
     ],
     "name:pol_x_preferred":[
         "Region Centralny"
@@ -118,7 +115,7 @@
     "name:por_x_preferred":[
         "Central"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Oriental\u0103"
     ],
     "name:rus_x_preferred":[
@@ -159,6 +156,9 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Mi\u1ec1n Trung"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u90e8\u5730\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"GHA",
@@ -286,7 +286,7 @@
         "ewe",
         "gaa"
     ],
-    "wof:lastmodified":1553814771,
+    "wof:lastmodified":1561840410,
     "wof:name":"Central",
     "wof:parent_id":85632189,
     "wof:placetype":"region",

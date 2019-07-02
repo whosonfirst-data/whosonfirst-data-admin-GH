@@ -46,9 +46,6 @@
     "name:deu_x_preferred":[
         "Taifa-K\u00f6nigreiche"
     ],
-    "name:dut_x_preferred":[
-        "Taifa"
-    ],
     "name:eng_x_preferred":[
         "Taifa"
     ],
@@ -196,7 +193,7 @@
         }
     ],
     "wof:id":421176065,
-    "wof:lastmodified":1527726470,
+    "wof:lastmodified":1561840431,
     "wof:name":"Taifa",
     "wof:parent_id":1108759901,
     "wof:placetype":"locality",

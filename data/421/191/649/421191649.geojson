@@ -22,17 +22,14 @@
     "name:deu_x_preferred":[
         "Savelugu"
     ],
-    "name:dut_x_preferred":[
-        "Savelugu"
-    ],
     "name:eng_x_preferred":[
-        "Savelugu"
-    ],
-    "name:ger_x_preferred":[
         "Savelugu"
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30d9\u30eb\u30b0"
+    ],
+    "name:nld_x_preferred":[
+        "Savelugu"
     ],
     "name:swe_x_preferred":[
         "Savelugu"
@@ -91,7 +88,7 @@
         }
     ],
     "wof:id":421191649,
-    "wof:lastmodified":1527716383,
+    "wof:lastmodified":1561840431,
     "wof:name":"Savelugu",
     "wof:parent_id":1108759931,
     "wof:placetype":"locality",

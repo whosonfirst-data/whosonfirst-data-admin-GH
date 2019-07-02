@@ -36,20 +36,20 @@
     "name:bul_x_preferred":[
         "\u0410\u0441\u0443\u043e\u0433\u044f\u043c\u0430\u043d"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Asuogyaman District"
     ],
     "name:eng_x_preferred":[
         "Asuogyaman"
     ],
-    "name:fre_x_preferred":[
-        "Asuogyaman District"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Asuogyaman District"
     ],
     "name:ita_x_preferred":[
         "Distretto di Asuogyaman"
+    ],
+    "name:nld_x_preferred":[
+        "Asuogyaman District"
     ],
     "name:swe_x_preferred":[
         "Asuogyaman"
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":1108759875,
-    "wof:lastmodified":1553718728,
+    "wof:lastmodified":1561840424,
     "wof:name":"Asuogyaman",
     "wof:parent_id":85671343,
     "wof:placetype":"county",

@@ -33,20 +33,20 @@
     "mps:longitude":-1.214356,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Abura/Asebu/Kwamankese District"
     ],
     "name:eng_x_preferred":[
         "Abura-Asebu-Kwamankese"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Abura-Asebu-Kwamankese"
-    ],
-    "name:ger_x_preferred":[
-        "Abura/Asebu/Kwamankese District"
     ],
     "name:ita_x_preferred":[
         "Distretto di Abura-Asebu-Kwamankese"
+    ],
+    "name:nld_x_preferred":[
+        "Abura/Asebu/Kwamankese District"
     ],
     "name:swe_x_preferred":[
         "Abura/Asebu/Kwamankese"
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":1108759841,
-    "wof:lastmodified":1553718727,
+    "wof:lastmodified":1561840422,
     "wof:name":"Abura Dunkwa",
     "wof:parent_id":85671341,
     "wof:placetype":"county",

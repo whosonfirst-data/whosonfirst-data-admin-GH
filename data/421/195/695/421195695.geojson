@@ -32,17 +32,14 @@
     "name:ceb_x_preferred":[
         "Koforidua"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u798f\u91cc\u675c\u4e9e"
-    ],
     "name:dan_x_preferred":[
         "Koforidua"
     ],
     "name:deu_x_preferred":[
         "Koforidua"
     ],
-    "name:dut_x_preferred":[
-        "Koforidua"
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c6\u03bf\u03c1\u03b9\u03bd\u03c4\u03bf\u03cd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Koforidua"
@@ -58,15 +55,6 @@
     ],
     "name:fra_x_preferred":[
         "Koforidua"
-    ],
-    "name:fre_x_preferred":[
-        "Koforidua"
-    ],
-    "name:ger_x_preferred":[
-        "Koforidua"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03c6\u03bf\u03c1\u03b9\u03bd\u03c4\u03bf\u03cd\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0aab\u0acb\u0ab0\u0abf\u0aa1\u0ac1\u0a86"
@@ -101,7 +89,7 @@
     "name:mar_x_preferred":[
         "\u0915\u094b\u092b\u094b\u0930\u093f\u0921\u0941\u0906"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Koforidua"
     ],
     "name:nld_x_preferred":[
@@ -113,9 +101,6 @@
     "name:nor_x_preferred":[
         "Koforidua"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u0641\u0648\u0631\u06cc\u062f\u0648\u0626\u0627"
-    ],
     "name:pol_x_preferred":[
         "Koforidua"
     ],
@@ -123,9 +108,6 @@
         "Koforidua"
     ],
     "name:ron_x_preferred":[
-        "Koforidua"
-    ],
-    "name:rum_x_preferred":[
         "Koforidua"
     ],
     "name:rus_x_preferred":[
@@ -304,7 +286,7 @@
         }
     ],
     "wof:id":421195695,
-    "wof:lastmodified":1527716120,
+    "wof:lastmodified":1561840430,
     "wof:name":"Koforidua",
     "wof:parent_id":1108759893,
     "wof:placetype":"locality",

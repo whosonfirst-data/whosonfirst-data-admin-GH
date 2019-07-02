@@ -21,16 +21,13 @@
     "name:cat_x_preferred":[
         "Salaga"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Salaga"
     ],
     "name:eng_x_preferred":[
         "Salaga"
     ],
-    "name:fre_x_preferred":[
-        "Salaga"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Salaga"
     ],
     "name:ita_x_preferred":[
@@ -42,7 +39,10 @@
     "name:kor_x_preferred":[
         "\uc0b4\ub77c\uac00"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Salaga"
+    ],
+    "name:ron_x_preferred":[
         "Salaga"
     ],
     "name:swe_x_preferred":[
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":890444275,
-    "wof:lastmodified":1527782130,
+    "wof:lastmodified":1561840432,
     "wof:name":"Salaga",
     "wof:parent_id":1108759919,
     "wof:placetype":"locality",

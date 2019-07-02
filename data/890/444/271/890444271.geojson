@@ -18,17 +18,17 @@
     "name:cat_x_preferred":[
         "Shama"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Shama"
     ],
     "name:eng_x_preferred":[
         "Shama"
     ],
-    "name:ger_x_preferred":[
-        "Shama"
-    ],
     "name:jpn_x_preferred":[
         "\u30b7\u30e3\u30de"
+    ],
+    "name:nld_x_preferred":[
+        "Shama"
     ],
     "name:swe_x_preferred":[
         "Shama"
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":890444271,
-    "wof:lastmodified":1514443742,
+    "wof:lastmodified":1561840432,
     "wof:name":"Shama Junction",
     "wof:parent_id":1108760011,
     "wof:placetype":"locality",

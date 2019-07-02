@@ -26,25 +26,13 @@
     "name:ceb_x_preferred":[
         "Winneba"
     ],
-    "name:chi_x_preferred":[
-        "\u6eab\u5c3c\u5df4"
-    ],
     "name:deu_x_preferred":[
-        "Winneba"
-    ],
-    "name:dut_x_preferred":[
         "Winneba"
     ],
     "name:eng_x_preferred":[
         "Winneba"
     ],
     "name:fra_x_preferred":[
-        "Winneba"
-    ],
-    "name:fre_x_preferred":[
-        "Winneba"
-    ],
-    "name:ger_x_preferred":[
         "Winneba"
     ],
     "name:ita_x_preferred":[
@@ -232,7 +220,7 @@
         }
     ],
     "wof:id":421191769,
-    "wof:lastmodified":1527716381,
+    "wof:lastmodified":1561840431,
     "wof:name":"Winneba",
     "wof:parent_id":1108759853,
     "wof:placetype":"locality",

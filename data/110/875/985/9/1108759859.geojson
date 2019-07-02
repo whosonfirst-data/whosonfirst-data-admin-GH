@@ -33,20 +33,20 @@
     "mps:longitude":-1.413288,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Komenda/Edina/Eguafo/Abirem Municipal District"
+    "name:deu_x_preferred":[
+        "Komenda/Edina/Eguafo/Abirem District"
     ],
     "name:eng_x_preferred":[
         "Komenda-Edina-Eguafo-Abirem"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Komenda-Edina-Eguafo-Abirem"
-    ],
-    "name:ger_x_preferred":[
-        "Komenda/Edina/Eguafo/Abirem District"
     ],
     "name:ita_x_preferred":[
         "Distretto di Komenda-Edina-Eguafo-Abirem"
+    ],
+    "name:nld_x_preferred":[
+        "Komenda/Edina/Eguafo/Abirem Municipal District"
     ],
     "name:pol_x_preferred":[
         "Komenda/Edina/Eguafo/Abirem"
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":1108759859,
-    "wof:lastmodified":1553718728,
+    "wof:lastmodified":1561840423,
     "wof:name":"Komenda/ Edina/ Eguafo",
     "wof:parent_id":85671341,
     "wof:placetype":"county",

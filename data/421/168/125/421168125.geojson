@@ -22,13 +22,7 @@
     "name:deu_x_preferred":[
         "Prestea"
     ],
-    "name:dut_x_preferred":[
-        "Prestea"
-    ],
     "name:eng_x_preferred":[
-        "Prestea"
-    ],
-    "name:ger_x_preferred":[
         "Prestea"
     ],
     "name:ita_x_preferred":[
@@ -36,6 +30,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d7\u30ec\u30b9\u30c6\u30a3"
+    ],
+    "name:nld_x_preferred":[
+        "Prestea"
     ],
     "name:swe_x_preferred":[
         "Prestea"
@@ -94,7 +91,7 @@
         }
     ],
     "wof:id":421168125,
-    "wof:lastmodified":1527716100,
+    "wof:lastmodified":1561840430,
     "wof:name":"Prestea",
     "wof:parent_id":1108760017,
     "wof:placetype":"locality",

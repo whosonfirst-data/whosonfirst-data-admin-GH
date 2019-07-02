@@ -36,20 +36,20 @@
     "name:bul_x_preferred":[
         "\u041c\u0444\u0430\u0446\u0435\u043c\u0430\u043d"
     ],
-    "name:dut_x_preferred":[
-        "Mfantsiman Municipal District"
+    "name:deu_x_preferred":[
+        "Mfantsiman District"
     ],
     "name:eng_x_preferred":[
         "Mfantsiman"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mfantsiman"
-    ],
-    "name:ger_x_preferred":[
-        "Mfantsiman District"
     ],
     "name:ita_x_preferred":[
         "Distretto di Mfantsiman"
+    ],
+    "name:nld_x_preferred":[
+        "Mfantsiman Municipal District"
     ],
     "name:swe_x_preferred":[
         "Mfatseman"
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":1108759861,
-    "wof:lastmodified":1553718728,
+    "wof:lastmodified":1561840425,
     "wof:name":"Mfantsiman",
     "wof:parent_id":85671341,
     "wof:placetype":"county",

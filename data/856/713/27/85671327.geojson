@@ -43,14 +43,14 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 Superior Occidental"
     ],
-    "name:chi_x_preferred":[
-        "\u897f\u5317\u5730\u5340"
-    ],
     "name:dan_x_preferred":[
         "Upper West"
     ],
-    "name:dut_x_preferred":[
-        "Upper West"
+    "name:deu_x_preferred":[
+        "Upper West Region"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03c0\u03b5\u03c1 \u0393\u03bf\u03c5\u03ad\u03c3\u03c4"
     ],
     "name:eng_x_preferred":[
         "Upper West"
@@ -58,17 +58,14 @@
     "name:epo_x_preferred":[
         "Okcidenta Supro"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u063a\u0631\u0628 \u0639\u0644\u06cc\u0627"
+    ],
     "name:fin_x_preferred":[
         "Upper West Ghana"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "R\u00e9gion du Haut Ghana occidental"
-    ],
-    "name:ger_x_preferred":[
-        "Upper West Region"
-    ],
-    "name:gre_x_preferred":[
-        "\u0386\u03c0\u03b5\u03c1 \u0393\u03bf\u03c5\u03ad\u03c3\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0aaa\u0ab0 \u0aaa\u0ab6\u0acd\u0a9a\u0abf\u0aae \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -100,14 +97,14 @@
     "name:mar_x_preferred":[
         "\u0905\u092a\u094d\u092a\u0930 \u0935\u0947\u0938\u094d\u091f \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Upper West Region"
+    ],
+    "name:nld_x_preferred":[
+        "Upper West"
     ],
     "name:nob_x_preferred":[
         "Upper West"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0646\u0637\u0642\u0647 \u063a\u0631\u0628 \u0639\u0644\u06cc\u0627"
     ],
     "name:pol_x_preferred":[
         "G\u00f3rny Region Zachodni"
@@ -115,7 +112,7 @@
     "name:por_x_preferred":[
         "Alto Ocidental"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Superioar\u0103 de Vest"
     ],
     "name:rus_x_preferred":[
@@ -153,6 +150,9 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Th\u01b0\u1ee3ng T\u00e2y"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u5317\u5730\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"GHA",
@@ -280,7 +280,7 @@
         "ewe",
         "gaa"
     ],
-    "wof:lastmodified":1553550369,
+    "wof:lastmodified":1561840408,
     "wof:name":"Upper West",
     "wof:parent_id":85632189,
     "wof:placetype":"region",

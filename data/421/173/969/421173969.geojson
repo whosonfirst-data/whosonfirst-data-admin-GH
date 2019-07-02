@@ -23,16 +23,10 @@
     "name:deu_x_preferred":[
         "Bawku"
     ],
-    "name:dut_x_preferred":[
-        "Bawku"
-    ],
     "name:eng_x_preferred":[
         "Bawku"
     ],
-    "name:fre_x_preferred":[
-        "Bawku"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Bawku"
     ],
     "name:hrv_x_preferred":[
@@ -54,9 +48,6 @@
         "Bawku"
     ],
     "name:ron_x_preferred":[
-        "Bawku"
-    ],
-    "name:rum_x_preferred":[
         "Bawku"
     ],
     "name:swe_x_preferred":[
@@ -205,7 +196,7 @@
         }
     ],
     "wof:id":421173969,
-    "wof:lastmodified":1527716258,
+    "wof:lastmodified":1561840430,
     "wof:name":"Bawku",
     "wof:parent_id":1108759943,
     "wof:placetype":"locality",

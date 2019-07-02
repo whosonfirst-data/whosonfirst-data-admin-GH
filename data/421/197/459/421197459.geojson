@@ -19,22 +19,13 @@
     "name:ceb_x_preferred":[
         "Axim"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u514b\u897f\u59c6"
-    ],
     "name:deu_x_preferred":[
-        "Axim"
-    ],
-    "name:dut_x_preferred":[
         "Axim"
     ],
     "name:eng_x_preferred":[
         "Axim"
     ],
-    "name:fre_x_preferred":[
-        "Axim"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Axim"
     ],
     "name:heb_x_preferred":[
@@ -45,6 +36,9 @@
     ],
     "name:lit_x_preferred":[
         "Aksimas"
+    ],
+    "name:nld_x_preferred":[
+        "Axim"
     ],
     "name:nob_x_preferred":[
         "Axim"
@@ -117,7 +111,7 @@
         }
     ],
     "wof:id":421197459,
-    "wof:lastmodified":1527716407,
+    "wof:lastmodified":1561840431,
     "wof:name":"Axim",
     "wof:parent_id":1108760007,
     "wof:placetype":"locality",
