@@ -33,6 +33,9 @@
     "mps:longitude":0.412079,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "North Tongu"
+    ],
     "name:eng_x_preferred":[
         "North Tongu"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:nld_x_preferred":[
         "North Tongu District"
+    ],
+    "name:spa_x_preferred":[
+        "North Tongu"
     ],
     "name:swe_x_preferred":[
         "North Tongu"
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":1108759967,
-    "wof:lastmodified":1561840421,
+    "wof:lastmodified":1563378180,
     "wof:name":"Adidome",
     "wof:parent_id":85671357,
     "wof:placetype":"county",

@@ -39,6 +39,9 @@
     "name:eng_x_preferred":[
         "Nkoranza"
     ],
+    "name:eng_x_variant":[
+        "Nkoranza District"
+    ],
     "name:fra_x_preferred":[
         "Nkoranza sud"
     ],
@@ -49,6 +52,9 @@
         "Nkoranza District"
     ],
     "name:por_x_preferred":[
+        "Nkoranza"
+    ],
+    "name:spa_x_preferred":[
         "Nkoranza"
     ],
     "src:geom":"meso",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":1108759827,
-    "wof:lastmodified":1561840423,
+    "wof:lastmodified":1563378193,
     "wof:name":"Nkoranza",
     "wof:parent_id":85671337,
     "wof:placetype":"county",

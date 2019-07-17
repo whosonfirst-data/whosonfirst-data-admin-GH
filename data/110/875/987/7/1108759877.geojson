@@ -33,11 +33,17 @@
     "mps:longitude":-1.085411,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Birim North"
+    ],
     "name:deu_x_preferred":[
         "Birim North District"
     ],
     "name:eng_x_preferred":[
         "Birim North"
+    ],
+    "name:eng_x_variant":[
+        "Birim North District"
     ],
     "name:fra_x_preferred":[
         "Birim nord"
@@ -47,6 +53,9 @@
     ],
     "name:nld_x_preferred":[
         "Birim North District"
+    ],
+    "name:spa_x_preferred":[
+        "Birim Norte"
     ],
     "name:swe_x_preferred":[
         "Birim North"
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":1108759877,
-    "wof:lastmodified":1561840424,
+    "wof:lastmodified":1563378200,
     "wof:name":"Birim North",
     "wof:parent_id":85671343,
     "wof:placetype":"county",

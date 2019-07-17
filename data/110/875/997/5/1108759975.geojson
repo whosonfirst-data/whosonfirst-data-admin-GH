@@ -33,8 +33,17 @@
     "mps:longitude":0.361192,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Jasikan"
+    ],
+    "name:deu_x_preferred":[
+        "Distrikt Jasikan"
+    ],
     "name:eng_x_preferred":[
         "Jasikan"
+    ],
+    "name:eng_x_variant":[
+        "Jasikan District"
     ],
     "name:fra_x_preferred":[
         "Jasikan"
@@ -47,6 +56,9 @@
     ],
     "name:pol_x_preferred":[
         "dystrykt Jasikan"
+    ],
+    "name:spa_x_preferred":[
+        "Jasikan"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -84,7 +96,7 @@
         }
     ],
     "wof:id":1108759975,
-    "wof:lastmodified":1561840422,
+    "wof:lastmodified":1563378183,
     "wof:name":"Jasikan",
     "wof:parent_id":85671357,
     "wof:placetype":"county",

@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u0648\u0627"
     ],
+    "name:bel_x_preferred":[
+        "\u0412\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u0993\u09af\u09bc\u09be"
     ],
@@ -45,6 +48,9 @@
         "Wa"
     ],
     "name:fra_x_preferred":[
+        "Wa"
+    ],
+    "name:frr_x_preferred":[
         "Wa"
     ],
     "name:guj_x_preferred":[
@@ -136,6 +142,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0648\u0627\u060c \u06af\u06be\u0627\u0646\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0648\u0627"
     ],
     "name:vie_x_preferred":[
         "Wa"
@@ -283,7 +292,7 @@
         }
     ],
     "wof:id":421193513,
-    "wof:lastmodified":1561840430,
+    "wof:lastmodified":1563378439,
     "wof:name":"Wa",
     "wof:parent_id":1108759965,
     "wof:placetype":"locality",

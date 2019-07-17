@@ -49,6 +49,9 @@
     "name:ron_x_preferred":[
         "Hohoe"
     ],
+    "name:spa_x_preferred":[
+        "Hohoe"
+    ],
     "name:swe_x_preferred":[
         "Hohoe"
     ],
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":421178195,
-    "wof:lastmodified":1561840431,
+    "wof:lastmodified":1563378446,
     "wof:name":"Hohoe",
     "wof:parent_id":1108759973,
     "wof:placetype":"locality",

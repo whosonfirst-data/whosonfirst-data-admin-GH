@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u062a\u0645\u0627\u0644"
     ],
+    "name:ara_x_variant":[
+        "\u062a\u0627\u0645\u0627\u0644\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u062a\u0627\u0645\u0627\u0644\u06cc"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0422\u0430\u043c\u0430\u043b\u0435"
     ],
@@ -32,8 +38,17 @@
     "name:bre_x_preferred":[
         "Tamal"
     ],
+    "name:bre_x_variant":[
+        "Tamale"
+    ],
     "name:cat_x_preferred":[
         "Tamal"
+    ],
+    "name:cat_x_variant":[
+        "Tamale"
+    ],
+    "name:ceb_x_preferred":[
+        "Tamale"
     ],
     "name:ces_x_preferred":[
         "Tamale"
@@ -82,6 +97,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d8\u05de\u05dc\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05d8\u05d0\u05de\u05d0\u05dc\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0924\u093e\u092e\u093e\u0932\u0947"
@@ -146,6 +164,9 @@
     "name:por_x_preferred":[
         "Tamal"
     ],
+    "name:por_x_variant":[
+        "Tamale"
+    ],
     "name:ron_x_preferred":[
         "Tamale"
     ],
@@ -172,6 +193,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b9f\u0bbe\u0bae\u0bc7\u0bb2\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0430\u043c\u0430\u043b\u0435"
     ],
     "name:tel_x_preferred":[
         "\u0c24\u0c2e\u0c3e\u0c32\u0c47"
@@ -342,7 +366,7 @@
         }
     ],
     "wof:id":421203867,
-    "wof:lastmodified":1561840430,
+    "wof:lastmodified":1563378440,
     "wof:name":"Tamale",
     "wof:parent_id":1108759933,
     "wof:placetype":"locality",

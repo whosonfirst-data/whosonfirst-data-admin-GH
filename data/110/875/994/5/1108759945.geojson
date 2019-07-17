@@ -33,11 +33,17 @@
     "mps:longitude":-0.491242,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Bawku West"
+    ],
     "name:deu_x_preferred":[
         "Bawku West District"
     ],
     "name:eng_x_preferred":[
         "Bawku West"
+    ],
+    "name:eng_x_variant":[
+        "Bawku West District"
     ],
     "name:fra_x_preferred":[
         "Bawku ouest"
@@ -50,6 +56,9 @@
     ],
     "name:pol_x_preferred":[
         "Bawku West"
+    ],
+    "name:spa_x_preferred":[
+        "Bawku Oeste"
     ],
     "name:swe_x_preferred":[
         "Bawku West"
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":1108759945,
-    "wof:lastmodified":1561840424,
+    "wof:lastmodified":1563378199,
     "wof:name":"Bawku West",
     "wof:parent_id":85671323,
     "wof:placetype":"county",

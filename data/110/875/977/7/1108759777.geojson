@@ -36,17 +36,26 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0623\u0647\u0627\u0641\u0648 \u0622\u0646\u0648 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629"
     ],
+    "name:ceb_x_preferred":[
+        "Ahafo Ano North"
+    ],
     "name:deu_x_preferred":[
         "Ahafo Ano North District"
     ],
     "name:eng_x_preferred":[
         "Ahafo Ano North"
     ],
+    "name:eng_x_variant":[
+        "Ahafo Ano North District"
+    ],
     "name:fas_x_preferred":[
         "\u0634\u0645\u0627\u0644 \u0628\u062e\u0634 \u0627\u0647\u0627\u0641\u0648 \u0627\u0646\u0648"
     ],
     "name:fra_x_preferred":[
         "Ahafo Ano nord"
+    ],
+    "name:frr_x_preferred":[
+        "Ahafo Ano North"
     ],
     "name:ita_x_preferred":[
         "Distretto di Ahafo Ano Nord"
@@ -56,6 +65,9 @@
     ],
     "name:pol_x_preferred":[
         "Ahafo Ano North"
+    ],
+    "name:spa_x_preferred":[
+        "Ahafo Ano Norte"
     ],
     "name:swe_x_preferred":[
         "Ahafo Ano North"
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":1108759777,
-    "wof:lastmodified":1561840422,
+    "wof:lastmodified":1563378185,
     "wof:name":"Ahafo Ano North",
     "wof:parent_id":85671331,
     "wof:placetype":"county",

@@ -39,6 +39,9 @@
     "name:eng_x_preferred":[
         "Gomoa"
     ],
+    "name:eng_x_variant":[
+        "Gomoa District"
+    ],
     "name:fra_x_preferred":[
         "Gomoa"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1108759857,
-    "wof:lastmodified":1561840423,
+    "wof:lastmodified":1563378192,
     "wof:name":"Gomoa",
     "wof:parent_id":85671341,
     "wof:placetype":"county",

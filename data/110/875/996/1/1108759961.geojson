@@ -33,11 +33,17 @@
     "mps:longitude":-2.521272,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Nadowli"
+    ],
     "name:deu_x_preferred":[
         "Nadowli District"
     ],
     "name:eng_x_preferred":[
         "Nadowli"
+    ],
+    "name:eng_x_variant":[
+        "Nadowli District"
     ],
     "name:fra_x_preferred":[
         "Nadowli"
@@ -50,6 +56,9 @@
     ],
     "name:por_x_preferred":[
         "Nadowli"
+    ],
+    "name:spa_x_preferred":[
+        "Nadowli-Kaleo"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":1108759961,
-    "wof:lastmodified":1561840421,
+    "wof:lastmodified":1563378181,
     "wof:name":"Nawdoli",
     "wof:parent_id":85671327,
     "wof:placetype":"county",

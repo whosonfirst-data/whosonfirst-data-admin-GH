@@ -33,11 +33,17 @@
     "mps:longitude":-0.48968,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "East Gonja"
+    ],
     "name:deu_x_preferred":[
         "East Gonja District"
     ],
     "name:eng_x_preferred":[
         "East Gonja"
+    ],
+    "name:eng_x_variant":[
+        "East Gonja District"
     ],
     "name:fra_x_preferred":[
         "Gonja est"
@@ -47,6 +53,9 @@
     ],
     "name:nld_x_preferred":[
         "East Gonja District"
+    ],
+    "name:spa_x_preferred":[
+        "East Gonja"
     ],
     "name:swe_x_preferred":[
         "East Gonja"
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":1108759919,
-    "wof:lastmodified":1561840421,
+    "wof:lastmodified":1563378178,
     "wof:name":"Gonja East",
     "wof:parent_id":85671319,
     "wof:placetype":"county",

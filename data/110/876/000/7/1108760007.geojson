@@ -33,17 +33,26 @@
     "mps:longitude":-2.303898,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Nzema East"
+    ],
     "name:deu_x_preferred":[
         "Nzema East District"
     ],
     "name:eng_x_preferred":[
         "Nzema East"
     ],
+    "name:eng_x_variant":[
+        "Nzema East Municipal District"
+    ],
     "name:ita_x_preferred":[
         "Distretto di Nzema Est"
     ],
     "name:nld_x_preferred":[
         "Nzema East Municipal District"
+    ],
+    "name:spa_x_preferred":[
+        "Nzema Este"
     ],
     "name:swe_x_preferred":[
         "Nzema East"
@@ -84,7 +93,7 @@
         }
     ],
     "wof:id":1108760007,
-    "wof:lastmodified":1561840425,
+    "wof:lastmodified":1563378208,
     "wof:name":"Nzema East",
     "wof:parent_id":85671347,
     "wof:placetype":"county",

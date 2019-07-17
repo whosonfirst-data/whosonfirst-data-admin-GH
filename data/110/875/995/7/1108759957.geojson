@@ -33,11 +33,17 @@
     "mps:longitude":-2.799661,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Lawra"
+    ],
     "name:deu_x_preferred":[
         "Lawra District"
     ],
     "name:eng_x_preferred":[
         "Lawra"
+    ],
+    "name:eng_x_variant":[
+        "Lawra District"
     ],
     "name:fra_x_preferred":[
         "Lawra"
@@ -52,6 +58,9 @@
         "Lawra District"
     ],
     "name:por_x_preferred":[
+        "Lawra"
+    ],
+    "name:spa_x_preferred":[
         "Lawra"
     ],
     "name:zho_x_preferred":[
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":1108759957,
-    "wof:lastmodified":1561840423,
+    "wof:lastmodified":1563378195,
     "wof:name":"Lawra",
     "wof:parent_id":85671327,
     "wof:placetype":"county",

@@ -19,6 +19,9 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u064a\u0643\u0648\u0645"
     ],
+    "name:ceb_x_preferred":[
+        "Berekum"
+    ],
     "name:deu_x_preferred":[
         "Berekum"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:por_x_preferred":[
         "Berekum"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u0435\u043a\u0443\u043c"
     ],
     "name:spa_x_preferred":[
         "Berekum"
@@ -183,7 +189,7 @@
         }
     ],
     "wof:id":890438699,
-    "wof:lastmodified":1561840431,
+    "wof:lastmodified":1563378453,
     "wof:name":"Berekum",
     "wof:parent_id":1108759819,
     "wof:placetype":"locality",

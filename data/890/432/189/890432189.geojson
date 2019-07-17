@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Yendi"
     ],
+    "name:ceb_x_preferred":[
+        "Yendi"
+    ],
     "name:dan_x_preferred":[
         "Yendi"
     ],
@@ -50,6 +53,9 @@
         "Yendi"
     ],
     "name:por_x_preferred":[
+        "Yendi"
+    ],
+    "name:spa_x_preferred":[
         "Yendi"
     ],
     "name:swe_x_preferred":[
@@ -186,7 +192,7 @@
         }
     ],
     "wof:id":890432189,
-    "wof:lastmodified":1561840432,
+    "wof:lastmodified":1563378459,
     "wof:name":"Yendi",
     "wof:parent_id":1108759915,
     "wof:placetype":"locality",

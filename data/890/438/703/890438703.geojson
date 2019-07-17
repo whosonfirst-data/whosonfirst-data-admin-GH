@@ -18,8 +18,14 @@
     "name:aka_x_preferred":[
         "Aboso"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0628\u0648\u0633\u0648"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u0431\u043e\u0441\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Aboso"
     ],
     "name:eng_x_preferred":[
         "Aboso"
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":890438703,
-    "wof:lastmodified":1561840431,
+    "wof:lastmodified":1563378452,
     "wof:name":"Aboso",
     "wof:parent_id":1108760017,
     "wof:placetype":"locality",

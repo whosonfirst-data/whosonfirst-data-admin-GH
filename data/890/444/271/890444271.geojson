@@ -39,6 +39,9 @@
     "name:urd_x_preferred":[
         "\u0634\u0627\u0645\u0627\u060c \u06af\u06be\u0627\u0646\u0627"
     ],
+    "name:urd_x_variant":[
+        "\u0634\u0627\u0645\u0627"
+    ],
     "qs:name":"Shama Junction",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":890444271,
-    "wof:lastmodified":1561840432,
+    "wof:lastmodified":1563378456,
     "wof:name":"Shama Junction",
     "wof:parent_id":1108760011,
     "wof:placetype":"locality",

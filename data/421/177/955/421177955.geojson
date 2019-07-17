@@ -46,6 +46,9 @@
     "name:pol_x_preferred":[
         "Keta"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u0442\u0430"
+    ],
     "name:swe_x_preferred":[
         "Keta"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":421177955,
-    "wof:lastmodified":1561840431,
+    "wof:lastmodified":1563378446,
     "wof:name":"Keta",
     "wof:parent_id":1108759981,
     "wof:placetype":"locality",

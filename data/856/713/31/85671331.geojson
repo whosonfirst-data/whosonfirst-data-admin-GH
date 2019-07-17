@@ -31,6 +31,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0623\u0634\u0627\u0646\u062a\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u0622\u0634\u0627\u0646\u062a\u06cc \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:bel_x_preferred":[
         "\u0440\u044d\u0433\u0456\u0451\u043d \u0410\u0448\u0430\u043d\u0446\u0456"
     ],
@@ -46,6 +49,9 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 Aixanti"
     ],
+    "name:ceb_x_preferred":[
+        "Ashanti Region"
+    ],
     "name:dan_x_preferred":[
         "Ashanti"
     ],
@@ -55,8 +61,14 @@
     "name:ell_x_preferred":[
         "\u03c0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u0391\u03c3\u03ac\u03bd\u03c4\u03b9"
     ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0391\u03c3\u03ac\u03bd\u03c4\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Ashanti"
+    ],
+    "name:eng_x_variant":[
+        "Ashanti Region"
     ],
     "name:epo_x_preferred":[
         "A\u015dantujo"
@@ -70,8 +82,17 @@
     "name:fra_x_preferred":[
         "R\u00e9gion Ashanti"
     ],
+    "name:fra_x_variant":[
+        "Ashanti"
+    ],
+    "name:frr_x_preferred":[
+        "Ashanti"
+    ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab6\u0abe\u0a82\u0aa4\u0abf \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
+    ],
+    "name:hau_x_preferred":[
+        "Yankin Ashanti"
     ],
     "name:hin_x_preferred":[
         "\u0905\u0936\u094d\u0902\u0924\u0940 \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
@@ -84,6 +105,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30b7\u30e3\u30f3\u30c6\u30a3"
+    ],
+    "name:jpn_x_variant":[
+        "\u30a2\u30b7\u30e3\u30f3\u30c6\u30a3\u5dde"
     ],
     "name:kan_x_preferred":[
         "\u0c86\u0cb7\u0c82\u0ca4\u0cbf"
@@ -136,8 +160,14 @@
     "name:spa_x_preferred":[
         "Ashanti"
     ],
+    "name:spa_x_variant":[
+        "Regi\u00f3n Ashanti"
+    ],
     "name:swe_x_preferred":[
         "Asante"
+    ],
+    "name:swe_x_variant":[
+        "Ashantiregionen"
     ],
     "name:tam_x_preferred":[
         "\u0b85\u0bb7\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
@@ -151,6 +181,9 @@
     "name:tur_x_preferred":[
         "Ashanti B\u00f6lgesi"
     ],
+    "name:twi_x_preferred":[
+        "Asante Mantam"
+    ],
     "name:ukr_x_preferred":[
         "\u0410\u0448\u0430\u043d\u0442\u0456"
     ],
@@ -162,6 +195,9 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Ashanti"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d0\u10e8\u10d0\u10dc\u10e2\u10d8\u10e8 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
     ],
     "name:yor_x_preferred":[
         "Agb\u00e8gb\u00e8 Ashanti"
@@ -298,7 +334,7 @@
         "ewe",
         "gaa"
     ],
-    "wof:lastmodified":1561840409,
+    "wof:lastmodified":1563377613,
     "wof:name":"Ashanti",
     "wof:parent_id":85632189,
     "wof:placetype":"region",

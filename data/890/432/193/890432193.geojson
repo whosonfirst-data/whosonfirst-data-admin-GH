@@ -18,6 +18,9 @@
     "name:aka_x_preferred":[
         "Akim Oda"
     ],
+    "name:ceb_x_preferred":[
+        "Akim Oda"
+    ],
     "name:deu_x_preferred":[
         "Akim Oda"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041e\u0434\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Akim Oda"
     ],
     "name:swe_x_preferred":[
         "Akim Oda"
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":890432193,
-    "wof:lastmodified":1561840432,
+    "wof:lastmodified":1563378457,
     "wof:name":"Akim Oda",
     "wof:parent_id":1108759879,
     "wof:placetype":"locality",

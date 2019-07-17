@@ -39,6 +39,9 @@
     "name:eng_x_preferred":[
         "Agona"
     ],
+    "name:eng_x_variant":[
+        "Agona District"
+    ],
     "name:fra_x_preferred":[
         "Agona"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1108759843,
-    "wof:lastmodified":1561840422,
+    "wof:lastmodified":1563378188,
     "wof:name":"Agona",
     "wof:parent_id":85671341,
     "wof:placetype":"county",

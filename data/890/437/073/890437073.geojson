@@ -15,6 +15,9 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Bekwai"
+    ],
     "name:deu_x_preferred":[
         "Bekwai"
     ],
@@ -31,6 +34,9 @@
         "Bekwai"
     ],
     "name:pol_x_preferred":[
+        "Bekwai"
+    ],
+    "name:spa_x_preferred":[
         "Bekwai"
     ],
     "name:swe_x_preferred":[
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":890437073,
-    "wof:lastmodified":1561840431,
+    "wof:lastmodified":1563378451,
     "wof:name":"Bekwai",
     "wof:parent_id":1108759783,
     "wof:placetype":"locality",

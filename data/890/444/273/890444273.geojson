@@ -21,6 +21,12 @@
     "name:cat_x_preferred":[
         "Saltpond"
     ],
+    "name:ceb_x_preferred":[
+        "Saltpond"
+    ],
+    "name:cym_x_preferred":[
+        "Saltpond"
+    ],
     "name:deu_x_preferred":[
         "Saltpond"
     ],
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":890444273,
-    "wof:lastmodified":1561840431,
+    "wof:lastmodified":1563378453,
     "wof:name":"Saltpond",
     "wof:parent_id":1108759861,
     "wof:placetype":"locality",

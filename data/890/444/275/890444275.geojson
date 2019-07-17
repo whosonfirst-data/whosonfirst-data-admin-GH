@@ -21,6 +21,9 @@
     "name:cat_x_preferred":[
         "Salaga"
     ],
+    "name:ceb_x_preferred":[
+        "Salaga"
+    ],
     "name:deu_x_preferred":[
         "Salaga"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":890444275,
-    "wof:lastmodified":1561840432,
+    "wof:lastmodified":1563378453,
     "wof:name":"Salaga",
     "wof:parent_id":1108759919,
     "wof:placetype":"locality",

@@ -33,11 +33,17 @@
     "mps:longitude":-1.993269,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Wassa West"
+    ],
     "name:deu_x_preferred":[
         "Wassa West District"
     ],
     "name:eng_x_preferred":[
         "Wassa West"
+    ],
+    "name:eng_x_variant":[
+        "Wassa West District"
     ],
     "name:ita_x_preferred":[
         "Distretto di Wassa Ovest"
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":1108760017,
-    "wof:lastmodified":1561840426,
+    "wof:lastmodified":1563378209,
     "wof:name":"Wassa West",
     "wof:parent_id":85671347,
     "wof:placetype":"county",

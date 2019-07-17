@@ -39,6 +39,9 @@
     "name:eng_x_preferred":[
         "Kintampo"
     ],
+    "name:eng_x_variant":[
+        "Kintampo District"
+    ],
     "name:fra_x_preferred":[
         "Kintampo"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1108759825,
-    "wof:lastmodified":1561840423,
+    "wof:lastmodified":1563378194,
     "wof:name":"Kintampo",
     "wof:parent_id":85671337,
     "wof:placetype":"county",

@@ -36,11 +36,17 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0623\u0633\u0627\u0646\u062a \u0623\u0643\u064a\u0645 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629 \u0627\u0644\u0645\u062d\u0644\u064a\u0629"
     ],
+    "name:ceb_x_preferred":[
+        "Asante Akim North"
+    ],
     "name:deu_x_preferred":[
         "Asante Akim North District"
     ],
     "name:eng_x_preferred":[
         "Asante Akim North"
+    ],
+    "name:eng_x_variant":[
+        "Asante Akim North Municipal District"
     ],
     "name:fas_x_preferred":[
         "\u0628\u062e\u0634 \u0622\u0633\u0627\u0646\u062a\u0647 \u0622\u06a9\u06cc\u0645 \u0634\u0645\u0627\u0644\u06cc"
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1108759787,
-    "wof:lastmodified":1561840423,
+    "wof:lastmodified":1563378190,
     "wof:name":"Asante Akim North",
     "wof:parent_id":85671331,
     "wof:placetype":"county",
