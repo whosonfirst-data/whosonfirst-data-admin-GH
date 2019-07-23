@@ -40,6 +40,9 @@
     "name:pol_x_preferred":[
         "Kintampo"
     ],
+    "name:spa_x_preferred":[
+        "Kintampo"
+    ],
     "name:swe_x_preferred":[
         "Kintampo"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421168127,
-    "wof:lastmodified":1561840430,
+    "wof:lastmodified":1563378432,
     "wof:name":"Kintampo",
     "wof:parent_id":1108759825,
     "wof:placetype":"locality",

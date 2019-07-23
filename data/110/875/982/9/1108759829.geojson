@@ -33,11 +33,17 @@
     "mps:longitude":-0.348458,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Sene"
+    ],
     "name:deu_x_preferred":[
         "Sene District"
     ],
     "name:eng_x_preferred":[
         "Sene"
+    ],
+    "name:eng_x_variant":[
+        "Sene District"
     ],
     "name:fra_x_preferred":[
         "Sene"
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1108759829,
-    "wof:lastmodified":1561840423,
+    "wof:lastmodified":1563378193,
     "wof:name":"Sene",
     "wof:parent_id":85671337,
     "wof:placetype":"county",

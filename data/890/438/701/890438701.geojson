@@ -18,6 +18,9 @@
     "name:cat_x_preferred":[
         "Apam"
     ],
+    "name:ceb_x_preferred":[
+        "Apam"
+    ],
     "name:deu_x_preferred":[
         "Apam"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":890438701,
-    "wof:lastmodified":1561840431,
+    "wof:lastmodified":1563378452,
     "wof:name":"Apam",
     "wof:parent_id":1108759857,
     "wof:placetype":"locality",

@@ -36,11 +36,17 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u064a\u0643\u0648\u0627\u064a \u0627\u0644\u0645\u062d\u0644\u064a\u0629"
     ],
+    "name:ceb_x_preferred":[
+        "Bekwai"
+    ],
     "name:deu_x_preferred":[
         "Amansie East District"
     ],
     "name:eng_x_preferred":[
         "Amansie East"
+    ],
+    "name:eng_x_variant":[
+        "Bekwai Municipal District"
     ],
     "name:fra_x_preferred":[
         "Bekwai municipalit\u00e9"
@@ -53,6 +59,9 @@
     ],
     "name:pol_x_preferred":[
         "Amansie East"
+    ],
+    "name:spa_x_preferred":[
+        "Bekwai"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":1108759783,
-    "wof:lastmodified":1561840423,
+    "wof:lastmodified":1563378191,
     "wof:name":"Amansie East",
     "wof:parent_id":85671331,
     "wof:placetype":"county",

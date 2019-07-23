@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041c\u043f\u0440\u0430\u0435\u0441\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Mpraeso"
+    ],
     "name:eng_x_preferred":[
         "Mpraeso"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":890432201,
-    "wof:lastmodified":1561840432,
+    "wof:lastmodified":1563378460,
     "wof:name":"Mpraeso",
     "wof:parent_id":1108759889,
     "wof:placetype":"locality",

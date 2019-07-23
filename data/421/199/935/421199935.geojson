@@ -40,6 +40,9 @@
     "name:pol_x_preferred":[
         "Navrongo"
     ],
+    "name:por_x_preferred":[
+        "Navrongo"
+    ],
     "name:swe_x_preferred":[
         "Navrongo"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421199935,
-    "wof:lastmodified":1561840431,
+    "wof:lastmodified":1563378445,
     "wof:name":"Navrongo",
     "wof:parent_id":1108759953,
     "wof:placetype":"locality",

@@ -15,6 +15,9 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Kete Krachi"
+    ],
     "name:deu_x_preferred":[
         "Kete Krachi"
     ],
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":890437069,
-    "wof:lastmodified":1561840431,
+    "wof:lastmodified":1563378451,
     "wof:name":"Kete Krachi",
     "wof:parent_id":1108759987,
     "wof:placetype":"locality",

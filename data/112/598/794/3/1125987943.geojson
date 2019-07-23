@@ -28,6 +28,9 @@
     "name:cat_x_preferred":[
         "Elmina"
     ],
+    "name:ceb_x_preferred":[
+        "Elmina"
+    ],
     "name:dan_x_preferred":[
         "Elmina"
     ],
@@ -84,6 +87,9 @@
     ],
     "name:por_x_preferred":[
         "S\u00e3o Jorge da Mina"
+    ],
+    "name:por_x_variant":[
+        "Elmina"
     ],
     "name:rus_x_preferred":[
         "\u042d\u043b\u043c\u0438\u043d\u0430"
@@ -142,7 +148,7 @@
         }
     ],
     "wof:id":1125987943,
-    "wof:lastmodified":1561840432,
+    "wof:lastmodified":1563378465,
     "wof:name":"Elmina",
     "wof:parent_id":1108759859,
     "wof:placetype":"locality",

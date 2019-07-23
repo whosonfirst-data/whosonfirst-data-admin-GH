@@ -31,6 +31,9 @@
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u0641\u0648\u0644\u062a\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0648\u0644\u062a\u0627 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:bel_x_preferred":[
         "\u0420\u044d\u0433\u0456\u0451\u043d \u0412\u043e\u043b\u044c\u0442\u0430"
     ],
@@ -45,6 +48,12 @@
     ],
     "name:cat_x_preferred":[
         "Regi\u00f3 Volta"
+    ],
+    "name:cat_x_variant":[
+        "regi\u00f3 Volta"
+    ],
+    "name:ceb_x_preferred":[
+        "Volta Region"
     ],
     "name:ces_x_preferred":[
         "Volta Region"
@@ -61,6 +70,9 @@
     "name:eng_x_preferred":[
         "Volta"
     ],
+    "name:eng_x_variant":[
+        "Volta Region"
+    ],
     "name:epo_x_preferred":[
         "Voltao"
     ],
@@ -76,8 +88,14 @@
     "name:fra_x_preferred":[
         "Volta"
     ],
+    "name:frr_x_preferred":[
+        "Volta Regiuun"
+    ],
     "name:guj_x_preferred":[
         "\u0ab5\u0acb\u0ab2\u0acd\u0a9f\u0abe \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
+    ],
+    "name:hau_x_preferred":[
+        "Yankin Volta"
     ],
     "name:hin_x_preferred":[
         "\u0935\u094b\u0932\u094d\u091f\u093e \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
@@ -133,6 +151,9 @@
     "name:spa_x_preferred":[
         "Volta"
     ],
+    "name:spa_x_variant":[
+        "Regi\u00f3n Volta"
+    ],
     "name:swe_x_preferred":[
         "Voltaregionen"
     ],
@@ -159,6 +180,9 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Volta"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d5\u10dd\u10da\u10e2\u10d0\u10e8 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
     ],
     "name:zho_x_preferred":[
         "\u6c83\u723e\u7279\u5730\u5340"
@@ -289,7 +313,7 @@
         "ewe",
         "gaa"
     ],
-    "wof:lastmodified":1561840408,
+    "wof:lastmodified":1563377609,
     "wof:name":"Volta",
     "wof:parent_id":85632189,
     "wof:placetype":"region",

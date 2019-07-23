@@ -50,6 +50,9 @@
     "name:ron_x_preferred":[
         "Bawku"
     ],
+    "name:spa_x_preferred":[
+        "Bawku"
+    ],
     "name:swe_x_preferred":[
         "Bawku"
     ],
@@ -196,7 +199,7 @@
         }
     ],
     "wof:id":421173969,
-    "wof:lastmodified":1561840430,
+    "wof:lastmodified":1563378440,
     "wof:name":"Bawku",
     "wof:parent_id":1108759943,
     "wof:placetype":"locality",

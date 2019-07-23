@@ -36,11 +36,17 @@
     "name:bul_x_preferred":[
         "\u0411\u0443\u0438\u043b\u0441\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Builsa"
+    ],
     "name:deu_x_preferred":[
         "Builsa District"
     ],
     "name:eng_x_preferred":[
         "Builsa"
+    ],
+    "name:eng_x_variant":[
+        "Builsa District"
     ],
     "name:fra_x_preferred":[
         "Builsa"
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1108759951,
-    "wof:lastmodified":1561840424,
+    "wof:lastmodified":1563378195,
     "wof:name":"Builsa",
     "wof:parent_id":85671323,
     "wof:placetype":"county",

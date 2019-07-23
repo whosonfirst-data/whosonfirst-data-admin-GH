@@ -15,6 +15,24 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Akim Swedru"
+    ],
+    "name:eng_x_preferred":[
+        "Akim Swedru"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06a9\u06cc\u0645 \u0633\u0648\u0626\u062f\u0631\u0648"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30ad\u30e0\u30fb\u30b9\u30a6\u30a7\u30c9\u30a5\u30eb"
+    ],
+    "name:nld_x_preferred":[
+        "Akim Swedru"
+    ],
+    "name:swe_x_preferred":[
+        "Akim Swedru"
+    ],
     "name:unk_x_variant":[
         "Jwewuhu"
     ],
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":890432205,
-    "wof:lastmodified":1527793036,
+    "wof:lastmodified":1563378458,
     "wof:name":"Akim Swedru",
     "wof:parent_id":1108759879,
     "wof:placetype":"locality",

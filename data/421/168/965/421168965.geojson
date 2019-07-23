@@ -38,11 +38,17 @@
     "name:ast_x_preferred":[
         "Accra"
     ],
+    "name:azb_x_preferred":[
+        "\u0622\u06a9\u0631\u0627"
+    ],
     "name:aze_x_preferred":[
         "Akkra"
     ],
     "name:bam_x_preferred":[
         "Akra"
+    ],
+    "name:bcl_x_preferred":[
+        "Accra"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u043a\u0440\u0430"
@@ -74,6 +80,9 @@
     "name:ceb_x_preferred":[
         "Acra"
     ],
+    "name:ceb_x_variant":[
+        "Accra"
+    ],
     "name:ces_x_preferred":[
         "Accra"
     ],
@@ -85,6 +94,9 @@
     ],
     "name:ckb_x_preferred":[
         "\u0626\u06d5\u06a9\u0631\u0627"
+    ],
+    "name:ckb_x_variant":[
+        "\u0626\u0627\u06a9\u0631\u0627"
     ],
     "name:cor_x_preferred":[
         "Accra"
@@ -152,6 +164,12 @@
     "name:glg_x_preferred":[
         "Accra"
     ],
+    "name:grn_x_preferred":[
+        "Akra"
+    ],
+    "name:gsw_x_preferred":[
+        "Accra"
+    ],
     "name:guj_x_preferred":[
         "\u0a85\u0a95\u0acd\u0ab0\u0abe"
     ],
@@ -177,6 +195,9 @@
         "\u0905\u0915\u094d\u0930\u093e"
     ],
     "name:hrv_x_preferred":[
+        "Accra"
+    ],
+    "name:hsb_x_preferred":[
         "Accra"
     ],
     "name:hun_x_preferred":[
@@ -241,6 +262,9 @@
     ],
     "name:lav_x_preferred":[
         "Akra"
+    ],
+    "name:lfn_x_preferred":[
+        "Accra"
     ],
     "name:lin_x_preferred":[
         "Accra"
@@ -334,6 +358,9 @@
     ],
     "name:por_x_preferred":[
         "Acra"
+    ],
+    "name:pus_x_preferred":[
+        "\u0622\u06a9\u0631\u0627"
     ],
     "name:que_x_preferred":[
         "Accra"
@@ -451,6 +478,9 @@
     ],
     "name:war_x_preferred":[
         "Accra"
+    ],
+    "name:wuu_x_preferred":[
+        "\u963f\u514b\u62c9"
     ],
     "name:xmf_x_preferred":[
         "\u10d0\u10d9\u10e0\u10d0"
@@ -622,7 +652,7 @@
         }
     ],
     "wof:id":421168965,
-    "wof:lastmodified":1561840430,
+    "wof:lastmodified":1563378431,
     "wof:name":"Accra",
     "wof:parent_id":1108759901,
     "wof:placetype":"locality",

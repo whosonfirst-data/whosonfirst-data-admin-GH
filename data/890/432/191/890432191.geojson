@@ -18,6 +18,9 @@
     "name:aka_x_preferred":[
         "Oduponkpehe"
     ],
+    "name:ceb_x_preferred":[
+        "Kasoa"
+    ],
     "name:deu_x_preferred":[
         "Oduponkpehe"
     ],
@@ -31,6 +34,9 @@
         "Oduponkpehe"
     ],
     "name:pol_x_preferred":[
+        "Oduponkpehe"
+    ],
+    "name:spa_x_preferred":[
         "Oduponkpehe"
     ],
     "name:swe_x_preferred":[
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":890432191,
-    "wof:lastmodified":1561840432,
+    "wof:lastmodified":1563378459,
     "wof:name":"Kasoa",
     "wof:parent_id":1108759853,
     "wof:placetype":"locality",

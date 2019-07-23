@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:azb_x_preferred":[
+        "\u0627\u06a9\u0648\u0627\u062a\u06cc\u0627"
+    ],
     "name:ceb_x_preferred":[
         "Akwatia"
     ],
@@ -26,6 +29,9 @@
         "\u30a2\u30af\u30ef\u30c6\u30a3\u30a2"
     ],
     "name:nld_x_preferred":[
+        "Akwatia"
+    ],
+    "name:spa_x_preferred":[
         "Akwatia"
     ],
     "name:swe_x_preferred":[
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":421178197,
-    "wof:lastmodified":1561840431,
+    "wof:lastmodified":1563378447,
     "wof:name":"Akwatia",
     "wof:parent_id":1108759885,
     "wof:placetype":"locality",

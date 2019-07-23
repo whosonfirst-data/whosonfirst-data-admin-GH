@@ -22,8 +22,14 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0643\u0648\u0646\u062f\u064a \u062a\u0627\u0643\u0648\u0631\u0627\u062f\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u0633\u06a9\u0648\u0646\u062f\u06cc-\u062a\u0627\u06a9\u0648\u0631\u0627\u062f\u06cc"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0435\u043a\u0430\u043d\u0434\u044b-\u0422\u0430\u043a\u0430\u0440\u0430\u0434\u044b"
+    ],
+    "name:bel_x_variant":[
+        "\u0421\u0435\u043a\u0430\u043d\u0434\u044b-\u0422\u0430\u043a\u0430\u0440\u0430\u0434\u044b"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u0995\u09c1\u09a8\u09cd\u09a1\u09bf -\u09a4\u09be\u0995\u09c1\u09b0\u09be\u09a6\u09bf"
@@ -33,6 +39,9 @@
     ],
     "name:cat_x_preferred":[
         "Sekondi-Takoradi"
+    ],
+    "name:ceb_x_preferred":[
+        "Takoradi"
     ],
     "name:ces_x_preferred":[
         "Sekondi-Takoradi"
@@ -61,6 +70,9 @@
     "name:fra_x_preferred":[
         "S\u00e9kondi"
     ],
+    "name:frr_x_preferred":[
+        "Sekondi-Takoradi"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0a95\u0acb\u0aa8\u0acd\u0aa1\u0ac0-\u0a9f\u0ac7\u0a95\u0acb\u0ab0\u0aa1\u0ac0"
     ],
@@ -74,6 +86,9 @@
         "Sekondi-Takoradi"
     ],
     "name:hun_x_preferred":[
+        "Sekondi-Takoradi"
+    ],
+    "name:ido_x_preferred":[
         "Sekondi-Takoradi"
     ],
     "name:ind_x_preferred":[
@@ -129,6 +144,9 @@
     ],
     "name:spa_x_preferred":[
         "Sekondi-Takoradi"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0435\u043a\u043e\u043d\u0434\u0438 \u0422\u0430\u043a\u043e\u0440\u0430\u0434\u0438"
     ],
     "name:swe_x_preferred":[
         "Sekondi-Takoradi"
@@ -294,7 +312,7 @@
         }
     ],
     "wof:id":890444263,
-    "wof:lastmodified":1561840432,
+    "wof:lastmodified":1563378457,
     "wof:name":"Sekondi-Takoradi",
     "wof:parent_id":1108760011,
     "wof:placetype":"locality",

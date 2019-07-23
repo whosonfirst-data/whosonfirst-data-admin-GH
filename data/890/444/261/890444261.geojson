@@ -22,10 +22,16 @@
     "name:ara_x_preferred":[
         "\u062a\u064a\u0645\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u062a\u0645\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u099f\u09c7\u09ae\u09be"
     ],
     "name:cat_x_preferred":[
+        "Tema"
+    ],
+    "name:ceb_x_preferred":[
         "Tema"
     ],
     "name:dan_x_preferred":[
@@ -125,6 +131,9 @@
         "Tema"
     ],
     "name:swe_x_preferred":[
+        "Tema"
+    ],
+    "name:szl_x_preferred":[
         "Tema"
     ],
     "name:tam_x_preferred":[
@@ -286,7 +295,7 @@
         }
     ],
     "wof:id":890444261,
-    "wof:lastmodified":1561840432,
+    "wof:lastmodified":1563378454,
     "wof:name":"Tema",
     "wof:parent_id":1108759911,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:nld_x_preferred":[
         "Anloga"
     ],
+    "name:spa_x_preferred":[
+        "Anloga"
+    ],
     "name:swe_x_preferred":[
         "Anloga"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":421181443,
-    "wof:lastmodified":1561840430,
+    "wof:lastmodified":1563378441,
     "wof:name":"Anloga",
     "wof:parent_id":1108759981,
     "wof:placetype":"locality",

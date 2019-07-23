@@ -33,8 +33,14 @@
     "mps:longitude":0.156656,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Dangme West District"
+    ],
     "name:eng_x_preferred":[
         "Dangbe West"
+    ],
+    "name:eng_x_variant":[
+        "Dangme West District"
     ],
     "name:fra_x_preferred":[
         "Dangme ouest"
@@ -50,6 +56,9 @@
     ],
     "name:por_x_preferred":[
         "Dangme do Oeste"
+    ],
+    "name:spa_x_preferred":[
+        "Shai Osudoku"
     ],
     "name:swe_x_preferred":[
         "Dangme West District"
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":1108759907,
-    "wof:lastmodified":1561840422,
+    "wof:lastmodified":1563378183,
     "wof:name":"Dangme West",
     "wof:parent_id":85671353,
     "wof:placetype":"county",

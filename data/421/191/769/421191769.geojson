@@ -59,7 +59,13 @@
     "name:rus_x_preferred":[
         "\u0412\u0438\u043d\u043d\u0435\u0431\u0435"
     ],
+    "name:rus_x_variant":[
+        "\u0412\u0438\u043d\u043d\u0435\u0431\u0430"
+    ],
     "name:slv_x_preferred":[
+        "Winneba"
+    ],
+    "name:spa_x_preferred":[
         "Winneba"
     ],
     "name:swe_x_preferred":[
@@ -220,7 +226,7 @@
         }
     ],
     "wof:id":421191769,
-    "wof:lastmodified":1561840431,
+    "wof:lastmodified":1563378444,
     "wof:name":"Winneba",
     "wof:parent_id":1108759853,
     "wof:placetype":"locality",

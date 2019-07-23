@@ -37,6 +37,9 @@
     "name:nob_x_preferred":[
         "Wenchi"
     ],
+    "name:spa_x_preferred":[
+        "Wenchi"
+    ],
     "name:swe_x_preferred":[
         "Wenchi"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421198639,
-    "wof:lastmodified":1561840431,
+    "wof:lastmodified":1563378443,
     "wof:name":"Wenchi",
     "wof:parent_id":1108759839,
     "wof:placetype":"locality",

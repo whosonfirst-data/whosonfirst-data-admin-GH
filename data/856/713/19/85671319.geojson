@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0625\u0642\u0644\u064a\u0645 \u0627\u0644\u0634\u0645\u0627\u0644\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u0642\u0648\u0632\u0626\u06cc"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0430\u045e\u043d\u043e\u0447\u043d\u044b \u0440\u044d\u0433\u0456\u0451\u043d"
     ],
@@ -43,6 +46,12 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 Septentrional"
     ],
+    "name:cat_x_variant":[
+        "regi\u00f3 Septentrional"
+    ],
+    "name:ceb_x_preferred":[
+        "Northern Region"
+    ],
     "name:dan_x_preferred":[
         "Northern"
     ],
@@ -54,6 +63,9 @@
     ],
     "name:eng_x_preferred":[
         "Northern"
+    ],
+    "name:eng_x_variant":[
+        "Northern Region"
     ],
     "name:epo_x_preferred":[
         "Norda Regiono"
@@ -67,8 +79,14 @@
     "name:fra_x_preferred":[
         "R\u00e9gion du Nord"
     ],
+    "name:frr_x_preferred":[
+        "Northern"
+    ],
     "name:guj_x_preferred":[
         "\u0aa8\u0acb\u0ab0\u0acd\u0aa7\u0aa8 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
+    ],
+    "name:hau_x_preferred":[
+        "Yankin Arewaci"
     ],
     "name:hin_x_preferred":[
         "\u0909\u0924\u094d\u0924\u0930\u0940 \u092a\u094d\u0930\u093e\u0902\u0924"
@@ -87,6 +105,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubd81\ubd80 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubd81\ubd80\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Zieme\u013cu re\u0123ions"
@@ -150,6 +171,9 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Mi\u1ec1n Nam"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10dd\u10dd\u10e0\u10e3\u10d4 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
     ],
     "name:zho_x_preferred":[
         "\u5317\u90e8\u5730\u5340"
@@ -280,7 +304,7 @@
         "ewe",
         "gaa"
     ],
-    "wof:lastmodified":1561840408,
+    "wof:lastmodified":1563377611,
     "wof:name":"Northern",
     "wof:parent_id":85632189,
     "wof:placetype":"region",

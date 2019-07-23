@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u0410\u0441\u0430\u043c\u0430\u043d\u043a\u0435\u0441\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Asamankese"
+    ],
     "name:dan_x_preferred":[
         "Asamankese"
     ],
@@ -47,6 +50,9 @@
         "Asamankese"
     ],
     "name:pol_x_preferred":[
+        "Asamankese"
+    ],
+    "name:spa_x_preferred":[
         "Asamankese"
     ],
     "name:swe_x_preferred":[
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1125913009,
-    "wof:lastmodified":1561840432,
+    "wof:lastmodified":1563378464,
     "wof:name":"Asamankese",
     "wof:parent_id":1108759897,
     "wof:placetype":"locality",

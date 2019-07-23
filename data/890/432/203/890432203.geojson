@@ -15,8 +15,14 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:azb_x_preferred":[
+        "\u0627\u06a9\u0631\u0627\u067e\u0627\u0646\u0642"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u043a\u0440\u043e\u043f\u043e\u043d\u0433"
+    ],
+    "name:ceb_x_preferred":[
+        "Akropong"
     ],
     "name:eng_x_preferred":[
         "Akropong"
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":890432203,
-    "wof:lastmodified":1561840432,
+    "wof:lastmodified":1563378458,
     "wof:name":"Akropong",
     "wof:parent_id":1108759871,
     "wof:placetype":"locality",

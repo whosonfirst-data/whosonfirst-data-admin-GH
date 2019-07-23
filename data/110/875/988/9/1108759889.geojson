@@ -33,8 +33,14 @@
     "mps:longitude":-0.687829,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Kwahu South"
+    ],
     "name:eng_x_preferred":[
         "Kwahu South"
+    ],
+    "name:eng_x_variant":[
+        "Kwahu South District"
     ],
     "name:fra_x_preferred":[
         "Kwahu sud"
@@ -47,6 +53,9 @@
     ],
     "name:pol_x_preferred":[
         "Kwahu South"
+    ],
+    "name:spa_x_preferred":[
+        "Kwahu Sur"
     ],
     "name:swe_x_preferred":[
         "Kwahu South"
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":1108759889,
-    "wof:lastmodified":1561840425,
+    "wof:lastmodified":1563378204,
     "wof:name":"Kwahu South",
     "wof:parent_id":85671343,
     "wof:placetype":"county",

@@ -33,8 +33,14 @@
     "mps:longitude":0.473089,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Dangme East District"
+    ],
     "name:eng_x_preferred":[
         "Dangbe East"
+    ],
+    "name:eng_x_variant":[
+        "Dangme East District"
     ],
     "name:fra_x_preferred":[
         "Dangme est"
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1108759903,
-    "wof:lastmodified":1561840422,
+    "wof:lastmodified":1563378184,
     "wof:name":"Dangme East",
     "wof:parent_id":85671353,
     "wof:placetype":"county",

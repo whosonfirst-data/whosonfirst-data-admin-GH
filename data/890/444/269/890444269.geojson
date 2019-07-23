@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0443\u0445\u0443\u043c"
     ],
+    "name:ceb_x_preferred":[
+        "Suhum"
+    ],
     "name:deu_x_preferred":[
         "Suhum"
     ],
@@ -36,8 +39,14 @@
     "name:pol_x_preferred":[
         "Suhum"
     ],
+    "name:spa_x_preferred":[
+        "Suhum"
+    ],
     "name:swe_x_preferred":[
         "Suhum"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0648\u06c1\u0648\u0645"
     ],
     "qs:name":"Suhum",
     "qs:photos_9r":0,
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":890444269,
-    "wof:lastmodified":1561840432,
+    "wof:lastmodified":1563378455,
     "wof:name":"Suhum",
     "wof:parent_id":1108759895,
     "wof:placetype":"locality",

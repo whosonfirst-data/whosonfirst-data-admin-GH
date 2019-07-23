@@ -14,6 +14,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u043b\u0433\u0430\u0442\u0430\u043d\u0433\u0430"
+    ],
     "name:cat_x_preferred":[
         "Bolgatanga"
     ],
@@ -231,7 +234,7 @@
         }
     ],
     "wof:id":421195909,
-    "wof:lastmodified":1561840430,
+    "wof:lastmodified":1563378436,
     "wof:name":"Bolgatanga",
     "wof:parent_id":1108759947,
     "wof:placetype":"locality",

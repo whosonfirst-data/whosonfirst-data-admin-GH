@@ -17,6 +17,9 @@
     "name:aka_x_preferred":[
         "Sunyane"
     ],
+    "name:bel_x_preferred":[
+        "\u0421\u0443\u043d\u044c\u044f\u043d\u0456"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09c1\u09a8\u09cd\u09af\u09be\u09a8\u09bf"
     ],
@@ -42,6 +45,9 @@
         "Sunyani"
     ],
     "name:fra_x_preferred":[
+        "Sunyani"
+    ],
+    "name:frr_x_preferred":[
         "Sunyani"
     ],
     "name:guj_x_preferred":[
@@ -76,6 +82,9 @@
     ],
     "name:lit_x_preferred":[
         "Sunjanis"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d38\u0d41\u0d28\u0d4d\u0d2f\u0d3e\u0d28\u0d3f"
     ],
     "name:mar_x_preferred":[
         "\u0938\u0941\u0928\u0940\u0906\u0923\u093f"
@@ -271,7 +280,7 @@
         }
     ],
     "wof:id":421168043,
-    "wof:lastmodified":1561840430,
+    "wof:lastmodified":1563378435,
     "wof:name":"Sunyani",
     "wof:parent_id":1108759831,
     "wof:placetype":"locality",

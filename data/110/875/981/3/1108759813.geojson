@@ -36,11 +36,17 @@
     "name:bul_x_preferred":[
         "\u0410\u0441\u0443\u0442\u0438\u0444\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Asutifi"
+    ],
     "name:deu_x_preferred":[
         "Asutifi District"
     ],
     "name:eng_x_preferred":[
         "Asutifi"
+    ],
+    "name:eng_x_variant":[
+        "Asutifi District"
     ],
     "name:fra_x_preferred":[
         "Asutifi"
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1108759813,
-    "wof:lastmodified":1561840425,
+    "wof:lastmodified":1563378207,
     "wof:name":"Asutifi",
     "wof:parent_id":85671337,
     "wof:placetype":"county",

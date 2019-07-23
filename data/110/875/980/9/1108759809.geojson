@@ -36,11 +36,17 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0645\u0627\u0628\u0648\u0646\u063a \u0627\u0644\u0645\u062d\u0644\u064a\u0629"
     ],
+    "name:ceb_x_preferred":[
+        "Mampong"
+    ],
     "name:deu_x_preferred":[
         "Sekyere West District"
     ],
     "name:eng_x_preferred":[
         "Sekyere West"
+    ],
+    "name:eng_x_variant":[
+        "Mampong Municipal District"
     ],
     "name:fra_x_preferred":[
         "Mampong municipalit\u00e9"
@@ -53,6 +59,9 @@
     ],
     "name:pol_x_preferred":[
         "Sekyere West"
+    ],
+    "name:spa_x_preferred":[
+        "Mampong"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":1108759809,
-    "wof:lastmodified":1561840424,
+    "wof:lastmodified":1563378201,
     "wof:name":"Sekyere West",
     "wof:parent_id":85671331,
     "wof:placetype":"county",
