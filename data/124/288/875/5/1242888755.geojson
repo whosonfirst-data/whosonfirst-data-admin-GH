@@ -25,6 +25,12 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aka_x_preferred":[
+        "Prampram"
+    ],
+    "name:swe_x_preferred":[
+        "Prampram"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1242888755,
-    "wof:lastmodified":1537563029,
+    "wof:lastmodified":1564205394,
     "wof:name":"Prampram",
     "wof:parent_id":1108759907,
     "wof:placetype":"locality",

@@ -31,6 +31,27 @@
     "name:eng_x_variant":[
         "Ango"
     ],
+    "name:fra_x_preferred":[
+        "Kukukukus"
+    ],
+    "name:hrv_x_preferred":[
+        "Kukukuku"
+    ],
+    "name:hun_x_preferred":[
+        "Kukukukuk"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30ab\u30af\u30ab\u65cf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10dc\u10d2\u10e3"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0433\u0443"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u5361\u5eab\u5361\u4eba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1193025917,
-    "wof:lastmodified":1537623791,
+    "wof:lastmodified":1564205000,
     "wof:name":"Angu",
     "wof:parent_id":1108760005,
     "wof:placetype":"locality",

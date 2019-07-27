@@ -25,6 +25,21 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Zinga"
+    ],
+    "name:deu_x_preferred":[
+        "Zinga"
+    ],
+    "name:fra_x_preferred":[
+        "Zinga"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30f3\u30ac"
+    ],
+    "name:swe_x_preferred":[
+        "Zinga"
+    ],
     "name:und_x_variant":[
         "Paga Zenga",
         "Zinga"
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1242687929,
-    "wof:lastmodified":1537623396,
+    "wof:lastmodified":1564205408,
     "wof:name":"Zinga",
     "wof:parent_id":1108759953,
     "wof:placetype":"locality",

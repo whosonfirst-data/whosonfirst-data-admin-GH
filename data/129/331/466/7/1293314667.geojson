@@ -25,10 +25,19 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Saboba"
+    ],
+    "name:swe_x_preferred":[
+        "Saboba"
+    ],
     "name:und_x_variant":[
         "Chopowa",
         "Tschopowa",
         "Saboba"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0628\u0648\u0628\u0627"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1293314667,
-    "wof:lastmodified":1537623471,
+    "wof:lastmodified":1564204474,
     "wof:name":"Saboba",
     "wof:parent_id":1108759929,
     "wof:placetype":"locality",

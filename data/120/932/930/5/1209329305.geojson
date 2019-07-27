@@ -25,6 +25,21 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Wala"
+    ],
+    "name:deu_x_preferred":[
+        "Wala"
+    ],
+    "name:fra_x_preferred":[
+        "Wala"
+    ],
+    "name:swe_x_preferred":[
+        "Wala"
+    ],
+    "name:tgl_x_preferred":[
+        "Wala"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632189
@@ -42,7 +57,7 @@
         }
     ],
     "wof:id":1209329305,
-    "wof:lastmodified":1536290424,
+    "wof:lastmodified":1564204887,
     "wof:name":"Wala",
     "wof:parent_id":85632189,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Akoto"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1327152385,
-    "wof:lastmodified":1537081939,
+    "wof:lastmodified":1564204173,
     "wof:name":"Akoto",
     "wof:parent_id":1108760007,
     "wof:placetype":"locality",

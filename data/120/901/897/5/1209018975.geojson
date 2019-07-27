@@ -25,6 +25,21 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Budu"
+    ],
+    "name:deu_x_preferred":[
+        "Budu"
+    ],
+    "name:fra_x_preferred":[
+        "Budu"
+    ],
+    "name:swe_x_preferred":[
+        "Budu"
+    ],
+    "name:tgl_x_preferred":[
+        "Budu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632189
@@ -34,7 +49,7 @@
         "gn:id":2302511
     },
     "wof:country":"GH",
-    "wof:geomhash":"98c3873b9e1d17cb62381e0e2a27718a",
+    "wof:geomhash":"6f915106b01e5dc315cb42ae647f9714",
     "wof:hierarchy":[
         {
             "country_id":85632189,
@@ -42,7 +57,7 @@
         }
     ],
     "wof:id":1209018975,
-    "wof:lastmodified":1536300205,
+    "wof:lastmodified":1564204823,
     "wof:name":"Budu",
     "wof:parent_id":85632189,
     "wof:placetype":"locality",
@@ -53,9 +68,9 @@
 },
   "bbox": [
     -0.28333,
-    5.9333300000000015,
+    5.93333,
     -0.28333,
-    5.9333300000000015
+    5.93333
 ],
   "geometry": {"coordinates":[-0.28333,5.93333],"type":"Point"}
 }

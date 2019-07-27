@@ -25,6 +25,15 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Watoro"
+    ],
+    "name:fra_x_preferred":[
+        "Watoro"
+    ],
+    "name:spa_x_preferred":[
+        "Watoro"
+    ],
     "name:und_x_variant":[
         "Watraw",
         "Watoro"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1327241697,
-    "wof:lastmodified":1537623415,
+    "wof:lastmodified":1564204177,
     "wof:name":"Watoro",
     "wof:parent_id":1108759817,
     "wof:placetype":"locality",

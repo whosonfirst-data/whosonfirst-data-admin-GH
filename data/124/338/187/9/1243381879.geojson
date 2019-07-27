@@ -26,6 +26,12 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Dovi"
+    ],
+    "name:msa_x_preferred":[
+        "Dovi"
+    ],
     "name:und_x_variant":[
         "Dove",
         "Dovi"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1243381879,
-    "wof:lastmodified":1537623683,
+    "wof:lastmodified":1564205352,
     "wof:name":"Dovi",
     "wof:parent_id":1108759983,
     "wof:placetype":"locality",

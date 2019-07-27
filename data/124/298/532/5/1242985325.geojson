@@ -25,6 +25,9 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aka_x_preferred":[
+        "Anwomaso"
+    ],
     "name:und_x_variant":[
         "Anwuinaso",
         "Anwomaso",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1242985325,
-    "wof:lastmodified":1537623786,
+    "wof:lastmodified":1564205492,
     "wof:name":"Anwomaso",
     "wof:parent_id":1108759795,
     "wof:placetype":"locality",

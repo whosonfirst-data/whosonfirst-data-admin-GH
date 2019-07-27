@@ -25,6 +25,9 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Biong"
+    ],
     "name:und_x_variant":[
         "Beo",
         "Biong"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1360194789,
-    "wof:lastmodified":1537623735,
+    "wof:lastmodified":1564205280,
     "wof:name":"Biong",
     "wof:parent_id":1108759949,
     "wof:placetype":"locality",

@@ -25,8 +25,17 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tosale"
+    ],
+    "name:swe_x_preferred":[
+        "Tosale"
+    ],
     "name:und_x_variant":[
         "Tosara",
+        "Tosale"
+    ],
+    "name:war_x_preferred":[
         "Tosale"
     ],
     "src:geom":"geonames",
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1277089207,
-    "wof:lastmodified":1537623426,
+    "wof:lastmodified":1564204650,
     "wof:name":"Tosale",
     "wof:parent_id":1108759929,
     "wof:placetype":"locality",

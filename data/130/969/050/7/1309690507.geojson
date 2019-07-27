@@ -25,6 +25,18 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Tumu"
+    ],
+    "name:ita_x_preferred":[
+        "Tumu"
+    ],
+    "name:pol_x_preferred":[
+        "Tumu"
+    ],
+    "name:swe_x_preferred":[
+        "Tumu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1309690507,
-    "wof:lastmodified":1537563024,
+    "wof:lastmodified":1564205310,
     "wof:name":"Tumu",
     "wof:parent_id":1108759963,
     "wof:placetype":"locality",

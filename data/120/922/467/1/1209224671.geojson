@@ -25,6 +25,18 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sambu"
+    ],
+    "name:deu_x_preferred":[
+        "Sambu"
+    ],
+    "name:fra_x_preferred":[
+        "Sambu"
+    ],
+    "name:swe_x_preferred":[
+        "Sambu"
+    ],
     "name:und_x_variant":[
         "Ssambu",
         "Sambu"
@@ -46,7 +58,7 @@
         }
     ],
     "wof:id":1209224671,
-    "wof:lastmodified":1537623467,
+    "wof:lastmodified":1564204875,
     "wof:name":"Sambu",
     "wof:parent_id":85632189,
     "wof:placetype":"locality",

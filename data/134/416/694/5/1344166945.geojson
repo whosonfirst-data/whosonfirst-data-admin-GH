@@ -25,6 +25,21 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Badu"
+    ],
+    "name:deu_x_preferred":[
+        "Badu"
+    ],
+    "name:fra_x_preferred":[
+        "Badu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0434\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Badu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1344166945,
-    "wof:lastmodified":1536722191,
+    "wof:lastmodified":1564204425,
     "wof:name":"Badu",
     "wof:parent_id":1108759839,
     "wof:placetype":"locality",

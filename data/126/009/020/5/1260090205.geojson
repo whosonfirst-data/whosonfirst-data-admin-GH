@@ -25,6 +25,12 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Wamfie"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u6885\u83f2\u57c3"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1260090205,
-    "wof:lastmodified":1537563023,
+    "wof:lastmodified":1564205016,
     "wof:name":"Wamfie",
     "wof:parent_id":1108759821,
     "wof:placetype":"locality",

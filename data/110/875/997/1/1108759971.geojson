@@ -36,6 +36,18 @@
     "name:eng_x_preferred":[
         "Ho"
     ],
+    "name:hun_x_preferred":[
+        "Ho"
+    ],
+    "name:ind_x_preferred":[
+        "Ho"
+    ],
+    "name:spa_x_preferred":[
+        "Ho"
+    ],
+    "name:vie_x_preferred":[
+        "Ho"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -71,7 +83,7 @@
         }
     ],
     "wof:id":1108759971,
-    "wof:lastmodified":1553718732,
+    "wof:lastmodified":1564205061,
     "wof:name":"Ho",
     "wof:parent_id":85671357,
     "wof:placetype":"county",

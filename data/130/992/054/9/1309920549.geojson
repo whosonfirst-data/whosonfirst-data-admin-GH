@@ -25,6 +25,9 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swa_x_preferred":[
+        "Nyasa"
+    ],
     "name:und_x_variant":[
         "Sandema Nyansa",
         "Nyasa"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1309920549,
-    "wof:lastmodified":1537623507,
+    "wof:lastmodified":1564205304,
     "wof:name":"Nyasa",
     "wof:parent_id":1108759951,
     "wof:placetype":"locality",

@@ -26,6 +26,12 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dafo"
+    ],
+    "name:swe_x_preferred":[
+        "Dafo"
+    ],
     "name:und_x_variant":[
         "Daafoo",
         "Dafo"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1327144363,
-    "wof:lastmodified":1537623703,
+    "wof:lastmodified":1564204165,
     "wof:name":"Dafo",
     "wof:parent_id":1108759829,
     "wof:placetype":"locality",

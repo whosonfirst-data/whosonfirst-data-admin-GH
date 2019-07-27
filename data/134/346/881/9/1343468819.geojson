@@ -26,6 +26,30 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Go"
+    ],
+    "name:est_x_preferred":[
+        "Go"
+    ],
+    "name:fin_x_preferred":[
+        "Go"
+    ],
+    "name:hun_x_preferred":[
+        "Go"
+    ],
+    "name:pol_x_preferred":[
+        "Go"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Go"
+    ],
+    "name:tur_x_preferred":[
+        "Go"
+    ],
     "name:und_x_variant":[
         "Gogo",
         "Goo Abokobisi",
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1343468819,
-    "wof:lastmodified":1537623648,
+    "wof:lastmodified":1564204343,
     "wof:name":"Go",
     "wof:parent_id":1108759949,
     "wof:placetype":"locality",

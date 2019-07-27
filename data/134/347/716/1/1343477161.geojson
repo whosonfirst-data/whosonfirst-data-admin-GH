@@ -25,6 +25,24 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tua"
+    ],
+    "name:deu_x_preferred":[
+        "Tua"
+    ],
+    "name:nno_x_preferred":[
+        "Tua"
+    ],
+    "name:nor_x_preferred":[
+        "Tua"
+    ],
+    "name:por_x_preferred":[
+        "Tua"
+    ],
+    "name:swe_x_preferred":[
+        "Tua"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1343477161,
-    "wof:lastmodified":1536722375,
+    "wof:lastmodified":1564204370,
     "wof:name":"Tua",
     "wof:parent_id":1108759933,
     "wof:placetype":"locality",

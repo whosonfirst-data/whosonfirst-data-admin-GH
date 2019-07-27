@@ -25,6 +25,24 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Aku"
+    ],
+    "name:deu_x_preferred":[
+        "Aku"
+    ],
+    "name:ind_x_preferred":[
+        "Aku"
+    ],
+    "name:mlg_x_preferred":[
+        "Aku"
+    ],
+    "name:nld_x_preferred":[
+        "Aku"
+    ],
+    "name:swe_x_preferred":[
+        "Aku"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1226452677,
-    "wof:lastmodified":1536634063,
+    "wof:lastmodified":1564205690,
     "wof:name":"Aku",
     "wof:parent_id":1108759845,
     "wof:placetype":"locality",

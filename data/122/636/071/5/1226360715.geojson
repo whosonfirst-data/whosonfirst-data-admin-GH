@@ -28,10 +28,31 @@
     "name:eng_x_preferred":[
         "Kunsu"
     ],
+    "name:est_x_preferred":[
+        "Kunsu"
+    ],
+    "name:fra_x_preferred":[
+        "Kunsu"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0582\u0576\u057d\u0578\u0582"
+    ],
+    "name:pol_x_preferred":[
+        "Kunsu"
+    ],
+    "name:sco_x_preferred":[
+        "Kunsu"
+    ],
+    "name:spa_x_preferred":[
+        "Kunsu"
+    ],
     "name:und_x_variant":[
         "Kumsu",
         "Kunso Cottages",
         "Kunso"
+    ],
+    "name:vol_x_preferred":[
+        "Kunsu"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +77,7 @@
         }
     ],
     "wof:id":1226360715,
-    "wof:lastmodified":1537623581,
+    "wof:lastmodified":1564205827,
     "wof:name":"Kunsu",
     "wof:parent_id":1108759781,
     "wof:placetype":"locality",

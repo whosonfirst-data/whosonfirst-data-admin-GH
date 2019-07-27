@@ -25,6 +25,27 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Heil"
+    ],
+    "name:fin_x_preferred":[
+        "Heil"
+    ],
+    "name:fra_x_preferred":[
+        "Heil"
+    ],
+    "name:ita_x_preferred":[
+        "Heil"
+    ],
+    "name:pol_x_preferred":[
+        "Heil"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0439\u043b\u044c"
+    ],
+    "name:swe_x_preferred":[
+        "Heil"
+    ],
     "name:und_x_variant":[
         "Hiel",
         "Heil"
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1225962375,
-    "wof:lastmodified":1537623640,
+    "wof:lastmodified":1564205750,
     "wof:name":"Heil",
     "wof:parent_id":1108759963,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:eng_x_variant":[
         "Akyease"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0686\u06cc\u0627\u0633\u06cc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1277088847,
-    "wof:lastmodified":1537623843,
+    "wof:lastmodified":1564204647,
     "wof:name":"Achiasi",
     "wof:parent_id":1108759783,
     "wof:placetype":"locality",

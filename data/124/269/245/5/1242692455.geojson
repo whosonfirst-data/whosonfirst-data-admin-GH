@@ -26,6 +26,15 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Juaso"
+    ],
+    "name:pol_x_preferred":[
+        "Juaso"
+    ],
+    "name:swe_x_preferred":[
+        "Juaso"
+    ],
     "name:und_x_variant":[
         "Dwaaso",
         "Juaso"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1242692455,
-    "wof:lastmodified":1537623622,
+    "wof:lastmodified":1564205429,
     "wof:name":"Juaso",
     "wof:parent_id":1108759789,
     "wof:placetype":"locality",

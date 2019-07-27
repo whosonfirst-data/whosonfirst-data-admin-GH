@@ -26,6 +26,9 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Zare"
+    ],
     "name:und_x_variant":[
         "Zarie",
         "Zare Akusiabisi",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1310319757,
-    "wof:lastmodified":1537623398,
+    "wof:lastmodified":1564205124,
     "wof:name":"Zare",
     "wof:parent_id":1108759947,
     "wof:placetype":"locality",

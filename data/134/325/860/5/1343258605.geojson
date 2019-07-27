@@ -25,7 +25,16 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u0646\u0627\u062c\u06cc"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u0627\u062c\u06cc"
+    ],
     "name:und_x_variant":[
+        "Anaji"
+    ],
+    "name:vie_x_preferred":[
         "Anaji"
     ],
     "src:geom":"geonames",
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1343258605,
-    "wof:lastmodified":1537623793,
+    "wof:lastmodified":1564204375,
     "wof:name":"Anagyi",
     "wof:parent_id":1108760007,
     "wof:placetype":"locality",

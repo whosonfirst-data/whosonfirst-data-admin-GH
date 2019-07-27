@@ -25,6 +25,12 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ewe_x_preferred":[
+        "\u01b2egbe Kpalime"
+    ],
+    "name:twi_x_preferred":[
+        "Wegbe Kpalime"
+    ],
     "name:und_x_variant":[
         "Wegbe Kpalime",
         "Wegbe"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1343476901,
-    "wof:lastmodified":1537623414,
+    "wof:lastmodified":1564204369,
     "wof:name":"Wegbe",
     "wof:parent_id":1108759971,
     "wof:placetype":"locality",

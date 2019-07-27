@@ -33,8 +33,17 @@
     "mps:longitude":-1.297124,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Asens"
+    ],
+    "name:deu_x_preferred":[
+        "Assin"
+    ],
     "name:eng_x_preferred":[
         "Assin"
+    ],
+    "name:epo_x_preferred":[
+        "Asenoj"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -71,7 +80,7 @@
         }
     ],
     "wof:id":1108759849,
-    "wof:lastmodified":1553718728,
+    "wof:lastmodified":1564205064,
     "wof:name":"Assin",
     "wof:parent_id":85671341,
     "wof:placetype":"county",

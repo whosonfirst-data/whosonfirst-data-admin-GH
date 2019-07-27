@@ -25,6 +25,18 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tapere"
+    ],
+    "name:ita_x_preferred":[
+        "Tapere"
+    ],
+    "name:lit_x_preferred":[
+        "Tapere"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043f\u0435\u0440\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1276133667,
-    "wof:lastmodified":1537044283,
+    "wof:lastmodified":1564204729,
     "wof:name":"Tapere",
     "wof:parent_id":1108759849,
     "wof:placetype":"locality",

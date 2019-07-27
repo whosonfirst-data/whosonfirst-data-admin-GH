@@ -25,6 +25,33 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Boso"
+    ],
+    "name:deu_x_preferred":[
+        "Boso"
+    ],
+    "name:fra_x_preferred":[
+        "Boso"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u0566\u0578\u0576"
+    ],
+    "name:nld_x_preferred":[
+        "Boso"
+    ],
+    "name:pol_x_preferred":[
+        "Boso"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0437\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Boso"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0441\u043e"
+    ],
     "name:und_x_variant":[
         "Adaklu Boso",
         "Boso"
@@ -52,7 +79,7 @@
         }
     ],
     "wof:id":1344166881,
-    "wof:lastmodified":1537623725,
+    "wof:lastmodified":1564204424,
     "wof:name":"Boso",
     "wof:parent_id":1108759967,
     "wof:placetype":"locality",

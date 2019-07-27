@@ -25,6 +25,12 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bremang"
+    ],
+    "name:swe_x_preferred":[
+        "Bremang"
+    ],
     "name:und_x_variant":[
         "Asankran Breman",
         "Bremang"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1260303701,
-    "wof:lastmodified":1537623723,
+    "wof:lastmodified":1564205026,
     "wof:name":"Bremang",
     "wof:parent_id":1108760015,
     "wof:placetype":"locality",

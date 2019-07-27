@@ -25,6 +25,9 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Nsuatre"
+    ],
     "name:und_x_variant":[
         "Suatre",
         "Nsuatre",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1259392593,
-    "wof:lastmodified":1537623519,
+    "wof:lastmodified":1564205548,
     "wof:name":"Nsoatre",
     "wof:parent_id":1108759831,
     "wof:placetype":"locality",

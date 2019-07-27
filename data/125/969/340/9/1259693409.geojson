@@ -25,6 +25,9 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Onibi"
+    ],
     "name:und_x_variant":[
         "Onibie"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1259693409,
-    "wof:lastmodified":1537623491,
+    "wof:lastmodified":1564205631,
     "wof:name":"Onibi",
     "wof:parent_id":1108759909,
     "wof:placetype":"locality",

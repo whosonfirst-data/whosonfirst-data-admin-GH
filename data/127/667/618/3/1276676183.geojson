@@ -25,6 +25,24 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kogo"
+    ],
+    "name:deu_x_preferred":[
+        "Kogo"
+    ],
+    "name:fra_x_preferred":[
+        "Kogo"
+    ],
+    "name:ita_x_preferred":[
+        "Kogo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0433\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Kogo"
+    ],
     "name:und_x_variant":[
         "Kukogo",
         "Kogo"
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1276676183,
-    "wof:lastmodified":1537623604,
+    "wof:lastmodified":1564204695,
     "wof:name":"Kogo",
     "wof:parent_id":1108759945,
     "wof:placetype":"locality",

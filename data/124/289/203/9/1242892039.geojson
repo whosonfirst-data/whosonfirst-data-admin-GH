@@ -25,6 +25,9 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Kumawu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1242892039,
-    "wof:lastmodified":1537563039,
+    "wof:lastmodified":1564205388,
     "wof:name":"Kumawu",
     "wof:parent_id":1108759807,
     "wof:placetype":"locality",

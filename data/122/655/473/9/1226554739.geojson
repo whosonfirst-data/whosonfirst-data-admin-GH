@@ -25,6 +25,9 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Somanya"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1226554739,
-    "wof:lastmodified":1537563027,
+    "wof:lastmodified":1564205801,
     "wof:name":"Somanya",
     "wof:parent_id":1108759899,
     "wof:placetype":"locality",

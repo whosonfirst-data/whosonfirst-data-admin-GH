@@ -25,6 +25,9 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nld_x_preferred":[
+        "Ducie"
+    ],
     "name:und_x_variant":[
         "Dusie",
         "Ducie"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1276633563,
-    "wof:lastmodified":1537623680,
+    "wof:lastmodified":1564204793,
     "wof:name":"Ducie",
     "wof:parent_id":1108759965,
     "wof:placetype":"locality",

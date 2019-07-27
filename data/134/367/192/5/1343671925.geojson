@@ -25,6 +25,12 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pawa"
+    ],
+    "name:deu_x_preferred":[
+        "Pawa"
+    ],
     "name:und_x_variant":[
         "Paua",
         "Pawa"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1343671925,
-    "wof:lastmodified":1537623482,
+    "wof:lastmodified":1564204397,
     "wof:name":"Pawa",
     "wof:parent_id":1108759989,
     "wof:placetype":"locality",

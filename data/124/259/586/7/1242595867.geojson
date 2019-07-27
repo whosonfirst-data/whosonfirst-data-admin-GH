@@ -25,6 +25,12 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Nsuta"
+    ],
+    "name:zho_x_preferred":[
+        "\u6069\u8607\u5854"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1242595867,
-    "wof:lastmodified":1537035774,
+    "wof:lastmodified":1564205415,
     "wof:name":"Nsuta",
     "wof:parent_id":1108759849,
     "wof:placetype":"locality",

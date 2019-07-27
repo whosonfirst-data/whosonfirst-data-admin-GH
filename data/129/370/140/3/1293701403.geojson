@@ -26,6 +26,15 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qay\u011fanaq"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0627\u06af\u06cc\u0646\u0647"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0915\u0942\u0930\u0940"
+    ],
     "name:und_x_variant":[
         "Gure",
         "Akure",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1293701403,
-    "wof:lastmodified":1537623803,
+    "wof:lastmodified":1564204535,
     "wof:name":"Akuri",
     "wof:parent_id":1108759945,
     "wof:placetype":"locality",

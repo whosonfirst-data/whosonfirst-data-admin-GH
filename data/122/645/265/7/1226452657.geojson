@@ -25,6 +25,9 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Querab"
+    ],
     "name:und_x_variant":[
         "Abaam",
         "Abeam"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1226452657,
-    "wof:lastmodified":1537623854,
+    "wof:lastmodified":1564205695,
     "wof:name":"Abeam",
     "wof:parent_id":1108759885,
     "wof:placetype":"locality",

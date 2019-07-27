@@ -26,6 +26,18 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Shama"
+    ],
+    "name:deu_x_preferred":[
+        "Shama"
+    ],
+    "name:fra_x_preferred":[
+        "Shama"
+    ],
+    "name:swe_x_preferred":[
+        "Shama"
+    ],
     "name:und_x_variant":[
         "Chama",
         "Sima",
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1260090083,
-    "wof:lastmodified":1537623457,
+    "wof:lastmodified":1564205014,
     "wof:name":"Shama",
     "wof:parent_id":1108760011,
     "wof:placetype":"locality",

@@ -25,6 +25,21 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tale"
+    ],
+    "name:deu_x_preferred":[
+        "Tale"
+    ],
+    "name:snd_x_preferred":[
+        "\u062f\u0627\u0633\u062a\u0627\u0646"
+    ],
+    "name:swe_x_preferred":[
+        "Tale"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1f\u0c47\u0c32\u0c4d"
+    ],
     "name:und_x_variant":[
         "Taali",
         "Tale"
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1193151769,
-    "wof:lastmodified":1537623442,
+    "wof:lastmodified":1564204980,
     "wof:name":"Tale",
     "wof:parent_id":1108759927,
     "wof:placetype":"locality",

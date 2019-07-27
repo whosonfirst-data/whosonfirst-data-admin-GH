@@ -25,6 +25,21 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bekwai"
+    ],
+    "name:deu_x_preferred":[
+        "Bekwai"
+    ],
+    "name:pol_x_preferred":[
+        "Bekwai"
+    ],
+    "name:spa_x_preferred":[
+        "Bekwai"
+    ],
+    "name:swe_x_preferred":[
+        "Bekwai"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1326740621,
-    "wof:lastmodified":1536683495,
+    "wof:lastmodified":1564204133,
     "wof:name":"Bekwai",
     "wof:parent_id":1108760015,
     "wof:placetype":"locality",

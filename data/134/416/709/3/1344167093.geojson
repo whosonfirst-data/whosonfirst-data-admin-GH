@@ -25,6 +25,15 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aka_x_preferred":[
+        "Boankra"
+    ],
+    "name:ceb_x_preferred":[
+        "Boankra"
+    ],
+    "name:swe_x_preferred":[
+        "Boankra"
+    ],
     "name:und_x_variant":[
         "Boankra Cottages",
         "Boankra"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1344167093,
-    "wof:lastmodified":1537623732,
+    "wof:lastmodified":1564204423,
     "wof:name":"Boankra",
     "wof:parent_id":1108759795,
     "wof:placetype":"locality",

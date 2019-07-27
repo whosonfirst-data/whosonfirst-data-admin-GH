@@ -25,6 +25,9 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Kono"
+    ],
     "name:und_x_variant":[
         "Gonukpota",
         "Gonu"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1276773179,
-    "wof:lastmodified":1537623647,
+    "wof:lastmodified":1564204771,
     "wof:name":"Gonu",
     "wof:parent_id":1108759981,
     "wof:placetype":"locality",

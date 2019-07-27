@@ -25,6 +25,9 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "New Abirem"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1343761333,
-    "wof:lastmodified":1537563065,
+    "wof:lastmodified":1564204359,
     "wof:name":"New Abirem",
     "wof:parent_id":1108759877,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ron_x_preferred":[
+        "Dzodze"
+    ],
+    "name:spa_x_preferred":[
+        "Dzodze"
+    ],
+    "name:swe_x_preferred":[
+        "Dzodze"
+    ],
     "name:und_x_variant":[
         "Djoje",
         "Dzodze"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1310425707,
-    "wof:lastmodified":1537623676,
+    "wof:lastmodified":1564205147,
     "wof:name":"Dzodze",
     "wof:parent_id":1108759983,
     "wof:placetype":"locality",

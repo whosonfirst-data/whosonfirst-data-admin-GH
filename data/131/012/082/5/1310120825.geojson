@@ -29,6 +29,9 @@
         "Dabre",
         "Dabri"
     ],
+    "name:urd_x_preferred":[
+        "\u062f\u0627\u0628\u0691\u06cc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1310120825,
-    "wof:lastmodified":1537623704,
+    "wof:lastmodified":1564205076,
     "wof:name":"Dabri",
     "wof:parent_id":1108759859,
     "wof:placetype":"locality",

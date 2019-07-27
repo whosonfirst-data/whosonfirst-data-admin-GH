@@ -25,6 +25,12 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aka_x_preferred":[
+        "Sakumono"
+    ],
+    "name:spa_x_preferred":[
+        "Sakumono"
+    ],
     "name:und_x_variant":[
         "Sakumono Estates",
         "Sakumona"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1276242835,
-    "wof:lastmodified":1537623469,
+    "wof:lastmodified":1564204749,
     "wof:name":"Sakumona",
     "wof:parent_id":1108759911,
     "wof:placetype":"locality",

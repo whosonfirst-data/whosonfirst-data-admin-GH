@@ -25,6 +25,18 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bumbuna"
+    ],
+    "name:fin_x_preferred":[
+        "Bumbuna"
+    ],
+    "name:por_x_preferred":[
+        "Bumbuna"
+    ],
+    "name:tur_x_preferred":[
+        "Bumbuna"
+    ],
     "name:und_x_variant":[
         "Bunbuna",
         "Bumbuna"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1360103033,
-    "wof:lastmodified":1537623716,
+    "wof:lastmodified":1564205277,
     "wof:name":"Bumbuna",
     "wof:parent_id":1108759917,
     "wof:placetype":"locality",

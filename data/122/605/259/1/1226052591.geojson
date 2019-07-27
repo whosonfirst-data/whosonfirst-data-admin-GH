@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Enkye"
     ],
+    "name:swe_x_preferred":[
+        "Enchi"
+    ],
     "name:und_x_variant":[
         "Nkyi",
         "Enkyi",
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1226052591,
-    "wof:lastmodified":1537623668,
+    "wof:lastmodified":1564205708,
     "wof:name":"Enkye",
     "wof:parent_id":1108759997,
     "wof:placetype":"locality",

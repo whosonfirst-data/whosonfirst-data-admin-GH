@@ -25,6 +25,9 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Chereponi"
+    ],
     "name:und_x_variant":[
         "Djereponi",
         "Jereponi",
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1242866665,
-    "wof:lastmodified":1537623710,
+    "wof:lastmodified":1564205403,
     "wof:name":"Chereponi",
     "wof:parent_id":1108759929,
     "wof:placetype":"locality",

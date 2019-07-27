@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Kodee"
     ],
+    "name:swe_x_preferred":[
+        "Kodie"
+    ],
     "name:und_x_variant":[
         "Kodie",
         "Kwadia"
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1209332977,
-    "wof:lastmodified":1537623578,
+    "wof:lastmodified":1564204914,
     "wof:name":"Kodee",
     "wof:parent_id":85632189,
     "wof:placetype":"locality",

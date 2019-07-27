@@ -25,10 +25,16 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Kwame Danso"
+    ],
     "name:und_x_variant":[
         "Asanyakro",
         "Asanyakrom",
         "Kwame Danso"
+    ],
+    "name:zho_x_preferred":[
+        "\u5938\u6885\u4e39\u7d22"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1293307387,
-    "wof:lastmodified":1537623575,
+    "wof:lastmodified":1564204476,
     "wof:name":"Kwame Danso",
     "wof:parent_id":1108759829,
     "wof:placetype":"locality",

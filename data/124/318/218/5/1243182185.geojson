@@ -25,6 +25,9 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Prang"
+    ],
     "name:und_x_variant":[
         "Pran",
         "Prang"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1243182185,
-    "wof:lastmodified":1537623475,
+    "wof:lastmodified":1564205508,
     "wof:name":"Prang",
     "wof:parent_id":1108759817,
     "wof:placetype":"locality",

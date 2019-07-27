@@ -25,6 +25,15 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Vano"
+    ],
+    "name:fra_x_preferred":[
+        "Vano"
+    ],
+    "name:ita_x_preferred":[
+        "Vano"
+    ],
     "name:und_x_variant":[
         "Vana",
         "Vano"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1226765985,
-    "wof:lastmodified":1537623420,
+    "wof:lastmodified":1564205768,
     "wof:name":"Vano",
     "wof:parent_id":1108759919,
     "wof:placetype":"locality",

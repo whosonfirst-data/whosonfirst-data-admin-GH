@@ -25,8 +25,14 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u0628\u0648\u0627\u0633\u0648"
+    ],
     "name:eng_x_preferred":[
         "Aboaso"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0628\u0648\u0627\u0633\u0648"
     ],
     "name:und_x_variant":[
         "Abooso",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1360300351,
-    "wof:lastmodified":1537623845,
+    "wof:lastmodified":1564205257,
     "wof:name":"Aboaso",
     "wof:parent_id":1108759783,
     "wof:placetype":"locality",

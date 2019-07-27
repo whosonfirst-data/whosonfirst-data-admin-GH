@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "Pepe"
     ],
+    "name:ind_x_preferred":[
+        "Pepe"
+    ],
+    "name:spa_x_preferred":[
+        "Pepe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1226765631,
-    "wof:lastmodified":1537623480,
+    "wof:lastmodified":1564205767,
     "wof:name":"Pepe",
     "wof:parent_id":1108759773,
     "wof:placetype":"locality",

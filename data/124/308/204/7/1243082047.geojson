@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Hu"
     ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0443"
+    ],
     "name:und_x_variant":[
         "Huu",
         "Hun"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1243082047,
-    "wof:lastmodified":1537623636,
+    "wof:lastmodified":1564205374,
     "wof:name":"Hu",
     "wof:parent_id":1108759783,
     "wof:placetype":"locality",

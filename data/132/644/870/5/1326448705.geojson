@@ -25,6 +25,15 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Busunya"
+    ],
+    "name:swe_x_preferred":[
+        "Busunya"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u8607\u5c3c\u4e9e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1326448705,
-    "wof:lastmodified":1537563052,
+    "wof:lastmodified":1564204128,
     "wof:name":"Busunya",
     "wof:parent_id":1108759827,
     "wof:placetype":"locality",

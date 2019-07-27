@@ -25,9 +25,30 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bodom"
+    ],
+    "name:deu_x_preferred":[
+        "Bodom"
+    ],
+    "name:fin_x_preferred":[
+        "Bodom"
+    ],
+    "name:nds_x_preferred":[
+        "Bodom"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0434\u043e\u043c"
+    ],
+    "name:swe_x_preferred":[
+        "Bodom"
+    ],
     "name:und_x_variant":[
         "Abodom",
         "Abudom"
+    ],
+    "name:uzb_x_preferred":[
+        "Bodom"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1344266909,
-    "wof:lastmodified":1537623845,
+    "wof:lastmodified":1564204411,
     "wof:name":"Bodom",
     "wof:parent_id":1108759827,
     "wof:placetype":"locality",

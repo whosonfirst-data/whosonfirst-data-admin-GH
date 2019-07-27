@@ -26,6 +26,27 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Tove"
+    ],
+    "name:deu_x_preferred":[
+        "Tove"
+    ],
+    "name:fin_x_preferred":[
+        "Tove"
+    ],
+    "name:fra_x_preferred":[
+        "Tove"
+    ],
+    "name:nno_x_preferred":[
+        "Tove"
+    ],
+    "name:nor_x_preferred":[
+        "Tove"
+    ],
+    "name:swe_x_preferred":[
+        "Tove"
+    ],
     "name:und_x_variant":[
         "Tovi",
         "Tove Village",
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1277092249,
-    "wof:lastmodified":1537623425,
+    "wof:lastmodified":1564204652,
     "wof:name":"Tove",
     "wof:parent_id":1108759983,
     "wof:placetype":"locality",

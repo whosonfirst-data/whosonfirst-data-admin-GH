@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Ahwiaa"
     ],
+    "name:spa_x_preferred":[
+        "Ahwiaa"
+    ],
     "name:und_x_variant":[
         "Hwiban",
         "Hwibang"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1309726919,
-    "wof:lastmodified":1537623636,
+    "wof:lastmodified":1564205341,
     "wof:name":"Ahwiaa",
     "wof:parent_id":1108759781,
     "wof:placetype":"locality",

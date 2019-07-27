@@ -25,6 +25,9 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mal_x_preferred":[
+        "\u0d05\u0d19\u0d4d\u0d15\u0d02"
+    ],
     "name:und_x_variant":[
         "Manso Ankam",
         "Ankam"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1327044925,
-    "wof:lastmodified":1537623790,
+    "wof:lastmodified":1564204220,
     "wof:name":"Ankam",
     "wof:parent_id":1108759785,
     "wof:placetype":"locality",

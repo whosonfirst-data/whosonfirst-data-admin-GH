@@ -25,8 +25,137 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Tandbeen"
+    ],
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0627\u062c"
+    ],
+    "name:bos_x_preferred":[
+        "Dentin"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0435\u043d\u0442\u0438\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Dentina"
+    ],
+    "name:ces_x_preferred":[
+        "Zubovina"
+    ],
+    "name:dan_x_preferred":[
+        "Dentin"
+    ],
+    "name:deu_x_preferred":[
+        "Dentin"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03b4\u03bf\u03bd\u03c4\u03af\u03bd\u03b7"
+    ],
     "name:eng_x_preferred":[
         "Dentin"
+    ],
+    "name:epo_x_preferred":[
+        "Dentino"
+    ],
+    "name:est_x_preferred":[
+        "Dentiin"
+    ],
+    "name:fas_x_preferred":[
+        "\u0639\u0627\u062c \u062f\u0646\u062f\u0627\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Hammasluu"
+    ],
+    "name:fra_x_preferred":[
+        "Dentine"
+    ],
+    "name:glg_x_preferred":[
+        "Dentina"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05e0\u05d8\u05d9\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Dentin"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0565\u0576\u057f\u056b\u0576"
+    ],
+    "name:ind_x_preferred":[
+        "Dentin"
+    ],
+    "name:ita_x_preferred":[
+        "Dentina"
+    ],
+    "name:jpn_x_preferred":[
+        "\u8c61\u7259\u8cea"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0435\u043d\u0442\u0438\u043d"
+    ],
+    "name:kir_x_preferred":[
+        "\u0414\u0435\u043d\u0442\u0438\u043d"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0c1\uc544\uc9c8"
+    ],
+    "name:lav_x_preferred":[
+        "Dent\u012bns"
+    ],
+    "name:lit_x_preferred":[
+        "Dentinas"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u0435\u043d\u0442\u0438\u043d"
+    ],
+    "name:nld_x_preferred":[
+        "Dentine"
+    ],
+    "name:nor_x_preferred":[
+        "Tannbein"
+    ],
+    "name:pol_x_preferred":[
+        "Z\u0119bina"
+    ],
+    "name:por_x_preferred":[
+        "Dentina"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u043d\u0442\u0438\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Dent\u00edn"
+    ],
+    "name:slv_x_preferred":[
+        "Zobovina"
+    ],
+    "name:spa_x_preferred":[
+        "Dentina"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0435\u043d\u0442\u0438\u043d"
+    ],
+    "name:swa_x_preferred":[
+        "Dentini"
+    ],
+    "name:swe_x_preferred":[
+        "Dentin"
+    ],
+    "name:tgl_x_preferred":[
+        "Dentin"
+    ],
+    "name:tur_x_preferred":[
+        "Dentin"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u043d\u0442\u0438\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Dentin"
+    ],
+    "name:zho_x_preferred":[
+        "\u7259\u672c\u8cea"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +180,7 @@
         }
     ],
     "wof:id":1225863123,
-    "wof:lastmodified":1537623695,
+    "wof:lastmodified":1564205743,
     "wof:name":"Dentin",
     "wof:parent_id":1108759805,
     "wof:placetype":"locality",

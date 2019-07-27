@@ -25,7 +25,13 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Subri"
+    ],
     "name:eng_x_preferred":[
+        "Subri"
+    ],
+    "name:swe_x_preferred":[
         "Subri"
     ],
     "src:geom":"geonames",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1226064091,
-    "wof:lastmodified":1537623448,
+    "wof:lastmodified":1564205809,
     "wof:name":"Subri",
     "wof:parent_id":1108760007,
     "wof:placetype":"locality",

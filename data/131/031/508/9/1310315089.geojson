@@ -25,6 +25,18 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Adansi"
+    ],
+    "name:ceb_x_preferred":[
+        "Adansi"
+    ],
+    "name:pol_x_preferred":[
+        "Adansi West"
+    ],
+    "name:swe_x_preferred":[
+        "Adansi"
+    ],
     "name:und_x_variant":[
         "Adande",
         "Adansi"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1310315089,
-    "wof:lastmodified":1537623838,
+    "wof:lastmodified":1564205122,
     "wof:name":"Adansi",
     "wof:parent_id":1108759861,
     "wof:placetype":"locality",

@@ -25,7 +25,16 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dodi"
+    ],
+    "name:deu_x_preferred":[
+        "Dodi"
+    ],
     "name:eng_x_preferred":[
+        "Dodi"
+    ],
+    "name:fra_x_preferred":[
         "Dodi"
     ],
     "src:geom":"geonames",
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1193026135,
-    "wof:lastmodified":1537623690,
+    "wof:lastmodified":1564205001,
     "wof:name":"Dodi",
     "wof:parent_id":1108759791,
     "wof:placetype":"locality",

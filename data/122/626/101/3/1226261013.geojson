@@ -25,6 +25,18 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u0645\u06cc\u062f\u0632\u0627\u0641"
+    ],
+    "name:deu_x_preferred":[
+        "Amedzofe"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u06cc\u062f\u0632\u0627\u0641"
+    ],
+    "name:por_x_preferred":[
+        "Amedzofe"
+    ],
     "name:und_x_variant":[
         "Amedschovhe",
         "Ameiope",
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1226261013,
-    "wof:lastmodified":1537623797,
+    "wof:lastmodified":1564205684,
     "wof:name":"Amedzofe",
     "wof:parent_id":1108759971,
     "wof:placetype":"locality",

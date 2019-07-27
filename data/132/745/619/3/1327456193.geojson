@@ -25,6 +25,12 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Walewale"
+    ],
+    "name:swe_x_preferred":[
+        "Walewale"
+    ],
     "name:und_x_variant":[
         "Walwale",
         "Walewale"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1327456193,
-    "wof:lastmodified":1537623417,
+    "wof:lastmodified":1564204289,
     "wof:name":"Walewale",
     "wof:parent_id":1108759937,
     "wof:placetype":"locality",

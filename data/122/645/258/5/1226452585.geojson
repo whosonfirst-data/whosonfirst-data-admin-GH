@@ -25,6 +25,18 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nati"
+    ],
+    "name:deu_x_preferred":[
+        "Nati"
+    ],
+    "name:fra_x_preferred":[
+        "Nati"
+    ],
+    "name:swe_x_preferred":[
+        "Nati"
+    ],
     "name:und_x_variant":[
         "Nat",
         "Nati"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1226452585,
-    "wof:lastmodified":1537623534,
+    "wof:lastmodified":1564205691,
     "wof:name":"Nati",
     "wof:parent_id":1108759943,
     "wof:placetype":"locality",
