@@ -25,6 +25,21 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Boku"
+    ],
+    "name:deu_x_preferred":[
+        "Boku"
+    ],
+    "name:fra_x_preferred":[
+        "Boku"
+    ],
+    "name:ita_x_preferred":[
+        "Boku"
+    ],
+    "name:swe_x_preferred":[
+        "Boku"
+    ],
     "name:und_x_variant":[
         "Boako",
         "Boku"
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1326639833,
-    "wof:lastmodified":1537623730,
+    "wof:lastmodified":1564204256,
     "wof:name":"Boku",
     "wof:parent_id":1108759839,
     "wof:placetype":"locality",

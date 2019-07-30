@@ -25,6 +25,21 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Sasi"
+    ],
+    "name:ceb_x_preferred":[
+        "Sasi"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d36\u0d36\u0d3f"
+    ],
+    "name:slk_x_preferred":[
+        "Sasi"
+    ],
+    "name:swe_x_preferred":[
+        "Sasi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1293798561,
-    "wof:lastmodified":1536834589,
+    "wof:lastmodified":1564204519,
     "wof:name":"Sasi",
     "wof:parent_id":1108759897,
     "wof:placetype":"locality",

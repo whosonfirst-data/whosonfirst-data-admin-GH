@@ -25,6 +25,30 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Hani"
+    ],
+    "name:deu_x_preferred":[
+        "Hani"
+    ],
+    "name:fra_x_preferred":[
+        "Hani"
+    ],
+    "name:por_x_preferred":[
+        "Hani"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u043d\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Hani"
+    ],
+    "name:swe_x_preferred":[
+        "Hani"
+    ],
+    "name:vie_x_preferred":[
+        "Hani"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1243569253,
-    "wof:lastmodified":1536626677,
+    "wof:lastmodified":1564205466,
     "wof:name":"Hani",
     "wof:parent_id":1108759839,
     "wof:placetype":"locality",

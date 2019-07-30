@@ -25,6 +25,24 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sang"
+    ],
+    "name:deu_x_preferred":[
+        "Sang"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u06af"
+    ],
+    "name:fra_x_preferred":[
+        "Sang"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0433"
+    ],
+    "name:swe_x_preferred":[
+        "Sang"
+    ],
     "name:und_x_variant":[
         "Sung",
         "Zan",
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1326848649,
-    "wof:lastmodified":1537623466,
+    "wof:lastmodified":1564204237,
     "wof:name":"Sang",
     "wof:parent_id":1108759915,
     "wof:placetype":"locality",

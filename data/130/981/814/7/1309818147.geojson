@@ -25,6 +25,9 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Gomoa Afransi"
+    ],
     "name:und_x_variant":[
         "Afranse",
         "Afransi"
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1309818147,
-    "wof:lastmodified":1537623828,
+    "wof:lastmodified":1564205329,
     "wof:name":"Afransi",
     "wof:parent_id":1108759857,
     "wof:placetype":"locality",

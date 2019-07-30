@@ -25,6 +25,12 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Nzulezo"
+    ],
+    "name:ita_x_preferred":[
+        "Nzulezu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1260375035,
-    "wof:lastmodified":1537083092,
+    "wof:lastmodified":1564205032,
     "wof:name":"Nzulezo",
     "wof:parent_id":1108760001,
     "wof:placetype":"locality",

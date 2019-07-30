@@ -26,6 +26,12 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Dekpo"
+    ],
+    "name:msa_x_preferred":[
+        "Dekpo"
+    ],
     "name:und_x_variant":[
         "Dekpoe",
         "Dekpo"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1276133711,
-    "wof:lastmodified":1537623696,
+    "wof:lastmodified":1564204726,
     "wof:name":"Dekpo",
     "wof:parent_id":1108759967,
     "wof:placetype":"locality",

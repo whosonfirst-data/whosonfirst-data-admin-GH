@@ -25,6 +25,21 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mokwa"
+    ],
+    "name:fra_x_preferred":[
+        "Mokwa"
+    ],
+    "name:hau_x_preferred":[
+        "Mokwa"
+    ],
+    "name:ita_x_preferred":[
+        "Mokwa"
+    ],
+    "name:spa_x_preferred":[
+        "Mokwa"
+    ],
     "name:und_x_variant":[
         "Mokwaa",
         "Mokwa"
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1360303691,
-    "wof:lastmodified":1537623552,
+    "wof:lastmodified":1564205255,
     "wof:name":"Mokwa",
     "wof:parent_id":1108759863,
     "wof:placetype":"locality",

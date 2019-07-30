@@ -25,6 +25,12 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Shuhi"
+    ],
+    "name:pol_x_preferred":[
+        "Suhu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1243281923,
-    "wof:lastmodified":1537040976,
+    "wof:lastmodified":1564205530,
     "wof:name":"Suhum",
     "wof:parent_id":1108759789,
     "wof:placetype":"locality",

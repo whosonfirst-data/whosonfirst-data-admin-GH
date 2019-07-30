@@ -25,6 +25,9 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aka_x_preferred":[
+        "Binaba"
+    ],
     "name:und_x_variant":[
         "Binaba Natinga",
         "Dagbanga",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1276220899,
-    "wof:lastmodified":1537623736,
+    "wof:lastmodified":1564204733,
     "wof:name":"Binaba",
     "wof:parent_id":1108759945,
     "wof:placetype":"locality",

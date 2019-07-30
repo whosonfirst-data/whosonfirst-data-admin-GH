@@ -25,6 +25,18 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chema"
+    ],
+    "name:por_x_preferred":[
+        "Chema"
+    ],
+    "name:spa_x_preferred":[
+        "Chema"
+    ],
+    "name:swe_x_preferred":[
+        "Chema"
+    ],
     "name:und_x_variant":[
         "Chamma",
         "Chema"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1242980909,
-    "wof:lastmodified":1537623711,
+    "wof:lastmodified":1564205497,
     "wof:name":"Chema",
     "wof:parent_id":1108759937,
     "wof:placetype":"locality",

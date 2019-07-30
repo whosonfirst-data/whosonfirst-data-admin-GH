@@ -25,8 +25,14 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u06a9\u0631\u0627\u0641\u0648\u0645"
+    ],
     "name:eng_x_preferred":[
         "Akrofuom"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06a9\u0631\u0627\u0641\u0648\u0645"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1293404579,
-    "wof:lastmodified":1537623806,
+    "wof:lastmodified":1564204551,
     "wof:name":"Akrofuom",
     "wof:parent_id":1108759865,
     "wof:placetype":"locality",

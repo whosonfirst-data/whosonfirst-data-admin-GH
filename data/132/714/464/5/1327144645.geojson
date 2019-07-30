@@ -25,6 +25,9 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aka_x_preferred":[
+        "Maaban"
+    ],
     "name:und_x_variant":[
         "Mabang"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1327144645,
-    "wof:lastmodified":1537623565,
+    "wof:lastmodified":1564204164,
     "wof:name":"Maaban",
     "wof:parent_id":1108759777,
     "wof:placetype":"locality",

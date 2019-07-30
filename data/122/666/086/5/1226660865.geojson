@@ -25,6 +25,9 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Kadjebi"
+    ],
     "name:und_x_variant":[
         "Nkonya Kagyebi",
         "Kadjebi"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1226660865,
-    "wof:lastmodified":1537623619,
+    "wof:lastmodified":1564205736,
     "wof:name":"Kadjebi",
     "wof:parent_id":1108759975,
     "wof:placetype":"locality",

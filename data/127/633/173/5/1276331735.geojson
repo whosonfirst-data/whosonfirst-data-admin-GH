@@ -25,6 +25,15 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Karaga"
+    ],
+    "name:fra_x_preferred":[
+        "Karaga"
+    ],
+    "name:swe_x_preferred":[
+        "Karaga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1276331735,
-    "wof:lastmodified":1536781204,
+    "wof:lastmodified":1564204679,
     "wof:name":"Karaga",
     "wof:parent_id":1108759925,
     "wof:placetype":"locality",

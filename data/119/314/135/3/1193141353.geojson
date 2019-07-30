@@ -25,6 +25,18 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Honi"
+    ],
+    "name:deu_x_preferred":[
+        "Honi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Honi"
+    ],
     "name:und_x_variant":[
         "Honi Adawroma",
         "Huni",
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1193141353,
-    "wof:lastmodified":1537623638,
+    "wof:lastmodified":1564204982,
     "wof:name":"Honi",
     "wof:parent_id":1108759853,
     "wof:placetype":"locality",

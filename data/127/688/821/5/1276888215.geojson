@@ -25,6 +25,12 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05d0\u05d1\u05d9\u05df"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0431\u0438\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1276888215,
-    "wof:lastmodified":1537028674,
+    "wof:lastmodified":1564204656,
     "wof:name":"Abin",
     "wof:parent_id":1108759849,
     "wof:placetype":"locality",

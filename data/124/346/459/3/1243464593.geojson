@@ -25,7 +25,58 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Mem"
+    ],
+    "name:cat_x_preferred":[
+        "Mem"
+    ],
+    "name:ceb_x_preferred":[
+        "Mem"
+    ],
     "name:eng_x_preferred":[
+        "Mem"
+    ],
+    "name:eus_x_preferred":[
+        "Mem"
+    ],
+    "name:fin_x_preferred":[
+        "Mem"
+    ],
+    "name:fra_x_preferred":[
+        "Mem"
+    ],
+    "name:ind_x_preferred":[
+        "Mem"
+    ],
+    "name:ita_x_preferred":[
+        "Mem"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0435\u043c"
+    ],
+    "name:pol_x_preferred":[
+        "Mem"
+    ],
+    "name:por_x_preferred":[
+        "Mem"
+    ],
+    "name:ron_x_preferred":[
+        "Mem"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u043c"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bc6\u0bae\u0bcd"
+    ],
+    "name:tgl_x_preferred":[
+        "Mem"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u043c"
+    ],
+    "name:zho_x_preferred":[
         "Mem"
     ],
     "src:geom":"geonames",
@@ -51,7 +102,7 @@
         }
     ],
     "wof:id":1243464593,
-    "wof:lastmodified":1537623556,
+    "wof:lastmodified":1564205449,
     "wof:name":"Mem",
     "wof:parent_id":1108760017,
     "wof:placetype":"locality",

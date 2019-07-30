@@ -25,6 +25,9 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:frr_x_preferred":[
+        "Senchi"
+    ],
     "name:und_x_variant":[
         "Senkye",
         "Senchi"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1309924047,
-    "wof:lastmodified":1537623459,
+    "wof:lastmodified":1564205310,
     "wof:name":"Senchi",
     "wof:parent_id":1108759875,
     "wof:placetype":"locality",

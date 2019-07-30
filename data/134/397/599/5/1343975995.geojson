@@ -25,7 +25,22 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chung"
+    ],
+    "name:deu_x_preferred":[
+        "Chung"
+    ],
     "name:eng_x_preferred":[
+        "Chung"
+    ],
+    "name:fra_x_preferred":[
+        "Chung"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0436\u0443\u043d"
+    ],
+    "name:swe_x_preferred":[
         "Chung"
     ],
     "src:geom":"geonames",
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1343975995,
-    "wof:lastmodified":1537623705,
+    "wof:lastmodified":1564204323,
     "wof:name":"Chung",
     "wof:parent_id":1108759955,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Nkwanta"
+    ],
     "name:und_x_variant":[
         "Oda Nkwanta",
         "Nkwanta"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1259701889,
-    "wof:lastmodified":1537623523,
+    "wof:lastmodified":1564205568,
     "wof:name":"Nkwanta",
     "wof:parent_id":1108759879,
     "wof:placetype":"locality",

@@ -25,6 +25,93 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u0631\u0629 \u0639\u0628\u0633"
+    ],
+    "name:aze_x_preferred":[
+        "\u018fb\u0259s\u0259 sur\u0259si"
+    ],
+    "name:bak_x_preferred":[
+        "\u0492\u04d9\u0431\u04d9\u0441\u04d9 \u0441\u04af\u0440\u04d9\u04bb\u0435"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09c2\u09b0\u09be \u0986\u09ac\u09be\u09b8\u09be"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0639\u06d5\u0628\u06d5\u0633"
+    ],
+    "name:deu_x_preferred":[
+        "Abasa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0639\u0628\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Abasa"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905-\u092c-\u0938"
+    ],
+    "name:ind_x_preferred":[
+        "Surah 'Abasa"
+    ],
+    "name:jav_x_preferred":[
+        "Surat \u2018Abasa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u7709\u3092\u3072\u305d\u3081\u3066"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u0431\u04d9\u0441\u04d9 \u0441\u04af\u0440\u0435\u0441\u0456"
+    ],
+    "name:kur_x_preferred":[
+        "Ebese"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d05\u0d2c\u0d38"
+    ],
+    "name:msa_x_preferred":[
+        "Surah \u2018Abasa"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0639\u0628\u0633"
+    ],
+    "name:por_x_preferred":[
+        "Abasa"
+    ],
+    "name:pus_x_preferred":[
+        "\u0633\u0648\u0631\u0629 \u0639\u0628\u0633"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0431\u0430\u0441\u0430"
+    ],
+    "name:sqi_x_preferred":[
+        "Surja Abese"
+    ],
+    "name:sun_x_preferred":[
+        "Abasa"
+    ],
+    "name:swe_x_preferred":[
+        "Abasa"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0421\u0443\u0440\u0430\u0438 \u0410\u0431\u0430\u0441\u0430"
+    ],
+    "name:tgl_x_preferred":[
+        "Surah 'Abasa"
+    ],
+    "name:tur_x_preferred":[
+        "Abese Suresi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0443\u0440\u0430 \u0410\u0431\u0430\u0441\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0639\u0628\u0633"
+    ],
+    "name:uzb_x_preferred":[
+        "Abasa surasi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +135,7 @@
         }
     ],
     "wof:id":1209833981,
-    "wof:lastmodified":1536395727,
+    "wof:lastmodified":1564204837,
     "wof:name":"Abasa",
     "wof:parent_id":1108759857,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Sefwi Wiawso"
+    ],
     "name:und_x_variant":[
         "Wioso",
         "Wiawso"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1344266931,
-    "wof:lastmodified":1537623412,
+    "wof:lastmodified":1564204409,
     "wof:name":"Wiawso",
     "wof:parent_id":1108759809,
     "wof:placetype":"locality",

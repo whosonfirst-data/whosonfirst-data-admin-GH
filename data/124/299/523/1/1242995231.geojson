@@ -26,6 +26,9 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Bunkpurugu"
+    ],
     "name:und_x_variant":[
         "Gbankurugu",
         "Bunkpurk",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1242995231,
-    "wof:lastmodified":1537623716,
+    "wof:lastmodified":1564205506,
     "wof:name":"Bunkpurugu",
     "wof:parent_id":1108759917,
     "wof:placetype":"locality",

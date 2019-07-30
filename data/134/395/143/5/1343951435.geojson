@@ -25,6 +25,15 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ewe_x_preferred":[
+        "Denu"
+    ],
+    "name:ltz_x_preferred":[
+        "Denu"
+    ],
+    "name:swe_x_preferred":[
+        "Denu"
+    ],
     "name:und_x_variant":[
         "Danoe",
         "Danu",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1343951435,
-    "wof:lastmodified":1537623695,
+    "wof:lastmodified":1564204375,
     "wof:name":"Denu",
     "wof:parent_id":1108759983,
     "wof:placetype":"locality",

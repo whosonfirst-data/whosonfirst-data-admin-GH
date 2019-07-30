@@ -25,6 +25,84 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bug_x_preferred":[
+        "Tabre"
+    ],
+    "name:cat_x_preferred":[
+        "Tabre"
+    ],
+    "name:ceb_x_preferred":[
+        "Tabre"
+    ],
+    "name:deu_x_preferred":[
+        "Tabre"
+    ],
+    "name:eus_x_preferred":[
+        "Tabre"
+    ],
+    "name:fra_x_preferred":[
+        "Tabre"
+    ],
+    "name:hun_x_preferred":[
+        "Tabre"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0561\u0562\u0580"
+    ],
+    "name:ita_x_preferred":[
+        "Tabre"
+    ],
+    "name:lat_x_preferred":[
+        "Tabre"
+    ],
+    "name:mlg_x_preferred":[
+        "Tabre"
+    ],
+    "name:msa_x_preferred":[
+        "Tabre"
+    ],
+    "name:nld_x_preferred":[
+        "Tabre"
+    ],
+    "name:oci_x_preferred":[
+        "Tabre"
+    ],
+    "name:pol_x_preferred":[
+        "Tabre"
+    ],
+    "name:por_x_preferred":[
+        "Tabre"
+    ],
+    "name:ron_x_preferred":[
+        "Tabre"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0431\u0440"
+    ],
+    "name:slk_x_preferred":[
+        "Tabre"
+    ],
+    "name:spa_x_preferred":[
+        "Tabre"
+    ],
+    "name:swe_x_preferred":[
+        "Tabre"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u0431\u0440"
+    ],
+    "name:vie_x_preferred":[
+        "Tabre"
+    ],
+    "name:vol_x_preferred":[
+        "Tabre"
+    ],
+    "name:war_x_preferred":[
+        "Tabre"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u5e03\u5c14"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +126,7 @@
         }
     ],
     "wof:id":1310423989,
-    "wof:lastmodified":1537033134,
+    "wof:lastmodified":1564205134,
     "wof:name":"Tabre",
     "wof:parent_id":1108759775,
     "wof:placetype":"locality",

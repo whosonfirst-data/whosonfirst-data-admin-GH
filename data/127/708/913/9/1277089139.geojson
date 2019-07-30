@@ -25,6 +25,9 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kpeve"
+    ],
     "name:und_x_variant":[
         "Kpeve Gbohome",
         "Kpeve Gboyeme",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1277089139,
-    "wof:lastmodified":1537623592,
+    "wof:lastmodified":1564204646,
     "wof:name":"Kpeve",
     "wof:parent_id":1108759973,
     "wof:placetype":"locality",

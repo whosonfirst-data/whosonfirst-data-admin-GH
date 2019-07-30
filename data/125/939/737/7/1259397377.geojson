@@ -25,6 +25,9 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Jomo"
+    ],
     "name:eng_x_preferred":[
         "Gyomo"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1259397377,
-    "wof:lastmodified":1537623623,
+    "wof:lastmodified":1564205547,
     "wof:name":"Jomo",
     "wof:parent_id":1108760011,
     "wof:placetype":"locality",

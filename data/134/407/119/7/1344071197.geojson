@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Awoshi"
     ],
+    "name:spa_x_preferred":[
+        "Awoshie"
+    ],
     "name:und_x_variant":[
         "Awoshie"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1344071197,
-    "wof:lastmodified":1537623857,
+    "wof:lastmodified":1564204338,
     "wof:name":"Awoshi",
     "wof:parent_id":1108759901,
     "wof:placetype":"locality",

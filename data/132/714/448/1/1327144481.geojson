@@ -25,6 +25,9 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Sangba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1327144481,
-    "wof:lastmodified":1537093241,
+    "wof:lastmodified":1564204163,
     "wof:name":"Sangba",
     "wof:parent_id":1108759919,
     "wof:placetype":"locality",

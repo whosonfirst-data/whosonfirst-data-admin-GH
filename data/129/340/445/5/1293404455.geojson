@@ -25,6 +25,9 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Asafo"
+    ],
     "name:und_x_variant":[
         "Asufo",
         "Asafo"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1293404455,
-    "wof:lastmodified":1537623779,
+    "wof:lastmodified":1564204547,
     "wof:name":"Asafo",
     "wof:parent_id":1108759843,
     "wof:placetype":"locality",

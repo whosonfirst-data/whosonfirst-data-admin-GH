@@ -25,6 +25,9 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Asankrangwa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1276888417,
-    "wof:lastmodified":1537563058,
+    "wof:lastmodified":1564204660,
     "wof:name":"Asankrangwa",
     "wof:parent_id":1108760015,
     "wof:placetype":"locality",

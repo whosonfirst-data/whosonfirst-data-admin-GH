@@ -25,6 +25,18 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Palung"
+    ],
+    "name:msa_x_preferred":[
+        "Palung"
+    ],
+    "name:new_x_preferred":[
+        "\u092a\u093e\u0932\u0941\u0919"
+    ],
+    "name:pol_x_preferred":[
+        "Palung"
+    ],
     "name:und_x_variant":[
         "Kpalung",
         "Palung"
@@ -46,7 +58,7 @@
         }
     ],
     "wof:id":1209014525,
-    "wof:lastmodified":1537623485,
+    "wof:lastmodified":1564204818,
     "wof:name":"Palung",
     "wof:parent_id":85632189,
     "wof:placetype":"locality",

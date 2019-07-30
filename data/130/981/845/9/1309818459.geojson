@@ -25,7 +25,16 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Mankranso"
+    ],
     "name:eng_x_preferred":[
+        "Mankranso"
+    ],
+    "name:pol_x_preferred":[
+        "Mankranso"
+    ],
+    "name:swe_x_preferred":[
         "Mankranso"
     ],
     "name:und_x_variant":[
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1309818459,
-    "wof:lastmodified":1537623560,
+    "wof:lastmodified":1564205321,
     "wof:name":"Mankranso",
     "wof:parent_id":1108759791,
     "wof:placetype":"locality",

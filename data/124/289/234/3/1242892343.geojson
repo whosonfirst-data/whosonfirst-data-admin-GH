@@ -25,10 +25,22 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Fomena"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u043e\u043c\u0435\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Fomena"
+    ],
     "name:und_x_variant":[
         "Fomana",
         "Fommanah",
         "Fomena"
+    ],
+    "name:zho_x_preferred":[
+        "\u798f\u6885\u7d0d"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1242892343,
-    "wof:lastmodified":1537623657,
+    "wof:lastmodified":1564205389,
     "wof:name":"Fomena",
     "wof:parent_id":1108759773,
     "wof:placetype":"locality",

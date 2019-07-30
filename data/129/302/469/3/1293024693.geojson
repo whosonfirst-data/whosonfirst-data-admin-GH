@@ -25,6 +25,9 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Awutu Bereku"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1293024693,
-    "wof:lastmodified":1536957266,
+    "wof:lastmodified":1564204584,
     "wof:name":"Awutu Breku",
     "wof:parent_id":1108759853,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Kajaji"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1276345613,
-    "wof:lastmodified":1537563042,
+    "wof:lastmodified":1564204681,
     "wof:name":"Kajaji",
     "wof:parent_id":1108759829,
     "wof:placetype":"locality",

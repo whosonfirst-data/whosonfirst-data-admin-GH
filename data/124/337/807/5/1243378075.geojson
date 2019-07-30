@@ -25,6 +25,12 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Napari Village"
+    ],
+    "name:swe_x_preferred":[
+        "Napari Village"
+    ],
     "name:und_x_variant":[
         "Napaad",
         "Napari"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1243378075,
-    "wof:lastmodified":1537623535,
+    "wof:lastmodified":1564205366,
     "wof:name":"Napari",
     "wof:parent_id":1108759943,
     "wof:placetype":"locality",

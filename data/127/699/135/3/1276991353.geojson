@@ -25,6 +25,12 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Benawa"
+    ],
+    "name:msa_x_preferred":[
+        "Benawa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1276991353,
-    "wof:lastmodified":1536891262,
+    "wof:lastmodified":1564204775,
     "wof:name":"Benawa",
     "wof:parent_id":1108759937,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Biko"
+    ],
+    "name:deu_x_preferred":[
+        "Biko"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03af\u03ba\u03bf"
+    ],
+    "name:ita_x_preferred":[
+        "Biko"
+    ],
+    "name:pol_x_preferred":[
+        "Biko"
+    ],
+    "name:swe_x_preferred":[
+        "Biko"
+    ],
     "name:und_x_variant":[
         "Bikor",
         "Biko"
@@ -46,7 +64,7 @@
         }
     ],
     "wof:id":1209232815,
-    "wof:lastmodified":1537623737,
+    "wof:lastmodified":1564204858,
     "wof:name":"Biko",
     "wof:parent_id":85632189,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Ofoase Kese"
+    ],
     "name:und_x_variant":[
         "Afoasi",
         "Ofuase",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1243281939,
-    "wof:lastmodified":1537623495,
+    "wof:lastmodified":1564205530,
     "wof:name":"Ofoase",
     "wof:parent_id":1108759793,
     "wof:placetype":"locality",

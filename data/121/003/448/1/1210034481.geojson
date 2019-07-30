@@ -25,6 +25,9 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Hapa"
+    ],
     "name:und_x_variant":[
         "Hapaa",
         "Hapa"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1210034481,
-    "wof:lastmodified":1537623641,
+    "wof:lastmodified":1564204952,
     "wof:name":"Hapa",
     "wof:parent_id":1108759955,
     "wof:placetype":"locality",

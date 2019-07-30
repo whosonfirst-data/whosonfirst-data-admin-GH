@@ -32,6 +32,12 @@
         "Princess Town",
         "Prince\u2019s Town"
     ],
+    "name:pol_x_preferred":[
+        "Princes Town"
+    ],
+    "name:spa_x_preferred":[
+        "Princes Town"
+    ],
     "name:und_x_variant":[
         "Fort Bladenburg",
         "Prince",
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1293276745,
-    "wof:lastmodified":1537623474,
+    "wof:lastmodified":1564204595,
     "wof:name":"Prusi",
     "wof:parent_id":1108759993,
     "wof:placetype":"locality",

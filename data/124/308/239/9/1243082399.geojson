@@ -25,6 +25,15 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Chelli"
+    ],
+    "name:fra_x_preferred":[
+        "Chelli"
+    ],
+    "name:ita_x_preferred":[
+        "Chelli"
+    ],
     "name:und_x_variant":[
         "Cheli",
         "Chelli"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1243082399,
-    "wof:lastmodified":1537623711,
+    "wof:lastmodified":1564205383,
     "wof:name":"Chelli",
     "wof:parent_id":1108759915,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:eng_x_variant":[
         "Elubo"
     ],
+    "name:pol_x_preferred":[
+        "Elubo"
+    ],
     "name:und_x_variant":[
         "Elubo Cocoatown"
     ],
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1193155157,
-    "wof:lastmodified":1537623705,
+    "wof:lastmodified":1564204980,
     "wof:name":"Elubo",
     "wof:parent_id":1108760001,
     "wof:placetype":"locality",

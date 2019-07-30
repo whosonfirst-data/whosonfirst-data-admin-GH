@@ -25,6 +25,9 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tijo"
+    ],
     "name:und_x_variant":[
         "Tidjo",
         "Tudjoe",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1259705893,
-    "wof:lastmodified":1537623432,
+    "wof:lastmodified":1564205570,
     "wof:name":"Tijo",
     "wof:parent_id":1108759915,
     "wof:placetype":"locality",

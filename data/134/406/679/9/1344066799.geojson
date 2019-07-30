@@ -26,6 +26,9 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kwari"
+    ],
     "name:und_x_variant":[
         "Kwani",
         "Kwari"
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1344066799,
-    "wof:lastmodified":1537623573,
+    "wof:lastmodified":1564204332,
     "wof:name":"Kwari",
     "wof:parent_id":1108759915,
     "wof:placetype":"locality",

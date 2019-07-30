@@ -25,6 +25,15 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Banu"
+    ],
+    "name:deu_x_preferred":[
+        "Banu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043d\u0443"
+    ],
     "name:und_x_variant":[
         "Bano",
         "Banu"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1293705017,
-    "wof:lastmodified":1537623747,
+    "wof:lastmodified":1564204531,
     "wof:name":"Banu",
     "wof:parent_id":1108759963,
     "wof:placetype":"locality",

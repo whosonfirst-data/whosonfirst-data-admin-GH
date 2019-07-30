@@ -26,6 +26,27 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u06a9\u0648\u0633\u0627\u0645\u0628\u0648"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06a9\u0648\u0633\u0627\u0645\u0628\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Akosombo"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\ucf54\uc19c\ubcf4"
+    ],
+    "name:lit_x_preferred":[
+        "Akosombas"
+    ],
+    "name:nor_x_preferred":[
+        "Akosombo"
+    ],
+    "name:pol_x_preferred":[
+        "Akosombo"
+    ],
     "name:und_x_variant":[
         "Oko Sombo",
         "Akonsonbo",
@@ -56,7 +77,7 @@
         }
     ],
     "wof:id":1193151837,
-    "wof:lastmodified":1537623809,
+    "wof:lastmodified":1564204978,
     "wof:name":"Akosombo",
     "wof:parent_id":1108759875,
     "wof:placetype":"locality",

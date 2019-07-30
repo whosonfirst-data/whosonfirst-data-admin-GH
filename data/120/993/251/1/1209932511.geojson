@@ -25,6 +25,12 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646\u0641\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Sanfo"
+    ],
     "name:und_x_variant":[
         "Sanfu"
     ],
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1209932511,
-    "wof:lastmodified":1537623466,
+    "wof:lastmodified":1564204898,
     "wof:name":"Sanfo",
     "wof:parent_id":1108759783,
     "wof:placetype":"locality",

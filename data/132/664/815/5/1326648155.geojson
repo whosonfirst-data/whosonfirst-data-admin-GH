@@ -25,6 +25,15 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tuori"
+    ],
+    "name:ita_x_preferred":[
+        "Tuori"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0443\u043e\u0440\u0438"
+    ],
     "name:und_x_variant":[
         "Turi"
     ],
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1326648155,
-    "wof:lastmodified":1537623422,
+    "wof:lastmodified":1564204249,
     "wof:name":"Tuori",
     "wof:parent_id":1108759957,
     "wof:placetype":"locality",

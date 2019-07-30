@@ -25,6 +25,12 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Nyinahin"
+    ],
+    "name:swe_x_preferred":[
+        "Nyinahin"
+    ],
     "name:und_x_variant":[
         "Yenahim",
         "Nyinahan",
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1209433011,
-    "wof:lastmodified":1537623506,
+    "wof:lastmodified":1564204939,
     "wof:name":"Nyinahin",
     "wof:parent_id":85632189,
     "wof:placetype":"locality",

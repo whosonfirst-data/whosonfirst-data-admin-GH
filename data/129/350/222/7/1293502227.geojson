@@ -25,6 +25,9 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Asiwa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1293502227,
-    "wof:lastmodified":1537563057,
+    "wof:lastmodified":1564204568,
     "wof:name":"Asiwa",
     "wof:parent_id":1108759783,
     "wof:placetype":"locality",

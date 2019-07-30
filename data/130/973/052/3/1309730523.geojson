@@ -25,11 +25,65 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0644\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0648\u0644\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Wella"
+    ],
+    "name:deu_x_preferred":[
+        "Wella"
+    ],
     "name:eng_x_preferred":[
+        "Wella"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Wella"
+    ],
+    "name:ita_x_preferred":[
+        "Wella"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30a8\u30e9"
+    ],
+    "name:nld_x_preferred":[
+        "Wella"
+    ],
+    "name:pol_x_preferred":[
+        "Wella"
+    ],
+    "name:por_x_preferred":[
+        "Wella"
+    ],
+    "name:rus_x_preferred":[
+        "Wella"
+    ],
+    "name:spa_x_preferred":[
+        "Wella"
+    ],
+    "name:srp_x_preferred":[
+        "Vela"
+    ],
+    "name:swe_x_preferred":[
+        "Wella"
+    ],
+    "name:tur_x_preferred":[
+        "Wella"
+    ],
+    "name:ukr_x_preferred":[
         "Wella"
     ],
     "name:und_x_variant":[
         "Weila"
+    ],
+    "name:vie_x_preferred":[
+        "Wella"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +108,7 @@
         }
     ],
     "wof:id":1309730523,
-    "wof:lastmodified":1537623414,
+    "wof:lastmodified":1564205313,
     "wof:name":"Wella",
     "wof:parent_id":1108759825,
     "wof:placetype":"locality",

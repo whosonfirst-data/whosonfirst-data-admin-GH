@@ -25,6 +25,18 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Depo"
+    ],
+    "name:lav_x_preferred":[
+        "Depo"
+    ],
+    "name:pol_x_preferred":[
+        "Depo"
+    ],
+    "name:uzb_x_preferred":[
+        "Depo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1242985367,
-    "wof:lastmodified":1536972825,
+    "wof:lastmodified":1564205500,
     "wof:name":"Depo",
     "wof:parent_id":1108759991,
     "wof:placetype":"locality",

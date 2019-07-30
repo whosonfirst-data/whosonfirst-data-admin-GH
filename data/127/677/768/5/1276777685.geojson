@@ -25,6 +25,9 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Gons\u00e9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1276777685,
-    "wof:lastmodified":1536680395,
+    "wof:lastmodified":1564204768,
     "wof:name":"Gonse",
     "wof:parent_id":1108759909,
     "wof:placetype":"locality",

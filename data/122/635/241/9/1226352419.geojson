@@ -25,6 +25,15 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kpata"
+    ],
+    "name:ita_x_preferred":[
+        "Kpata"
+    ],
+    "name:msa_x_preferred":[
+        "Kpata"
+    ],
     "name:und_x_variant":[
         "Kpanfa",
         "Kpafa",
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1226352419,
-    "wof:lastmodified":1537623594,
+    "wof:lastmodified":1564205724,
     "wof:name":"Kpata",
     "wof:parent_id":1108759965,
     "wof:placetype":"locality",

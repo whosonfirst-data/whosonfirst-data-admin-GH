@@ -25,6 +25,18 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tare"
+    ],
+    "name:fra_x_preferred":[
+        "Tare"
+    ],
+    "name:ita_x_preferred":[
+        "Tare"
+    ],
+    "name:swe_x_preferred":[
+        "Tare"
+    ],
     "name:und_x_variant":[
         "Tari",
         "Tare"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1344267229,
-    "wof:lastmodified":1537623438,
+    "wof:lastmodified":1564204409,
     "wof:name":"Tare",
     "wof:parent_id":1108759913,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aka_x_preferred":[
+        "Gwintinli"
+    ],
     "name:und_x_variant":[
         "Guntingli",
         "Gwintinli"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1326845235,
-    "wof:lastmodified":1537623643,
+    "wof:lastmodified":1564204238,
     "wof:name":"Gwintinli",
     "wof:parent_id":1108759931,
     "wof:placetype":"locality",

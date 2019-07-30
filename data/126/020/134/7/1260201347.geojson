@@ -25,6 +25,9 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aka_x_preferred":[
+        "Anum"
+    ],
     "name:und_x_variant":[
         "Anum Apapam",
         "Anum"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1260201347,
-    "wof:lastmodified":1537623787,
+    "wof:lastmodified":1564205034,
     "wof:name":"Anum",
     "wof:parent_id":1108759895,
     "wof:placetype":"locality",

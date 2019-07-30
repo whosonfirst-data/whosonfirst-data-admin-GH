@@ -25,6 +25,9 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:snd_x_preferred":[
+        "\u0684\u0627\u0645\u0699\u0648"
+    ],
     "name:und_x_variant":[
         "Gyamra",
         "Jamra"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1343468657,
-    "wof:lastmodified":1537623631,
+    "wof:lastmodified":1564204347,
     "wof:name":"Jamra",
     "wof:parent_id":1108759847,
     "wof:placetype":"locality",

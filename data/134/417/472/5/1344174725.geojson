@@ -25,6 +25,24 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Buduburam"
+    ],
+    "name:eus_x_preferred":[
+        "Buduburam"
+    ],
+    "name:fra_x_preferred":[
+        "Buduburam"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30c9\u30a5\u30d6\u30e9\u30e0"
+    ],
+    "name:lit_x_preferred":[
+        "Buduburamas"
+    ],
+    "name:spa_x_preferred":[
+        "Buduburam"
+    ],
     "name:und_x_variant":[
         "Bruburam"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1344174725,
-    "wof:lastmodified":1537623720,
+    "wof:lastmodified":1564204420,
     "wof:name":"Buduburam",
     "wof:parent_id":1108759853,
     "wof:placetype":"locality",

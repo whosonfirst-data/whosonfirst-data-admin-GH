@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "Offinso"
     ],
+    "name:swe_x_preferred":[
+        "Offinso"
+    ],
+    "name:twi_x_preferred":[
+        "Offinso"
+    ],
     "name:und_x_variant":[
         "Old Offinso",
         "Ofinso"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1310115859,
-    "wof:lastmodified":1537623496,
+    "wof:lastmodified":1564205156,
     "wof:name":"Offinso",
     "wof:parent_id":1108759805,
     "wof:placetype":"locality",

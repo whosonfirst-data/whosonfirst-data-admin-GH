@@ -25,6 +25,12 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Tunda"
+    ],
+    "name:spa_x_preferred":[
+        "Tunda"
+    ],
     "name:und_x_variant":[
         "Tunti",
         "Tunda"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1327241575,
-    "wof:lastmodified":1537623422,
+    "wof:lastmodified":1564204176,
     "wof:name":"Tunda",
     "wof:parent_id":1108759917,
     "wof:placetype":"locality",

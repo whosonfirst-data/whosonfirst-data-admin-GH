@@ -25,6 +25,9 @@
     "iso:country":"GH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ahwiaa"
+    ],
     "name:und_x_variant":[
         "Ebwia",
         "Abwia",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1243569287,
-    "wof:lastmodified":1537623671,
+    "wof:lastmodified":1564205472,
     "wof:name":"Ahwiaa",
     "wof:parent_id":1108759803,
     "wof:placetype":"locality",

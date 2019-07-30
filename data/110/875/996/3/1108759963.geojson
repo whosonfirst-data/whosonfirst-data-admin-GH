@@ -36,6 +36,9 @@
     "name:eng_x_preferred":[
         "Sissala"
     ],
+    "name:fra_x_preferred":[
+        "Sissala"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1108759963,
-    "wof:lastmodified":1553718732,
+    "wof:lastmodified":1564205060,
     "wof:name":"Sissala",
     "wof:parent_id":85671327,
     "wof:placetype":"county",
