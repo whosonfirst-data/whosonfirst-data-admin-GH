@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CP"
+    ],
     "lbl:latitude":5.483272,
     "lbl:longitude":-1.224818,
     "mps:latitude":5.467101,
@@ -301,9 +304,6 @@
         }
     ],
     "wof:id":85671341,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
@@ -313,7 +313,7 @@
         "ewe",
         "gaa"
     ],
-    "wof:lastmodified":1563377616,
+    "wof:lastmodified":1565712561,
     "wof:name":"Central",
     "wof:parent_id":85632189,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AA"
+    ],
     "lbl:latitude":5.926627,
     "lbl:longitude":0.168404,
     "mps:latitude":5.827831,
@@ -318,9 +321,6 @@
         }
     ],
     "wof:id":85671353,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
@@ -330,7 +330,7 @@
         "ewe",
         "gaa"
     ],
-    "wof:lastmodified":1563377614,
+    "wof:lastmodified":1565712561,
     "wof:name":"Greater Accra",
     "wof:parent_id":85632189,
     "wof:placetype":"region",

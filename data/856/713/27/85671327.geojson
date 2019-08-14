@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "UW"
+    ],
     "lbl:latitude":10.395812,
     "lbl:longitude":-2.199462,
     "mps:latitude":10.404103,
@@ -295,9 +298,6 @@
         }
     ],
     "wof:id":85671327,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
@@ -307,7 +307,7 @@
         "ewe",
         "gaa"
     ],
-    "wof:lastmodified":1563377610,
+    "wof:lastmodified":1565712559,
     "wof:name":"Upper West",
     "wof:parent_id":85632189,
     "wof:placetype":"region",

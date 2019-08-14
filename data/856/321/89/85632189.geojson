@@ -15,6 +15,9 @@
     "itu:country_code":[
         "233"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GH"
+    ],
     "lbl:latitude":7.85125,
     "lbl:longitude":-0.982714,
     "mps:latitude":7.85125,
@@ -972,9 +975,6 @@
         }
     ],
     "wof:id":85632189,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
@@ -984,7 +984,7 @@
         "ewe",
         "gaa"
     ],
-    "wof:lastmodified":1563377622,
+    "wof:lastmodified":1565712562,
     "wof:name":"Ghana",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

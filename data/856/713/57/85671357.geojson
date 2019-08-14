@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TV"
+    ],
     "lbl:latitude":7.957833,
     "lbl:longitude":0.290535,
     "mps:latitude":7.925181,
@@ -301,9 +304,6 @@
         }
     ],
     "wof:id":85671357,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
@@ -313,7 +313,7 @@
         "ewe",
         "gaa"
     ],
-    "wof:lastmodified":1563377609,
+    "wof:lastmodified":1565712559,
     "wof:name":"Volta",
     "wof:parent_id":85632189,
     "wof:placetype":"region",

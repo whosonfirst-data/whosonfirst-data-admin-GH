@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BA"
+    ],
     "lbl:latitude":7.854262,
     "lbl:longitude":-1.677987,
     "mps:latitude":7.849351,
@@ -298,9 +301,6 @@
         }
     ],
     "wof:id":85671337,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
@@ -310,7 +310,7 @@
         "ewe",
         "gaa"
     ],
-    "wof:lastmodified":1563377615,
+    "wof:lastmodified":1565712561,
     "wof:name":"Brong Ahafo",
     "wof:parent_id":85632189,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "EP"
+    ],
     "lbl:latitude":6.377424,
     "lbl:longitude":-0.427584,
     "mps:latitude":6.383042,
@@ -292,9 +295,6 @@
         }
     ],
     "wof:id":85671343,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
@@ -304,7 +304,7 @@
         "ewe",
         "gaa"
     ],
-    "wof:lastmodified":1563377612,
+    "wof:lastmodified":1565712560,
     "wof:name":"Eastern",
     "wof:parent_id":85632189,
     "wof:placetype":"region",
