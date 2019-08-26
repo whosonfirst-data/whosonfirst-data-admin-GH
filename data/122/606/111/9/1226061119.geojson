@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-0.87009,5.23483,-0.83009,5.27483",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Owia"
     ],
     "name:und_x_variant":[
-        "Owuya",
-        "Owia"
+        "Owuya"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1226061119,
-    "wof:lastmodified":1564205810,
+    "wof:lastmodified":1566638781,
     "wof:name":"Owia",
     "wof:parent_id":1108759861,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"GH",
+    "lbl:bbox":"-2.77987,5.22339,-2.73987,5.26339",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Atabrakoswaso"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226052737,
-    "wof:lastmodified":1537623766,
+    "wof:lastmodified":1566638708,
     "wof:name":"Atabrakoswaso",
     "wof:parent_id":1108760001,
     "wof:placetype":"locality",

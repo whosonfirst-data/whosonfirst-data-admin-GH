@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-2.84768,7.79769,-2.80768,7.83769",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Biama"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343280337,
-    "wof:lastmodified":1537623738,
+    "wof:lastmodified":1566637769,
     "wof:name":"Biama",
     "wof:parent_id":1108759823,
     "wof:placetype":"locality",

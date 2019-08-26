@@ -9,15 +9,18 @@
     "geom:bbox":"-2.1028,7.17242,-2.1028,7.17242",
     "geom:latitude":7.17242,
     "geom:longitude":-2.1028,
-    "gn:gn_country":"GH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":14227,
+    "gn:country":"GH",
+    "gn:fcode":"PPL",
     "gn:population":14227,
     "iso:country":"GH",
+    "lbl:bbox":"-2.1228,7.15242,-2.0828,7.19242",
     "lbl:latitude":7.17242,
     "lbl:longitude":-2.1028,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Duayaw Nkwanta"
@@ -34,7 +37,7 @@
     "name:swe_x_preferred":[
         "Duayaw Nkwanta"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nkwanta"
     ],
     "qs_pg:aaroncc":"GH",
@@ -49,7 +52,7 @@
     "qs_pg:qs_id":1034775,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1125892903,
-    "wof:lastmodified":1563378463,
+    "wof:lastmodified":1566638451,
     "wof:name":"Duayaw Nkwanta",
     "wof:parent_id":1108759835,
     "wof:placetype":"locality",

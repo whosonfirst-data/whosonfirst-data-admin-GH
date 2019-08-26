@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-0.89295,9.85016,-0.85295,9.89016",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Diari"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1360277951,
-    "wof:lastmodified":1564205267,
+    "wof:lastmodified":1566638386,
     "wof:name":"Diari",
     "wof:parent_id":1108759931,
     "wof:placetype":"locality",

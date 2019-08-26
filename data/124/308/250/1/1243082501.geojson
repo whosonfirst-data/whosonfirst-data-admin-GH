@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-2.26012,8.10098,-2.22012,8.14098",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0648\u0631\u0627"
     ],
@@ -80,8 +84,7 @@
         "Laura"
     ],
     "name:und_x_variant":[
-        "Luru",
-        "Laura"
+        "Luru"
     ],
     "name:vie_x_preferred":[
         "Laura"
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1243082501,
-    "wof:lastmodified":1564205373,
+    "wof:lastmodified":1566638472,
     "wof:name":"Laura",
     "wof:parent_id":1108759839,
     "wof:placetype":"locality",

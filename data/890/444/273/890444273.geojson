@@ -11,10 +11,14 @@
     "geom:longitude":-1.06058,
     "gn:country":"GH",
     "gn:fcode":"PPL",
-    "gn:pop":18794,
+    "gn:population":18794,
     "iso:country":"GH",
+    "lbl:bbox":"-1.08058,5.18913,-1.04058,5.22913",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u0421\u0430\u043b\u0442\u043f\u043e\u043d\u0434"
     ],
@@ -57,7 +61,7 @@
     "name:swe_x_preferred":[
         "Saltpond"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Achimfu"
     ],
     "name:urd_x_preferred":[
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":2295672,
         "gp:id":1332625,
-        "qs:id":1034745,
+        "qs_pg:id":1034745,
         "wd:id":"Q340149",
         "wk:page":"Saltpond"
     },
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":890444273,
-    "wof:lastmodified":1563378453,
+    "wof:lastmodified":1566638449,
     "wof:name":"Saltpond",
     "wof:parent_id":1108759861,
     "wof:placetype":"locality",

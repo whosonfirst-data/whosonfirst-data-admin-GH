@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.95383,7.0356,-1.91383,7.0756",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Domeabra",
         "Domiabra"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344071833,
-    "wof:lastmodified":1537623686,
+    "wof:lastmodified":1566637679,
     "wof:name":"Domiabra",
     "wof:parent_id":1108759781,
     "wof:placetype":"locality",

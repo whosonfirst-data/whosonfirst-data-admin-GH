@@ -10,8 +10,12 @@
     "geom:latitude":7.58616,
     "geom:longitude":-1.94137,
     "iso:country":"GH",
+    "lbl:bbox":"-1.96137,7.56616,-1.92137,7.60616",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062a\u064a\u0643\u064a\u0645\u0627\u0646"
@@ -121,7 +125,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u0447\u0456\u043c\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tekyiman"
     ],
     "name:urd_x_preferred":[
@@ -164,7 +168,7 @@
     "wof:concordances":{
         "gn:id":2294727,
         "gp:id":1333164,
-        "qs:id":1034739,
+        "qs_pg:id":1034739,
         "wd:id":"Q964069",
         "wk:page":"Techiman"
     },
@@ -181,7 +185,7 @@
         }
     ],
     "wof:id":421175893,
-    "wof:lastmodified":1561840431,
+    "wof:lastmodified":1566638444,
     "wof:name":"Techiman",
     "wof:parent_id":1108759837,
     "wof:placetype":"locality",

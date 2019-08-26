@@ -11,10 +11,14 @@
     "geom:longitude":-1.08193,
     "gn:country":"GH",
     "gn:fcode":"PPL",
-    "gn:pop":31554,
+    "gn:population":31554,
     "iso:country":"GH",
+    "lbl:bbox":"-1.10193,6.78004,-1.06193,6.82004",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0623\u063a\u0648\u063a\u0648"
     ],
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":2305537,
         "gp:id":1484369,
-        "qs:id":278391,
+        "qs_pg:id":278391,
         "wd:id":"Q395201",
         "wk:page":"Agogo"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":890432207,
-    "wof:lastmodified":1563378460,
+    "wof:lastmodified":1566638451,
     "wof:name":"Agogo",
     "wof:parent_id":1108759787,
     "wof:placetype":"locality",

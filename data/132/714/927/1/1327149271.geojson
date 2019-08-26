@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.40051,5.31078,-1.36051,5.35078",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u0628\u0631\u0627\u0641\u0648"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1327149271,
-    "wof:lastmodified":1564204169,
+    "wof:lastmodified":1566637550,
     "wof:name":"Abrafo",
     "wof:parent_id":1108759863,
     "wof:placetype":"locality",

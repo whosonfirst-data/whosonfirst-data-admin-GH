@@ -10,6 +10,9 @@
     "geom:latitude":7.33991,
     "geom:longitude":-2.32676,
     "iso:country":"GH",
+    "lbl:bbox":"-2.34676,7.31991,-2.30676,7.35991",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -263,7 +266,7 @@
     "wof:concordances":{
         "gn:id":2295021,
         "gp:id":1333004,
-        "qs:id":910642,
+        "qs_pg:id":910642,
         "wd:id":"Q406037",
         "wk:page":"Sunyani"
     },
@@ -280,7 +283,7 @@
         }
     ],
     "wof:id":421168043,
-    "wof:lastmodified":1563378435,
+    "wof:lastmodified":1566638441,
     "wof:name":"Sunyani",
     "wof:parent_id":1108759831,
     "wof:placetype":"locality",

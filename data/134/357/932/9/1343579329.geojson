@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-0.45333,10.76333,-0.41333,10.80333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Boga",
         "Bogo",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343579329,
-    "wof:lastmodified":1537623654,
+    "wof:lastmodified":1566637715,
     "wof:name":"Gabuliga",
     "wof:parent_id":1108759945,
     "wof:placetype":"locality",

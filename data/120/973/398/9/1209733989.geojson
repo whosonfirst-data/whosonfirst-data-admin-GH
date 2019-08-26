@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.7098,6.67841,-1.6698,6.71841",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tanoso"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209733989,
-    "wof:lastmodified":1537623439,
+    "wof:lastmodified":1566638137,
     "wof:name":"Tanoso",
     "wof:parent_id":1108759801,
     "wof:placetype":"locality",

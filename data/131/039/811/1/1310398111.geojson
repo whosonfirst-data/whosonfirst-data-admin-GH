@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.34216,9.99313,-1.30216,10.03313",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tampulima Yabum",
         "Yabum"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310398111,
-    "wof:lastmodified":1537623407,
+    "wof:lastmodified":1566638306,
     "wof:name":"Yabum",
     "wof:parent_id":1108759921,
     "wof:placetype":"locality",

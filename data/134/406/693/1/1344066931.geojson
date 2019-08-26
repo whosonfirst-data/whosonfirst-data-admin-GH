@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-2.63396,10.20945,-2.59396,10.24945",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Changu"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344066931,
-    "wof:lastmodified":1537623712,
+    "wof:lastmodified":1566637671,
     "wof:name":"Changu",
     "wof:parent_id":1108759961,
     "wof:placetype":"locality",

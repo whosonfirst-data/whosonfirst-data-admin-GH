@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.26589,8.83484,-1.22589,8.87484",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bute",
         "Butei",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293010763,
-    "wof:lastmodified":1537623714,
+    "wof:lastmodified":1566637800,
     "wof:name":"Butie",
     "wof:parent_id":1108759921,
     "wof:placetype":"locality",

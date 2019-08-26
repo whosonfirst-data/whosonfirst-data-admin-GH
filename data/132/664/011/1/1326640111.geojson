@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.67428,7.59528,-1.63428,7.63528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tuneibu",
         "Tiemmebu",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326640111,
-    "wof:lastmodified":1537623431,
+    "wof:lastmodified":1566637610,
     "wof:name":"Timeibu",
     "wof:parent_id":1108759827,
     "wof:placetype":"locality",

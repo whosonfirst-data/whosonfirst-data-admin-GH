@@ -11,10 +11,14 @@
     "geom:longitude":-0.73711,
     "gn:country":"GH",
     "gn:fcode":"PPL",
-    "gn:pop":20147,
+    "gn:population":20147,
     "iso:country":"GH",
+    "lbl:bbox":"-0.75711,5.26483,-0.71711,5.30483",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:cat_x_preferred":[
         "Apam"
     ],
@@ -45,7 +49,7 @@
     "name:swe_x_preferred":[
         "Apam"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Appam"
     ],
     "name:urd_x_preferred":[
@@ -69,7 +73,7 @@
     "wof:concordances":{
         "gn:id":2304389,
         "gp:id":1327145,
-        "qs:id":1034792,
+        "qs_pg:id":1034792,
         "wd:id":"Q617438",
         "wk:page":"Apam"
     },
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":890438701,
-    "wof:lastmodified":1563378452,
+    "wof:lastmodified":1566638448,
     "wof:name":"Apam",
     "wof:parent_id":1108759857,
     "wof:placetype":"locality",

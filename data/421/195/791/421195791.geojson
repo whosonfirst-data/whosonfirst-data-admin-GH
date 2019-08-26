@@ -10,8 +10,12 @@
     "geom:latitude":9.21886,
     "geom:longitude":-1.85961,
     "iso:country":"GH",
+    "lbl:bbox":"-1.87961,9.19886,-1.83961,9.23886",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:dan_x_preferred":[
         "Larabanga"
@@ -49,7 +53,7 @@
     "name:spa_x_preferred":[
         "Larabanga"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Laribanga"
     ],
     "name:urd_x_preferred":[
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":2298453,
         "gp:id":1330886,
-        "qs:id":910645,
+        "qs_pg:id":910645,
         "wd:id":"Q490731",
         "wk:page":"Larabanga"
     },
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":421195791,
-    "wof:lastmodified":1561840430,
+    "wof:lastmodified":1566638442,
     "wof:name":"Larabanga",
     "wof:parent_id":1108759921,
     "wof:placetype":"locality",

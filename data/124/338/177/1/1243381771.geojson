@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.44844,5.80396,-1.40844,5.84396",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0410\u0431\u0430\u0441\u0438"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1243381771,
-    "wof:lastmodified":1564205354,
+    "wof:lastmodified":1566638460,
     "wof:name":"Abasi",
     "wof:parent_id":1108759849,
     "wof:placetype":"locality",

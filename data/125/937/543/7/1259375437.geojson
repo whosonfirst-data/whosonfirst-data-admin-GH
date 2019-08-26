@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.00808,10.47985,-0.96808,10.51985",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dugu",
         "Duu",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259375437,
-    "wof:lastmodified":1537623682,
+    "wof:lastmodified":1566638603,
     "wof:name":"Du",
     "wof:parent_id":1108759937,
     "wof:placetype":"locality",

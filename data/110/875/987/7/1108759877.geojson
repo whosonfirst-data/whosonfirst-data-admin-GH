@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.082994,
     "lbl:longitude":-1.085411,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Eastern",
     "meso:dissme":"Eastern Birim North",
     "meso:gadm_adm2":"Birim North",
@@ -33,6 +35,7 @@
     "mps:longitude":-1.085411,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Birim North"
     ],
@@ -61,9 +64,9 @@
         "Birim North"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"1,237.0",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"New Abirem",
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1108759877,
-    "wof:lastmodified":1563378200,
+    "wof:lastmodified":1566638257,
     "wof:name":"Birim North",
     "wof:parent_id":85671343,
     "wof:placetype":"county",

@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.03423,5.96077,-0.99423,6.00077",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:swe_x_preferred":[
         "Nkwanta"
     ],
     "name:und_x_variant":[
-        "Oda Nkwanta",
-        "Nkwanta"
+        "Oda Nkwanta"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1259701889,
-    "wof:lastmodified":1564205568,
+    "wof:lastmodified":1566638612,
     "wof:name":"Nkwanta",
     "wof:parent_id":1108759879,
     "wof:placetype":"locality",

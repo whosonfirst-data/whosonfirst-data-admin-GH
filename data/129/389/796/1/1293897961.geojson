@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-2.75027,9.62875,-2.71027,9.66875",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tekoir",
         "Dochire",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293897961,
-    "wof:lastmodified":1537623690,
+    "wof:lastmodified":1566637894,
     "wof:name":"Dochire",
     "wof:parent_id":1108759965,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"0.16876,9.68461,0.20876,9.72461",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041d\u0430\u0456\u0440\u044b"
     ],
@@ -80,8 +84,7 @@
         "\u041d\u0430\u0457\u0440\u0456"
     ],
     "name:und_x_variant":[
-        "Nayire",
-        "Nairi"
+        "Nayire"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1259801807,
-    "wof:lastmodified":1564205639,
+    "wof:lastmodified":1566638662,
     "wof:name":"Nairi",
     "wof:parent_id":1108759929,
     "wof:placetype":"locality",

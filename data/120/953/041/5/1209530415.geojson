@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.26049,5.75373,-1.22049,5.79373",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u06a9\u0631\u0627\u067e\u0627\u0646\u0642"
     ],
@@ -41,8 +45,7 @@
         "\u0410\u043a\u0440\u043e\u043f\u043e\u043d\u0433"
     ],
     "name:und_x_variant":[
-        "Akropon",
-        "Akropong"
+        "Akropon"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1209530415,
-    "wof:lastmodified":1564204795,
+    "wof:lastmodified":1566638043,
     "wof:name":"Akropong",
     "wof:parent_id":85632189,
     "wof:placetype":"locality",

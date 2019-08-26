@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-2.59473,10.71957,-2.55473,10.75957",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041a\u043e\u0440\u044b"
     ],
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1243085891,
-    "wof:lastmodified":1564205378,
+    "wof:lastmodified":1566638475,
     "wof:name":"Kori",
     "wof:parent_id":1108759955,
     "wof:placetype":"locality",

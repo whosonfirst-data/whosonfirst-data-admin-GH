@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-0.23122,5.76256,-0.19122,5.80256",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ayim",
         "Aiyim"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276132971,
-    "wof:lastmodified":1537623818,
+    "wof:lastmodified":1566637993,
     "wof:name":"Aiyim",
     "wof:parent_id":1108759873,
     "wof:placetype":"locality",

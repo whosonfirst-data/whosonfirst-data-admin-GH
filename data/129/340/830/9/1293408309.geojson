@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-2.15701,6.26643,-2.11701,6.30643",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Merewa"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293408309,
-    "wof:lastmodified":1537623555,
+    "wof:lastmodified":1566637848,
     "wof:name":"Merewa",
     "wof:parent_id":1108759999,
     "wof:placetype":"locality",

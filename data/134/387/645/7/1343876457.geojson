@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.57642,6.28531,-1.53642,6.32531",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mansia"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343876457,
-    "wof:lastmodified":1537623560,
+    "wof:lastmodified":1566637758,
     "wof:name":"Mansia",
     "wof:parent_id":1108759773,
     "wof:placetype":"locality",

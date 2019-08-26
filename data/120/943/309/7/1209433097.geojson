@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-0.22066,6.16753,-0.18066,6.20753",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632189
@@ -34,7 +38,7 @@
         "gn:id":2302674
     },
     "wof:country":"GH",
-    "wof:geomhash":"08cd8e58169c0087ffa55c29ea201655",
+    "wof:geomhash":"e336ad34fac3552ba6fb5ebf83cb888c",
     "wof:hierarchy":[
         {
             "country_id":85632189,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209433097,
-    "wof:lastmodified":1536287181,
+    "wof:lastmodified":1566638152,
     "wof:name":"Bosotwi",
     "wof:parent_id":85632189,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -0.20066,
-    6.1875300000000015,
+    6.18753,
     -0.20066,
-    6.1875300000000015
+    6.18753
 ],
   "geometry": {"coordinates":[-0.20066,6.18753],"type":"Point"}
 }

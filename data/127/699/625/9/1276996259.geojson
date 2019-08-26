@@ -23,16 +23,19 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.28628,10.63919,-1.24628,10.67919",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aka_x_preferred":[
         "Wiaga"
     ],
     "name:und_x_variant":[
         "Wia",
         "Wiaga-Yisobsa",
-        "Wiaga Central",
-        "Wiaga"
+        "Wiaga Central"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1276996259,
-    "wof:lastmodified":1564204788,
+    "wof:lastmodified":1566638038,
     "wof:name":"Wiaga-Yisobsa",
     "wof:parent_id":1108759951,
     "wof:placetype":"locality",

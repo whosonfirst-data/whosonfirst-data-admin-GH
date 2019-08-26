@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-2.60602,4.96662,-2.56602,5.00662",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Beyin"
     ],
     "name:und_x_variant":[
-        "Behin",
-        "Beyin"
+        "Behin"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1193002743,
-    "wof:lastmodified":1564204968,
+    "wof:lastmodified":1566638174,
     "wof:name":"Beyin",
     "wof:parent_id":1108760001,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"0.80152,5.96788,0.84152,6.00788",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632189
@@ -34,7 +38,7 @@
         "gn:id":2304264
     },
     "wof:country":"GH",
-    "wof:geomhash":"0e5c18308a0f03dec7c9e32523910071",
+    "wof:geomhash":"05f6892efe04bac3e641886c56339b00",
     "wof:hierarchy":[
         {
             "country_id":85632189,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209224747,
-    "wof:lastmodified":1536293836,
+    "wof:lastmodified":1566638103,
     "wof:name":"Asadame",
     "wof:parent_id":85632189,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     0.82152,
-    5.9878800000000005,
+    5.98788,
     0.82152,
-    5.9878800000000005
+    5.98788
 ],
   "geometry": {"coordinates":[0.82152,5.98788],"type":"Point"}
 }

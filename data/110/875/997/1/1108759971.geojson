@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.526841,
     "lbl:longitude":0.488897,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Volta",
     "meso:dissme":"Volta Ho",
     "meso:gadm_adm2":"Ho",
@@ -33,6 +35,7 @@
     "mps:longitude":0.488897,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ho"
     ],
@@ -49,9 +52,9 @@
         "Ho"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"2,361.0",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Ho",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1108759971,
-    "wof:lastmodified":1564205061,
+    "wof:lastmodified":1566638241,
     "wof:name":"Ho",
     "wof:parent_id":85671357,
     "wof:placetype":"county",

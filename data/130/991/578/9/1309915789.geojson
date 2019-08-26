@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.81215,4.85338,-1.77215,4.89338",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Funko"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1309915789,
-    "wof:lastmodified":1537623655,
+    "wof:lastmodified":1566638406,
     "wof:name":"Fungo",
     "wof:parent_id":1108760011,
     "wof:placetype":"locality",

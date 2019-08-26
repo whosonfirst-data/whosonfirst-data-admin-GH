@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-0.92394,6.06146,-0.88394,6.10146",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Subinsa",
         "Subinso"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326644749,
-    "wof:lastmodified":1537623448,
+    "wof:lastmodified":1566637611,
     "wof:name":"Subinso",
     "wof:parent_id":1108759885,
     "wof:placetype":"locality",

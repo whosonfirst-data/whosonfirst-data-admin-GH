@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-0.73667,5.66333,-0.69667,5.70333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632189
@@ -34,7 +38,7 @@
         "gn:id":2301489
     },
     "wof:country":"GH",
-    "wof:geomhash":"a23e68e319122a1813e3a58e1c911145",
+    "wof:geomhash":"579a5e38418541cf6f382d4d53ad59aa",
     "wof:hierarchy":[
         {
             "country_id":85632189,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209533915,
-    "wof:lastmodified":1536284199,
+    "wof:lastmodified":1566638042,
     "wof:name":"Duaboni",
     "wof:parent_id":85632189,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -0.71667,
-    5.6833300000000015,
+    5.68333,
     -0.71667,
-    5.6833300000000015
+    5.68333
 ],
   "geometry": {"coordinates":[-0.71667,5.68333],"type":"Point"}
 }

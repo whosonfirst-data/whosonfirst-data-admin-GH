@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.58211,8.78524,-1.54211,8.82524",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:swe_x_preferred":[
         "Buipe"
     ],
     "name:und_x_variant":[
         "New Buipe",
-        "Buipe",
         "Old Buipe"
     ],
     "src:geom":"geonames",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1243378171,
-    "wof:lastmodified":1564205358,
+    "wof:lastmodified":1566638463,
     "wof:name":"Old Buipe",
     "wof:parent_id":1108759921,
     "wof:placetype":"locality",

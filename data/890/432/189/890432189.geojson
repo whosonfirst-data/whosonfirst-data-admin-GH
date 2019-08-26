@@ -11,8 +11,11 @@
     "geom:longitude":-0.00991,
     "gn:country":"GH",
     "gn:fcode":"PPL",
-    "gn:pop":42972,
+    "gn:population":42972,
     "iso:country":"GH",
+    "lbl:bbox":"-0.02991,9.42272,0.01009,9.46272",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -61,7 +64,7 @@
     "name:swe_x_preferred":[
         "Yendi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jendi"
     ],
     "name:urd_x_preferred":[
@@ -175,7 +178,7 @@
     "wof:concordances":{
         "gn:id":2293801,
         "gp:id":1333785,
-        "qs:id":278368,
+        "qs_pg:id":278368,
         "wd:id":"Q639066",
         "wk:page":"Yendi"
     },
@@ -192,7 +195,7 @@
         }
     ],
     "wof:id":890432189,
-    "wof:lastmodified":1563378459,
+    "wof:lastmodified":1566638450,
     "wof:name":"Yendi",
     "wof:parent_id":1108759915,
     "wof:placetype":"locality",

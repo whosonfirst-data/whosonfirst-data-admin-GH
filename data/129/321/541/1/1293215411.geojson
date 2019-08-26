@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-2.70033,7.8406,-2.66033,7.8806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mayera",
         "Mayara"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293215411,
-    "wof:lastmodified":1537623557,
+    "wof:lastmodified":1566637921,
     "wof:name":"Mayara",
     "wof:parent_id":1108759823,
     "wof:placetype":"locality",

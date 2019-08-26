@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.906722,
     "lbl:longitude":-0.958978,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Ashanti",
     "meso:dissme":"Ashanti Asante Akim North",
     "meso:gadm_adm2":"Asante Akim North",
@@ -33,6 +35,7 @@
     "mps:longitude":-0.958978,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0623\u0633\u0627\u0646\u062a \u0623\u0643\u064a\u0645 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629 \u0627\u0644\u0645\u062d\u0644\u064a\u0629"
     ],
@@ -67,9 +70,9 @@
         "Asante Akim North"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"1,462.0",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Konongo-Odumase",
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1108759787,
-    "wof:lastmodified":1563378190,
+    "wof:lastmodified":1566638248,
     "wof:name":"Asante Akim North",
     "wof:parent_id":85671331,
     "wof:placetype":"county",

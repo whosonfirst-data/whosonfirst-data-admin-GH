@@ -10,8 +10,12 @@
     "geom:latitude":8.05627,
     "geom:longitude":-1.73058,
     "iso:country":"GH",
+    "lbl:bbox":"-1.75058,8.03627,-1.71058,8.07627",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Kintampo"
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":2299625,
         "gp:id":1330128,
-        "qs:id":1034764,
+        "qs_pg:id":1034764,
         "wd:id":"Q1742284",
         "wk:page":"Kintampo, Ghana"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421168127,
-    "wof:lastmodified":1563378432,
+    "wof:lastmodified":1566638441,
     "wof:name":"Kintampo",
     "wof:parent_id":1108759825,
     "wof:placetype":"locality",

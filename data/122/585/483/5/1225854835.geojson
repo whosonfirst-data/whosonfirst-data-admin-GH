@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.29836,10.82999,-1.25836,10.86999",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Chana"
     ],
@@ -46,8 +50,7 @@
     "name:und_x_variant":[
         "Chiana",
         "Chiana Asunia",
-        "Chiana Central",
-        "Chana"
+        "Chiana Central"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1225854835,
-    "wof:lastmodified":1564205833,
+    "wof:lastmodified":1566638795,
     "wof:name":"Chana",
     "wof:parent_id":1108759953,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-0.29112,10.57173,-0.25112,10.61173",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bango"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226252751,
-    "wof:lastmodified":1564205754,
+    "wof:lastmodified":1566638742,
     "wof:name":"Bango",
     "wof:parent_id":1108759917,
     "wof:placetype":"locality",

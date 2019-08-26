@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.66391,5.94182,-1.62391,5.98182",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Petichi"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1360099851,
-    "wof:lastmodified":1537623479,
+    "wof:lastmodified":1566638369,
     "wof:name":"Petichi",
     "wof:parent_id":1108759773,
     "wof:placetype":"locality",

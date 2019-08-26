@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"0.84753,6.2799,0.88753,6.3199",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u062f\u0627"
     ],
@@ -147,7 +151,7 @@
         }
     ],
     "wof:id":1243378231,
-    "wof:lastmodified":1564205365,
+    "wof:lastmodified":1566638467,
     "wof:name":"Ada",
     "wof:parent_id":1108759969,
     "wof:placetype":"locality",

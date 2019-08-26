@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-2.90796,6.3322,-2.86796,6.3722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Metsemano"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259801747,
-    "wof:lastmodified":1537623554,
+    "wof:lastmodified":1566638662,
     "wof:name":"Metsemano",
     "wof:parent_id":1108760003,
     "wof:placetype":"locality",

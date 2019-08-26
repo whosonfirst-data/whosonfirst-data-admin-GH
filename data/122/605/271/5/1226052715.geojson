@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-0.85333,6.71333,-0.81333,6.75333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hweehwee Afuni",
         "Fwefwe"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226052715,
-    "wof:lastmodified":1537623655,
+    "wof:lastmodified":1566638714,
     "wof:name":"Fwefwe",
     "wof:parent_id":1108759889,
     "wof:placetype":"locality",

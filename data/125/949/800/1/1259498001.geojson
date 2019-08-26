@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.91498,5.94275,-1.87498,5.98275",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aka_x_preferred":[
         "Ayanfuri"
     ],
@@ -33,8 +37,7 @@
     ],
     "name:und_x_variant":[
         "Ayenfuri",
-        "Ayanfure",
-        "Ayanfuri"
+        "Ayanfure"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1259498001,
-    "wof:lastmodified":1564205599,
+    "wof:lastmodified":1566638634,
     "wof:name":"Ayamfor",
     "wof:parent_id":1108759865,
     "wof:placetype":"locality",

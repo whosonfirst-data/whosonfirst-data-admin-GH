@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.65165,5.40912,-1.61165,5.44912",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mammposo"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243572575,
-    "wof:lastmodified":1537623562,
+    "wof:lastmodified":1566638528,
     "wof:name":"Mammposo",
     "wof:parent_id":1108759863,
     "wof:placetype":"locality",

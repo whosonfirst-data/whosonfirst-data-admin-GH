@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.10333,6.59667,-1.06333,6.63667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aka_x_preferred":[
         "Anum"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1309924029,
-    "wof:lastmodified":1564205308,
+    "wof:lastmodified":1566638417,
     "wof:name":"Anum",
     "wof:parent_id":1108759789,
     "wof:placetype":"locality",

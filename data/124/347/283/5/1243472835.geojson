@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-2.40927,9.9983,-2.36927,10.0383",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Busa"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1243472835,
-    "wof:lastmodified":1564205453,
+    "wof:lastmodified":1566638526,
     "wof:name":"Busa",
     "wof:parent_id":1108759965,
     "wof:placetype":"locality",

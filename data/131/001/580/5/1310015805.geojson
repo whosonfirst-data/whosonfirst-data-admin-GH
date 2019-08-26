@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-0.49742,8.87363,-0.45742,8.91363",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wangasi",
         "Turu",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310015805,
-    "wof:lastmodified":1537623416,
+    "wof:lastmodified":1566638303,
     "wof:name":"Wangasi Turu",
     "wof:parent_id":1108759919,
     "wof:placetype":"locality",

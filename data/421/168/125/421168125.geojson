@@ -10,8 +10,12 @@
     "geom:latitude":5.43274,
     "geom:longitude":-2.14284,
     "iso:country":"GH",
+    "lbl:bbox":"-2.16284,5.41274,-2.12284,5.45274",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041f\u0440\u0435\u0441\u0442\u0435\u0430"
@@ -40,7 +44,7 @@
     "name:swe_x_preferred":[
         "Prestea"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Esamang"
     ],
     "name:urd_x_preferred":[
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":2295840,
         "gp:id":1332511,
-        "qs:id":1034751,
+        "qs_pg:id":1034751,
         "wd:id":"Q2109005",
         "wk:page":"Prestea"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421168125,
-    "wof:lastmodified":1563378436,
+    "wof:lastmodified":1566638441,
     "wof:name":"Prestea",
     "wof:parent_id":1108760017,
     "wof:placetype":"locality",

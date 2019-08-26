@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.01639,5.32991,-0.97639,5.36991",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293701363,
-    "wof:lastmodified":1536975441,
+    "wof:lastmodified":1566637833,
     "wof:name":"Asempaneye",
     "wof:parent_id":1108759845,
     "wof:placetype":"locality",

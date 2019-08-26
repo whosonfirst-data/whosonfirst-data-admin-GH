@@ -11,8 +11,11 @@
     "geom:longitude":-1.7137,
     "gn:country":"GH",
     "gn:fcode":"PPLA",
-    "gn:pop":138872,
+    "gn:population":138872,
     "iso:country":"GH",
+    "lbl:bbox":"-1.7337,4.914,-1.6937,4.954",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -152,7 +155,7 @@
         "Sekondi-Takoradi"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bc6\u0b95\u0bcd\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bbf  -\u0ba4\u0b95\u0bcb\u0bb0\u0b9f\u0bbf"
+        "\u0b9a\u0bc6\u0b95\u0bcd\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bbf -\u0ba4\u0b95\u0bcb\u0bb0\u0b9f\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c42\u0c2e\u0c3f\u0c06\u0c35\u0c4d"
@@ -169,7 +172,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043a\u043e\u043d\u0434\u0456-\u0422\u0430\u043a\u043e\u0440\u0430\u0434\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sekondi"
     ],
     "name:urd_x_preferred":[
@@ -295,7 +298,7 @@
     "wof:concordances":{
         "gn:id":2295458,
         "gp:id":1332764,
-        "qs:id":1034734,
+        "qs_pg:id":1034734,
         "wd:id":"Q243293",
         "wk:page":"Sekondi-Takoradi"
     },
@@ -312,7 +315,7 @@
         }
     ],
     "wof:id":890444263,
-    "wof:lastmodified":1563378457,
+    "wof:lastmodified":1566638449,
     "wof:name":"Sekondi-Takoradi",
     "wof:parent_id":1108760011,
     "wof:placetype":"locality",

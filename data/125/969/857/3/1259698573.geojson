@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.31729,8.05493,-1.27729,8.09493",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kyaromo",
         "Chirembo"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259698573,
-    "wof:lastmodified":1537623707,
+    "wof:lastmodified":1566638656,
     "wof:name":"Chirembo",
     "wof:parent_id":1108759817,
     "wof:placetype":"locality",

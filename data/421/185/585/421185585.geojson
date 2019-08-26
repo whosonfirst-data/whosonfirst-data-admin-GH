@@ -10,8 +10,12 @@
     "geom:latitude":5.6085,
     "geom:longitude":-0.187883,
     "iso:country":"GH",
+    "lbl:bbox":"-0.207883,5.5885,-0.167883,5.6285",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aka_x_preferred":[
         "Adenta East"
@@ -72,7 +76,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28752626,
-        "qs:id":1030376,
+        "qs_pg:id":1030376,
         "wd:id":"Q356236"
     },
     "wof:country":"GH",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421185585,
-    "wof:lastmodified":1563378449,
+    "wof:lastmodified":1566638447,
     "wof:name":"Adenta East",
     "wof:parent_id":1108759901,
     "wof:placetype":"locality",

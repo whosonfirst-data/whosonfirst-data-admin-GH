@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-0.36328,10.45862,-0.32328,10.49862",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Timpela",
         "Timpeia"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326948353,
-    "wof:lastmodified":1537623431,
+    "wof:lastmodified":1566637534,
     "wof:name":"Timpeia",
     "wof:parent_id":1108759917,
     "wof:placetype":"locality",

@@ -10,6 +10,9 @@
     "geom:latitude":6.20602,
     "geom:longitude":-1.66191,
     "iso:country":"GH",
+    "lbl:bbox":"-1.68191,6.18602,-1.64191,6.22602",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -149,7 +152,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0431\u0443\u0430\u0441\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Oboase"
     ],
     "name:urd_x_preferred":[
@@ -287,7 +290,7 @@
     "wof:concordances":{
         "gn:id":2296606,
         "gp:id":1485694,
-        "qs:id":1009597,
+        "qs_pg:id":1009597,
         "wd:id":"Q1020901",
         "wk:page":"Obuasi"
     },
@@ -304,7 +307,7 @@
         }
     ],
     "wof:id":421175633,
-    "wof:lastmodified":1563378442,
+    "wof:lastmodified":1566638444,
     "wof:name":"Obuasi",
     "wof:parent_id":1108759773,
     "wof:placetype":"locality",

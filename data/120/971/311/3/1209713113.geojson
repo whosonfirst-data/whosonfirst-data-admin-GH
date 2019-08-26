@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-0.10184,10.14146,-0.06184,10.18146",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kateni",
         "Katane",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209713113,
-    "wof:lastmodified":1537623611,
+    "wof:lastmodified":1566638092,
     "wof:name":"Katani",
     "wof:parent_id":1108759925,
     "wof:placetype":"locality",

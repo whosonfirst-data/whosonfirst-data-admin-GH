@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":7.85125,
     "lbl:longitude":-0.982714,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":7.85125,
     "mps:longitude":-0.982714,
     "mz:hierarchy_label":1,
@@ -750,9 +752,7 @@
         "\u0413\u0430\u043d\u0430"
     ],
     "name:und_x_variant":[
-        "Republika Gana"
-    ],
-    "name:unk_x_variant":[
+        "Republika Gana",
         "Gold Coast"
     ],
     "name:urd_x_preferred":[
@@ -914,7 +914,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"233",
     "statoids:ds":"GH",
@@ -959,7 +959,7 @@
         "mzb:id":"ghana",
         "ne:adm0_a3":"GHA",
         "nyt:id":"66209906381490749441",
-        "qs:id":1263208,
+        "qs_pg:id":1263208,
         "uncrt:id":"GH",
         "wd:id":"Q117",
         "wk:page":"Ghana",
@@ -984,7 +984,7 @@
         "ewe",
         "gaa"
     ],
-    "wof:lastmodified":1565712562,
+    "wof:lastmodified":1566637781,
     "wof:name":"Ghana",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

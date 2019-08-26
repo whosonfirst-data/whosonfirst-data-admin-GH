@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.284825,
     "lbl:longitude":-1.214356,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Central",
     "meso:dissme":"Central Abura Dunkwa",
     "meso:gadm_adm2":"Abura-Asebu-Kwamankese",
@@ -33,6 +35,7 @@
     "mps:longitude":-1.214356,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Abura/Asebu/Kwamankese"
     ],
@@ -61,9 +64,9 @@
         "Abura/Asebu/Kwamankese"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"324.0",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Abura-Dunkwa",
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1108759841,
-    "wof:lastmodified":1563378188,
+    "wof:lastmodified":1566638246,
     "wof:name":"Abura Dunkwa",
     "wof:parent_id":85671341,
     "wof:placetype":"county",

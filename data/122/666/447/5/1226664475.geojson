@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-0.66786,10.34607,-0.62786,10.38607",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sadugu",
         "Sudugu",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226664475,
-    "wof:lastmodified":1537623470,
+    "wof:lastmodified":1566638723,
     "wof:name":"Sagadugu",
     "wof:parent_id":1108759937,
     "wof:placetype":"locality",

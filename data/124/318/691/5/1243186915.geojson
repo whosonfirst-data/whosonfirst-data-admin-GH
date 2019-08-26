@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.91244,4.83326,-1.87244,4.87326",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Asamaso",
         "Asemasa"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243186915,
-    "wof:lastmodified":1537623776,
+    "wof:lastmodified":1566638571,
     "wof:name":"Asemasa",
     "wof:parent_id":1108759993,
     "wof:placetype":"locality",

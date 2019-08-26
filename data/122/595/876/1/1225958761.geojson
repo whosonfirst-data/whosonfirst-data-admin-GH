@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.65605,6.71901,-1.61605,6.75901",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bremang"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1225958761,
-    "wof:lastmodified":1537623722,
+    "wof:lastmodified":1566638685,
     "wof:name":"Breman",
     "wof:parent_id":1108759801,
     "wof:placetype":"locality",

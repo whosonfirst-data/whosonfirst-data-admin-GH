@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.28349,5.20128,-1.24349,5.24128",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Aboenu",
         "Abuenu"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243468857,
-    "wof:lastmodified":1537623845,
+    "wof:lastmodified":1566638522,
     "wof:name":"Abuenu",
     "wof:parent_id":1108759841,
     "wof:placetype":"locality",

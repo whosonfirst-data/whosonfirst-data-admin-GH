@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.6106,5.08711,-1.5706,5.12711",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Anteamua"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243278715,
-    "wof:lastmodified":1537623788,
+    "wof:lastmodified":1566638580,
     "wof:name":"Ansiemua",
     "wof:parent_id":1108760005,
     "wof:placetype":"locality",

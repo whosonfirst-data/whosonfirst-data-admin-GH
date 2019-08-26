@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"0.55942,5.81599,0.59942,5.85599",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Keno Dokupiti Korpe",
         "Kenaw"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343972535,
-    "wof:lastmodified":1537623609,
+    "wof:lastmodified":1566637668,
     "wof:name":"Kenaw",
     "wof:parent_id":1108759903,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":4.86992,
     "geom:longitude":-2.24046,
     "iso:country":"GH",
+    "lbl:bbox":"-2.26046,4.84992,-2.22046,4.88992",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Axim"
@@ -103,7 +107,7 @@
     "wof:concordances":{
         "gn:id":2303611,
         "gp:id":1327611,
-        "qs:id":139440,
+        "qs_pg:id":139440,
         "wd:id":"Q792509",
         "wk:page":"Axim"
     },
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":421197459,
-    "wof:lastmodified":1563378445,
+    "wof:lastmodified":1566638445,
     "wof:name":"Axim",
     "wof:parent_id":1108760007,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.56853,5.92967,-1.52853,5.96967",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mprakyire"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276238155,
-    "wof:lastmodified":1537623842,
+    "wof:lastmodified":1566638001,
     "wof:name":"Mprakyire",
     "wof:parent_id":1108759773,
     "wof:placetype":"locality",

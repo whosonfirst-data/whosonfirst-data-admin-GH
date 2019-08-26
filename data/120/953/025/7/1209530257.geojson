@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-0.38744,8.76964,-0.34744,8.80964",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632189
@@ -34,7 +38,7 @@
         "gn:id":2298438
     },
     "wof:country":"GH",
-    "wof:geomhash":"aacc77f92b69508bbd652cb42647f5d0",
+    "wof:geomhash":"f3588c46cbf4c7c8762139982fe8a63d",
     "wof:hierarchy":[
         {
             "country_id":85632189,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209530257,
-    "wof:lastmodified":1536284303,
+    "wof:lastmodified":1566638043,
     "wof:name":"Latinkpa",
     "wof:parent_id":85632189,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -0.36744,
-    8.789639999999999,
+    8.78964,
     -0.36744,
-    8.789639999999999
+    8.78964
 ],
   "geometry": {"coordinates":[-0.36744,8.78964],"type":"Point"}
 }

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-2.80488,5.68175,-2.76488,5.72175",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tokosia Camp",
         "Tokosea Camp",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1193030717,
-    "wof:lastmodified":1537623428,
+    "wof:lastmodified":1566638190,
     "wof:name":"Tokosea",
     "wof:parent_id":1108759997,
     "wof:placetype":"locality",

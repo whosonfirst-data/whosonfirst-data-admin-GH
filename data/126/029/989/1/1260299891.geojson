@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"0.47102,6.0084,0.51102,6.0484",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lug_x_preferred":[
         "Aloi"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1260299891,
-    "wof:lastmodified":1564205045,
+    "wof:lastmodified":1566638229,
     "wof:name":"Aloi",
     "wof:parent_id":1108759967,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-0.19836,10.9687,-0.15836,11.0087",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Kuka"
     ],
@@ -65,8 +69,7 @@
         "\u041a\u0443\u043a\u0430"
     ],
     "name:und_x_variant":[
-        "Koka",
-        "Kuka"
+        "Koka"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1276458295,
-    "wof:lastmodified":1564204668,
+    "wof:lastmodified":1566637941,
     "wof:name":"Kuka",
     "wof:parent_id":1108759943,
     "wof:placetype":"locality",

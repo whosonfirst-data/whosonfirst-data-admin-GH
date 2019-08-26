@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-2.09169,5.57412,-2.05169,5.61412",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ehyiraso",
         "Ahireso"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259994199,
-    "wof:lastmodified":1537623821,
+    "wof:lastmodified":1566638609,
     "wof:name":"Ahireso",
     "wof:parent_id":1108760017,
     "wof:placetype":"locality",

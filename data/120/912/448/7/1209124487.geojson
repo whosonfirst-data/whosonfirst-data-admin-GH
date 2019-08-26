@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"0.16188,8.04302,0.20188,8.08302",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:swe_x_preferred":[
         "Dambai"
     ],
@@ -32,7 +36,6 @@
         "Danbae",
         "Dangbae",
         "Damba\u00e9",
-        "Dambai",
         "Dumbai"
     ],
     "src:geom":"geonames",
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1209124487,
-    "wof:lastmodified":1564204847,
+    "wof:lastmodified":1566638082,
     "wof:name":"Dambai",
     "wof:parent_id":85632189,
     "wof:placetype":"locality",

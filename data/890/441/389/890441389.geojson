@@ -11,8 +11,11 @@
     "geom:longitude":-0.7662,
     "gn:country":"GH",
     "gn:fcode":"PPL",
-    "gn:pop":47162,
+    "gn:population":47162,
     "iso:country":"GH",
+    "lbl:bbox":"-0.7862,6.53121,-0.7462,6.57121",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -64,7 +67,7 @@
     "name:twi_x_preferred":[
         "Nk\u0254k\u0254\u0254"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nkokoo"
     ],
     "name:urd_x_preferred":[
@@ -181,7 +184,7 @@
     "wof:concordances":{
         "gn:id":2297313,
         "gp:id":1485548,
-        "qs:id":278373,
+        "qs_pg:id":278373,
         "wd:id":"Q1025019",
         "wk:page":"Nkawkaw"
     },
@@ -198,7 +201,7 @@
         }
     ],
     "wof:id":890441389,
-    "wof:lastmodified":1563378450,
+    "wof:lastmodified":1566638447,
     "wof:name":"Nkawkaw",
     "wof:parent_id":1108759889,
     "wof:placetype":"locality",

@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-2.01129,9.81325,-1.97129,9.85325",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nld_x_preferred":[
         "Ducie"
     ],
     "name:und_x_variant":[
-        "Dusie",
-        "Ducie"
+        "Dusie"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1276633563,
-    "wof:lastmodified":1564204793,
+    "wof:lastmodified":1566638041,
     "wof:name":"Ducie",
     "wof:parent_id":1108759965,
     "wof:placetype":"locality",

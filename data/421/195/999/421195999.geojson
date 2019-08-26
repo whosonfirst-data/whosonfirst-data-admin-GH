@@ -10,8 +10,12 @@
     "geom:latitude":9.08337,
     "geom:longitude":-1.81819,
     "iso:country":"GH",
+    "lbl:bbox":"-1.83819,9.06337,-1.79819,9.10337",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Damongo"
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":2302002,
         "gp:id":1328574,
-        "qs:id":1034778,
+        "qs_pg:id":1034778,
         "wd:id":"Q1158732",
         "wk:page":"Damongo"
     },
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":421195999,
-    "wof:lastmodified":1563378437,
+    "wof:lastmodified":1566638442,
     "wof:name":"Damongo",
     "wof:parent_id":1108759921,
     "wof:placetype":"locality",

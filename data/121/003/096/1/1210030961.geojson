@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.35302,5.26779,-1.31302,5.30779",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1210030961,
-    "wof:lastmodified":1536388587,
+    "wof:lastmodified":1566638162,
     "wof:name":"Watreso",
     "wof:parent_id":1108759863,
     "wof:placetype":"locality",

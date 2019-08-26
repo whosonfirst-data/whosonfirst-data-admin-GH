@@ -10,6 +10,9 @@
     "geom:latitude":10.78556,
     "geom:longitude":-0.85139,
     "iso:country":"GH",
+    "lbl:bbox":"-0.87139,10.76556,-0.83139,10.80556",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -83,7 +86,7 @@
     "name:swe_x_preferred":[
         "Bolgatanga"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bolagatanga"
     ],
     "name:vol_x_preferred":[
@@ -217,7 +220,7 @@
     "wof:concordances":{
         "gn:id":2302821,
         "gp:id":1328117,
-        "qs:id":139414,
+        "qs_pg:id":139414,
         "wd:id":"Q166513",
         "wk:page":"Bolgatanga"
     },
@@ -234,7 +237,7 @@
         }
     ],
     "wof:id":421195909,
-    "wof:lastmodified":1563378436,
+    "wof:lastmodified":1566638442,
     "wof:name":"Bolgatanga",
     "wof:parent_id":1108759947,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.19864,10.79515,-1.15864,10.83515",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chuchilliga Central",
         "Chuchilliga Azuguyeri Nawasa",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242766703,
-    "wof:lastmodified":1537623705,
+    "wof:lastmodified":1566638553,
     "wof:name":"Chuchiliga",
     "wof:parent_id":1108759951,
     "wof:placetype":"locality",

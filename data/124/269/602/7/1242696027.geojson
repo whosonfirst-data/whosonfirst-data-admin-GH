@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"0.21369,6.24978,0.25369,6.28978",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242696027,
-    "wof:lastmodified":1536892895,
+    "wof:lastmodified":1566638509,
     "wof:name":"Agbetiame",
     "wof:parent_id":1108759967,
     "wof:placetype":"locality",
