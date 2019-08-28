@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.02519,5.60322,-0.98519,5.64322",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Oehisua",
         "Ochisau",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259392651,
-    "wof:lastmodified":1537623501,
+    "wof:lastmodified":1566638601,
     "wof:name":"Ochisua",
     "wof:parent_id":1108759847,
     "wof:placetype":"locality",

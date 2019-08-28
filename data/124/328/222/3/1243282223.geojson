@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.94888,6.90547,-1.90888,6.94547",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Apanimadi"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243282223,
-    "wof:lastmodified":1537623783,
+    "wof:lastmodified":1566638585,
     "wof:name":"Apanimadi",
     "wof:parent_id":1108759781,
     "wof:placetype":"locality",

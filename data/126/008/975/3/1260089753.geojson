@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-0.40599,5.67921,-0.36599,5.71921",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Okushibiadi"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1260089753,
-    "wof:lastmodified":1537623492,
+    "wof:lastmodified":1566638219,
     "wof:name":"Okushibiade",
     "wof:parent_id":1108759909,
     "wof:placetype":"locality",

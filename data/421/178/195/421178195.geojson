@@ -10,8 +10,12 @@
     "geom:latitude":7.15181,
     "geom:longitude":0.47362,
     "iso:country":"GH",
+    "lbl:bbox":"0.45362,7.13181,0.49362,7.17181",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Hohoe"
@@ -55,7 +59,7 @@
     "name:swe_x_preferred":[
         "Hohoe"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chochoe"
     ],
     "name:urd_x_preferred":[
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":2300372,
         "gp:id":56123275,
-        "qs:id":278382,
+        "qs_pg:id":278382,
         "wd:id":"Q1017008",
         "wk:page":"Hohoe"
     },
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":421178195,
-    "wof:lastmodified":1563378446,
+    "wof:lastmodified":1566638446,
     "wof:name":"Hohoe",
     "wof:parent_id":1108759973,
     "wof:placetype":"locality",

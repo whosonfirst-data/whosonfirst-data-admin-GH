@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.61904,6.38128,-1.57904,6.42128",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bisiasi"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1344167009,
-    "wof:lastmodified":1537623734,
+    "wof:lastmodified":1566637743,
     "wof:name":"Besease",
     "wof:parent_id":1108759783,
     "wof:placetype":"locality",

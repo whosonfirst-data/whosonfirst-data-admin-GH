@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-0.42,10.71333,-0.38,10.75333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Yaka"
     ],
@@ -45,8 +49,7 @@
         "Yaka"
     ],
     "name:und_x_variant":[
-        "Yakka",
-        "Yaka"
+        "Yakka"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1259989707,
-    "wof:lastmodified":1564205542,
+    "wof:lastmodified":1566638593,
     "wof:name":"Yaka",
     "wof:parent_id":1108759945,
     "wof:placetype":"locality",

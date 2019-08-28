@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-0.95165,8.69755,-0.91165,8.73755",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tulwe",
         "Tuluwi",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259997941,
-    "wof:lastmodified":1537623423,
+    "wof:lastmodified":1566638608,
     "wof:name":"Tuluwe",
     "wof:parent_id":1108759921,
     "wof:placetype":"locality",

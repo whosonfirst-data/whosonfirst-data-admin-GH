@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.26381,10.55253,-1.22381,10.59253",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tandem"
     ],
@@ -50,8 +54,7 @@
         "\u0c1f\u0c46\u0c28\u0c4d\u0c21\u0c02"
     ],
     "name:und_x_variant":[
-        "Wiaga Tandem Tankangsa",
-        "Tandem"
+        "Wiaga Tandem Tankangsa"
     ],
     "name:urd_x_preferred":[
         "\u0679\u0645 \u0679\u0645"
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1310315215,
-    "wof:lastmodified":1564205118,
+    "wof:lastmodified":1566638297,
     "wof:name":"Tandem",
     "wof:parent_id":1108759951,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-2.54317,8.94088,-2.50317,8.98088",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Manful",
         "Mantuli",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293802273,
-    "wof:lastmodified":1537623562,
+    "wof:lastmodified":1566637901,
     "wof:name":"Manfuli",
     "wof:parent_id":1108759913,
     "wof:placetype":"locality",

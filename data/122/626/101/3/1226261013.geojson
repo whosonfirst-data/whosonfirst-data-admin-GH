@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"0.4135,6.82531,0.4535,6.86531",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u0645\u06cc\u062f\u0632\u0627\u0641"
     ],
@@ -43,8 +47,7 @@
         "Amedjofe",
         "Amedschowe",
         "Amejove",
-        "Amedzope",
-        "Amedzofe"
+        "Amedzope"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1226261013,
-    "wof:lastmodified":1564205684,
+    "wof:lastmodified":1566638693,
     "wof:name":"Amedzofe",
     "wof:parent_id":1108759971,
     "wof:placetype":"locality",

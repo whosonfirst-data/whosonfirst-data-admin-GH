@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-0.25787,6.37997,-0.21787,6.41997",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Konkone Abetina",
         "Konkone Abetima"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327249601,
-    "wof:lastmodified":1537623598,
+    "wof:lastmodified":1566637560,
     "wof:name":"Konkone Abetima",
     "wof:parent_id":1108759883,
     "wof:placetype":"locality",

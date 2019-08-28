@@ -12,6 +12,8 @@
     "iso:country":"GH",
     "lbl:latitude":5.545935,
     "lbl:longitude":-0.210089,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
@@ -452,9 +454,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u043a\u043a\u0440\u0430"
     ],
-    "name:unk_x_variant":[
-        "Akra"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u06a9\u0631\u0627"
     ],
@@ -635,7 +634,7 @@
         "gn:id":2306104,
         "gp:id":1326075,
         "loc:id":"n79059515",
-        "qs:id":492808,
+        "qs_pg:id":492808,
         "wd:id":"Q3761",
         "wk:page":"Accra"
     },
@@ -652,7 +651,7 @@
         }
     ],
     "wof:id":421168965,
-    "wof:lastmodified":1563378431,
+    "wof:lastmodified":1566638440,
     "wof:name":"Accra",
     "wof:parent_id":1108759901,
     "wof:placetype":"locality",

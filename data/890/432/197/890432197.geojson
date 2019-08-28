@@ -11,10 +11,14 @@
     "geom:longitude":-0.75897,
     "gn:country":"GH",
     "gn:fcode":"PPL",
-    "gn:pop":13983,
+    "gn:population":13983,
     "iso:country":"GH",
+    "lbl:bbox":"-0.77897,5.24176,-0.73897,5.28176",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Mumford"
     ],
@@ -24,7 +28,7 @@
     "name:nld_x_preferred":[
         "Mumford"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gammah"
     ],
     "name:urd_x_preferred":[
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":2297810,
         "gp:id":1327145,
-        "qs:id":278378,
+        "qs_pg:id":278378,
         "wd:id":"Q6935389",
         "wk:page":"Mumford"
     },
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":890432197,
-    "wof:lastmodified":1563378459,
+    "wof:lastmodified":1566638451,
     "wof:name":"Mumford",
     "wof:parent_id":1108759857,
     "wof:placetype":"locality",

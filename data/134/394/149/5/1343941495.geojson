@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.24839,10.45889,-1.20839,10.49889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Uwasi Central",
         "Uwasi Kazengsa",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343941495,
-    "wof:lastmodified":1537623420,
+    "wof:lastmodified":1566637730,
     "wof:name":"Uwasi",
     "wof:parent_id":1108759951,
     "wof:placetype":"locality",

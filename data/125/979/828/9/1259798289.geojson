@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-2.86688,10.70377,-2.82688,10.74377",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dazugri"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259798289,
-    "wof:lastmodified":1537623699,
+    "wof:lastmodified":1566638616,
     "wof:name":"Dazugri",
     "wof:parent_id":1108759957,
     "wof:placetype":"locality",

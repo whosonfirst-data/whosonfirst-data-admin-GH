@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.82855,6.40487,-1.78855,6.44487",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Domi"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1209834005,
-    "wof:lastmodified":1564204840,
+    "wof:lastmodified":1566638077,
     "wof:name":"Domi",
     "wof:parent_id":1108759785,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-2.73961,7.24328,-2.69961,7.28328",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wamanafo",
         "Wamanfo"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209932375,
-    "wof:lastmodified":1537623416,
+    "wof:lastmodified":1566638124,
     "wof:name":"Wamanfo",
     "wof:parent_id":1108759821,
     "wof:placetype":"locality",

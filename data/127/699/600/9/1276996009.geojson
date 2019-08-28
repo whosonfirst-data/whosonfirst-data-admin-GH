@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-0.99532,10.89143,-0.95532,10.93143",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Longo"
     ],
@@ -32,8 +36,7 @@
         "\u10da\u10dd\u10dc\u10d2\u10dd"
     ],
     "name:und_x_variant":[
-        "Kandiga Longo",
-        "Longo"
+        "Kandiga Longo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1276996009,
-    "wof:lastmodified":1564204790,
+    "wof:lastmodified":1566638038,
     "wof:name":"Longo",
     "wof:parent_id":1108759953,
     "wof:placetype":"locality",

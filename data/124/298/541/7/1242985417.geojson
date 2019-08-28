@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-0.46774,6.64048,-0.42774,6.68048",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Aboam",
         "Abowam"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242985417,
-    "wof:lastmodified":1537623848,
+    "wof:lastmodified":1566638564,
     "wof:name":"Abowam",
     "wof:parent_id":1108759889,
     "wof:placetype":"locality",

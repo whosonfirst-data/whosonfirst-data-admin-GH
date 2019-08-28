@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"0.6375,5.75009,0.6775,5.79009",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1326648147,
-    "wof:lastmodified":1536816153,
+    "wof:lastmodified":1566637611,
     "wof:name":"Azizanya",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

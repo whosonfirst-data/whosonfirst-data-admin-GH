@@ -10,8 +10,12 @@
     "geom:latitude":5.91793,
     "geom:longitude":0.9879,
     "iso:country":"GH",
+    "lbl:bbox":"0.9679,5.89793,1.0079,5.93793",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Keta"
@@ -52,7 +56,7 @@
     "name:swe_x_preferred":[
         "Keta"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Quittah"
     ],
     "name:urd_x_preferred":[
@@ -89,7 +93,7 @@
     "wof:concordances":{
         "gn:id":2299645,
         "gp:id":1330114,
-        "qs:id":1211237,
+        "qs_pg:id":1211237,
         "wd:id":"Q1471408",
         "wk:page":"Keta"
     },
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":421177955,
-    "wof:lastmodified":1563378446,
+    "wof:lastmodified":1566638446,
     "wof:name":"Keta",
     "wof:parent_id":1108759981,
     "wof:placetype":"locality",

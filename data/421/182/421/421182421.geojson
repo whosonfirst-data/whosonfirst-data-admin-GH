@@ -10,8 +10,12 @@
     "geom:latitude":4.88447,
     "geom:longitude":-1.75536,
     "iso:country":"GH",
+    "lbl:bbox":"-1.77536,4.86447,-1.73536,4.90447",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Takoradi"
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":2294915,
         "gp:id":1333057,
-        "qs:id":910644,
+        "qs_pg:id":910644,
         "wd:id":"Q2022168"
     },
     "wof:country":"GH",
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":421182421,
-    "wof:lastmodified":1561840431,
+    "wof:lastmodified":1566638446,
     "wof:name":"Takoradi",
     "wof:parent_id":1108760011,
     "wof:placetype":"locality",

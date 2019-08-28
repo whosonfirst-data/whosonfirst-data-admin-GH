@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.54937,6.17805,-1.50937,6.21805",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mparekrom"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343368983,
-    "wof:lastmodified":1537623550,
+    "wof:lastmodified":1566637646,
     "wof:name":"Mparekrom",
     "wof:parent_id":1108759771,
     "wof:placetype":"locality",

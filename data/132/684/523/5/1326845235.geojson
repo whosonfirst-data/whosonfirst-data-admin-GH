@@ -24,14 +24,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-0.70333,9.48,-0.66333,9.52",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aka_x_preferred":[
         "Gwintinli"
     ],
     "name:und_x_variant":[
-        "Guntingli",
-        "Gwintinli"
+        "Guntingli"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1326845235,
-    "wof:lastmodified":1564204238,
+    "wof:lastmodified":1566637603,
     "wof:name":"Gwintinli",
     "wof:parent_id":1108759931,
     "wof:placetype":"locality",

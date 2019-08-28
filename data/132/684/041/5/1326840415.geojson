@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-2.05166,6.51797,-2.01166,6.55797",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Aniamoa"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1326840415,
-    "wof:lastmodified":1537623790,
+    "wof:lastmodified":1566637591,
     "wof:name":"Aniamoa",
     "wof:parent_id":1108759791,
     "wof:placetype":"locality",

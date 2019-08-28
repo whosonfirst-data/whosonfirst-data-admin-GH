@@ -10,8 +10,12 @@
     "geom:latitude":5.79473,
     "geom:longitude":0.89728,
     "iso:country":"GH",
+    "lbl:bbox":"0.87728,5.77473,0.91728,5.81473",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0410\u043d\u043b\u043e\u0433\u0430"
@@ -37,7 +41,7 @@
     "name:swe_x_preferred":[
         "Anloga"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Awunaga"
     ],
     "name:urd_x_preferred":[
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":2304548,
         "gp:id":1327047,
-        "qs:id":492805,
+        "qs_pg:id":492805,
         "wd:id":"Q557912",
         "wk:page":"Anloga"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421181443,
-    "wof:lastmodified":1563378441,
+    "wof:lastmodified":1566638444,
     "wof:name":"Anloga",
     "wof:parent_id":1108759981,
     "wof:placetype":"locality",

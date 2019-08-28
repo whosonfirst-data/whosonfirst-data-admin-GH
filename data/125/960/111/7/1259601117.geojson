@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-2.78544,10.89402,-2.74544,10.93402",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Boe"
     ],
@@ -62,8 +66,7 @@
         "Boe"
     ],
     "name:und_x_variant":[
-        "Bu",
-        "Boe"
+        "Bu"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1259601117,
-    "wof:lastmodified":1564205623,
+    "wof:lastmodified":1566638652,
     "wof:name":"Boe",
     "wof:parent_id":1108759957,
     "wof:placetype":"locality",

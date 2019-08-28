@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.96161,6.67859,-1.92161,6.71859",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Esiamakrom"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1292918181,
-    "wof:lastmodified":1537623665,
+    "wof:lastmodified":1566637875,
     "wof:name":"Esiamakrom",
     "wof:parent_id":1108759791,
     "wof:placetype":"locality",

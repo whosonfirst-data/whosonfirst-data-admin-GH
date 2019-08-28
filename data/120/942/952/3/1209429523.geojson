@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-2.47694,9.89067,-2.43694,9.93067",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632189
@@ -34,7 +38,7 @@
         "gn:id":2294827
     },
     "wof:country":"GH",
-    "wof:geomhash":"14c2376a30846a533d650acbaa44e2d4",
+    "wof:geomhash":"ad3222d98622d49d72f5545b13a6f339",
     "wof:hierarchy":[
         {
             "country_id":85632189,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209429523,
-    "wof:lastmodified":1536287277,
+    "wof:lastmodified":1566638146,
     "wof:name":"Tanina",
     "wof:parent_id":85632189,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.4569400000000003,
+    -2.45694,
     9.91067,
-    -2.4569400000000003,
+    -2.45694,
     9.91067
 ],
   "geometry": {"coordinates":[-2.45694,9.91067],"type":"Point"}

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-2.23722,10.95876,-2.19722,10.99876",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gollu",
         "Golu",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259994275,
-    "wof:lastmodified":1537623643,
+    "wof:lastmodified":1566638610,
     "wof:name":"Gwolu",
     "wof:parent_id":1108759963,
     "wof:placetype":"locality",

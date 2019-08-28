@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.72592,5.87134,-1.68592,5.91134",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nkrang"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343676497,
-    "wof:lastmodified":1537623525,
+    "wof:lastmodified":1566637727,
     "wof:name":"Nkrang",
     "wof:parent_id":1108759865,
     "wof:placetype":"locality",

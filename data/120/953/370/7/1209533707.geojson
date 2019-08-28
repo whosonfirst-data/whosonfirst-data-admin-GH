@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-2.15699,4.88312,-2.11699,4.92312",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kojima"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209533707,
-    "wof:lastmodified":1537623603,
+    "wof:lastmodified":1566638045,
     "wof:name":"Kegyina",
     "wof:parent_id":85632189,
     "wof:placetype":"locality",

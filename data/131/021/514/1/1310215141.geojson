@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-2.09641,5.45899,-2.05641,5.49899",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Senkye Beposo",
         "Senche"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310215141,
-    "wof:lastmodified":1537623459,
+    "wof:lastmodified":1566638325,
     "wof:name":"Senche",
     "wof:parent_id":1108760017,
     "wof:placetype":"locality",

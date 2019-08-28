@@ -9,15 +9,18 @@
     "geom:bbox":"-0.16308,5.6658,-0.16308,5.6658",
     "geom:latitude":5.6658,
     "geom:longitude":-0.16308,
-    "gn:gn_country":"GH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":101207,
+    "gn:country":"GH",
+    "gn:fcode":"PPL",
     "gn:population":101207,
     "iso:country":"GH",
+    "lbl:bbox":"-0.18308,5.6458,-0.14308,5.6858",
     "lbl:latitude":5.6658,
     "lbl:longitude":-0.16308,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:aka_x_preferred":[
         "Madina"
@@ -61,9 +64,6 @@
     "name:swe_x_preferred":[
         "Madina"
     ],
-    "name:unk_x_variant":[
-        "Madina"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u062f\u06cc\u0646\u06c1\u060c \u06af\u06be\u0627\u0646\u0627"
     ],
@@ -82,7 +82,7 @@
     "qs_pg:qs_id":1034759,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -109,7 +109,7 @@
         }
     ],
     "wof:id":1125913001,
-    "wof:lastmodified":1563378464,
+    "wof:lastmodified":1566638452,
     "wof:name":"Medina Estates",
     "wof:parent_id":1108759909,
     "wof:placetype":"locality",

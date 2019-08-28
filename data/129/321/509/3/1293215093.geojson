@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.59487,6.64243,-1.55487,6.68243",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gyenyasi"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293215093,
-    "wof:lastmodified":1537623624,
+    "wof:lastmodified":1566637917,
     "wof:name":"Gyenyasi",
     "wof:parent_id":1108759801,
     "wof:placetype":"locality",

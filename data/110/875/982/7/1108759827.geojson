@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.622251,
     "lbl:longitude":-1.626728,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Brong Ahafo",
     "meso:dissme":"Brong Ahafo Nkoranza",
     "meso:gadm_adm2":"Nkoranza",
@@ -33,6 +35,7 @@
     "mps:longitude":-1.626728,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Nkoranza District"
     ],
@@ -58,9 +61,9 @@
         "Nkoranza"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"2,584.0",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Nkoranza",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1108759827,
-    "wof:lastmodified":1563378193,
+    "wof:lastmodified":1566638250,
     "wof:name":"Nkoranza",
     "wof:parent_id":85671337,
     "wof:placetype":"county",

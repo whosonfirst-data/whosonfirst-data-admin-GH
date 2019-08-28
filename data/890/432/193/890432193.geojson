@@ -11,10 +11,14 @@
     "geom:longitude":-0.98577,
     "gn:country":"GH",
     "gn:fcode":"PPL",
-    "gn:pop":43399,
+    "gn:population":43399,
     "iso:country":"GH",
+    "lbl:bbox":"-1.00577,5.90665,-0.96577,5.94665",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:aka_x_preferred":[
         "Akim Oda"
     ],
@@ -54,7 +58,7 @@
     "name:swe_x_preferred":[
         "Akim Oda"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nsuaem"
     ],
     "name:urd_x_preferred":[
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":2296564,
         "gp:id":1332051,
-        "qs:id":278375,
+        "qs_pg:id":278375,
         "wd:id":"Q418402",
         "wk:page":"Akim Oda"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":890432193,
-    "wof:lastmodified":1563378457,
+    "wof:lastmodified":1566638450,
     "wof:name":"Akim Oda",
     "wof:parent_id":1108759879,
     "wof:placetype":"locality",

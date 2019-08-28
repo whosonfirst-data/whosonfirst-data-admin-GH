@@ -10,8 +10,12 @@
     "geom:latitude":5.96562,
     "geom:longitude":-1.77995,
     "iso:country":"GH",
+    "lbl:bbox":"-1.79995,5.94562,-1.75995,5.98562",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Dunkwa"
@@ -32,9 +36,6 @@
         "Dunkwa-on-Offin"
     ],
     "name:swe_x_preferred":[
-        "Dunkwa-on-Offin"
-    ],
-    "name:unk_x_variant":[
         "Dunkwa-on-Offin"
     ],
     "name:urd_x_preferred":[
@@ -70,7 +71,7 @@
     "wof:concordances":{
         "gn:id":2301400,
         "gp:id":1485045,
-        "qs:id":139412,
+        "qs_pg:id":139412,
         "wd:id":"Q5315398",
         "wk:page":"Dunkwa-on-Offin"
     },
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":421168501,
-    "wof:lastmodified":1563378434,
+    "wof:lastmodified":1566638441,
     "wof:name":"Dunkwa",
     "wof:parent_id":1108759865,
     "wof:placetype":"locality",

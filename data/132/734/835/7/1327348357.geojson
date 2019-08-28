@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-2.79303,5.08756,-2.75303,5.12756",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327348357,
-    "wof:lastmodified":1536802111,
+    "wof:lastmodified":1566637568,
     "wof:name":"Sringabo",
     "wof:parent_id":1108760001,
     "wof:placetype":"locality",

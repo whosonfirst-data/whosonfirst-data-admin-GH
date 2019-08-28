@@ -11,10 +11,14 @@
     "geom:longitude":-1.61275,
     "gn:country":"GH",
     "gn:fcode":"PPL",
-    "gn:pop":50457,
+    "gn:population":50457,
     "iso:country":"GH",
+    "lbl:bbox":"-1.63275,6.71453,-1.59275,6.75453",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:aka_x_preferred":[
         "Tafo"
     ],
@@ -39,7 +43,7 @@
     "name:swe_x_preferred":[
         "Tafo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Old Tafo"
     ],
     "name:urd_x_preferred":[
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":2294938,
         "gp:id":1331548,
-        "qs:id":1034740,
+        "qs_pg:id":1034740,
         "wd:id":"Q7674984",
         "wk:page":"Tafo"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":890444267,
-    "wof:lastmodified":1563378455,
+    "wof:lastmodified":1566638449,
     "wof:name":"Tafo",
     "wof:parent_id":1108759801,
     "wof:placetype":"locality",

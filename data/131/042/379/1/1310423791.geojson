@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-0.55153,10.41202,-0.51153,10.45202",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Boku"
     ],
@@ -41,8 +45,7 @@
         "Boku"
     ],
     "name:und_x_variant":[
-        "Boko",
-        "Boku"
+        "Boko"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1310423791,
-    "wof:lastmodified":1564205139,
+    "wof:lastmodified":1566638308,
     "wof:name":"Boku",
     "wof:parent_id":1108759917,
     "wof:placetype":"locality",

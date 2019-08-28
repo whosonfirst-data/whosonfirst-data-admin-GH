@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.03948,9.71884,-0.99948,9.75884",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tolugu",
         "Tollugu"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209733769,
-    "wof:lastmodified":1537623427,
+    "wof:lastmodified":1566638140,
     "wof:name":"Tollugu",
     "wof:parent_id":1108759935,
     "wof:placetype":"locality",

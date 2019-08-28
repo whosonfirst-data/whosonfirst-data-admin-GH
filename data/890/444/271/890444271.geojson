@@ -11,10 +11,14 @@
     "geom:longitude":-1.63011,
     "gn:country":"GH",
     "gn:fcode":"PPL",
-    "gn:pop":20946,
+    "gn:population":20946,
     "iso:country":"GH",
+    "lbl:bbox":"-1.65011,4.98872,-1.61011,5.02872",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:cat_x_preferred":[
         "Shama"
     ],
@@ -31,9 +35,6 @@
         "Shama"
     ],
     "name:swe_x_preferred":[
-        "Shama"
-    ],
-    "name:unk_x_variant":[
         "Shama"
     ],
     "name:urd_x_preferred":[
@@ -57,7 +58,7 @@
     "wof:concordances":{
         "gn:id":2295385,
         "gp:id":1485855,
-        "qs:id":1034744,
+        "qs_pg:id":1034744,
         "wd:id":"Q226124"
     },
     "wof:country":"GH",
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":890444271,
-    "wof:lastmodified":1563378456,
+    "wof:lastmodified":1566638449,
     "wof:name":"Shama Junction",
     "wof:parent_id":1108760011,
     "wof:placetype":"locality",

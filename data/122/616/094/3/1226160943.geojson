@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-0.00914,9.59504,0.03086,9.63504",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nashegu",
         "Naschiro",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226160943,
-    "wof:lastmodified":1537623534,
+    "wof:lastmodified":1566638706,
     "wof:name":"Nasiuk",
     "wof:parent_id":1108759915,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"0.79325,5.91245,0.83325,5.95245",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Agorvinu",
         "Agovinu"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276453383,
-    "wof:lastmodified":1537623823,
+    "wof:lastmodified":1566637940,
     "wof:name":"Agovinu",
     "wof:parent_id":1108759981,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"0.85089,6.30123,0.89089,6.34123",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ave Afiadenyigba",
         "Afaringba",
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209224703,
-    "wof:lastmodified":1537623829,
+    "wof:lastmodified":1566638099,
     "wof:name":"Afiadenyigba",
     "wof:parent_id":85632189,
     "wof:placetype":"locality",

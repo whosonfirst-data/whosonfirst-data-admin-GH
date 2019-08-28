@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"0.98879,6.00632,1.02879,6.04632",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dogbekorpe",
         "Dogbuikofe",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310425647,
-    "wof:lastmodified":1537623690,
+    "wof:lastmodified":1566638311,
     "wof:name":"Dogbekope",
     "wof:parent_id":1108759983,
     "wof:placetype":"locality",

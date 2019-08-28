@@ -11,10 +11,14 @@
     "geom:longitude":-2.31938,
     "gn:country":"GH",
     "gn:fcode":"PPL",
-    "gn:pop":19076,
+    "gn:population":19076,
     "iso:country":"GH",
+    "lbl:bbox":"-2.33938,6.44346,-2.29938,6.48346",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u0411\u0438\u0431\u0438\u0430\u043d\u0438"
     ],
@@ -36,7 +40,7 @@
     "name:swe_x_preferred":[
         "Bibiani"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bebiani"
     ],
     "qs:name":"Bibiani",
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":2303060,
         "gp:id":1327976,
-        "qs:id":1034781,
+        "qs_pg:id":1034781,
         "wd:id":"Q4903040",
         "wk:page":"Bibiani"
     },
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890437071,
-    "wof:lastmodified":1563378450,
+    "wof:lastmodified":1566638448,
     "wof:name":"Bibiani",
     "wof:parent_id":1108759999,
     "wof:placetype":"locality",

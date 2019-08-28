@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.22603,6.11595,-1.18603,6.15595",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327343577,
-    "wof:lastmodified":1536808621,
+    "wof:lastmodified":1566637570,
     "wof:name":"Adansi Nsese",
     "wof:parent_id":1108759783,
     "wof:placetype":"locality",

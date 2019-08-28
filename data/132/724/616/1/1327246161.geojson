@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-2.54663,10.04309,-2.50663,10.08309",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0646\u062c\u0627"
     ],
@@ -238,9 +242,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043d\u0433\u043e"
     ],
-    "name:und_x_variant":[
-        "Mangu"
-    ],
     "name:uzb_x_preferred":[
         "Mango"
     ],
@@ -276,7 +277,7 @@
         }
     ],
     "wof:id":1327246161,
-    "wof:lastmodified":1564204179,
+    "wof:lastmodified":1566637557,
     "wof:name":"Mango",
     "wof:parent_id":1108759965,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":96000,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-2.80516,7.5558,-2.76516,7.5958",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:und_x_variant":[
         "Gyapekurom",
         "Japekrom"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226252769,
-    "wof:lastmodified":1537623629,
+    "wof:lastmodified":1566638744,
     "wof:name":"Japekrom",
     "wof:parent_id":1108759823,
     "wof:placetype":"locality",

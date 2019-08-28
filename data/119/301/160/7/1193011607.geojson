@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"0.99859,6.24328,1.03859,6.28328",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tornu Village",
         "Tonu"
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1193011607,
-    "wof:lastmodified":1537623426,
+    "wof:lastmodified":1566638174,
     "wof:name":"Tonu",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

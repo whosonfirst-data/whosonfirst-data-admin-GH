@@ -10,6 +10,9 @@
     "geom:latitude":10.06069,
     "geom:longitude":-2.50192,
     "iso:country":"GH",
+    "lbl:bbox":"-2.52192,10.04069,-2.48192,10.08069",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -275,7 +278,7 @@
     "wof:concordances":{
         "gn:id":2294206,
         "gp:id":1333520,
-        "qs:id":910553,
+        "qs_pg:id":910553,
         "wd:id":"Q250733",
         "wk:page":"Wa, Ghana"
     },
@@ -292,7 +295,7 @@
         }
     ],
     "wof:id":421193513,
-    "wof:lastmodified":1563378439,
+    "wof:lastmodified":1566638443,
     "wof:name":"Wa",
     "wof:parent_id":1108759965,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":5.30644,
     "geom:longitude":-1.98474,
     "iso:country":"GH",
+    "lbl:bbox":"-2.00474,5.28644,-1.96474,5.32644",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aka_x_preferred":[
         "Takwa"
@@ -49,7 +53,7 @@
     "name:swe_x_preferred":[
         "Tarkwa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tarquah"
     ],
     "name:urd_x_preferred":[
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":2294768,
         "gp:id":1333146,
-        "qs:id":910643,
+        "qs_pg:id":910643,
         "wd:id":"Q995439",
         "wk:page":"Tarkwa"
     },
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":421182419,
-    "wof:lastmodified":1561840431,
+    "wof:lastmodified":1566638446,
     "wof:name":"Tarkwa",
     "wof:parent_id":1108760017,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.80302,5.99111,-1.76302,6.03111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Konkoja"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209924313,
-    "wof:lastmodified":1537623598,
+    "wof:lastmodified":1566638109,
     "wof:name":"Konkoja",
     "wof:parent_id":1108759773,
     "wof:placetype":"locality",

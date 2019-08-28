@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.05613,8.48334,-1.01613,8.52334",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343276731,
-    "wof:lastmodified":1537010656,
+    "wof:lastmodified":1566637751,
     "wof:name":"Kabako",
     "wof:parent_id":1108759919,
     "wof:placetype":"locality",

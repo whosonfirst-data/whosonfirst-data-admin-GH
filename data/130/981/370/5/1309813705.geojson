@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-0.67018,6.45424,-0.63018,6.49424",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "New Gyegyeti",
         "Jejeti"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1309813705,
-    "wof:lastmodified":1537623628,
+    "wof:lastmodified":1566638426,
     "wof:name":"Jejeti",
     "wof:parent_id":1108759889,
     "wof:placetype":"locality",

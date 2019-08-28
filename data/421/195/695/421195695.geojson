@@ -10,6 +10,9 @@
     "geom:latitude":6.09408,
     "geom:longitude":-0.25913,
     "iso:country":"GH",
+    "lbl:bbox":"-0.27913,6.07408,-0.23913,6.11408",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -284,7 +287,7 @@
     "wof:concordances":{
         "gn:id":2299522,
         "gp:id":1330197,
-        "qs:id":492803,
+        "qs_pg:id":492803,
         "wd:id":"Q406358",
         "wk:page":"Koforidua"
     },
@@ -301,7 +304,7 @@
         }
     ],
     "wof:id":421195695,
-    "wof:lastmodified":1563378438,
+    "wof:lastmodified":1566638442,
     "wof:name":"Koforidua",
     "wof:parent_id":1108759893,
     "wof:placetype":"locality",

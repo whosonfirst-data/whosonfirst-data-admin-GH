@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-2.31155,4.89113,-2.27155,4.93113",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Assenta",
         "Asanta"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343479881,
-    "wof:lastmodified":1537623777,
+    "wof:lastmodified":1566637701,
     "wof:name":"Asanta",
     "wof:parent_id":1108760007,
     "wof:placetype":"locality",

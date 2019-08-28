@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.59821,6.75648,-1.55821,6.79648",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Fawubawari"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310315213,
-    "wof:lastmodified":1537623661,
+    "wof:lastmodified":1566638297,
     "wof:name":"Fawoade",
     "wof:parent_id":1108759803,
     "wof:placetype":"locality",

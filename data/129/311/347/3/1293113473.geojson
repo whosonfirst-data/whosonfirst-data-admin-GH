@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"0.23649,6.80473,0.27649,6.84473",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293113473,
-    "wof:lastmodified":1536828275,
+    "wof:lastmodified":1566637887,
     "wof:name":"Tokpeta",
     "wof:parent_id":1108759985,
     "wof:placetype":"locality",

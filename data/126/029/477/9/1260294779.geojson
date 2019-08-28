@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-2.52341,7.60805,-2.48341,7.64805",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Teinso",
         "Tainano"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260294779,
-    "wof:lastmodified":1537623443,
+    "wof:lastmodified":1566638226,
     "wof:name":"Tainano",
     "wof:parent_id":1108759839,
     "wof:placetype":"locality",

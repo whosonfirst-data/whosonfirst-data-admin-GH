@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-0.05559,5.91456,-0.01559,5.95456",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1309813513,
-    "wof:lastmodified":1536920491,
+    "wof:lastmodified":1566638428,
     "wof:name":"Amanfro",
     "wof:parent_id":1108759907,
     "wof:placetype":"locality",

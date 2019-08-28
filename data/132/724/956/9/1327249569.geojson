@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-0.51888,10.77047,-0.47888,10.81047",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0631\u0627\u0646\u063a\u0627"
     ],
@@ -110,8 +114,7 @@
         "\u0410\u0440\u0430\u043d\u0433\u0430"
     ],
     "name:und_x_variant":[
-        "Gbantongo Aronga",
-        "Aranga"
+        "Gbantongo Aronga"
     ],
     "name:uzb_x_preferred":[
         "Aranga"
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":1327249569,
-    "wof:lastmodified":1564204185,
+    "wof:lastmodified":1566637560,
     "wof:name":"Aranga",
     "wof:parent_id":1108759945,
     "wof:placetype":"locality",

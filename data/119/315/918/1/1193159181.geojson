@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"0.31587,10.17666,0.35587,10.21666",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kudani"
     ],
@@ -47,8 +51,7 @@
         "\u041a\u0443\u0434\u0430\u043d\u0456"
     ],
     "name:und_x_variant":[
-        "Koudani",
-        "Kudani"
+        "Koudani"
     ],
     "name:vol_x_preferred":[
         "Kudani"
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1193159181,
-    "wof:lastmodified":1564204978,
+    "wof:lastmodified":1566638180,
     "wof:name":"Kudani",
     "wof:parent_id":1108759929,
     "wof:placetype":"locality",

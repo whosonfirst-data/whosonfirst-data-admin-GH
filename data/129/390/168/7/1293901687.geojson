@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.575,5.50299,-1.535,5.54299",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mampong"
     ],
@@ -51,8 +55,7 @@
     ],
     "name:und_x_variant":[
         "Twifo Mampong",
-        "Mampon",
-        "Mampong"
+        "Mampon"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0645\u067e\u0648\u0646\u06af"
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1293901687,
-    "wof:lastmodified":1564204505,
+    "wof:lastmodified":1566637811,
     "wof:name":"Mampong",
     "wof:parent_id":1108759863,
     "wof:placetype":"locality",

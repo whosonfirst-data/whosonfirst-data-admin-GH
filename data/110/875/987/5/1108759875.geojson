@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.39218,
     "lbl:longitude":0.112343,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Eastern",
     "meso:dissme":"Eastern Asuogyaman",
     "meso:gadm_adm2":"Asuogyaman",
@@ -33,6 +35,7 @@
     "mps:longitude":0.112343,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u0410\u0441\u0443\u043e\u0433\u044f\u043c\u0430\u043d"
     ],
@@ -64,9 +67,9 @@
         "Asuogyaman"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"664.0",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Atimpoku",
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1108759875,
-    "wof:lastmodified":1563378201,
+    "wof:lastmodified":1566638257,
     "wof:name":"Asuogyaman",
     "wof:parent_id":85671343,
     "wof:placetype":"county",

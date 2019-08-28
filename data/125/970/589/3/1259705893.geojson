@@ -23,16 +23,19 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-0.55135,9.49978,-0.51135,9.53978",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Tijo"
     ],
     "name:und_x_variant":[
         "Tidjo",
         "Tudjoe",
-        "Tijaw",
-        "Tijo"
+        "Tijaw"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1259705893,
-    "wof:lastmodified":1564205570,
+    "wof:lastmodified":1566638613,
     "wof:name":"Tijo",
     "wof:parent_id":1108759915,
     "wof:placetype":"locality",

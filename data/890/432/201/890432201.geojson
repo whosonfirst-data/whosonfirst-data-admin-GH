@@ -11,10 +11,14 @@
     "geom:longitude":-0.73462,
     "gn:country":"GH",
     "gn:fcode":"PPL",
-    "gn:pop":9007,
+    "gn:population":9007,
     "iso:country":"GH",
+    "lbl:bbox":"-0.75462,6.5732,-0.71462,6.6132",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041c\u043f\u0440\u0430\u0435\u0441\u043e"
     ],
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":2297834,
         "gp:id":1331275,
-        "qs:id":278379,
+        "qs_pg:id":278379,
         "wd:id":"Q3330850",
         "wk:page":"Mpraeso"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":890432201,
-    "wof:lastmodified":1563378460,
+    "wof:lastmodified":1566638451,
     "wof:name":"Mpraeso",
     "wof:parent_id":1108759889,
     "wof:placetype":"locality",

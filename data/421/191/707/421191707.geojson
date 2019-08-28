@@ -10,8 +10,12 @@
     "geom:latitude":6.61667,
     "geom:longitude":-1.21667,
     "iso:country":"GH",
+    "lbl:bbox":"-1.23667,6.59667,-1.19667,6.63667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Konongo"
@@ -48,9 +52,6 @@
     ],
     "name:swe_x_preferred":[
         "Konongo-Odumasi"
-    ],
-    "name:unk_x_variant":[
-        "Konongo-Odumase"
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0648\u0646\u0648\u0646\u06af\u0648\u060c \u06af\u06be\u0627\u0646\u0627"
@@ -94,7 +95,7 @@
     "wof:concordances":{
         "gn:id":2299349,
         "gp:id":56123136,
-        "qs:id":71599,
+        "qs_pg:id":71599,
         "wd:id":"Q1016732",
         "wk:page":"Konongo, Ghana"
     },
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":421191707,
-    "wof:lastmodified":1563378443,
+    "wof:lastmodified":1566638445,
     "wof:name":"Konongo",
     "wof:parent_id":1108759787,
     "wof:placetype":"locality",

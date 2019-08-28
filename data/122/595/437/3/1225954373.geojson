@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-2.06229,5.77749,-2.02229,5.81749",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pebabitina"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1225954373,
-    "wof:lastmodified":1537623481,
+    "wof:lastmodified":1566638680,
     "wof:name":"Pebabitina",
     "wof:parent_id":1108760015,
     "wof:placetype":"locality",

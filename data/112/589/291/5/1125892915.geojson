@@ -9,15 +9,18 @@
     "geom:bbox":"-0.2361,5.65003,-0.2361,5.65003",
     "geom:latitude":5.65003,
     "geom:longitude":-0.2361,
-    "gn:gn_country":"GH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":47260,
+    "gn:country":"GH",
+    "gn:fcode":"PPL",
     "gn:population":47260,
     "iso:country":"GH",
+    "lbl:bbox":"-0.2561,5.63003,-0.2161,5.67003",
     "lbl:latitude":5.65003,
     "lbl:longitude":-0.2361,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Dome"
@@ -49,7 +52,7 @@
     "name:swe_x_preferred":[
         "Dome"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dam"
     ],
     "name:urd_x_preferred":[
@@ -70,7 +73,7 @@
     "qs_pg:qs_id":1034777,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1125892915,
-    "wof:lastmodified":1563378463,
+    "wof:lastmodified":1566638451,
     "wof:name":"Dome",
     "wof:parent_id":1108759909,
     "wof:placetype":"locality",

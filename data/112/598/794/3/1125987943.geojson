@@ -9,15 +9,18 @@
     "geom:bbox":"-1.35093,5.0847,-1.35093,5.0847",
     "geom:latitude":5.0847,
     "geom:longitude":-1.35093,
-    "gn:gn_country":"GH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":25560,
+    "gn:country":"GH",
+    "gn:fcode":"PPL",
     "gn:population":25560,
     "iso:country":"GH",
+    "lbl:bbox":"-1.37093,5.0647,-1.33093,5.1047",
     "lbl:latitude":5.0847,
     "lbl:longitude":-1.35093,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:aka_x_preferred":[
         "Edina"
@@ -103,7 +106,7 @@
     "name:swe_x_preferred":[
         "Elmina"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Saint George Del Mina"
     ],
     "name:urd_x_preferred":[
@@ -121,7 +124,7 @@
     "qs_pg:qs_id":278385,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":1125987943,
-    "wof:lastmodified":1563378465,
+    "wof:lastmodified":1566638452,
     "wof:name":"Elmina",
     "wof:parent_id":1108759859,
     "wof:placetype":"locality",

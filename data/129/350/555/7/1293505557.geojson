@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.04094,9.38661,-1.00094,9.42661",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293505557,
-    "wof:lastmodified":1536761222,
+    "wof:lastmodified":1566637859,
     "wof:name":"Kukuo",
     "wof:parent_id":1108759935,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.91249,10.73332,-1.87249,10.77332",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Bujan"
     ],
@@ -50,8 +54,7 @@
         "Bujan"
     ],
     "name:und_x_variant":[
-        "Bujang",
-        "Bujan"
+        "Bujang"
     ],
     "name:vie_x_preferred":[
         "Bujan"
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1259597971,
-    "wof:lastmodified":1564205610,
+    "wof:lastmodified":1566638642,
     "wof:name":"Bujan",
     "wof:parent_id":1108759963,
     "wof:placetype":"locality",

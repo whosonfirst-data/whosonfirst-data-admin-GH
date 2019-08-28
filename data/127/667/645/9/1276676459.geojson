@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.72129,6.22584,-1.68129,6.26584",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Adasi"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276676459,
-    "wof:lastmodified":1564204694,
+    "wof:lastmodified":1566637962,
     "wof:name":"Adasi",
     "wof:parent_id":1108759773,
     "wof:placetype":"locality",

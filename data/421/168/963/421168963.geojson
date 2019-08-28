@@ -10,6 +10,9 @@
     "geom:latitude":5.10535,
     "geom:longitude":-1.2466,
     "iso:country":"GH",
+    "lbl:bbox":"-1.2666,5.08535,-1.2266,5.12535",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -161,7 +164,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0435\u0439\u043f-\u041a\u043e\u0441\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ogwa"
     ],
     "name:urd_x_preferred":[
@@ -299,7 +302,7 @@
     "wof:concordances":{
         "gn:id":2302357,
         "gp:id":1328360,
-        "qs:id":492806,
+        "qs_pg:id":492806,
         "wd:id":"Q221283",
         "wk:page":"Cape Coast"
     },
@@ -316,7 +319,7 @@
         }
     ],
     "wof:id":421168963,
-    "wof:lastmodified":1563378432,
+    "wof:lastmodified":1566638440,
     "wof:name":"Cape Coast",
     "wof:parent_id":1108759855,
     "wof:placetype":"locality",

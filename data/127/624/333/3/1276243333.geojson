@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.66906,6.33534,-1.62906,6.37534",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Akasanimu"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1276243333,
-    "wof:lastmodified":1537623812,
+    "wof:lastmodified":1566638007,
     "wof:name":"Akasanimu",
     "wof:parent_id":1108759783,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"0.24802,6.7514,0.28802,6.7914",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Tove"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1326848437,
-    "wof:lastmodified":1564204224,
+    "wof:lastmodified":1566637592,
     "wof:name":"Tove",
     "wof:parent_id":1108759985,
     "wof:placetype":"locality",

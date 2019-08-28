@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.5049,9.43535,-1.4649,9.47535",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kopota"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1260098443,
-    "wof:lastmodified":1537623597,
+    "wof:lastmodified":1566638204,
     "wof:name":"Kopoto",
     "wof:parent_id":1108759921,
     "wof:placetype":"locality",

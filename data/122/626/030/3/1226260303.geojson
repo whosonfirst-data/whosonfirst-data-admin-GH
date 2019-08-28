@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-0.33116,5.60784,-0.29116,5.64784",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ablekuma"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226260303,
-    "wof:lastmodified":1537623847,
+    "wof:lastmodified":1566638692,
     "wof:name":"Ablekuma",
     "wof:parent_id":1108759909,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.77633,7.75683,-1.73633,7.79683",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tanfiano Number One"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1360199135,
-    "wof:lastmodified":1537623440,
+    "wof:lastmodified":1566638398,
     "wof:name":"Tanfiano Number One",
     "wof:parent_id":1108759827,
     "wof:placetype":"locality",

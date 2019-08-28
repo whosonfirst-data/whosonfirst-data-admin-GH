@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-0.44448,11.04263,-0.40448,11.08263",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gyetega",
         "Fetiga"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310323227,
-    "wof:lastmodified":1537623660,
+    "wof:lastmodified":1566638329,
     "wof:name":"Fetiga",
     "wof:parent_id":1108759945,
     "wof:placetype":"locality",

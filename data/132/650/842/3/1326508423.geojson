@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.98341,10.48755,-1.94341,10.52755",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Walembeli",
         "Wallembelle",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326508423,
-    "wof:lastmodified":1537623417,
+    "wof:lastmodified":1566637542,
     "wof:name":"Walembele",
     "wof:parent_id":1108759963,
     "wof:placetype":"locality",

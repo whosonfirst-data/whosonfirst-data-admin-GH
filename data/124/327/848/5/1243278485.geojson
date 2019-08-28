@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-0.88433,5.44259,-0.84433,5.48259",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Apiah Kwa Debiso",
         "Debiso",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243278485,
-    "wof:lastmodified":1537623697,
+    "wof:lastmodified":1566638579,
     "wof:name":"Debisa",
     "wof:parent_id":1108759857,
     "wof:placetype":"locality",

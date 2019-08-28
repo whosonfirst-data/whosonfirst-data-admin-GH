@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.54734,5.15304,-1.50734,5.19304",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ebukrom",
         "Abukrom"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326948305,
-    "wof:lastmodified":1537623845,
+    "wof:lastmodified":1566637541,
     "wof:name":"Abukrom",
     "wof:parent_id":1108759859,
     "wof:placetype":"locality",

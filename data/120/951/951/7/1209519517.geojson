@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-0.41037,5.69424,-0.37037,5.73424",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Otuaple"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209519517,
-    "wof:lastmodified":1537623488,
+    "wof:lastmodified":1566638125,
     "wof:name":"Otuaple",
     "wof:parent_id":85632189,
     "wof:placetype":"locality",

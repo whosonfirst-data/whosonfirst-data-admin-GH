@@ -10,8 +10,12 @@
     "geom:latitude":5.561656,
     "geom:longitude":-0.207881,
     "iso:country":"GH",
+    "lbl:bbox":"-0.227881,5.541656,-0.187881,5.581656",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aka_x_preferred":[
         "Taifa"
@@ -180,7 +184,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28752628,
-        "qs:id":1330405,
+        "qs_pg:id":1330405,
         "wd:id":"Q15045731"
     },
     "wof:country":"GH",
@@ -196,7 +200,7 @@
         }
     ],
     "wof:id":421176065,
-    "wof:lastmodified":1563378449,
+    "wof:lastmodified":1566638447,
     "wof:name":"Taifa",
     "wof:parent_id":1108759901,
     "wof:placetype":"locality",

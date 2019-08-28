@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-0.2417,10.69242,-0.2017,10.73242",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Donfonga",
         "D\u00e1nfoana",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243548247,
-    "wof:lastmodified":1537623700,
+    "wof:lastmodified":1566638462,
     "wof:name":"Danvorga",
     "wof:parent_id":1108759943,
     "wof:placetype":"locality",

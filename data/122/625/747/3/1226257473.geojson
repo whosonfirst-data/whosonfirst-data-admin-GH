@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.47963,5.16965,-1.43963,5.20965",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226257473,
-    "wof:lastmodified":1536917177,
+    "wof:lastmodified":1566638742,
     "wof:name":"Esiako",
     "wof:parent_id":1108759859,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Accra",
     "iso:country":"GH",
+    "lbl:bbox":"-1.71422,6.70258,-1.67422,6.74258",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bokanchi"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259793723,
-    "wof:lastmodified":1537623730,
+    "wof:lastmodified":1566638622,
     "wof:name":"Bokwankye",
     "wof:parent_id":1108759791,
     "wof:placetype":"locality",
