@@ -77,6 +77,10 @@
         "wd:id":"Q4999329"
     },
     "wof:country":"GH",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"c62baee8739fbf7fafbed9f0cebe3f18",
     "wof:hierarchy":[
         {
@@ -92,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566637775,
+    "wof:lastmodified":1582352116,
     "wof:name":"Burma Camp",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

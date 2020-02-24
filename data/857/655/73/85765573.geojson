@@ -218,6 +218,10 @@
         "wd:id":"Q740445"
     },
     "wof:country":"GH",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ed77fad7f68b2cc752a4415eacea0155",
     "wof:hierarchy":[
         {
@@ -233,7 +237,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566637775,
+    "wof:lastmodified":1582352116,
     "wof:name":"Ridge",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

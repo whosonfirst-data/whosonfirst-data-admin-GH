@@ -68,6 +68,9 @@
     },
     "wof:country":"GH",
     "wof:created":1469051932,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"13190a95ab512ab72751e93858a0dcf3",
     "wof:hierarchy":[
         {
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":890432205,
-    "wof:lastmodified":1566638450,
+    "wof:lastmodified":1582352129,
     "wof:name":"Akim Swedru",
     "wof:parent_id":1108759879,
     "wof:placetype":"locality",

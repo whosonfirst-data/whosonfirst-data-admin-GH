@@ -290,6 +290,9 @@
         "wk:page":"Upper West Region"
     },
     "wof:country":"GH",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f747c1ce234ab0aeef304eced6e99844",
     "wof:hierarchy":[
         {
@@ -308,7 +311,7 @@
         "ewe",
         "gaa"
     ],
-    "wof:lastmodified":1566637777,
+    "wof:lastmodified":1582352117,
     "wof:name":"Upper West",
     "wof:parent_id":85632189,
     "wof:placetype":"region",

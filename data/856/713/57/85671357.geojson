@@ -296,6 +296,9 @@
         "wk:page":"Volta Region"
     },
     "wof:country":"GH",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ebbc151f544171b69a521b72f5b4a7f3",
     "wof:hierarchy":[
         {
@@ -314,7 +317,7 @@
         "ewe",
         "gaa"
     ],
-    "wof:lastmodified":1566637776,
+    "wof:lastmodified":1582352116,
     "wof:name":"Volta",
     "wof:parent_id":85632189,
     "wof:placetype":"region",

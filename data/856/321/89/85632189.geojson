@@ -967,6 +967,11 @@
     },
     "wof:country":"GH",
     "wof:country_alpha3":"GHA",
+    "wof:geom_alt":[
+        "meso",
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"eeb8a85ec27808ee03c59ddd8f4c8ea8",
     "wof:hierarchy":[
         {
@@ -984,7 +989,7 @@
         "ewe",
         "gaa"
     ],
-    "wof:lastmodified":1566637781,
+    "wof:lastmodified":1582352119,
     "wof:name":"Ghana",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

@@ -217,6 +217,9 @@
     },
     "wof:country":"GH",
     "wof:created":1459009709,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1bc3958155b5e6363eda59e0c96d3521",
     "wof:hierarchy":[
         {
@@ -228,7 +231,7 @@
         }
     ],
     "wof:id":421191769,
-    "wof:lastmodified":1566638445,
+    "wof:lastmodified":1582352129,
     "wof:name":"Winneba",
     "wof:parent_id":1108759853,
     "wof:placetype":"locality",

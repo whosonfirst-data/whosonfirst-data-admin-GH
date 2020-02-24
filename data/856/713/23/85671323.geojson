@@ -293,6 +293,9 @@
         "wk:page":"Upper East Region"
     },
     "wof:country":"GH",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f60c4c4bb92a06c51059271d8fbe2ea2",
     "wof:hierarchy":[
         {
@@ -311,7 +314,7 @@
         "ewe",
         "gaa"
     ],
-    "wof:lastmodified":1566637780,
+    "wof:lastmodified":1582352118,
     "wof:name":"Upper East",
     "wof:parent_id":85632189,
     "wof:placetype":"region",

@@ -313,6 +313,9 @@
         "wk:page":"Greater Accra Region"
     },
     "wof:country":"GH",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"68a9f1f0c882c5f1f27f6e513bbea9c8",
     "wof:hierarchy":[
         {
@@ -331,7 +334,7 @@
         "ewe",
         "gaa"
     ],
-    "wof:lastmodified":1566637779,
+    "wof:lastmodified":1582352118,
     "wof:name":"Greater Accra",
     "wof:parent_id":85632189,
     "wof:placetype":"region",
