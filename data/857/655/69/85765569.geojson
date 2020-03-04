@@ -72,6 +72,10 @@
         "qs_pg:id":1168006
     },
     "wof:country":"GH",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"80dfb5e4270823ac62b87b12dfc37c41",
     "wof:hierarchy":[
         {
@@ -87,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566637775,
+    "wof:lastmodified":1582352116,
     "wof:name":"Nima",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -287,6 +287,9 @@
         "wk:page":"Western Region (Ghana)"
     },
     "wof:country":"GH",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5216334d826bf0fea8ead75c15bf8d83",
     "wof:hierarchy":[
         {
@@ -305,7 +308,7 @@
         "ewe",
         "gaa"
     ],
-    "wof:lastmodified":1566637781,
+    "wof:lastmodified":1582352119,
     "wof:name":"Western",
     "wof:parent_id":85632189,
     "wof:placetype":"region",

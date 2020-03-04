@@ -287,6 +287,9 @@
         "wk:page":"Northern Region (Ghana)"
     },
     "wof:country":"GH",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"979005bdcc6a4b837709ae8457c2aa06",
     "wof:hierarchy":[
         {
@@ -305,7 +308,7 @@
         "ewe",
         "gaa"
     ],
-    "wof:lastmodified":1566637777,
+    "wof:lastmodified":1582352117,
     "wof:name":"Northern",
     "wof:parent_id":85632189,
     "wof:placetype":"region",

@@ -290,6 +290,9 @@
         "wk:page":"Brong-Ahafo Region"
     },
     "wof:country":"GH",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c147674d7236a694f243f8a2d23a366c",
     "wof:hierarchy":[
         {
@@ -308,7 +311,7 @@
         "ewe",
         "gaa"
     ],
-    "wof:lastmodified":1566637779,
+    "wof:lastmodified":1582352118,
     "wof:name":"Brong Ahafo",
     "wof:parent_id":85632189,
     "wof:placetype":"region",

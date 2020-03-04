@@ -314,6 +314,9 @@
         "wk:page":"Ashanti Region"
     },
     "wof:country":"GH",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"30e4e4987207f9d078cfe28f6c50b494",
     "wof:hierarchy":[
         {
@@ -332,7 +335,7 @@
         "ewe",
         "gaa"
     ],
-    "wof:lastmodified":1566637778,
+    "wof:lastmodified":1582352118,
     "wof:name":"Ashanti",
     "wof:parent_id":85632189,
     "wof:placetype":"region",

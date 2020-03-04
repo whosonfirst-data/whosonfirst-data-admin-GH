@@ -287,6 +287,9 @@
         "wk:page":"Eastern Region (Ghana)"
     },
     "wof:country":"GH",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6aa77dab3d6544b4ea28e96de54f6865",
     "wof:hierarchy":[
         {
@@ -305,7 +308,7 @@
         "ewe",
         "gaa"
     ],
-    "wof:lastmodified":1566637778,
+    "wof:lastmodified":1582352117,
     "wof:name":"Eastern",
     "wof:parent_id":85632189,
     "wof:placetype":"region",

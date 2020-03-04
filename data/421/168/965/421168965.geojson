@@ -640,6 +640,9 @@
     },
     "wof:country":"GH",
     "wof:created":1459008788,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9e85ad63a214d0e0626bad768b163c7c",
     "wof:hierarchy":[
         {
@@ -651,7 +654,7 @@
         }
     ],
     "wof:id":421168965,
-    "wof:lastmodified":1566638440,
+    "wof:lastmodified":1582352129,
     "wof:name":"Accra",
     "wof:parent_id":1108759901,
     "wof:placetype":"locality",

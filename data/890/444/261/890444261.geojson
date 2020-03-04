@@ -289,6 +289,9 @@
     },
     "wof:country":"GH",
     "wof:created":1469052462,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dbeca6ca1bd40bfd7c3106a4e2cf6403",
     "wof:hierarchy":[
         {
@@ -300,7 +303,7 @@
         }
     ],
     "wof:id":890444261,
-    "wof:lastmodified":1566638449,
+    "wof:lastmodified":1582352129,
     "wof:name":"Tema",
     "wof:parent_id":1108759911,
     "wof:placetype":"locality",
