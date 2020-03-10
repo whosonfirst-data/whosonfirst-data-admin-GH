@@ -943,9 +943,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Ghana",
-        "digitalenvoy:country_code":[
-            288
-        ],
+        "digitalenvoy:country_code":288,
         "fb:id":"en.ghana",
         "fifa:id":"GHA",
         "fips:code":"GH",
@@ -992,7 +990,7 @@
         "ewe",
         "gaa"
     ],
-    "wof:lastmodified":1583529134,
+    "wof:lastmodified":1583797339,
     "wof:name":"Ghana",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
