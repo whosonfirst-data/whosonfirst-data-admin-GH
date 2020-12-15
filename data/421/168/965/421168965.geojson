@@ -658,6 +658,9 @@
         "wd:id":"Q3761",
         "wk:page":"Accra"
     },
+    "wof:coterminous":[
+        1108759901
+    ],
     "wof:country":"GH",
     "wof:created":1459008788,
     "wof:geom_alt":[
@@ -674,7 +677,7 @@
         }
     ],
     "wof:id":421168965,
-    "wof:lastmodified":1607390876,
+    "wof:lastmodified":1607983921,
     "wof:name":"Accra",
     "wof:parent_id":1108759901,
     "wof:placetype":"locality",
