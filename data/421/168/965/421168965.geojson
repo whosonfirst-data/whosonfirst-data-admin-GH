@@ -677,7 +677,8 @@
         }
     ],
     "wof:id":421168965,
-    "wof:lastmodified":1607983921,
+    "wof:lastmodified":1608675983,
+    "wof:megacity":1,
     "wof:name":"Accra",
     "wof:parent_id":1108759901,
     "wof:placetype":"locality",
