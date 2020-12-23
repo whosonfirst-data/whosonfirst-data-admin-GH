@@ -412,6 +412,9 @@
         "wd:id":"Q182059",
         "wk:page":"Kumasi"
     },
+    "wof:coterminous":[
+        1108759801
+    ],
     "wof:country":"GH",
     "wof:created":1459008788,
     "wof:geom_alt":[
@@ -428,7 +431,7 @@
         }
     ],
     "wof:id":421168961,
-    "wof:lastmodified":1608689807,
+    "wof:lastmodified":1608696099,
     "wof:megacity":1,
     "wof:name":"Kumasi",
     "wof:parent_id":1108759801,
