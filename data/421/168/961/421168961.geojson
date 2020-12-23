@@ -392,13 +392,14 @@
     "wof:belongsto":[
         102191573,
         85632189,
-        85671331,
-        1108759801
+        1108759801,
+        85671331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2298890,
         "gp:id":1330595,
+        "ne:id":1159148507,
         "qs_pg:id":1168012,
         "wd:id":"Q182059",
         "wk:page":"Kumasi"
@@ -416,7 +417,8 @@
         }
     ],
     "wof:id":421168961,
-    "wof:lastmodified":1566638441,
+    "wof:lastmodified":1608688167,
+    "wof:megacity":1,
     "wof:name":"Kumasi",
     "wof:parent_id":1108759801,
     "wof:placetype":"locality",
