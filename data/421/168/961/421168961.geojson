@@ -10,7 +10,6 @@
     "geom:latitude":6.694023,
     "geom:longitude":-1.610251,
     "iso:country":"GH",
-    "lbl:bbox":"-1.64443,6.66848,-1.60443,6.70848",
     "lbl:latitude":6.698152,
     "lbl:longitude":-1.621229,
     "lbl:max_zoom":13.0,
@@ -431,7 +430,7 @@
         }
     ],
     "wof:id":421168961,
-    "wof:lastmodified":1608696099,
+    "wof:lastmodified":1610154727,
     "wof:megacity":1,
     "wof:name":"Kumasi",
     "wof:parent_id":1108759801,
