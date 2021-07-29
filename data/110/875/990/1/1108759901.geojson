@@ -39,6 +39,9 @@
     "name:eng_x_preferred":[
         "Accra"
     ],
+    "name:fra_x_preferred":[
+        "District m\u00e9tropolitain d'Accra"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1108759901,
-    "wof:lastmodified":1607983921,
+    "wof:lastmodified":1627522154,
     "wof:name":"Accra Metro",
     "wof:parent_id":85671353,
     "wof:placetype":"county",

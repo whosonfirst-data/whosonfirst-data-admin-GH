@@ -39,6 +39,9 @@
     "name:eng_x_preferred":[
         "Kumasi"
     ],
+    "name:fra_x_preferred":[
+        "Assembl\u00e9e m\u00e9tropolitaine de Kumasi"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1108759801,
-    "wof:lastmodified":1608696099,
+    "wof:lastmodified":1627522153,
     "wof:name":"Kumasi Metro",
     "wof:parent_id":85671331,
     "wof:placetype":"county",
