@@ -44,8 +44,14 @@
     "name:guj_x_preferred":[
         "\u0a9d\u0ac0\u0ab0\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05d6\u05d9\u05e8\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u091c\u093c\u093f\u0930\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Ziro"
     ],
     "name:ita_x_preferred":[
         "Ziro"
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":1259793705,
-    "wof:lastmodified":1566638618,
+    "wof:lastmodified":1636502235,
     "wof:name":"Ziro",
     "wof:parent_id":1108759915,
     "wof:placetype":"locality",

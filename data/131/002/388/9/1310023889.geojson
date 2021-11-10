@@ -65,6 +65,9 @@
     "name:hrv_x_preferred":[
         "Koforidua"
     ],
+    "name:hun_x_preferred":[
+        "Koforidua"
+    ],
     "name:ita_x_preferred":[
         "Koforidua"
     ],
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":1310023889,
-    "wof:lastmodified":1566638352,
+    "wof:lastmodified":1636502231,
     "wof:name":"Koforidua",
     "wof:parent_id":1108759855,
     "wof:placetype":"locality",

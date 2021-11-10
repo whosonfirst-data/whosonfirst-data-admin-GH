@@ -47,6 +47,9 @@
     "name:epo_x_preferred":[
         "Wa"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627"
+    ],
     "name:fin_x_preferred":[
         "Wa"
     ],
@@ -295,7 +298,7 @@
         }
     ],
     "wof:id":421193513,
-    "wof:lastmodified":1566638443,
+    "wof:lastmodified":1636502233,
     "wof:name":"Wa",
     "wof:parent_id":1108759965,
     "wof:placetype":"locality",

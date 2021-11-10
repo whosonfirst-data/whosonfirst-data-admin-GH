@@ -29,6 +29,9 @@
     "name:bel_x_preferred":[
         "\u0425\u043e"
     ],
+    "name:ben_x_preferred":[
+        "\u09b9\u09cb"
+    ],
     "name:cat_x_preferred":[
         "Ho"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:deu_x_preferred":[
         "Ho"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03bf"
     ],
     "name:eng_x_preferred":[
         "Ho"
@@ -62,7 +68,19 @@
     "name:hbs_x_preferred":[
         "Ho"
     ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0939\u094b"
+    ],
     "name:hrv_x_preferred":[
+        "Ho"
+    ],
+    "name:hun_x_preferred":[
+        "Ho"
+    ],
+    "name:ind_x_preferred":[
         "Ho"
     ],
     "name:ita_x_preferred":[
@@ -102,6 +120,9 @@
         "Ho"
     ],
     "name:swe_x_preferred":[
+        "Ho"
+    ],
+    "name:tur_x_preferred":[
         "Ho"
     ],
     "name:ukr_x_preferred":[
@@ -264,7 +285,7 @@
         }
     ],
     "wof:id":421168011,
-    "wof:lastmodified":1566638441,
+    "wof:lastmodified":1636502232,
     "wof:name":"Ho",
     "wof:parent_id":1108759971,
     "wof:placetype":"locality",

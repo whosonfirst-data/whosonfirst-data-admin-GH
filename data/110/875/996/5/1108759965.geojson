@@ -39,6 +39,9 @@
     "name:eng_x_preferred":[
         "Wa"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627"
+    ],
     "name:fra_x_preferred":[
         "Wa"
     ],
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1108759965,
-    "wof:lastmodified":1627522156,
+    "wof:lastmodified":1636502230,
     "wof:name":"Wa",
     "wof:parent_id":85671327,
     "wof:placetype":"county",

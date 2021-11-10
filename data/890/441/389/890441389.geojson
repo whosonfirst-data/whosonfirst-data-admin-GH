@@ -22,14 +22,23 @@
     "name:ara_x_preferred":[
         "\u0646\u0643\u0627\u0648\u0643\u0627\u0648"
     ],
+    "name:ben_x_preferred":[
+        "\u098f\u09a8\u0995\u09be\u0993\u0995\u09be\u0993"
+    ],
     "name:ceb_x_preferred":[
         "Nkawkaw"
     ],
     "name:deu_x_preferred":[
         "Nkawkaw"
     ],
+    "name:ell_x_preferred":[
+        "\u039d\u03ba\u03b1\u03b2\u03ba\u03ac\u03b2"
+    ],
     "name:eng_x_preferred":[
         "Nkawkaw"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u06a9\u0627\u06a9\u0627"
     ],
     "name:fra_x_preferred":[
         "Nkawkaw"
@@ -37,11 +46,26 @@
     "name:glg_x_preferred":[
         "Nkawkaw"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05e7\u05d5\u05d5\u05e7\u05d0\u05d5\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0902\u0915\u093e\u0935\u0915\u093e\u0935"
+    ],
+    "name:hun_x_preferred":[
+        "Nkawkaw"
+    ],
+    "name:ind_x_preferred":[
+        "Nkawkaw"
+    ],
     "name:ita_x_preferred":[
         "Nkawkaw"
     ],
     "name:jpn_x_preferred":[
         "\u30f3\u30ab\u30a6\u30ab\u30a6"
+    ],
+    "name:kor_x_preferred":[
+        "\uc740\uce74\uc6b0"
     ],
     "name:lit_x_preferred":[
         "Nkaukau"
@@ -55,6 +79,9 @@
     "name:por_x_preferred":[
         "Nkawkaw"
     ],
+    "name:rus_x_preferred":[
+        "\u041d\u043a\u0430\u0443\u043a\u0430\u0443"
+    ],
     "name:spa_x_preferred":[
         "Nkawkaw"
     ],
@@ -64,8 +91,14 @@
     "name:swe_x_variant":[
         "Adenta East"
     ],
+    "name:tur_x_preferred":[
+        "Nkawkaw"
+    ],
     "name:twi_x_preferred":[
         "Nk\u0254k\u0254\u0254"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043a\u0430\u0432\u043a\u0430\u0432"
     ],
     "name:und_x_variant":[
         "Nkokoo"
@@ -75,6 +108,15 @@
     ],
     "name:vep_x_preferred":[
         "Nkaukau"
+    ],
+    "name:vie_x_preferred":[
+        "Nkawkaw"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u6069\u8003\u8003"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6069\u8003\u8003"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Ghana",
@@ -201,7 +243,7 @@
         }
     ],
     "wof:id":890441389,
-    "wof:lastmodified":1566638447,
+    "wof:lastmodified":1636502233,
     "wof:name":"Nkawkaw",
     "wof:parent_id":1108759889,
     "wof:placetype":"locality",

@@ -80,6 +80,9 @@
     "name:hbs_x_preferred":[
         "Cape Coast"
     ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d5\u05e3 \u05e7\u05e4\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0915\u0947\u092a \u0915\u094b\u0938\u094d\u091f"
     ],
@@ -319,7 +322,7 @@
         }
     ],
     "wof:id":421168963,
-    "wof:lastmodified":1566638440,
+    "wof:lastmodified":1636502232,
     "wof:name":"Cape Coast",
     "wof:parent_id":1108759855,
     "wof:placetype":"locality",

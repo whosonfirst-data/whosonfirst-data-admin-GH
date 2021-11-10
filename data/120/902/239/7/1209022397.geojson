@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:hun_x_preferred":[
+        "Tete"
+    ],
     "name:und_x_variant":[
         "Tette",
         "Tete"
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1209022397,
-    "wof:lastmodified":1566638129,
+    "wof:lastmodified":1636502228,
     "wof:name":"Tete",
     "wof:parent_id":85632189,
     "wof:placetype":"locality",
