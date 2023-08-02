@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0628\u0627\u0646\u062f\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0628\u0627\u0646\u062f\u0648"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u043f\u0430\u043d\u0434\u0443"
     ],
@@ -35,6 +38,9 @@
     "name:eng_x_preferred":[
         "Kpandu"
     ],
+    "name:eng_x_variant":[
+        "Kpando"
+    ],
     "name:fra_x_preferred":[
         "Kpandu"
     ],
@@ -48,6 +54,9 @@
         "Kpandu"
     ],
     "name:por_x_preferred":[
+        "Kpandu"
+    ],
+    "name:swa_x_preferred":[
         "Kpandu"
     ],
     "name:swe_x_preferred":[
@@ -107,7 +116,7 @@
         }
     ],
     "wof:id":421199021,
-    "wof:lastmodified":1566638446,
+    "wof:lastmodified":1690921696,
     "wof:name":"Kpandu",
     "wof:parent_id":1108759985,
     "wof:placetype":"locality",

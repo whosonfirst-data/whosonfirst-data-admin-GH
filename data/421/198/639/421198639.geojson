@@ -29,6 +29,15 @@
     "name:fra_x_preferred":[
         "Wenchi"
     ],
+    "name:gpe_x_preferred":[
+        "Wenchi"
+    ],
+    "name:hau_x_preferred":[
+        "Wenchi"
+    ],
+    "name:ita_x_preferred":[
+        "Wenchi"
+    ],
     "name:jpn_x_preferred":[
         "\u30a6\u30a7\u30f3\u30c1"
     ],
@@ -41,7 +50,13 @@
     "name:nob_x_preferred":[
         "Wenchi"
     ],
+    "name:pol_x_preferred":[
+        "Wenchi"
+    ],
     "name:spa_x_preferred":[
+        "Wenchi"
+    ],
+    "name:swa_x_preferred":[
         "Wenchi"
     ],
     "name:swe_x_preferred":[
@@ -49,6 +64,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0648\u06cc\u0646\u0686\u06cc"
+    ],
+    "name:yor_x_preferred":[
+        "Wenchi"
     ],
     "qs:gn_country":"GH",
     "qs:gn_fcode":"PPL",
@@ -98,7 +116,7 @@
         }
     ],
     "wof:id":421198639,
-    "wof:lastmodified":1566638445,
+    "wof:lastmodified":1690921693,
     "wof:name":"Wenchi",
     "wof:parent_id":1108759839,
     "wof:placetype":"locality",

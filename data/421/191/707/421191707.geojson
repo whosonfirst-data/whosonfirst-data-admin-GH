@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Konongo"
+    ],
     "name:ceb_x_preferred":[
         "Konongo"
     ],
@@ -30,6 +33,12 @@
         "Konongo"
     ],
     "name:fra_x_preferred":[
+        "Konongo"
+    ],
+    "name:gle_x_preferred":[
+        "Konongo"
+    ],
+    "name:grn_x_preferred":[
         "Konongo"
     ],
     "name:heb_x_preferred":[
@@ -47,7 +56,13 @@
     "name:pol_x_preferred":[
         "Konongo-Odumase"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d\u043e\u043d\u0433\u043e"
+    ],
     "name:spa_x_preferred":[
+        "Konongo"
+    ],
+    "name:swa_x_preferred":[
         "Konongo"
     ],
     "name:swe_x_preferred":[
@@ -112,7 +127,7 @@
         }
     ],
     "wof:id":421191707,
-    "wof:lastmodified":1566638445,
+    "wof:lastmodified":1690921694,
     "wof:name":"Konongo",
     "wof:parent_id":1108759787,
     "wof:placetype":"locality",

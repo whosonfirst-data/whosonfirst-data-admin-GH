@@ -58,8 +58,23 @@
     "name:nob_x_preferred":[
         "Saltpond"
     ],
+    "name:pol_x_preferred":[
+        "Saltpond"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043b\u0442\u043f\u043e\u043d\u0434"
+    ],
+    "name:swa_x_preferred":[
+        "Saltpond"
+    ],
     "name:swe_x_preferred":[
         "Saltpond"
+    ],
+    "name:szl_x_preferred":[
+        "Saltpond"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u043b\u0442\u043f\u043e\u043d\u0434"
     ],
     "name:und_x_variant":[
         "Achimfu"
@@ -100,7 +115,7 @@
         }
     ],
     "wof:id":890444273,
-    "wof:lastmodified":1566638449,
+    "wof:lastmodified":1690921704,
     "wof:name":"Saltpond",
     "wof:parent_id":1108759861,
     "wof:placetype":"locality",

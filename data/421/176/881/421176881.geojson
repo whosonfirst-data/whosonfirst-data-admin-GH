@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:aka_x_preferred":[
+        "Bekyem"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0435\u0447\u0435\u043c"
     ],
@@ -29,10 +32,25 @@
     "name:eng_x_preferred":[
         "Bechem"
     ],
+    "name:gpe_x_preferred":[
+        "Bechem"
+    ],
+    "name:hau_x_preferred":[
+        "Bechem"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30c1\u30a7\u30e0"
+    ],
     "name:nld_x_preferred":[
         "Bechem"
     ],
+    "name:swa_x_preferred":[
+        "Bechem"
+    ],
     "name:swe_x_preferred":[
+        "Bechem"
+    ],
+    "name:twi_x_preferred":[
         "Bechem"
     ],
     "name:ukr_x_preferred":[
@@ -86,7 +104,7 @@
         }
     ],
     "wof:id":421176881,
-    "wof:lastmodified":1566638446,
+    "wof:lastmodified":1690921699,
     "wof:name":"Bechem",
     "wof:parent_id":1108759835,
     "wof:placetype":"locality",

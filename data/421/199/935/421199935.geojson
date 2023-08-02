@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Navrongo"
+    ],
     "name:bul_x_preferred":[
         "\u041d\u0430\u0432\u0440\u043e\u043d\u0433\u043e"
     ],
@@ -29,7 +32,13 @@
     "name:eng_x_preferred":[
         "Navrongo"
     ],
+    "name:epo_x_preferred":[
+        "Navrongo"
+    ],
     "name:fra_x_preferred":[
+        "Navrongo"
+    ],
+    "name:gur_x_preferred":[
         "Navrongo"
     ],
     "name:jpn_x_preferred":[
@@ -47,11 +56,23 @@
     "name:por_x_preferred":[
         "Navrongo"
     ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0432\u0440\u043e\u043d\u0433\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Navrongo"
+    ],
+    "name:swa_x_preferred":[
+        "Navrongo"
+    ],
     "name:swe_x_preferred":[
         "Navrongo"
     ],
     "name:urd_x_preferred":[
         "\u0646\u0627\u0648\u0631\u0648\u0646\u06af\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Navrongo"
     ],
     "name:zho_x_preferred":[
         "\u7d0d\u592b\u9686\u54e5"
@@ -106,7 +127,7 @@
         }
     ],
     "wof:id":421199935,
-    "wof:lastmodified":1566638446,
+    "wof:lastmodified":1690921696,
     "wof:name":"Navrongo",
     "wof:parent_id":1108759953,
     "wof:placetype":"locality",

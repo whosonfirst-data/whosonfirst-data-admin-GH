@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0643\u0633\u064a\u0645"
+    ],
+    "name:ast_x_preferred":[
+        "Axim"
+    ],
     "name:cat_x_preferred":[
         "Axim"
     ],
@@ -29,14 +35,32 @@
     "name:eng_x_preferred":[
         "Axim"
     ],
+    "name:epo_x_preferred":[
+        "Axim"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u06a9\u0633\u06cc\u0645"
+    ],
     "name:fra_x_preferred":[
         "Axim"
     ],
     "name:glg_x_preferred":[
         "Axim"
     ],
+    "name:gpe_x_preferred":[
+        "Axim"
+    ],
+    "name:hau_x_preferred":[
+        "Axim"
+    ],
     "name:heb_x_preferred":[
         "\u05d0\u05e9\u05d9\u05dd"
+    ],
+    "name:ile_x_preferred":[
+        "Axim"
+    ],
+    "name:ita_x_preferred":[
+        "Axim"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30af\u30b7\u30e0"
@@ -59,17 +83,29 @@
     "name:por_x_preferred":[
         "Ax\u00e9m"
     ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0441\u0438\u043c"
+    ],
     "name:slv_x_preferred":[
         "Aksim"
     ],
     "name:spa_x_preferred":[
         "Axim"
     ],
+    "name:swa_x_preferred":[
+        "Axim"
+    ],
     "name:swe_x_preferred":[
         "Axim"
     ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043a\u0441\u0456\u043c"
+    ],
     "name:urd_x_preferred":[
         "\u0627\u06a9\u0633\u06cc\u0645"
+    ],
+    "name:yor_x_preferred":[
+        "Axim"
     ],
     "name:zho_x_preferred":[
         "\u963f\u514b\u897f\u59c6"
@@ -124,7 +160,7 @@
         }
     ],
     "wof:id":421197459,
-    "wof:lastmodified":1566638445,
+    "wof:lastmodified":1690921695,
     "wof:name":"Axim",
     "wof:parent_id":1108760007,
     "wof:placetype":"locality",

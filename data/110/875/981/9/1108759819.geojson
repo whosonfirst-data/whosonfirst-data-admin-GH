@@ -72,6 +72,9 @@
     "name:ita_x_preferred":[
         "Distretto di Berekum"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30ec\u30af\u30e0\u90fd\u5e02\u90e1"
+    ],
     "name:kor_x_preferred":[
         "\ubca0\ub808\ucff0"
     ],
@@ -95,6 +98,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8c9d\u96f7\u5eab\u59c6\u81ea\u6cbb\u5e02\u653f\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u8c9d\u96f7\u5eab\u59c6\u5340"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -132,7 +138,7 @@
         }
     ],
     "wof:id":1108759819,
-    "wof:lastmodified":1636502231,
+    "wof:lastmodified":1690921681,
     "wof:name":"Berekum",
     "wof:parent_id":85671337,
     "wof:placetype":"county",

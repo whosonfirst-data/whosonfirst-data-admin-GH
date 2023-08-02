@@ -29,6 +29,9 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.7,
+    "name:aka_x_preferred":[
+        "Atifi Mantam"
+    ],
     "name:ara_x_preferred":[
         "\u0627\u0644\u0625\u0642\u0644\u064a\u0645 \u0627\u0644\u0634\u0645\u0627\u0644\u064a"
     ],
@@ -55,6 +58,12 @@
     ],
     "name:ceb_x_preferred":[
         "Northern Region"
+    ],
+    "name:ces_x_preferred":[
+        "Northern Region"
+    ],
+    "name:dag_x_preferred":[
+        "Tudu ya\u0263ili"
     ],
     "name:dan_x_preferred":[
         "Northern"
@@ -89,8 +98,14 @@
     "name:frr_x_preferred":[
         "Northern"
     ],
+    "name:gpe_x_preferred":[
+        "Northern Region"
+    ],
     "name:guj_x_preferred":[
         "\u0aa8\u0acb\u0ab0\u0acd\u0aa7\u0aa8 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
+    ],
+    "name:gur_x_preferred":[
+        "Northern Region"
     ],
     "name:hau_x_preferred":[
         "Yankin Arewaci"
@@ -103,6 +118,12 @@
     ],
     "name:hun_x_preferred":[
         "\u00c9szaki"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0575\u0578\u0582\u057d\u056b\u057d\u0561\u0575\u056b\u0576 \u0577\u0580\u057b\u0561\u0576"
+    ],
+    "name:ibo_x_preferred":[
+        "Northern Region"
     ],
     "name:ind_x_preferred":[
         "Region Utara"
@@ -140,6 +161,9 @@
     "name:nob_x_preferred":[
         "Northern"
     ],
+    "name:pcm_x_preferred":[
+        "Northern Region"
+    ],
     "name:pol_x_preferred":[
         "Region P\u00f3\u0142nocny"
     ],
@@ -173,6 +197,9 @@
     "name:tur_x_preferred":[
         "Kuzey B\u00f6lgesi"
     ],
+    "name:twi_x_preferred":[
+        "Atifi Mantam"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0432\u043d\u0456\u0447\u043d\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
@@ -185,8 +212,14 @@
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Mi\u1ec1n Nam"
     ],
+    "name:wuu_x_preferred":[
+        "\u5317\u90e8\u5730\u533a"
+    ],
     "name:xmf_x_preferred":[
         "\u10dd\u10dd\u10e0\u10e3\u10d4 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:yor_x_preferred":[
+        "Northern Region"
     ],
     "name:zho_x_preferred":[
         "\u5317\u90e8\u5730\u5340"
@@ -317,7 +350,7 @@
         "ewe",
         "gaa"
     ],
-    "wof:lastmodified":1636502224,
+    "wof:lastmodified":1690921652,
     "wof:name":"Northern",
     "wof:parent_id":85632189,
     "wof:placetype":"region",

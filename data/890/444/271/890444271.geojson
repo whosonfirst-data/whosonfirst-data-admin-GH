@@ -22,10 +22,28 @@
     "name:cat_x_preferred":[
         "Shama"
     ],
+    "name:ceb_x_preferred":[
+        "Shama Junction"
+    ],
     "name:deu_x_preferred":[
         "Shama"
     ],
     "name:eng_x_preferred":[
+        "Shama"
+    ],
+    "name:fra_x_preferred":[
+        "Shama"
+    ],
+    "name:hau_x_preferred":[
+        "Shama"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d0\u05de\u05d4"
+    ],
+    "name:ile_x_preferred":[
+        "Shama"
+    ],
+    "name:ita_x_preferred":[
         "Shama"
     ],
     "name:jpn_x_preferred":[
@@ -34,8 +52,14 @@
     "name:nld_x_preferred":[
         "Shama"
     ],
+    "name:swa_x_preferred":[
+        "Shama"
+    ],
     "name:swe_x_preferred":[
         "Shama"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0430\u043c\u0430"
     ],
     "name:urd_x_preferred":[
         "\u0634\u0627\u0645\u0627\u060c \u06af\u06be\u0627\u0646\u0627"
@@ -74,7 +98,7 @@
         }
     ],
     "wof:id":890444271,
-    "wof:lastmodified":1566638449,
+    "wof:lastmodified":1690921707,
     "wof:name":"Shama Junction",
     "wof:parent_id":1108760011,
     "wof:placetype":"locality",

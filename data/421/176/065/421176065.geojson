@@ -50,6 +50,9 @@
     "name:deu_x_preferred":[
         "Taifa-K\u00f6nigreiche"
     ],
+    "name:deu_x_variant":[
+        "Taifa"
+    ],
     "name:eng_x_preferred":[
         "Taifa"
     ],
@@ -134,6 +137,9 @@
     "name:srp_x_preferred":[
         "\u0422\u0430\u0438\u0444\u0430"
     ],
+    "name:swa_x_preferred":[
+        "Taifa"
+    ],
     "name:swe_x_preferred":[
         "Taifa"
     ],
@@ -200,7 +206,7 @@
         }
     ],
     "wof:id":421176065,
-    "wof:lastmodified":1566638447,
+    "wof:lastmodified":1690921700,
     "wof:name":"Taifa",
     "wof:parent_id":1108759901,
     "wof:placetype":"locality",

@@ -65,8 +65,14 @@
     "name:fra_x_preferred":[
         "Obuasi"
     ],
+    "name:gle_x_preferred":[
+        "Obuasi"
+    ],
     "name:guj_x_preferred":[
         "\u0a93\u0aac\u0ac1\u0ab8\u0ac0"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05d1\u05d5\u05d0\u05e1\u05d9"
     ],
     "name:hin_x_preferred":[
         "\u0913\u092c\u093e\u0938\u0940"
@@ -137,6 +143,9 @@
     "name:spa_x_preferred":[
         "Obuasi"
     ],
+    "name:swa_x_preferred":[
+        "Obuasi"
+    ],
     "name:swe_x_preferred":[
         "Obuasi"
     ],
@@ -163,6 +172,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u0648\u0628\u0648\u0627\u0633\u06cc"
+    ],
+    "name:vec_x_preferred":[
+        "Obuasi"
     ],
     "name:vie_x_preferred":[
         "Obuasi"
@@ -313,7 +325,7 @@
         }
     ],
     "wof:id":421175633,
-    "wof:lastmodified":1636502233,
+    "wof:lastmodified":1690921692,
     "wof:name":"Obuasi",
     "wof:parent_id":1108759773,
     "wof:placetype":"locality",

@@ -32,8 +32,14 @@
     "name:aka_x_preferred":[
         "Mfinfin mantam"
     ],
+    "name:aka_x_variant":[
+        "Mfimfin mantam"
+    ],
     "name:ara_x_preferred":[
         "\u0627\u0644\u0625\u0642\u0644\u064a\u0645 \u0627\u0644\u0623\u0648\u0633\u0637"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0648\u0633\u0637\u0649"
     ],
     "name:azb_x_preferred":[
         "\u0645\u0631\u06a9\u0632\u06cc \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
@@ -57,6 +63,9 @@
         "regi\u00f3 Central"
     ],
     "name:ceb_x_preferred":[
+        "Central Region"
+    ],
+    "name:dag_x_preferred":[
         "Central Region"
     ],
     "name:dan_x_preferred":[
@@ -92,6 +101,9 @@
     "name:frr_x_preferred":[
         "Central"
     ],
+    "name:gpe_x_preferred":[
+        "Central Region"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f\u0acd\u0ab0\u0ab2 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
     ],
@@ -101,6 +113,9 @@
     "name:heb_x_preferred":[
         "\u05de\u05e8\u05db\u05d6"
     ],
+    "name:heb_x_variant":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d4\u05de\u05e8\u05db\u05d6"
+    ],
     "name:hin_x_preferred":[
         "\u0915\u0947\u0928\u094d\u0926\u094d\u0930\u0940\u092f \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
     ],
@@ -109,6 +124,9 @@
     ],
     "name:hye_x_preferred":[
         "\u053f\u0565\u0576\u057f\u0580\u0578\u0576\u0561\u056f\u0561\u0576 \u0577\u0580\u057b\u0561\u0576"
+    ],
+    "name:ibo_x_preferred":[
+        "Central Region"
     ],
     "name:ind_x_preferred":[
         "Region Tengah"
@@ -146,6 +164,9 @@
     "name:nob_x_preferred":[
         "Central"
     ],
+    "name:pcm_x_preferred":[
+        "Central Region"
+    ],
     "name:pol_x_preferred":[
         "Region Centralny"
     ],
@@ -182,6 +203,9 @@
     "name:tur_x_preferred":[
         "Merkez B\u00f6lgesi"
     ],
+    "name:twi_x_preferred":[
+        "Mfinfini Mantan"
+    ],
     "name:ukr_x_preferred":[
         "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
@@ -191,8 +215,14 @@
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Mi\u1ec1n Trung"
     ],
+    "name:wuu_x_preferred":[
+        "\u4e2d\u90e8\u5730\u533a"
+    ],
     "name:xmf_x_preferred":[
         "\u10ea\u10d4\u10dc\u10e2\u10e0\u10d0\u10da\u10e3\u10e0\u10d8 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:yor_x_preferred":[
+        "Central Region"
     ],
     "name:zho_x_preferred":[
         "\u4e2d\u90e8\u5730\u5340"
@@ -323,7 +353,7 @@
         "ewe",
         "gaa"
     ],
-    "wof:lastmodified":1636502225,
+    "wof:lastmodified":1690921655,
     "wof:name":"Central",
     "wof:parent_id":85632189,
     "wof:placetype":"region",

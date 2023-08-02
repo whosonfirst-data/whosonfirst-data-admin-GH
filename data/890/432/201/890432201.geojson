@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:aka_x_preferred":[
+        "Mpraeso"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u043f\u0440\u0430\u0435\u0441\u043e"
     ],
@@ -38,6 +41,9 @@
         "Mpraeso"
     ],
     "name:pol_x_preferred":[
+        "Mpraeso"
+    ],
+    "name:swa_x_preferred":[
         "Mpraeso"
     ],
     "name:swe_x_preferred":[
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":890432201,
-    "wof:lastmodified":1566638451,
+    "wof:lastmodified":1690921711,
     "wof:name":"Mpraeso",
     "wof:parent_id":1108759889,
     "wof:placetype":"locality",

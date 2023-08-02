@@ -128,6 +128,9 @@
     "name:spa_x_preferred":[
         "Wa"
     ],
+    "name:swa_x_preferred":[
+        "Wa"
+    ],
     "name:swe_x_preferred":[
         "Wa"
     ],
@@ -298,7 +301,7 @@
         }
     ],
     "wof:id":421193513,
-    "wof:lastmodified":1636502233,
+    "wof:lastmodified":1690921690,
     "wof:name":"Wa",
     "wof:parent_id":1108759965,
     "wof:placetype":"locality",

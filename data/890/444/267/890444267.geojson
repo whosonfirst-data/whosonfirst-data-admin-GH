@@ -31,6 +31,9 @@
     "name:eng_x_preferred":[
         "Tafo"
     ],
+    "name:fra_x_preferred":[
+        "Tafo"
+    ],
     "name:jpn_x_preferred":[
         "\u30bf\u30d5\u30a9"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:spa_x_preferred":[
         "New Tafo"
+    ],
+    "name:swa_x_preferred":[
+        "Tafo"
     ],
     "name:swe_x_preferred":[
         "Tafo"
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":890444267,
-    "wof:lastmodified":1566638449,
+    "wof:lastmodified":1690921706,
     "wof:name":"Tafo",
     "wof:parent_id":1108759801,
     "wof:placetype":"locality",

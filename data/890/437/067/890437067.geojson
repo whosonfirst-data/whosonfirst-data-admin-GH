@@ -22,7 +22,16 @@
     "name:aka_x_preferred":[
         "Kyebi"
     ],
+    "name:ast_x_preferred":[
+        "Kibi"
+    ],
     "name:ceb_x_preferred":[
+        "Kibi"
+    ],
+    "name:ces_x_preferred":[
+        "Kibi"
+    ],
+    "name:csb_x_preferred":[
         "Kibi"
     ],
     "name:deu_x_preferred":[
@@ -31,7 +40,16 @@
     "name:eng_x_preferred":[
         "Kibi"
     ],
+    "name:fat_x_preferred":[
+        "Kibi"
+    ],
     "name:fra_x_preferred":[
+        "Kibi"
+    ],
+    "name:gpe_x_preferred":[
+        "Kibi"
+    ],
+    "name:hau_x_preferred":[
         "Kibi"
     ],
     "name:jpn_x_preferred":[
@@ -40,7 +58,28 @@
     "name:nld_x_preferred":[
         "Kibi"
     ],
+    "name:pol_x_preferred":[
+        "Kibi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0431\u0438"
+    ],
+    "name:slk_x_preferred":[
+        "Kibi"
+    ],
+    "name:spa_x_preferred":[
+        "Kibi"
+    ],
+    "name:swa_x_preferred":[
+        "Kibi"
+    ],
     "name:swe_x_preferred":[
+        "Kibi"
+    ],
+    "name:szl_x_preferred":[
+        "Kibi"
+    ],
+    "name:twi_x_preferred":[
         "Kibi"
     ],
     "name:urd_x_preferred":[
@@ -82,7 +121,7 @@
         }
     ],
     "wof:id":890437067,
-    "wof:lastmodified":1566638448,
+    "wof:lastmodified":1690921702,
     "wof:name":"Kibi",
     "wof:parent_id":1108759881,
     "wof:placetype":"locality",

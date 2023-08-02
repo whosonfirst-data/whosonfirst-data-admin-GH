@@ -34,6 +34,9 @@
     "name:nld_x_preferred":[
         "Kete Krachi"
     ],
+    "name:swa_x_preferred":[
+        "Kete-Krachi"
+    ],
     "name:swe_x_preferred":[
         "Kete-Krachi"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":890437069,
-    "wof:lastmodified":1566638448,
+    "wof:lastmodified":1690921702,
     "wof:name":"Kete Krachi",
     "wof:parent_id":1108759987,
     "wof:placetype":"locality",

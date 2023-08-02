@@ -25,6 +25,9 @@
     "name:aka_x_preferred":[
         "Madina"
     ],
+    "name:cat_x_preferred":[
+        "Madina"
+    ],
     "name:ceb_x_preferred":[
         "Medina Estates"
     ],
@@ -59,6 +62,9 @@
         "Madina"
     ],
     "name:spa_x_preferred":[
+        "Madina"
+    ],
+    "name:swa_x_preferred":[
         "Madina"
     ],
     "name:swe_x_preferred":[
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1125913001,
-    "wof:lastmodified":1566638452,
+    "wof:lastmodified":1690921713,
     "wof:name":"Medina Estates",
     "wof:parent_id":1108759909,
     "wof:placetype":"locality",

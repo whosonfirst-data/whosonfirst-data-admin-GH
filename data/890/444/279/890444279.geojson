@@ -55,6 +55,9 @@
     "name:spa_x_preferred":[
         "Mampong"
     ],
+    "name:swa_x_preferred":[
+        "Mampong"
+    ],
     "name:swe_x_preferred":[
         "Mampong"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":890444279,
-    "wof:lastmodified":1566638449,
+    "wof:lastmodified":1690921707,
     "wof:name":"Mampong",
     "wof:parent_id":1108759809,
     "wof:placetype":"locality",

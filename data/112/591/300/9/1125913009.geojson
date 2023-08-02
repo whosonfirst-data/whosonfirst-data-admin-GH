@@ -37,6 +37,9 @@
     "name:eng_x_preferred":[
         "Asamankese"
     ],
+    "name:eng_x_variant":[
+        "Asamankese Constituency"
+    ],
     "name:epo_x_preferred":[
         "Asamankese"
     ],
@@ -63,6 +66,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u0633\u0627\u0645\u0627\u0646\u06a9\u06cc\u0633\u06d2"
+    ],
+    "name:vec_x_preferred":[
+        "Asamankese Constituency"
     ],
     "qs_pg:aaroncc":"GH",
     "qs_pg:gn_country":"GH",
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":1125913009,
-    "wof:lastmodified":1566638452,
+    "wof:lastmodified":1690921713,
     "wof:name":"Asamankese",
     "wof:parent_id":1108759897,
     "wof:placetype":"locality",

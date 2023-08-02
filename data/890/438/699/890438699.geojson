@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u064a\u0643\u0648\u0645"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u0631\u064a\u0643\u0648\u0645"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c7\u09b0\u09c7\u0995\u09c1\u09ae"
     ],
@@ -41,6 +44,12 @@
         "\u0628\u0631\u06a9\u0648\u0645"
     ],
     "name:fra_x_preferred":[
+        "Berekum"
+    ],
+    "name:gpe_x_preferred":[
+        "Berekum"
+    ],
+    "name:hau_x_preferred":[
         "Berekum"
     ],
     "name:heb_x_preferred":[
@@ -82,6 +91,9 @@
     "name:spa_x_preferred":[
         "Berekum"
     ],
+    "name:swa_x_preferred":[
+        "Berekum"
+    ],
     "name:swe_x_preferred":[
         "Berekum"
     ],
@@ -95,6 +107,9 @@
         "\u0628\u06cc\u0631\u06cc\u06a9\u0645"
     ],
     "name:vie_x_preferred":[
+        "Berekum"
+    ],
+    "name:yor_x_preferred":[
         "Berekum"
     ],
     "name:zho_x_preferred":[
@@ -225,7 +240,7 @@
         }
     ],
     "wof:id":890438699,
-    "wof:lastmodified":1636502234,
+    "wof:lastmodified":1690921704,
     "wof:name":"Berekum",
     "wof:parent_id":1108759819,
     "wof:placetype":"locality",

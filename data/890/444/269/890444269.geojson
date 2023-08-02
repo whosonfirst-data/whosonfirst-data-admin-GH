@@ -46,6 +46,9 @@
     "name:spa_x_preferred":[
         "Suhum"
     ],
+    "name:swa_x_preferred":[
+        "Suhum"
+    ],
     "name:swe_x_preferred":[
         "Suhum"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":890444269,
-    "wof:lastmodified":1566638449,
+    "wof:lastmodified":1690921706,
     "wof:name":"Suhum",
     "wof:parent_id":1108759895,
     "wof:placetype":"locality",

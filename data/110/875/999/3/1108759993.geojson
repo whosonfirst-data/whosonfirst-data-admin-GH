@@ -42,17 +42,36 @@
     "name:ceb_x_preferred":[
         "Ahanta West"
     ],
+    "name:dan_x_preferred":[
+        "Ahanta West"
+    ],
     "name:deu_x_preferred":[
         "Ahanta West District"
+    ],
+    "name:deu_x_variant":[
+        "Ahanta West Municipal District"
     ],
     "name:eng_x_preferred":[
         "Ahanta West"
     ],
     "name:eng_x_variant":[
-        "Ahanta West District"
+        "Ahanta West District",
+        "Ahanta West Municipal District"
     ],
     "name:fra_x_preferred":[
         "Ahanta West"
+    ],
+    "name:fra_x_variant":[
+        "district municipal d'Ahanta Ouest"
+    ],
+    "name:hau_x_preferred":[
+        "Ahanta West Municipal District"
+    ],
+    "name:ibo_x_preferred":[
+        "Ahanta West Municipal District"
+    ],
+    "name:ind_x_preferred":[
+        "Ahanta Barat"
     ],
     "name:ita_x_preferred":[
         "Distretto di Ahanta Ovest"
@@ -68,6 +87,9 @@
     ],
     "name:swe_x_preferred":[
         "Ahanta West"
+    ],
+    "name:yor_x_preferred":[
+        "Ahanta West Municipal District"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -105,7 +127,7 @@
         }
     ],
     "wof:id":1108759993,
-    "wof:lastmodified":1627522153,
+    "wof:lastmodified":1690921666,
     "wof:name":"Ahanta West",
     "wof:parent_id":85671347,
     "wof:placetype":"county",
