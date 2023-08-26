@@ -29,13 +29,22 @@
     "name:eng_x_preferred":[
         "Anloga"
     ],
+    "name:hau_x_preferred":[
+        "Anloga"
+    ],
     "name:jpn_x_preferred":[
         "\u30a2\u30f3\u30ed\u30ac"
     ],
     "name:nld_x_preferred":[
         "Anloga"
     ],
+    "name:pol_x_preferred":[
+        "Anloga"
+    ],
     "name:spa_x_preferred":[
+        "Anloga"
+    ],
+    "name:swa_x_preferred":[
         "Anloga"
     ],
     "name:swe_x_preferred":[
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":421181443,
-    "wof:lastmodified":1566638444,
+    "wof:lastmodified":1690921692,
     "wof:name":"Anloga",
     "wof:parent_id":1108759981,
     "wof:placetype":"locality",

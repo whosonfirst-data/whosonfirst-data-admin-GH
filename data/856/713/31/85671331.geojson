@@ -29,6 +29,9 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.7,
+    "name:afr_x_preferred":[
+        "Asjanti"
+    ],
     "name:aka_x_preferred":[
         "Asante Mantam"
     ],
@@ -56,6 +59,9 @@
     "name:ceb_x_preferred":[
         "Ashanti Region"
     ],
+    "name:dag_x_preferred":[
+        "Ashanti Region"
+    ],
     "name:dan_x_preferred":[
         "Ashanti"
     ],
@@ -80,6 +86,9 @@
     "name:fas_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0647 \u0622\u0634\u0627\u0646\u062a\u06cc"
     ],
+    "name:fat_x_preferred":[
+        "Ashanti Region"
+    ],
     "name:fin_x_preferred":[
         "Ashantin hallintoalue"
     ],
@@ -92,8 +101,14 @@
     "name:frr_x_preferred":[
         "Ashanti"
     ],
+    "name:gpe_x_preferred":[
+        "Ashanti Region"
+    ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab6\u0abe\u0a82\u0aa4\u0abf \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
+    ],
+    "name:gur_x_preferred":[
+        "Ashanti Region"
     ],
     "name:hau_x_preferred":[
         "Yankin Ashanti"
@@ -101,11 +116,20 @@
     "name:heb_x_preferred":[
         "\u05d0\u05e9\u05e0\u05d8\u05d9"
     ],
+    "name:heb_x_variant":[
+        "\u05d7\u05d1\u05dc \u05d0\u05e9\u05e0\u05d8\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u0905\u0936\u094d\u0902\u0924\u0940 \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
     ],
     "name:hun_x_preferred":[
         "Ashanti"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0577\u0561\u0576\u057f\u056b"
+    ],
+    "name:ibo_x_preferred":[
+        "Ashanti Region"
     ],
     "name:ind_x_preferred":[
         "Region Ashanti"
@@ -129,7 +153,8 @@
         "\uc544\uc0e8\ud2f0"
     ],
     "name:kor_x_variant":[
-        "\uc544\uc0e8\ud2f0 \uc8fc"
+        "\uc544\uc0e8\ud2f0 \uc8fc",
+        "\uc544\uc0e8\ud2f0\uc8fc"
     ],
     "name:lav_x_preferred":[
         "A\u0161anti re\u0123ions"
@@ -151,6 +176,12 @@
     ],
     "name:nob_x_preferred":[
         "Ashanti"
+    ],
+    "name:nqo_x_preferred":[
+        "\u07ca\u07db\u07ed\u07ca\u07f2\u07d5\u07cc\u07eb \u07d5\u07cc\u07f2\u07de\u07ce\u07d8\u07ce\u07f2"
+    ],
+    "name:pcm_x_preferred":[
+        "Ashanti Region"
     ],
     "name:pol_x_preferred":[
         "Region Aszanti"
@@ -203,11 +234,17 @@
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Ashanti"
     ],
+    "name:wuu_x_preferred":[
+        "\u963f\u6563\u8482\u5730\u533a"
+    ],
     "name:xmf_x_preferred":[
         "\u10d0\u10e8\u10d0\u10dc\u10e2\u10d8\u10e8 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
     ],
     "name:yor_x_preferred":[
         "Agb\u00e8gb\u00e8 Ashanti"
+    ],
+    "name:yor_x_variant":[
+        "Ashanti Region"
     ],
     "name:zho_x_preferred":[
         "\u963f\u5c71\u5e1d"
@@ -341,7 +378,7 @@
         "ewe",
         "gaa"
     ],
-    "wof:lastmodified":1636502224,
+    "wof:lastmodified":1690921653,
     "wof:name":"Ashanti",
     "wof:parent_id":85632189,
     "wof:placetype":"region",

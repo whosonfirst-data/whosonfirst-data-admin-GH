@@ -28,6 +28,9 @@
     "name:nld_x_preferred":[
         "Mumford"
     ],
+    "name:swa_x_preferred":[
+        "Mumford"
+    ],
     "name:und_x_variant":[
         "Gammah"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":890432197,
-    "wof:lastmodified":1566638451,
+    "wof:lastmodified":1690921710,
     "wof:name":"Mumford",
     "wof:parent_id":1108759857,
     "wof:placetype":"locality",

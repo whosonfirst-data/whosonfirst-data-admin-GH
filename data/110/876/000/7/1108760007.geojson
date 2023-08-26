@@ -42,6 +42,9 @@
     "name:deu_x_preferred":[
         "Nzema East District"
     ],
+    "name:deu_x_variant":[
+        "Nzema East Municipal District"
+    ],
     "name:eng_x_preferred":[
         "Nzema East"
     ],
@@ -50,6 +53,12 @@
     ],
     "name:fra_x_preferred":[
         "Nzema East"
+    ],
+    "name:hau_x_preferred":[
+        "Nzema East Municipal District"
+    ],
+    "name:ibo_x_preferred":[
+        "Nzema East Municipal District"
     ],
     "name:ita_x_preferred":[
         "Distretto di Nzema Est"
@@ -62,6 +71,12 @@
     ],
     "name:swe_x_preferred":[
         "Nzema East"
+    ],
+    "name:twi_x_preferred":[
+        "Nzema Apue\u025b Mansini Adantam"
+    ],
+    "name:yor_x_preferred":[
+        "Nzema East Municipal District"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -99,7 +114,7 @@
         }
     ],
     "wof:id":1108760007,
-    "wof:lastmodified":1627522156,
+    "wof:lastmodified":1690921682,
     "wof:name":"Nzema East",
     "wof:parent_id":85671347,
     "wof:placetype":"county",

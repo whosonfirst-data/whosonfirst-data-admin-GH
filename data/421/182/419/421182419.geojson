@@ -35,6 +35,12 @@
     "name:fra_x_preferred":[
         "Tarkwa"
     ],
+    "name:gpe_x_preferred":[
+        "Tarkwa"
+    ],
+    "name:hau_x_preferred":[
+        "Tarkwa"
+    ],
     "name:ita_x_preferred":[
         "Tarkwa"
     ],
@@ -47,7 +53,13 @@
     "name:pol_x_preferred":[
         "Tarkwa"
     ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0440\u043a\u0432\u0430"
+    ],
     "name:spa_x_preferred":[
+        "Tarkwa"
+    ],
+    "name:swa_x_preferred":[
         "Tarkwa"
     ],
     "name:swe_x_preferred":[
@@ -58,6 +70,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062a\u0627\u0631\u06a9\u0648\u0627"
+    ],
+    "name:yor_x_preferred":[
+        "Tarkwa"
     ],
     "qs:gn_country":"GH",
     "qs:gn_fcode":"PPL",
@@ -107,7 +122,7 @@
         }
     ],
     "wof:id":421182419,
-    "wof:lastmodified":1566638446,
+    "wof:lastmodified":1690921698,
     "wof:name":"Tarkwa",
     "wof:parent_id":1108760017,
     "wof:placetype":"locality",

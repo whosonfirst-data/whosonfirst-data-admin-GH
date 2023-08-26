@@ -17,8 +17,17 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:aka_x_preferred":[
+        "Bolgatanga"
+    ],
     "name:ara_x_preferred":[
         "\u0628\u0648\u0644\u062c\u0627\u062a\u0627\u0646\u062c\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Bolgatanga"
+    ],
+    "name:aze_x_preferred":[
+        "Bolqatanqa"
     ],
     "name:bel_x_preferred":[
         "\u0411\u0430\u043b\u0433\u0430\u0442\u0430\u043d\u0433\u0430"
@@ -30,6 +39,9 @@
         "Bolgatanga"
     ],
     "name:ceb_x_preferred":[
+        "Bolgatanga"
+    ],
+    "name:dag_x_preferred":[
         "Bolgatanga"
     ],
     "name:dan_x_preferred":[
@@ -53,6 +65,21 @@
     "name:frr_x_preferred":[
         "Bolgatanga"
     ],
+    "name:gle_x_preferred":[
+        "Bolgatanga"
+    ],
+    "name:gpe_x_preferred":[
+        "Bolgatanga"
+    ],
+    "name:gur_x_preferred":[
+        "B\u0254legata\u014ba"
+    ],
+    "name:hau_x_preferred":[
+        "Bolgatanga"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05dc\u05d2\u05d8\u05d0\u05e0\u05d2\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u092c\u094b\u0932\u094d\u0917\u093e\u091f\u093e\u0902\u0917\u093e"
     ],
@@ -61,6 +88,9 @@
     ],
     "name:hun_x_preferred":[
         "Bolgatanga"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u056c\u0563\u0561\u057f\u0561\u0576\u0563\u0561"
     ],
     "name:ind_x_preferred":[
         "Bolgatanga"
@@ -104,20 +134,32 @@
     "name:spa_x_preferred":[
         "Bolgatanga"
     ],
+    "name:swa_x_preferred":[
+        "Bolgatanga"
+    ],
     "name:swe_x_preferred":[
         "Bolgatanga"
     ],
     "name:tur_x_preferred":[
         "Bolgatanga"
     ],
+    "name:twi_x_preferred":[
+        "Bolgatanga"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u043e\u043b\u0433\u0430\u0442\u0430\u043d\u0433\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u043e\u043b\u0491\u0430\u0442\u0430\u043d\u0433\u0430"
     ],
     "name:und_x_variant":[
         "Bolagatanga"
     ],
     "name:urd_x_preferred":[
         "\u0628\u0648\u0644\u06af\u0627\u0679\u0627\u0646\u06af\u0627"
+    ],
+    "name:vec_x_preferred":[
+        "Bolgatanga"
     ],
     "name:vie_x_preferred":[
         "Bolgatanga"
@@ -270,7 +312,7 @@
         }
     ],
     "wof:id":421195909,
-    "wof:lastmodified":1636502233,
+    "wof:lastmodified":1690921688,
     "wof:name":"Bolgatanga",
     "wof:parent_id":1108759947,
     "wof:placetype":"locality",

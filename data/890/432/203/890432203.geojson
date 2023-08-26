@@ -28,11 +28,20 @@
     "name:ceb_x_preferred":[
         "Akropong"
     ],
+    "name:deu_x_preferred":[
+        "Akropong"
+    ],
     "name:eng_x_preferred":[
         "Akropong"
     ],
     "name:fas_x_preferred":[
         "\u0627\u06a9\u0631\u0627\u067e\u0627\u0646\u06af"
+    ],
+    "name:fat_x_preferred":[
+        "Akropong"
+    ],
+    "name:gpe_x_preferred":[
+        "Akropong"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30af\u30ed\u30dd\u30f3"
@@ -43,7 +52,13 @@
     "name:pol_x_preferred":[
         "Akropong"
     ],
+    "name:swa_x_preferred":[
+        "Akropong"
+    ],
     "name:swe_x_preferred":[
+        "Akropong"
+    ],
+    "name:twi_x_preferred":[
         "Akropong"
     ],
     "name:ukr_x_preferred":[
@@ -51,6 +66,9 @@
     ],
     "name:und_x_variant":[
         "Akuropon"
+    ],
+    "name:yor_x_preferred":[
+        "Akropong"
     ],
     "qs:name":"Akropong",
     "qs:photos_9r":0,
@@ -85,7 +103,7 @@
         }
     ],
     "wof:id":890432203,
-    "wof:lastmodified":1566638450,
+    "wof:lastmodified":1690921709,
     "wof:name":"Akropong",
     "wof:parent_id":1108759871,
     "wof:placetype":"locality",

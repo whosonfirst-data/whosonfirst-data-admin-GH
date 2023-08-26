@@ -29,8 +29,14 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.7,
+    "name:aka_x_preferred":[
+        "Atifi Apuee\u025b Mantam"
+    ],
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0627\u0644\u0634\u0631\u0642 \u0627\u0623\u0644\u0648\u0633\u0637"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0634\u0631\u0642 \u0627\u0644\u0623\u0639\u0644\u0649"
     ],
     "name:azb_x_preferred":[
         "\u06cc\u0648\u062e\u0627\u0631\u06cc \u062f\u0648\u063a\u0648 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
@@ -54,6 +60,9 @@
         "regi\u00f3 Superior Oriental"
     ],
     "name:ceb_x_preferred":[
+        "Upper East Region"
+    ],
+    "name:dag_x_preferred":[
         "Upper East Region"
     ],
     "name:dan_x_preferred":[
@@ -89,8 +98,14 @@
     "name:frr_x_preferred":[
         "Upper East"
     ],
+    "name:glg_x_preferred":[
+        "rexi\u00f3n Superior Oriental"
+    ],
     "name:guj_x_preferred":[
         "\u0a85\u0aaa\u0ab0 \u0aaa\u0ac2\u0ab0\u0acd\u0ab5 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
+    ],
+    "name:gur_x_preferred":[
+        "Upper East Region"
     ],
     "name:hau_x_preferred":[
         "Yankin Upper East"
@@ -104,11 +119,20 @@
     "name:hun_x_preferred":[
         "Upper East"
     ],
+    "name:hye_x_preferred":[
+        "\u054e\u0565\u0580\u056b\u0576 \u0531\u0580\u0587\u0565\u056c\u0575\u0561\u0576 \u0577\u0580\u057b\u0561\u0576"
+    ],
+    "name:ibo_x_preferred":[
+        "Upper East Region"
+    ],
     "name:ind_x_preferred":[
         "Region Timur Atas"
     ],
     "name:ita_x_preferred":[
         "regione Nordorientale"
+    ],
+    "name:ita_x_variant":[
+        "Regione Orientale Superiore"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30c3\u30d1\u30fc\u30fb\u30a4\u30fc\u30b9\u30c8\u5dde"
@@ -120,7 +144,8 @@
         "\ubd81\ub3d9\ubd80 \uc8fc"
     ],
     "name:kor_x_variant":[
-        "\uc5b4\ud37c\uc774\uc2a4\ud2b8 \uc8fc"
+        "\uc5b4\ud37c\uc774\uc2a4\ud2b8 \uc8fc",
+        "\uc5b4\ud37c \uc774\uc2a4\ud2b8\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Austrumaug\u0161\u0113jais re\u0123ions"
@@ -139,6 +164,9 @@
     ],
     "name:nob_x_preferred":[
         "Upper East"
+    ],
+    "name:pcm_x_preferred":[
+        "Upper East Region"
     ],
     "name:pol_x_preferred":[
         "G\u00f3rny Region Wschodni"
@@ -176,6 +204,9 @@
     "name:tur_x_preferred":[
         "Yukar\u0131 Do\u011fu B\u00f6lgesi"
     ],
+    "name:twi_x_preferred":[
+        "Upper East Region"
+    ],
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0440\u0445\u043d\u0456\u0439 \u0421\u0445\u0456\u0434\u043d\u0438\u0439 \u0420\u0435\u0433\u0456\u043e\u043d"
     ],
@@ -188,8 +219,14 @@
     "name:vie_x_preferred":[
         "V\u00f9ng Th\u01b0\u1ee3ng \u0110\u00f4ng"
     ],
+    "name:wuu_x_preferred":[
+        "\u4e1c\u5317\u5730\u533a"
+    ],
     "name:xmf_x_preferred":[
         "\u10df\u10d8\u10db\u10dd\u10da\u10d4\u10dc\u10d8 \u10d1\u10df\u10d0\u10d4\u10d8\u10dd\u10da\u10d8 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:yor_x_preferred":[
+        "Upper East Region"
     ],
     "name:zho_x_preferred":[
         "\u6771\u5317\u5730\u5340"
@@ -320,7 +357,7 @@
         "ewe",
         "gaa"
     ],
-    "wof:lastmodified":1636502225,
+    "wof:lastmodified":1690921655,
     "wof:name":"Upper East",
     "wof:parent_id":85632189,
     "wof:placetype":"region",

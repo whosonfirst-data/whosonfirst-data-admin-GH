@@ -20,8 +20,17 @@
     "name:aka_x_preferred":[
         "Simpa"
     ],
+    "name:aka_x_variant":[
+        "Winneba"
+    ],
     "name:ara_x_preferred":[
         "\u0648\u0627\u064a\u0646\u064a\u0628\u0627"
+    ],
+    "name:arz_x_preferred":[
+        "\u0648\u0627\u064a\u0646\u064a\u0628\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Winneba"
     ],
     "name:ben_x_preferred":[
         "\u0989\u0987\u09a8\u09cd\u09a8\u09c7\u09ac\u09be"
@@ -41,10 +50,16 @@
     "name:eng_x_preferred":[
         "Winneba"
     ],
+    "name:eus_x_preferred":[
+        "Winneba"
+    ],
     "name:fas_x_preferred":[
         "\u0648\u06cc\u0646\u0628\u0627"
     ],
     "name:fra_x_preferred":[
+        "Winneba"
+    ],
+    "name:gpe_x_preferred":[
         "Winneba"
     ],
     "name:heb_x_preferred":[
@@ -92,10 +107,16 @@
     "name:spa_x_preferred":[
         "Winneba"
     ],
+    "name:swa_x_preferred":[
+        "Winneba"
+    ],
     "name:swe_x_preferred":[
         "Winneba"
     ],
     "name:tur_x_preferred":[
+        "Winneba"
+    ],
+    "name:twi_x_preferred":[
         "Winneba"
     ],
     "name:ukr_x_preferred":[
@@ -103,6 +124,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0648\u0646\u06cc\u0628\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Winneba"
     ],
     "name:zho_x_preferred":[
         "\u6eab\u5c3c\u5df4"
@@ -258,7 +282,7 @@
         }
     ],
     "wof:id":421191769,
-    "wof:lastmodified":1636502233,
+    "wof:lastmodified":1690921695,
     "wof:name":"Winneba",
     "wof:parent_id":1108759853,
     "wof:placetype":"locality",

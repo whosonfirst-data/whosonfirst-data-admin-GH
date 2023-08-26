@@ -39,6 +39,12 @@
     "name:fra_x_preferred":[
         "Nungua"
     ],
+    "name:hau_x_preferred":[
+        "Nungua"
+    ],
+    "name:ibo_x_preferred":[
+        "Nungua"
+    ],
     "name:ita_x_preferred":[
         "Nungua"
     ],
@@ -49,6 +55,12 @@
         "Nungua"
     ],
     "name:pol_x_preferred":[
+        "Nungua"
+    ],
+    "name:spa_x_preferred":[
+        "Nungua"
+    ],
+    "name:swa_x_preferred":[
         "Nungua"
     ],
     "name:swe_x_preferred":[
@@ -92,7 +104,7 @@
         }
     ],
     "wof:id":890432195,
-    "wof:lastmodified":1566638450,
+    "wof:lastmodified":1690921708,
     "wof:name":"Nungua",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

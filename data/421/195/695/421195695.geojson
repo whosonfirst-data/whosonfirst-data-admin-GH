@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0641\u0648\u0631\u064a\u062f\u0648\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0641\u0648\u0631\u064a\u062f\u0648\u0627"
+    ],
     "name:azb_x_preferred":[
         "\u06a9\u0648\u0641\u0648\u0631\u06cc\u062f\u0648\u0626\u0627"
     ],
@@ -39,6 +42,12 @@
         "Koforidua"
     ],
     "name:ceb_x_preferred":[
+        "Koforidua"
+    ],
+    "name:ces_x_preferred":[
+        "Koforidua"
+    ],
+    "name:dag_x_preferred":[
         "Koforidua"
     ],
     "name:dan_x_preferred":[
@@ -59,6 +68,9 @@
     "name:fas_x_preferred":[
         "\u06a9\u0648\u0641\u0648\u0631\u06cc\u062f\u0648\u0626\u0627"
     ],
+    "name:fat_x_preferred":[
+        "Koforidua"
+    ],
     "name:fin_x_preferred":[
         "Koforidua"
     ],
@@ -68,8 +80,20 @@
     "name:frr_x_preferred":[
         "Koforidua"
     ],
+    "name:gle_x_preferred":[
+        "Koforidua"
+    ],
+    "name:gpe_x_preferred":[
+        "Koforidua"
+    ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0aab\u0acb\u0ab0\u0abf\u0aa1\u0ac1\u0a86"
+    ],
+    "name:hau_x_preferred":[
+        "Koforidua"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e4\u05d5\u05e8\u05d9\u05d3\u05d5\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0915\u0948\u092b\u094b\u0930\u0940\u0926\u0941\u0906"
@@ -137,6 +161,9 @@
     "name:spa_x_preferred":[
         "Koforidua"
     ],
+    "name:swa_x_preferred":[
+        "Koforidua"
+    ],
     "name:swe_x_preferred":[
         "Koforidua"
     ],
@@ -161,7 +188,16 @@
     "name:urd_x_preferred":[
         "\u06a9\u0648\u0641\u0648\u0631\u06cc\u062f\u0648\u0627"
     ],
+    "name:vec_x_preferred":[
+        "Koforidua"
+    ],
     "name:vie_x_preferred":[
+        "Koforidua"
+    ],
+    "name:wuu_x_preferred":[
+        "\u79d1\u798f\u91cc\u675c\u4e9a"
+    ],
+    "name:yor_x_preferred":[
         "Koforidua"
     ],
     "name:zho_x_preferred":[
@@ -307,7 +343,7 @@
         }
     ],
     "wof:id":421195695,
-    "wof:lastmodified":1636502233,
+    "wof:lastmodified":1690921689,
     "wof:name":"Koforidua",
     "wof:parent_id":1108759893,
     "wof:placetype":"locality",

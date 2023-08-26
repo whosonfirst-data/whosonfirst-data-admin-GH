@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:aka_x_preferred":[
+        "Apaa"
+    ],
     "name:cat_x_preferred":[
         "Apam"
     ],
@@ -34,6 +37,9 @@
     "name:fra_x_preferred":[
         "Apam"
     ],
+    "name:hau_x_preferred":[
+        "Apam"
+    ],
     "name:jpn_x_preferred":[
         "\u30a2\u30d1\u30e0"
     ],
@@ -45,6 +51,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0410\u043f\u0430\u043c"
+    ],
+    "name:swa_x_preferred":[
+        "Apam"
     ],
     "name:swe_x_preferred":[
         "Apam"
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":890438701,
-    "wof:lastmodified":1566638448,
+    "wof:lastmodified":1690921703,
     "wof:name":"Apam",
     "wof:parent_id":1108759857,
     "wof:placetype":"locality",

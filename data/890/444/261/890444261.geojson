@@ -28,6 +28,9 @@
     "name:azb_x_preferred":[
         "\u062a\u0645\u0627"
     ],
+    "name:bel_x_preferred":[
+        "\u0422\u044d\u043c\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u099f\u09c7\u09ae\u09be"
     ],
@@ -61,8 +64,14 @@
     "name:fra_x_preferred":[
         "Tema"
     ],
+    "name:gle_x_preferred":[
+        "Tema"
+    ],
     "name:guj_x_preferred":[
         "\u0aa4\u0ac7\u0aae\u0abe"
+    ],
+    "name:hau_x_preferred":[
+        "Tema"
     ],
     "name:heb_x_preferred":[
         "\u05d8\u05de\u05d4"
@@ -75,6 +84,9 @@
     ],
     "name:hun_x_preferred":[
         "Tema"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0565\u0574\u0561"
     ],
     "name:ind_x_preferred":[
         "Tema"
@@ -151,6 +163,9 @@
     "name:tur_x_preferred":[
         "Tema"
     ],
+    "name:twi_x_preferred":[
+        "Tema"
+    ],
     "name:ukr_x_preferred":[
         "\u0422\u0435\u043c\u0430"
     ],
@@ -159,6 +174,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062a\u06cc\u0645\u0627"
+    ],
+    "name:vec_x_preferred":[
+        "Tema"
     ],
     "name:vie_x_preferred":[
         "Tema"
@@ -303,7 +321,7 @@
         }
     ],
     "wof:id":890444261,
-    "wof:lastmodified":1582352129,
+    "wof:lastmodified":1690921705,
     "wof:name":"Tema",
     "wof:parent_id":1108759911,
     "wof:placetype":"locality",

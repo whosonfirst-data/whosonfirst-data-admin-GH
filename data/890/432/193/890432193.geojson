@@ -22,6 +22,12 @@
     "name:aka_x_preferred":[
         "Akim Oda"
     ],
+    "name:aka_x_variant":[
+        "Akyem Oda"
+    ],
+    "name:ast_x_preferred":[
+        "Akim Oda"
+    ],
     "name:ceb_x_preferred":[
         "Akim Oda"
     ],
@@ -34,7 +40,13 @@
     "name:fas_x_preferred":[
         "\u0627\u06a9\u06cc\u0645 \u0627\u0648\u062f\u0627"
     ],
+    "name:fat_x_preferred":[
+        "Akim Oda"
+    ],
     "name:fra_x_preferred":[
+        "Akim Oda"
+    ],
+    "name:gpe_x_preferred":[
         "Akim Oda"
     ],
     "name:ita_x_preferred":[
@@ -55,7 +67,13 @@
     "name:spa_x_preferred":[
         "Akim Oda"
     ],
+    "name:swa_x_preferred":[
+        "Akim Oda"
+    ],
     "name:swe_x_preferred":[
+        "Akim Oda"
+    ],
+    "name:twi_x_preferred":[
         "Akim Oda"
     ],
     "name:und_x_variant":[
@@ -97,7 +115,7 @@
         }
     ],
     "wof:id":890432193,
-    "wof:lastmodified":1566638450,
+    "wof:lastmodified":1690921708,
     "wof:name":"Akim Oda",
     "wof:parent_id":1108759879,
     "wof:placetype":"locality",

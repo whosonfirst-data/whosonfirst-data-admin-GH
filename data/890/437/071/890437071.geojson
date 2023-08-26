@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":10.0,
+    "name:aka_x_preferred":[
+        "Bibiani"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0438\u0431\u0438\u0430\u043d\u0438"
     ],
@@ -28,13 +31,25 @@
     "name:eng_x_preferred":[
         "Bibiani"
     ],
+    "name:gpe_x_preferred":[
+        "Bibiani"
+    ],
+    "name:hau_x_preferred":[
+        "Bibiani"
+    ],
     "name:jpn_x_preferred":[
         "\u30d3\u30d3\u30a2\u30cb"
     ],
     "name:nld_x_preferred":[
         "Bibiani"
     ],
+    "name:pol_x_preferred":[
+        "Bibiani"
+    ],
     "name:spa_x_preferred":[
+        "Bibiani"
+    ],
+    "name:swa_x_preferred":[
         "Bibiani"
     ],
     "name:swe_x_preferred":[
@@ -76,7 +91,7 @@
         }
     ],
     "wof:id":890437071,
-    "wof:lastmodified":1566638448,
+    "wof:lastmodified":1690921701,
     "wof:name":"Bibiani",
     "wof:parent_id":1108759999,
     "wof:placetype":"locality",

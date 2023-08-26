@@ -31,6 +31,9 @@
     "name:eng_x_preferred":[
         "Kasoa"
     ],
+    "name:fra_x_preferred":[
+        "Kasoa"
+    ],
     "name:jpn_x_preferred":[
         "\u30aa\u30c9\u30a5\u30dd\u30f3\u30af\u30da\u30d8"
     ],
@@ -41,6 +44,9 @@
         "Oduponkpehe"
     ],
     "name:spa_x_preferred":[
+        "Oduponkpehe"
+    ],
+    "name:swa_x_preferred":[
         "Oduponkpehe"
     ],
     "name:swe_x_preferred":[
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":890432191,
-    "wof:lastmodified":1566638450,
+    "wof:lastmodified":1690921710,
     "wof:name":"Kasoa",
     "wof:parent_id":1108759853,
     "wof:placetype":"locality",

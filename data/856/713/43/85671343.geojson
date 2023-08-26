@@ -29,6 +29,9 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.7,
+    "name:aka_x_preferred":[
+        "Apuee\u025b Mantam"
+    ],
     "name:ara_x_preferred":[
         "\u0627\u0644\u0625\u0642\u0644\u064a\u0645 \u0627\u0644\u0634\u0631\u0642\u064a"
     ],
@@ -53,6 +56,9 @@
     "name:ceb_x_preferred":[
         "Eastern Region"
     ],
+    "name:dag_x_preferred":[
+        "Eastern Region"
+    ],
     "name:dan_x_preferred":[
         "Eastern"
     ],
@@ -74,6 +80,9 @@
     "name:fas_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0647 \u0634\u0631\u0642\u06cc"
     ],
+    "name:fat_x_preferred":[
+        "Epuei Mant\u0254w"
+    ],
     "name:fin_x_preferred":[
         "Eastern Ghana"
     ],
@@ -83,6 +92,9 @@
     "name:frr_x_preferred":[
         "Eastern"
     ],
+    "name:gpe_x_preferred":[
+        "Eastern Region"
+    ],
     "name:guj_x_preferred":[
         "\u0aaa\u0ac2\u0ab0\u0acd\u0ab5\u0ac0\u0aaf \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
     ],
@@ -91,6 +103,12 @@
     ],
     "name:hin_x_preferred":[
         "\u092a\u0942\u0930\u094d\u0935\u0940 \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0580\u0565\u057e\u0565\u056c\u0575\u0561\u0576 \u0574\u0561\u0580\u0566"
+    ],
+    "name:ibo_x_preferred":[
+        "Eastern Region"
     ],
     "name:ind_x_preferred":[
         "Region Timur"
@@ -128,6 +146,9 @@
     "name:nob_x_preferred":[
         "Eastern"
     ],
+    "name:pcm_x_preferred":[
+        "Eastern Region"
+    ],
     "name:pol_x_preferred":[
         "Region Wschodni"
     ],
@@ -140,6 +161,9 @@
     "name:rus_x_preferred":[
         "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0440\u0435\u0433\u0438\u043e\u043d"
     ],
+    "name:rus_x_variant":[
+        "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    ],
     "name:sin_x_preferred":[
         "\u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb \u0d9a\u0dbd\u0dcf\u0db4\u0dba"
     ],
@@ -151,6 +175,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+    ],
+    "name:tam_x_variant":[
+        "\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c24\u0c42\u0c30\u0c4d\u0c2a\u0c41 \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
@@ -179,8 +206,14 @@
     "name:vie_x_variant":[
         "Khu v\u1ef1c Eastern"
     ],
+    "name:wuu_x_preferred":[
+        "\u4e1c\u90e8\u5730\u533a"
+    ],
     "name:xmf_x_preferred":[
         "\u10d1\u10df\u10d0\u10d4\u10d8\u10dd\u10da\u10d8 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:yor_x_preferred":[
+        "Eastern Region"
     ],
     "name:zho_cn_x_preferred":[
         "\u4e1c\u533a"
@@ -317,7 +350,7 @@
         "ewe",
         "gaa"
     ],
-    "wof:lastmodified":1636502224,
+    "wof:lastmodified":1690921653,
     "wof:name":"Eastern",
     "wof:parent_id":85632189,
     "wof:placetype":"region",

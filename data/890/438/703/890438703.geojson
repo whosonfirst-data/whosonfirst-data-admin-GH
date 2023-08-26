@@ -46,7 +46,13 @@
     "name:nld_x_preferred":[
         "Aboso"
     ],
+    "name:swa_x_preferred":[
+        "Aboso"
+    ],
     "name:swe_x_preferred":[
+        "Aboso"
+    ],
+    "name:twi_x_preferred":[
         "Aboso"
     ],
     "name:und_x_variant":[
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":890438703,
-    "wof:lastmodified":1566638448,
+    "wof:lastmodified":1690921704,
     "wof:name":"Aboso",
     "wof:parent_id":1108760017,
     "wof:placetype":"locality",

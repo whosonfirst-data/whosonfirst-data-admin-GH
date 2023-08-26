@@ -20,6 +20,12 @@
     "name:aka_x_preferred":[
         "Sunyane"
     ],
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u0646\u064a\u0627\u062a\u064a"
+    ],
+    "name:arz_x_preferred":[
+        "\u0633\u0648\u0646\u064a\u0627\u062a\u0649"
+    ],
     "name:bel_x_preferred":[
         "\u0421\u0443\u043d\u044c\u044f\u043d\u0456"
     ],
@@ -30,6 +36,12 @@
         "Sunyani"
     ],
     "name:ceb_x_preferred":[
+        "Sunyani"
+    ],
+    "name:ces_x_preferred":[
+        "Sunyani"
+    ],
+    "name:dag_x_preferred":[
         "Sunyani"
     ],
     "name:dan_x_preferred":[
@@ -56,8 +68,14 @@
     "name:frr_x_preferred":[
         "Sunyani"
     ],
+    "name:gpe_x_preferred":[
+        "Sunyani"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac1\u0aa8\u0aaf\u0abe\u0aa3\u0ac0"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d9\u05e0\u05d9\u05d0\u05e0\u05d9"
     ],
     "name:hin_x_preferred":[
         "\u0938\u0941\u0928\u094d\u092f\u093e\u0928\u0940"
@@ -67,6 +85,9 @@
     ],
     "name:hun_x_preferred":[
         "Sunyani"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0578\u0582\u0576\u0575\u0561\u0576\u056b"
     ],
     "name:ind_x_preferred":[
         "Sunyani"
@@ -116,13 +137,22 @@
     "name:ron_x_preferred":[
         "Sunyani"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u043d\u044c\u044f\u043d\u0438"
+    ],
     "name:sin_x_preferred":[
         "\u0dc3\u0dd4\u0db1\u0dca\u0dba\u0db1\u0dd2"
     ],
     "name:spa_x_preferred":[
         "Sunyani"
     ],
+    "name:swa_x_preferred":[
+        "Sunyani"
+    ],
     "name:swe_x_preferred":[
+        "Sunyani"
+    ],
+    "name:szl_x_preferred":[
         "Sunyani"
     ],
     "name:tam_x_preferred":[
@@ -137,6 +167,9 @@
     "name:tur_x_preferred":[
         "Sunyani"
     ],
+    "name:twi_x_preferred":[
+        "Sunyani"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u0443\u043d\u044c\u044f\u043d\u0456"
     ],
@@ -145,6 +178,12 @@
     ],
     "name:vie_x_preferred":[
         "Sunyani"
+    ],
+    "name:war_x_preferred":[
+        "Sunyani"
+    ],
+    "name:wuu_x_preferred":[
+        "\u82cf\u5c3c\u4e9a\u5c3c"
     ],
     "name:zho_x_preferred":[
         "\u8607\u5c3c\u4e9e\u5c3c"
@@ -289,7 +328,7 @@
         }
     ],
     "wof:id":421168043,
-    "wof:lastmodified":1636502232,
+    "wof:lastmodified":1690921687,
     "wof:name":"Sunyani",
     "wof:parent_id":1108759831,
     "wof:placetype":"locality",

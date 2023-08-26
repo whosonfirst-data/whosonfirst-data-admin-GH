@@ -31,13 +31,28 @@
     "name:eng_x_preferred":[
         "Kpandae"
     ],
+    "name:eng_x_variant":[
+        "Kpandai"
+    ],
+    "name:hau_x_preferred":[
+        "Kpandai"
+    ],
+    "name:ibo_x_preferred":[
+        "Kpandai"
+    ],
     "name:jpn_x_preferred":[
         "\u30af\u30d1\u30f3\u30c7\u30fc"
     ],
     "name:nld_x_preferred":[
         "Kpandae"
     ],
+    "name:swa_x_preferred":[
+        "Kpandae"
+    ],
     "name:swe_x_preferred":[
+        "Kpandai"
+    ],
+    "name:twi_x_preferred":[
         "Kpandai"
     ],
     "name:urd_x_preferred":[
@@ -76,7 +91,7 @@
         }
     ],
     "wof:id":890436683,
-    "wof:lastmodified":1566638448,
+    "wof:lastmodified":1690921703,
     "wof:name":"Kpandae",
     "wof:parent_id":1108759919,
     "wof:placetype":"locality",

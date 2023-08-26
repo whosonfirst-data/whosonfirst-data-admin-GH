@@ -29,11 +29,20 @@
     "name:nld_x_preferred":[
         "Assin Foso"
     ],
+    "name:pol_x_preferred":[
+        "Assin Fosu"
+    ],
     "name:spa_x_preferred":[
         "Assin Fosu"
     ],
+    "name:swa_x_preferred":[
+        "Foso"
+    ],
     "name:swe_x_preferred":[
         "Assin Foso"
+    ],
+    "name:twi_x_preferred":[
+        "Foso"
     ],
     "qs:gn_country":"GH",
     "qs:gn_fcode":"PPL",
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":421185451,
-    "wof:lastmodified":1566638447,
+    "wof:lastmodified":1690921700,
     "wof:name":"Foso",
     "wof:parent_id":1108759849,
     "wof:placetype":"locality",

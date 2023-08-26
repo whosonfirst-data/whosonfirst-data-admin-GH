@@ -31,6 +31,12 @@
     "name:fra_x_preferred":[
         "Bekwai"
     ],
+    "name:gpe_x_preferred":[
+        "Bekwai"
+    ],
+    "name:hau_x_preferred":[
+        "Bekwai"
+    ],
     "name:jpn_x_preferred":[
         "\u30d9\u30af\u30ef\u30a4"
     ],
@@ -43,11 +49,20 @@
     "name:spa_x_preferred":[
         "Bekwai"
     ],
+    "name:swa_x_preferred":[
+        "Bekwai"
+    ],
     "name:swe_x_preferred":[
+        "Bekwai"
+    ],
+    "name:twi_x_preferred":[
         "Bekwai"
     ],
     "name:und_x_variant":[
         "Bekawi"
+    ],
+    "name:yor_x_preferred":[
+        "Bekwai"
     ],
     "qs:name":"Bekwai",
     "qs:photos_9r":0,
@@ -82,7 +97,7 @@
         }
     ],
     "wof:id":890437073,
-    "wof:lastmodified":1566638448,
+    "wof:lastmodified":1690921702,
     "wof:name":"Bekwai",
     "wof:parent_id":1108759783,
     "wof:placetype":"locality",

@@ -56,11 +56,17 @@
     "name:ceb_x_preferred":[
         "Brong-Ahafo Region"
     ],
+    "name:dag_x_preferred":[
+        "Bono Region"
+    ],
     "name:dan_x_preferred":[
         "Brong-Ahafo"
     ],
     "name:deu_x_preferred":[
         "Brong-Ahafo Region"
+    ],
+    "name:deu_x_variant":[
+        "Brong Ahafo Region"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03c1\u03cc\u03bd\u03b3\u03ba-\u0391\u03c7\u03ac\u03c6\u03bf"
@@ -104,6 +110,12 @@
     "name:hun_x_preferred":[
         "Brong Ahafo"
     ],
+    "name:hye_x_preferred":[
+        "\u0532\u0580\u0578\u0576\u0563-\u0531\u0570\u0561\u0586\u0578 \u0574\u0561\u0580\u0566"
+    ],
+    "name:ibo_x_preferred":[
+        "Obuga na Ahafo"
+    ],
     "name:ind_x_preferred":[
         "Region Brong-Ahafo"
     ],
@@ -118,6 +130,9 @@
     ],
     "name:kor_x_preferred":[
         "\ube0c\ub871\uc544\ud558\ud3ec \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ube0c\ub871\uc544\ud558\ud3ec\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Brongahafo re\u0123ions"
@@ -161,6 +176,9 @@
     "name:spa_x_variant":[
         "Regi\u00f3n Brong-Ahafo"
     ],
+    "name:swa_x_preferred":[
+        "Mkoa wa Brong-Ahafo"
+    ],
     "name:swe_x_preferred":[
         "Brong-Ahaforegionen"
     ],
@@ -176,6 +194,9 @@
     "name:tur_x_preferred":[
         "Brong-Ahafo B\u00f6lgesi"
     ],
+    "name:twi_x_preferred":[
+        "Bono ne Ahafo Mantam"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0440\u043e\u043d\u0433-\u0410\u0445\u0430\u0444\u043e"
     ],
@@ -185,8 +206,14 @@
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Brong-Ahafo"
     ],
+    "name:wuu_x_preferred":[
+        "\u5e03\u6717\u963f\u54c8\u798f\u5730\u533a"
+    ],
     "name:xmf_x_preferred":[
         "\u10d1\u10e0\u10dd\u10dc\u10d2-\u10d0\u10f0\u10d0\u10e4\u10dd\u10e8 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:yor_x_preferred":[
+        "Ipinle Brong-Ahafo"
     ],
     "name:zho_x_preferred":[
         "\u5e03\u6717\u963f\u54c8\u798f\u5730\u5340"
@@ -317,7 +344,7 @@
         "ewe",
         "gaa"
     ],
-    "wof:lastmodified":1636502225,
+    "wof:lastmodified":1690921654,
     "wof:name":"Brong Ahafo",
     "wof:parent_id":85632189,
     "wof:placetype":"region",

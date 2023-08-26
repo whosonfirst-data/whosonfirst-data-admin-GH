@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Hohoe"
+    ],
     "name:cat_x_preferred":[
         "Hohoe"
     ],
@@ -30,6 +33,12 @@
         "Hohoe"
     ],
     "name:fra_x_preferred":[
+        "Hohoe"
+    ],
+    "name:gpe_x_preferred":[
+        "Hohoe"
+    ],
+    "name:hau_x_preferred":[
         "Hohoe"
     ],
     "name:ita_x_preferred":[
@@ -56,7 +65,13 @@
     "name:spa_x_preferred":[
         "Hohoe"
     ],
+    "name:swa_x_preferred":[
+        "Hohoe"
+    ],
     "name:swe_x_preferred":[
+        "Hohoe"
+    ],
+    "name:twi_x_preferred":[
         "Hohoe"
     ],
     "name:und_x_variant":[
@@ -118,7 +133,7 @@
         }
     ],
     "wof:id":421178195,
-    "wof:lastmodified":1566638446,
+    "wof:lastmodified":1690921697,
     "wof:name":"Hohoe",
     "wof:parent_id":1108759973,
     "wof:placetype":"locality",

@@ -52,6 +52,9 @@
     "name:ron_x_preferred":[
         "Salaga"
     ],
+    "name:swa_x_preferred":[
+        "Salaga"
+    ],
     "name:swe_x_preferred":[
         "Salaga"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":890444275,
-    "wof:lastmodified":1566638449,
+    "wof:lastmodified":1690921705,
     "wof:name":"Salaga",
     "wof:parent_id":1108759919,
     "wof:placetype":"locality",

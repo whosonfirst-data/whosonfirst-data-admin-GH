@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u064a\u0633\u062a\u064a\u0629"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u0631\u064a\u0633\u062a\u064a\u0647"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u0440\u0435\u0441\u0442\u0435\u0430"
     ],
@@ -38,7 +44,13 @@
     "name:nld_x_preferred":[
         "Prestea"
     ],
+    "name:pol_x_preferred":[
+        "Prestea"
+    ],
     "name:spa_x_preferred":[
+        "Prestea"
+    ],
+    "name:swa_x_preferred":[
         "Prestea"
     ],
     "name:swe_x_preferred":[
@@ -98,7 +110,7 @@
         }
     ],
     "wof:id":421168125,
-    "wof:lastmodified":1566638441,
+    "wof:lastmodified":1690921688,
     "wof:name":"Prestea",
     "wof:parent_id":1108760017,
     "wof:placetype":"locality",

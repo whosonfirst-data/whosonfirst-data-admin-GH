@@ -17,13 +17,37 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:aka_x_preferred":[
+        "Takoradi"
+    ],
     "name:cat_x_preferred":[
         "Takoradi"
     ],
     "name:eng_x_preferred":[
         "Takoradi"
     ],
+    "name:fra_x_preferred":[
+        "Takoradi"
+    ],
+    "name:gle_x_preferred":[
+        "Takoradi"
+    ],
+    "name:gpe_x_preferred":[
+        "Takoradi"
+    ],
+    "name:hau_x_preferred":[
+        "Takoradi"
+    ],
     "name:nld_x_preferred":[
+        "Takoradi"
+    ],
+    "name:nob_x_preferred":[
+        "Takoradi"
+    ],
+    "name:twi_x_preferred":[
+        "Takoradi"
+    ],
+    "name:yor_x_preferred":[
         "Takoradi"
     ],
     "qs:gn_country":"GH",
@@ -72,7 +96,7 @@
         }
     ],
     "wof:id":421182421,
-    "wof:lastmodified":1566638446,
+    "wof:lastmodified":1690921699,
     "wof:name":"Takoradi",
     "wof:parent_id":1108760011,
     "wof:placetype":"locality",

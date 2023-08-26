@@ -38,6 +38,9 @@
     "name:ceb_x_preferred":[
         "Ho"
     ],
+    "name:dag_x_preferred":[
+        "Hoo"
+    ],
     "name:dan_x_preferred":[
         "Ho"
     ],
@@ -80,6 +83,9 @@
     "name:hun_x_preferred":[
         "Ho"
     ],
+    "name:hye_x_preferred":[
+        "\u0540\u0578"
+    ],
     "name:ind_x_preferred":[
         "Ho"
     ],
@@ -117,6 +123,9 @@
         "\u0425\u043e"
     ],
     "name:spa_x_preferred":[
+        "Ho"
+    ],
+    "name:swa_x_preferred":[
         "Ho"
     ],
     "name:swe_x_preferred":[
@@ -285,7 +294,7 @@
         }
     ],
     "wof:id":421168011,
-    "wof:lastmodified":1636502232,
+    "wof:lastmodified":1690921687,
     "wof:name":"Ho",
     "wof:parent_id":1108759971,
     "wof:placetype":"locality",

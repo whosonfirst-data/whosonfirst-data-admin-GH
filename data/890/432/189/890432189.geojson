@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u064a\u0646\u062f\u0649"
     ],
+    "name:arz_x_preferred":[
+        "\u064a\u0646\u062f\u0649"
+    ],
     "name:ben_x_preferred":[
         "\u0987\u09df\u09c7\u09a8\u09cd\u09a6\u09bf"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:ceb_x_preferred":[
         "Yendi"
+    ],
+    "name:dag_x_preferred":[
+        "Naya"
     ],
     "name:dan_x_preferred":[
         "Yendi"
@@ -49,6 +55,12 @@
     "name:fra_x_preferred":[
         "Yendi"
     ],
+    "name:gpe_x_preferred":[
+        "Yendi"
+    ],
+    "name:hau_x_preferred":[
+        "Yendi"
+    ],
     "name:heb_x_preferred":[
         "\u05d9\u05e0\u05d3\u05d9"
     ],
@@ -56,6 +68,9 @@
         "\u092f\u0947\u0902\u0921\u0940"
     ],
     "name:hun_x_preferred":[
+        "Yendi"
+    ],
+    "name:ibo_x_preferred":[
         "Yendi"
     ],
     "name:ind_x_preferred":[
@@ -85,6 +100,9 @@
     "name:spa_x_preferred":[
         "Yendi"
     ],
+    "name:swa_x_preferred":[
+        "Yendi"
+    ],
     "name:swe_x_preferred":[
         "Yendi"
     ],
@@ -101,6 +119,9 @@
         "\u06cc\u0646\u062f\u06cc"
     ],
     "name:vie_x_preferred":[
+        "Yendi"
+    ],
+    "name:yor_x_preferred":[
         "Yendi"
     ],
     "name:zho_cn_x_preferred":[
@@ -234,7 +255,7 @@
         }
     ],
     "wof:id":890432189,
-    "wof:lastmodified":1636502234,
+    "wof:lastmodified":1690921709,
     "wof:name":"Yendi",
     "wof:parent_id":1108759915,
     "wof:placetype":"locality",

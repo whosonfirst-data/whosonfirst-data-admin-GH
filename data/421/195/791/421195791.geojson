@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:dag_x_preferred":[
+        "Laaba\u014ba"
+    ],
     "name:dan_x_preferred":[
         "Larabanga"
     ],
@@ -26,11 +29,20 @@
     "name:eng_x_preferred":[
         "Larabanga"
     ],
+    "name:eng_x_variant":[
+        "larabanga"
+    ],
+    "name:fin_x_preferred":[
+        "Larabanga"
+    ],
     "name:fra_x_preferred":[
         "Larabanga"
     ],
     "name:ita_x_preferred":[
         "Larabanga"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30e9\u30d0\u30f3\u30ac"
     ],
     "name:kat_x_preferred":[
         "\u10da\u10d0\u10e0\u10d0\u10d1\u10d0\u10dc\u10d2\u10d0\u10e1 \u10db\u10d4\u10e9\u10d4\u10d7\u10d8"
@@ -58,6 +70,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0631\u0627\u0628\u0627\u0646\u06af\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u62c9\u73ed\u52a0"
     ],
     "qs:gn_country":"GH",
     "qs:gn_fcode":"PPL",
@@ -106,7 +121,7 @@
         }
     ],
     "wof:id":421195791,
-    "wof:lastmodified":1566638442,
+    "wof:lastmodified":1690921688,
     "wof:name":"Larabanga",
     "wof:parent_id":1108759921,
     "wof:placetype":"locality",

@@ -37,6 +37,12 @@
     "name:fra_x_preferred":[
         "Gbawe"
     ],
+    "name:gpe_x_preferred":[
+        "Gbawe"
+    ],
+    "name:hau_x_preferred":[
+        "Gbawe"
+    ],
     "name:ita_x_preferred":[
         "Gbawe"
     ],
@@ -46,7 +52,13 @@
     "name:nld_x_preferred":[
         "Gbawe"
     ],
+    "name:pol_x_preferred":[
+        "Gbawe"
+    ],
     "name:spa_x_preferred":[
+        "Gbawe"
+    ],
+    "name:swa_x_preferred":[
         "Gbawe"
     ],
     "name:swe_x_preferred":[
@@ -54,6 +66,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06af\u0628\u0627\u0648\u06d2"
+    ],
+    "name:yor_x_preferred":[
+        "Gbawe"
     ],
     "qs_pg:aaroncc":"GH",
     "qs_pg:gn_country":"GH",
@@ -94,7 +109,7 @@
         }
     ],
     "wof:id":1125902327,
-    "wof:lastmodified":1566638451,
+    "wof:lastmodified":1690921712,
     "wof:name":"Gbawe",
     "wof:parent_id":1108759909,
     "wof:placetype":"locality",

@@ -22,8 +22,14 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Elmina"
+    ],
     "name:aka_x_preferred":[
         "Edina"
+    ],
+    "name:ara_x_preferred":[
+        "\u0623\u0644\u0645\u064a\u0646\u0627"
     ],
     "name:bul_x_preferred":[
         "\u0415\u043b\u043c\u0438\u043d\u0430"
@@ -50,6 +56,12 @@
         "Elmina"
     ],
     "name:fry_x_preferred":[
+        "Elmina"
+    ],
+    "name:gpe_x_preferred":[
+        "Elmina"
+    ],
+    "name:hau_x_preferred":[
         "Elmina"
     ],
     "name:heb_x_preferred":[
@@ -97,20 +109,32 @@
     "name:rus_x_preferred":[
         "\u042d\u043b\u043c\u0438\u043d\u0430"
     ],
+    "name:slv_x_preferred":[
+        "Elmina"
+    ],
     "name:spa_x_preferred":[
         "Elmina"
     ],
     "name:srp_x_preferred":[
         "\u0415\u043b\u043c\u0438\u043d\u0430"
     ],
+    "name:swa_x_preferred":[
+        "Elmina"
+    ],
     "name:swe_x_preferred":[
         "Elmina"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c\u043c\u0456\u043d\u0430"
     ],
     "name:und_x_variant":[
         "Saint George Del Mina"
     ],
     "name:urd_x_preferred":[
         "\u0627\u06cc\u0644\u0645\u06cc\u0646\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u5c14\u7c73\u7eb3"
     ],
     "qs_pg:aaroncc":"GH",
     "qs_pg:gn_country":"GH",
@@ -151,7 +175,7 @@
         }
     ],
     "wof:id":1125987943,
-    "wof:lastmodified":1566638452,
+    "wof:lastmodified":1690921714,
     "wof:name":"Elmina",
     "wof:parent_id":1108759859,
     "wof:placetype":"locality",

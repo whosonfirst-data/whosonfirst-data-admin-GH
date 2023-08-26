@@ -28,6 +28,9 @@
     "mz:is_current":1,
     "mz:max_zoom":8.0,
     "mz:min_zoom":3.0,
+    "name:abk_x_preferred":[
+        "\u0413\u0430\u043d\u0430"
+    ],
     "name:ace_x_preferred":[
         "Ghana"
     ],
@@ -50,8 +53,14 @@
     "name:amh_x_preferred":[
         "\u130b\u1293"
     ],
+    "name:ami_x_preferred":[
+        "Ghana"
+    ],
     "name:ang_x_preferred":[
         "Ghana"
+    ],
+    "name:anp_x_preferred":[
+        "\u0918\u093e\u0928\u093e"
     ],
     "name:ara_x_preferred":[
         "\u063a\u0627\u0646\u0627"
@@ -67,6 +76,12 @@
     ],
     "name:ast_x_preferred":[
         "Ghana"
+    ],
+    "name:avk_x_preferred":[
+        "Gana"
+    ],
+    "name:awa_x_preferred":[
+        "\u0918\u093e\u0928\u093e"
     ],
     "name:aym_x_preferred":[
         "Ghana"
@@ -103,6 +118,9 @@
     ],
     "name:bho_x_preferred":[
         "\u0918\u093e\u0928\u093e"
+    ],
+    "name:bis_x_preferred":[
+        "Gana"
     ],
     "name:bjn_x_preferred":[
         "Ghana"
@@ -152,6 +170,9 @@
     "name:cor_x_preferred":[
         "Ghana"
     ],
+    "name:cor_x_variant":[
+        "Gana"
+    ],
     "name:cos_x_preferred":[
         "Ghana"
     ],
@@ -159,6 +180,9 @@
         "\u011eana"
     ],
     "name:cym_x_preferred":[
+        "Ghana"
+    ],
+    "name:dag_x_preferred":[
         "Ghana"
     ],
     "name:dan_x_preferred":[
@@ -237,6 +261,9 @@
     "name:fas_x_variant":[
         "\u0642\u0627\u0646\u0627"
     ],
+    "name:fat_x_preferred":[
+        "Ghana"
+    ],
     "name:fin_x_preferred":[
         "Ghana"
     ],
@@ -283,6 +310,9 @@
     "name:glv_x_preferred":[
         "Yn Ghaney"
     ],
+    "name:gpe_x_preferred":[
+        "Ghana"
+    ],
     "name:grn_x_preferred":[
         "G\u00e1na"
     ],
@@ -291,6 +321,12 @@
     ],
     "name:guj_x_preferred":[
         "\u0a98\u0abe\u0aa8\u0abe"
+    ],
+    "name:gur_x_preferred":[
+        "Ghana"
+    ],
+    "name:guw_x_preferred":[
+        "Ghana"
     ],
     "name:hak_x_preferred":[
         "Ghana"
@@ -394,8 +430,14 @@
     "name:kbp_x_preferred":[
         "Kana"
     ],
+    "name:kcg_x_preferred":[
+        "Gana"
+    ],
     "name:khm_x_preferred":[
         "\u17a0\u17d2\u1780\u17b6\u178e\u17b6"
+    ],
+    "name:khm_x_variant":[
+        "\u17a0\u17d2\u1782\u17b6\u178e\u17b6"
     ],
     "name:kik_x_preferred":[
         "Ghana"
@@ -451,6 +493,9 @@
     "name:lit_x_preferred":[
         "Gana"
     ],
+    "name:lld_x_preferred":[
+        "Ghana"
+    ],
     "name:lmo_x_preferred":[
         "Ghana"
     ],
@@ -487,6 +532,12 @@
     "name:mar_x_preferred":[
         "\u0918\u093e\u0928\u093e"
     ],
+    "name:mdf_x_preferred":[
+        "\u0413\u0430\u043d\u0430"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0413\u0430\u043d\u0430"
+    ],
     "name:min_x_preferred":[
         "Ghana"
     ],
@@ -499,8 +550,17 @@
     "name:mlt_x_preferred":[
         "Gana"
     ],
+    "name:mlt_x_variant":[
+        "Ghana"
+    ],
+    "name:mni_x_preferred":[
+        "\uabd8\uabe5\uabc5\uabe5"
+    ],
     "name:mon_x_preferred":[
         "\u0413\u0430\u043d\u0430"
+    ],
+    "name:mos_x_preferred":[
+        "Ghana"
     ],
     "name:mri_x_preferred":[
         "K\u0101na"
@@ -595,6 +655,9 @@
     "name:pap_x_preferred":[
         "Ghana"
     ],
+    "name:pcm_x_preferred":[
+        "Gana"
+    ],
     "name:pdc_x_preferred":[
         "Ghana"
     ],
@@ -628,6 +691,9 @@
     "name:que_x_preferred":[
         "Gana"
     ],
+    "name:rmy_x_preferred":[
+        "Ghana"
+    ],
     "name:roh_x_preferred":[
         "Ghana"
     ],
@@ -655,6 +721,9 @@
     "name:san_x_preferred":[
         "\u0918\u093e\u0928\u093e"
     ],
+    "name:sat_x_preferred":[
+        "\u1c5c\u1c77\u1c5f\u1c71\u1c5f"
+    ],
     "name:scn_x_preferred":[
         "Gana"
     ],
@@ -663,6 +732,12 @@
     ],
     "name:sgs_x_preferred":[
         "Gana"
+    ],
+    "name:shi_x_preferred":[
+        "\u0194ana"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u1075\u1083\u1087\u107c\u1083\u1087"
     ],
     "name:sin_x_preferred":[
         "\u0d9d\u0dcf\u0db1\u0dcf\u0dc0"
@@ -676,7 +751,16 @@
     "name:sme_x_preferred":[
         "Ghana"
     ],
+    "name:smj_x_preferred":[
+        "G\u00e1dn\u00e1"
+    ],
+    "name:smn_x_preferred":[
+        "Ghana"
+    ],
     "name:smo_x_preferred":[
+        "Ghana"
+    ],
+    "name:sms_x_preferred":[
         "Ghana"
     ],
     "name:sna_x_preferred":[
@@ -742,6 +826,9 @@
     "name:tat_x_preferred":[
         "\u0413\u0430\u043d\u0430"
     ],
+    "name:tay_x_preferred":[
+        "Ghana"
+    ],
     "name:tel_x_preferred":[
         "\u0c18\u0c28\u0c3e"
     ],
@@ -753,6 +840,9 @@
     ],
     "name:tgk_x_preferred":[
         "\u0413\u0430\u043d\u0430"
+    ],
+    "name:tgk_x_variant":[
+        "\u0492\u0430\u043d\u043e"
     ],
     "name:tgl_x_preferred":[
         "Ghana"
@@ -767,8 +857,14 @@
     "name:tir_x_preferred":[
         "\u130b\u1293"
     ],
+    "name:tok_x_preferred":[
+        "ma Kana"
+    ],
     "name:ton_x_preferred":[
         "Kana"
+    ],
+    "name:trv_x_preferred":[
+        "Ghana"
     ],
     "name:tso_x_preferred":[
         "Ghana"
@@ -1098,7 +1194,7 @@
         "ewe",
         "gaa"
     ],
-    "wof:lastmodified":1617827573,
+    "wof:lastmodified":1690921657,
     "wof:name":"Ghana",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

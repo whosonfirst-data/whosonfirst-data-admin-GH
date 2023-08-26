@@ -62,6 +62,9 @@
     "name:ces_x_preferred":[
         "Volta Region"
     ],
+    "name:dag_x_preferred":[
+        "Volta Region"
+    ],
     "name:dan_x_preferred":[
         "Volta"
     ],
@@ -104,6 +107,12 @@
     "name:hin_x_preferred":[
         "\u0935\u094b\u0932\u094d\u091f\u093e \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
     ],
+    "name:hye_x_preferred":[
+        "\u054e\u0578\u056c\u057f\u0561"
+    ],
+    "name:ibo_x_preferred":[
+        "Volta Region"
+    ],
     "name:ind_x_preferred":[
         "Region Volta"
     ],
@@ -118,6 +127,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubcfc\ud0c0 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubcfc\ud0c0\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Voltas re\u0123ions"
@@ -136,6 +148,9 @@
     ],
     "name:nob_x_preferred":[
         "Volta"
+    ],
+    "name:pcm_x_preferred":[
+        "Volta Region"
     ],
     "name:pol_x_preferred":[
         "Region Wolta"
@@ -188,8 +203,14 @@
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Volta"
     ],
+    "name:wuu_x_preferred":[
+        "\u6c83\u5c14\u7279\u5730\u533a"
+    ],
     "name:xmf_x_preferred":[
         "\u10d5\u10dd\u10da\u10e2\u10d0\u10e8 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:yor_x_preferred":[
+        "Volta Region"
     ],
     "name:zho_x_preferred":[
         "\u6c83\u723e\u7279\u5730\u5340"
@@ -320,7 +341,7 @@
         "ewe",
         "gaa"
     ],
-    "wof:lastmodified":1636502223,
+    "wof:lastmodified":1690921651,
     "wof:name":"Volta",
     "wof:parent_id":85632189,
     "wof:placetype":"region",
