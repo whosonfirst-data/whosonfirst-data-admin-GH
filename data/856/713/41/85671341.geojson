@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.805935,
-    "geom:area_square_m":9918474360.926064,
+    "geom:area_square_m":9918475032.086964,
     "geom:bbox":"-2.16852,5.030416,-0.366651,6.326416",
     "geom:latitude":5.565615,
     "geom:longitude":-1.210832,
@@ -325,17 +325,19 @@
         "gn:id":2302353,
         "gp:id":2345465,
         "hasc:id":"GH.CP",
+        "iso:code":"GH-CP",
         "iso:id":"GH-CP",
         "qs_pg:id":890065,
         "unlc:id":"GH-CP",
         "wd:id":"Q846323",
         "wk:page":"Central Region (Ghana)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1f727daf6def943571210bc4dd793ce3",
+    "wof:geomhash":"f0a18b806f07091264d7c9a4039cd320",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -353,7 +355,7 @@
         "ewe",
         "gaa"
     ],
-    "wof:lastmodified":1690921655,
+    "wof:lastmodified":1695884926,
     "wof:name":"Central",
     "wof:parent_id":85632189,
     "wof:placetype":"region",

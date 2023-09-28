@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.740433,
-    "geom:area_square_m":8994191523.957752,
+    "geom:area_square_m":8994192104.85145,
     "geom:bbox":"-1.591245,10.281437,0.034421,11.166667",
     "geom:latitude":10.773294,
     "geom:longitude":-0.817656,
@@ -329,17 +329,19 @@
         "gn:id":2294291,
         "gp:id":2345470,
         "hasc:id":"GH.UE",
+        "iso:code":"GH-UE",
         "iso:id":"GH-UE",
         "qs_pg:id":191331,
         "unlc:id":"GH-UE",
         "wd:id":"Q712828",
         "wk:page":"Upper East Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e1a264ab7dbdbcd8d7ff7deeeefb9eff",
+    "wof:geomhash":"cbb96df1a2f166553550e51b1945bdb6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -357,7 +359,7 @@
         "ewe",
         "gaa"
     ],
-    "wof:lastmodified":1690921655,
+    "wof:lastmodified":1695884926,
     "wof:name":"Upper East",
     "wof:parent_id":85632189,
     "wof:placetype":"region",

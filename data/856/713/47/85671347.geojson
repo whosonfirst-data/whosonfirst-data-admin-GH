@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.996576,
-    "geom:area_square_m":24563006979.68354,
+    "geom:area_square_m":24563006539.360462,
     "geom:bbox":"-3.260676,4.735417,-1.436478,7.003051",
     "geom:latitude":5.745064,
     "geom:longitude":-2.416273,
@@ -325,17 +325,19 @@
         "gn:id":2294076,
         "gp:id":2345469,
         "hasc:id":"GH.WP",
+        "iso:code":"GH-WP",
         "iso:id":"GH-WP",
         "qs_pg:id":191322,
         "unlc:id":"GH-WP",
         "wd:id":"Q870155",
         "wk:page":"Western Region (Ghana)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1732e795eec50234be996a1c5a7fde99",
+    "wof:geomhash":"caa9d1c5c00f231e92506b35c1e10eb9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -353,7 +355,7 @@
         "ewe",
         "gaa"
     ],
-    "wof:lastmodified":1690921656,
+    "wof:lastmodified":1695884926,
     "wof:name":"Western",
     "wof:parent_id":85632189,
     "wof:placetype":"region",

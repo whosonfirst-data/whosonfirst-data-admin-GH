@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.990493,
-    "geom:area_square_m":24438541121.158249,
+    "geom:area_square_m":24438540902.347691,
     "geom:bbox":"-2.448857,5.874113,-0.242308,7.62982",
     "geom:latitude":6.810182,
     "geom:longitude":-1.449067,
@@ -350,17 +350,19 @@
         "gn:id":2304116,
         "gp:id":2345463,
         "hasc:id":"GH.AH",
+        "iso:code":"GH-AH",
         "iso:id":"GH-AH",
         "qs_pg:id":239504,
         "unlc:id":"GH-AH",
         "wd:id":"Q398417",
         "wk:page":"Ashanti Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1195107c1632bb115ab4ba251ffad29f",
+    "wof:geomhash":"577524e9e9027421959de14bc3a66427",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -378,7 +380,7 @@
         "ewe",
         "gaa"
     ],
-    "wof:lastmodified":1690921653,
+    "wof:lastmodified":1695884926,
     "wof:name":"Ashanti",
     "wof:parent_id":85632189,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.740421,
-    "geom:area_square_m":70034815394.512207,
+    "geom:area_square_m":70034815595.402145,
     "geom:bbox":"-2.78023,7.96566,0.566955,10.707606",
     "geom:latitude":9.348013,
     "geom:longitude":-0.969633,
@@ -322,17 +322,19 @@
         "gn:id":2297169,
         "gp:id":2345467,
         "hasc:id":"GH.NP",
+        "iso:code":"GH-NP",
         "iso:id":"GH-NP",
         "qs_pg:id":894885,
         "unlc:id":"GH-NP",
         "wd:id":"Q502215",
         "wk:page":"Northern Region (Ghana)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fe0ec6b722de8cddbdfd68d090fb0510",
+    "wof:geomhash":"9449759b29b8f194e2e9680a6311ac07",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -350,7 +352,7 @@
         "ewe",
         "gaa"
     ],
-    "wof:lastmodified":1690921652,
+    "wof:lastmodified":1695884925,
     "wof:name":"Northern",
     "wof:parent_id":85632189,
     "wof:placetype":"region",

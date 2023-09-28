@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.54678,
-    "geom:area_square_m":18810795350.588001,
+    "geom:area_square_m":18810795475.337662,
     "geom:bbox":"-2.933057,9.620274,-1.445153,11.028334",
     "geom:latitude":10.414364,
     "geom:longitude":-2.213551,
@@ -332,17 +332,19 @@
         "gn:id":2294286,
         "gp:id":2345471,
         "hasc:id":"GH.UW",
+        "iso:code":"GH-UW",
         "iso:id":"GH-UW",
         "qs_pg:id":1142818,
         "unlc:id":"GH-UW",
         "wd:id":"Q715805",
         "wk:page":"Upper West Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c4f5d25af5102271091802efc430778c",
+    "wof:geomhash":"e8cab428a89372e4974e3eab97f46c0a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -360,7 +362,7 @@
         "ewe",
         "gaa"
     ],
-    "wof:lastmodified":1690921651,
+    "wof:lastmodified":1695884925,
     "wof:name":"Upper West",
     "wof:parent_id":85632189,
     "wof:placetype":"region",
