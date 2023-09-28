@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.068894,
-    "geom:area_square_m":846873367.603321,
+    "geom:area_square_m":846873367.603317,
     "geom:bbox":"0.658029403378,5.96742526622,0.957060578758,6.44342394287",
     "geom:latitude":6.215615,
     "geom:longitude":0.794874,
@@ -87,9 +87,10 @@
         "hasc:id":"GH.TV.AK",
         "wd:id":"Q1433330"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330086,
-    "wof:geomhash":"1099e594bfcbea69f4f6eec2d7d8a93d",
+    "wof:geomhash":"9fd25ae1b90981e51791e423ddce17ef",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1108759969,
-    "wof:lastmodified":1566638240,
+    "wof:lastmodified":1695886304,
     "wof:name":"Akatsi",
     "wof:parent_id":85671357,
     "wof:placetype":"county",

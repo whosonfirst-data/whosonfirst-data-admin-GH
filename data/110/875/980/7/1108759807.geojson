@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.3562,
-    "geom:area_square_m":4370184768.155759,
+    "geom:area_square_m":4370184243.714498,
     "geom:bbox":"-1.436561,6.709111,-0.242308,7.541114",
     "geom:latitude":7.152621,
     "geom:longitude":-0.811979,
@@ -105,9 +105,10 @@
         "hasc:id":"GH.AH.SE",
         "wd:id":"Q745202"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481329999,
-    "wof:geomhash":"4b52a44bb2fdca465f02621b6fc6ad6f",
+    "wof:geomhash":"a7aabc5d5ca8902b656c44b2570066d1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":1108759807,
-    "wof:lastmodified":1690921677,
+    "wof:lastmodified":1695886309,
     "wof:name":"Sekyere East",
     "wof:parent_id":85671331,
     "wof:placetype":"county",

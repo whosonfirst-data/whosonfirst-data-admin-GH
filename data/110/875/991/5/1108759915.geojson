@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.355082,
-    "geom:area_square_m":4331532916.097915,
+    "geom:area_square_m":4331532741.099056,
     "geom:bbox":"-0.659837,9.065183,0.258411,9.79455",
     "geom:latitude":9.412292,
     "geom:longitude":-0.187828,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"GH.NP.YE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330057,
-    "wof:geomhash":"00f2b61ea6aa62fecf01acc94a24a444",
+    "wof:geomhash":"95c99755facba3e88a4110e031d40029",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108759915,
-    "wof:lastmodified":1627522154,
+    "wof:lastmodified":1695886623,
     "wof:name":"East Dagomba",
     "wof:parent_id":85671319,
     "wof:placetype":"county",

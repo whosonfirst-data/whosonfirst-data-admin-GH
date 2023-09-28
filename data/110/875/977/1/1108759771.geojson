@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.100245,
-    "geom:area_square_m":1232558840.496376,
+    "geom:area_square_m":1232559505.563932,
     "geom:bbox":"-1.622825,5.874113,-1.210422,6.314111",
     "geom:latitude":6.088506,
     "geom:longitude":-1.413816,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"GH.AH.AE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481329979,
-    "wof:geomhash":"df2065539f333654e0345094b62f5481",
+    "wof:geomhash":"9a302d7213040ecdc3b70d67ec70a3e5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108759771,
-    "wof:lastmodified":1627522152,
+    "wof:lastmodified":1695886621,
     "wof:name":"Adansi East",
     "wof:parent_id":85671331,
     "wof:placetype":"county",

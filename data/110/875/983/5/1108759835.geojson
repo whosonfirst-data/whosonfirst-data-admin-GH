@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.099889,
-    "geom:area_square_m":1225440022.70426,
+    "geom:area_square_m":1225440022.704259,
     "geom:bbox":"-2.31103958517,7.01504914895,-1.84984279149,7.4181475543",
     "geom:latitude":7.188629,
     "geom:longitude":-2.097855,
@@ -86,9 +86,10 @@
     "wof:concordances":{
         "hasc:id":"GH.BA.TA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330014,
-    "wof:geomhash":"39da4043407d51dac97951a823d7305f",
+    "wof:geomhash":"3d21b0a816f79de07554c1014ed97944",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108759835,
-    "wof:lastmodified":1566638245,
+    "wof:lastmodified":1695886305,
     "wof:name":"Tano",
     "wof:parent_id":85671337,
     "wof:placetype":"county",

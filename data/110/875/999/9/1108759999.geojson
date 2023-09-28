@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083565,
-    "geom:area_square_m":1027083698.555919,
+    "geom:area_square_m":1027083705.513751,
     "geom:bbox":"-2.437319,6.100727,-2.092529,6.500567",
     "geom:latitude":6.285129,
     "geom:longitude":-2.262497,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"GH.WP.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330103,
-    "wof:geomhash":"90c4d869c577fa16a9b3ceb73ab061f6",
+    "wof:geomhash":"392b88cf032f6dc7eb425ee823192c73",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108759999,
-    "wof:lastmodified":1627522154,
+    "wof:lastmodified":1695886624,
     "wof:name":"Bibiani Anhwiaso",
     "wof:parent_id":85671347,
     "wof:placetype":"county",

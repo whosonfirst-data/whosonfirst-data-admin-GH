@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031113,
-    "geom:area_square_m":382728667.87275,
+    "geom:area_square_m":382728656.615402,
     "geom:bbox":"-0.404834,5.736296,-0.118483,5.922184",
     "geom:latitude":5.830896,
     "geom:longitude":-0.26853,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"GH.EP.AS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330033,
-    "wof:geomhash":"a5023ed263701c7244242982b81ee94f",
+    "wof:geomhash":"946e96eb27365e8dadb3df88ce9b04c0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108759873,
-    "wof:lastmodified":1627522153,
+    "wof:lastmodified":1695886622,
     "wof:name":"Akwapim South",
     "wof:parent_id":85671343,
     "wof:placetype":"county",

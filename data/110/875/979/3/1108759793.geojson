@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.058841,
-    "geom:area_square_m":722801525.492005,
+    "geom:area_square_m":722801383.293461,
     "geom:bbox":"-1.827756,6.466161,-1.332477,6.680185",
     "geom:latitude":6.572138,
     "geom:longitude":-1.583981,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"GH.AH.BK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481329991,
-    "wof:geomhash":"1029b9164950ded0b154d1bee076dcfb",
+    "wof:geomhash":"91240cade1a04beaac7d0952a00e9574",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108759793,
-    "wof:lastmodified":1627522154,
+    "wof:lastmodified":1695886623,
     "wof:name":"Bosomtwe/ Atwima/ Kwanwoma",
     "wof:parent_id":85671331,
     "wof:placetype":"county",

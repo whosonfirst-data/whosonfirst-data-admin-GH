@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.107289,
-    "geom:area_square_m":1315661452.776402,
+    "geom:area_square_m":1315661552.852151,
     "geom:bbox":"-1.68762,7.146352,-1.121215,7.62982",
     "geom:latitude":7.379723,
     "geom:longitude":-1.439432,
@@ -109,9 +109,10 @@
         "hasc:id":"GH.AH.ES",
         "wd:id":"Q688667"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481329994,
-    "wof:geomhash":"cff3d1a02e7f70bd1f925dbcd6cf34df",
+    "wof:geomhash":"9db0fe711102dadbed57ac1330d2602d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":1108759799,
-    "wof:lastmodified":1690921668,
+    "wof:lastmodified":1695886306,
     "wof:name":"Ejura/ Sekyeredumase",
     "wof:parent_id":85671331,
     "wof:placetype":"county",

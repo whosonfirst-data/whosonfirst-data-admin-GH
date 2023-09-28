@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.127361,
-    "geom:area_square_m":1560372145.356808,
+    "geom:area_square_m":1560372356.009191,
     "geom:bbox":"-2.931157,7.435737,-2.529727,8.164309",
     "geom:latitude":7.773074,
     "geom:longitude":-2.724717,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"GH.BA.JA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330007,
-    "wof:geomhash":"b935c552c358d7e8d31a6a929154bf2a",
+    "wof:geomhash":"aa1869d33d3c57db739d8a4151671e91",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108759823,
-    "wof:lastmodified":1627522155,
+    "wof:lastmodified":1695886624,
     "wof:name":"Jaman",
     "wof:parent_id":85671337,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.082687,
-    "geom:area_square_m":1015235766.752481,
+    "geom:area_square_m":1015235666.634588,
     "geom:bbox":"0.127066,6.452562,0.374394,7.107189",
     "geom:latitude":6.802745,
     "geom:longitude":0.247693,
@@ -86,9 +86,10 @@
     "wof:concordances":{
         "hasc:id":"GH.TV.KP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330095,
-    "wof:geomhash":"bbc760b08dc5d354989c885c747a0162",
+    "wof:geomhash":"4eeab344ebe12526abac933309350d9c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108759985,
-    "wof:lastmodified":1627522155,
+    "wof:lastmodified":1695886625,
     "wof:name":"Kpandu",
     "wof:parent_id":85671357,
     "wof:placetype":"county",

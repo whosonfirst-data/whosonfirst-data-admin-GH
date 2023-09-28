@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.534102,
-    "geom:area_square_m":6535486396.919193,
+    "geom:area_square_m":6535486396.919191,
     "geom:bbox":"-2.136281416,7.72734861654,-1.14328770849,8.7599309467",
     "geom:latitude":8.273051,
     "geom:longitude":-1.62376,
@@ -78,9 +78,10 @@
         "hasc:id":"GH.BA.KI",
         "wd:id":"Q695802"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330009,
-    "wof:geomhash":"64009ef800d40b4bf2a85efbe1b01a46",
+    "wof:geomhash":"3d3702c24cb0929a9e14336b5d747c3d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1108759825,
-    "wof:lastmodified":1566638251,
+    "wof:lastmodified":1695886307,
     "wof:name":"Kintampo",
     "wof:parent_id":85671337,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061468,
-    "geom:area_square_m":756380346.449756,
+    "geom:area_square_m":756380203.167873,
     "geom:bbox":"-1.148603,5.49297,-0.85822,5.760994",
     "geom:latitude":5.641449,
     "geom:longitude":-1.010083,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"GH.CP.AO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330020,
-    "wof:geomhash":"419766b0d9f5b94388ac5d4beda2663e",
+    "wof:geomhash":"4077894f2924ce0221830c871f356857",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108759847,
-    "wof:lastmodified":1627522153,
+    "wof:lastmodified":1695886622,
     "wof:name":"Asikuma Odoben Brakwa",
     "wof:parent_id":85671341,
     "wof:placetype":"county",

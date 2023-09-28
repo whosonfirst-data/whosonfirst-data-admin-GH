@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.183632,
-    "geom:area_square_m":2252819889.948977,
+    "geom:area_square_m":2252820432.994364,
     "geom:bbox":"-3.117319,6.846546,-2.407759,7.493904",
     "geom:latitude":7.181726,
     "geom:longitude":-2.813577,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"GH.BA.DO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330006,
-    "wof:geomhash":"b70af511310f8574918a2cd84388857e",
+    "wof:geomhash":"ff815155a21772201f979b13d8a935b2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108759821,
-    "wof:lastmodified":1627522154,
+    "wof:lastmodified":1695886623,
     "wof:name":"Dormaa",
     "wof:parent_id":85671337,
     "wof:placetype":"county",

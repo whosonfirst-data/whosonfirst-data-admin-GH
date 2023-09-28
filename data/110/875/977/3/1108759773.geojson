@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.075035,
-    "geom:area_square_m":922524667.372368,
+    "geom:area_square_m":922524573.613244,
     "geom:bbox":"-1.795541,5.930012,-1.441073,6.351198",
     "geom:latitude":6.124821,
     "geom:longitude":-1.624967,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"GH.AH.AW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481329981,
-    "wof:geomhash":"b92e2f811209cc24abb8f38f2dcdc39d",
+    "wof:geomhash":"1b3d3979d5a90d6788abeacfb81df0d8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108759773,
-    "wof:lastmodified":1627522152,
+    "wof:lastmodified":1695886622,
     "wof:name":"Adansi West",
     "wof:parent_id":85671331,
     "wof:placetype":"county",

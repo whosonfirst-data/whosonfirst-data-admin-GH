@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041504,
-    "geom:area_square_m":510908429.241969,
+    "geom:area_square_m":510908327.182613,
     "geom:bbox":"-1.100754,5.299662,-0.855307,5.552835",
     "geom:latitude":5.421396,
     "geom:longitude":-0.971794,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"GH.CP.AJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330019,
-    "wof:geomhash":"0858aa21a52e86ce0c687c3e15b463b9",
+    "wof:geomhash":"5c256071bf9f553f6371989b67a4f02a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108759845,
-    "wof:lastmodified":1627522153,
+    "wof:lastmodified":1695886622,
     "wof:name":"Ajumako Enyan Esiam",
     "wof:parent_id":85671341,
     "wof:placetype":"county",

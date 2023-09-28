@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.213543,
-    "geom:area_square_m":2629105057.444252,
+    "geom:area_square_m":2629104919.325808,
     "geom:bbox":"-2.236273,4.90353,-1.773061,5.65979",
     "geom:latitude":5.321187,
     "geom:longitude":-1.997686,
@@ -87,9 +87,10 @@
         "hasc:id":"GH.WP.WW",
         "wd:id":"Q673640"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330114,
-    "wof:geomhash":"4c085e6bad729c4b4c7c78f8db6b8726",
+    "wof:geomhash":"bd6b944e74c2410bc79b65f585ffc79f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1108760017,
-    "wof:lastmodified":1627522157,
+    "wof:lastmodified":1695886626,
     "wof:name":"Wassa West",
     "wof:parent_id":85671347,
     "wof:placetype":"county",

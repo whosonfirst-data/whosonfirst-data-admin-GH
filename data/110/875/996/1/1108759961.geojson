@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.236792,
-    "geom:area_square_m":2880444705.637187,
+    "geom:area_square_m":2880444446.702644,
     "geom:bbox":"-2.844721,10.100573,-1.997796,10.581514",
     "geom:latitude":10.337835,
     "geom:longitude":-2.422019,
@@ -100,9 +100,10 @@
         "hasc:id":"GH.UW.NA",
         "wd:id":"Q1315544"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330081,
-    "wof:geomhash":"0faa80c85798434470444d8fcd4be1e9",
+    "wof:geomhash":"517559c042428460058ecb44a3915b81",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108759961,
-    "wof:lastmodified":1690921663,
+    "wof:lastmodified":1695886304,
     "wof:name":"Nawdoli",
     "wof:parent_id":85671327,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.093727,
-    "geom:area_square_m":1150501876.164454,
+    "geom:area_square_m":1150501999.500594,
     "geom:bbox":"-2.148222,6.730636,-1.811946,7.1632",
     "geom:latitude":6.924078,
     "geom:longitude":-1.962536,
@@ -108,9 +108,10 @@
         "hasc:id":"GH.AH.AS",
         "wd:id":"Q399853"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481329984,
-    "wof:geomhash":"2cfe7a5b9d58b4eca8be334847b0053f",
+    "wof:geomhash":"b511c4c606a97b2b13b60de140cb694f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":1108759781,
-    "wof:lastmodified":1690921669,
+    "wof:lastmodified":1695886306,
     "wof:name":"Ahafo Ano South",
     "wof:parent_id":85671331,
     "wof:placetype":"county",

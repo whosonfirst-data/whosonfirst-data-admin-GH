@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.667007,
-    "geom:area_square_m":8174147610.186331,
+    "geom:area_square_m":8174147610.186322,
     "geom:bbox":"-0.923180794782,7.16941671296,0.25615067406,8.19285974704",
     "geom:latitude":7.652057,
     "geom:longitude":-0.339539,
@@ -87,9 +87,10 @@
         "hasc:id":"GH.BA.SE",
         "wd:id":"Q1504064"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330011,
-    "wof:geomhash":"c693663f9aa040d4cb892fa147124fbe",
+    "wof:geomhash":"eaff57f16c62bbafb3f56ca215704892",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1108759829,
-    "wof:lastmodified":1566638250,
+    "wof:lastmodified":1695886307,
     "wof:name":"Sene",
     "wof:parent_id":85671337,
     "wof:placetype":"county",

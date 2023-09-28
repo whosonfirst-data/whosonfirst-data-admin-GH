@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.086528,
-    "geom:area_square_m":1060227467.766052,
+    "geom:area_square_m":1060227779.575821,
     "geom:bbox":"0.30666,7.495452,0.631059,7.976915",
     "geom:latitude":7.723085,
     "geom:longitude":0.491645,
@@ -96,9 +96,10 @@
         "hasc:id":"GH.TV.KJ",
         "wd:id":"Q3191794"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330092,
-    "wof:geomhash":"5d61949f29a681066288a88825bc6515",
+    "wof:geomhash":"aec04aa4d5f14d23bd722a6ac0c355c8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108759979,
-    "wof:lastmodified":1690921663,
+    "wof:lastmodified":1695886305,
     "wof:name":"Kadjebi",
     "wof:parent_id":85671357,
     "wof:placetype":"county",

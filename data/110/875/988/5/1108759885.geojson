@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.105285,
-    "geom:area_square_m":1294348688.595275,
+    "geom:area_square_m":1294348680.102508,
     "geom:bbox":"-1.033362,5.961683,-0.573424,6.41253",
     "geom:latitude":6.159278,
     "geom:longitude":-0.828266,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"GH.EP.KB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330040,
-    "wof:geomhash":"208ed9a47b62372ecc53d58c294fb5d4",
+    "wof:geomhash":"5252984c5ea0c66e2e7dbe9596dff1d8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108759885,
-    "wof:lastmodified":1627522155,
+    "wof:lastmodified":1695886624,
     "wof:name":"Kwaebibirem",
     "wof:parent_id":85671343,
     "wof:placetype":"county",

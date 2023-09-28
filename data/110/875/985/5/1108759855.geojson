@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010016,
-    "geom:area_square_m":123343458.75839,
+    "geom:area_square_m":123343568.792988,
     "geom:bbox":"-1.364485,5.095379,-1.212424,5.24801",
     "geom:latitude":5.164197,
     "geom:longitude":-1.291175,
@@ -158,9 +158,10 @@
     "wof:concordances":{
         "hasc:id":"GH.CP.CC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330024,
-    "wof:geomhash":"01953ac32ad3c98cb6f6bc0e7ef6501c",
+    "wof:geomhash":"551fd9cbe11684b4a6b40d6dbf13b204",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -170,7 +171,7 @@
         }
     ],
     "wof:id":1108759855,
-    "wof:lastmodified":1636502230,
+    "wof:lastmodified":1695886054,
     "wof:name":"Cape Coast",
     "wof:parent_id":85671341,
     "wof:placetype":"county",

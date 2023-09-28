@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042651,
-    "geom:area_square_m":525167106.218847,
+    "geom:area_square_m":525167106.218848,
     "geom:bbox":"-1.21371742666,5.137888908,-0.798667050767,5.41642797968",
     "geom:latitude":5.258779,
     "geom:longitude":-1.012365,
@@ -87,9 +87,10 @@
         "hasc:id":"GH.CP.MF",
         "wd:id":"Q688693"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330027,
-    "wof:geomhash":"49dc4c43c9f5583aafa3c2208501d7d1",
+    "wof:geomhash":"12eeb7b3e4a18fb1022ac18350d4c255",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1108759861,
-    "wof:lastmodified":1566638262,
+    "wof:lastmodified":1695886310,
     "wof:name":"Mfantsiman",
     "wof:parent_id":85671341,
     "wof:placetype":"county",

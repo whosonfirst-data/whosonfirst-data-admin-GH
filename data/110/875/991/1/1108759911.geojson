@@ -152,9 +152,10 @@
     "wof:concordances":{
         "hasc:id":"GH.AA.TE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330054,
-    "wof:geomhash":"8904f225f51f0c98c2373d1ee9afaf7c",
+    "wof:geomhash":"c8d4c4d1eab85855783aa35a58bc82d5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -164,7 +165,7 @@
         }
     ],
     "wof:id":1108759911,
-    "wof:lastmodified":1566638239,
+    "wof:lastmodified":1695886304,
     "wof:name":"Tema",
     "wof:parent_id":85671353,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.385701,
-    "geom:area_square_m":4723621706.163713,
+    "geom:area_square_m":4723621706.163718,
     "geom:bbox":"-0.382064411056,7.40978692447,0.481290307525,8.3499025834",
     "geom:latitude":7.930351,
     "geom:longitude":0.11093,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"GH.TV.KR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330096,
-    "wof:geomhash":"cf8378ccc505b2b7ca89e6a1bd3f7bf3",
+    "wof:geomhash":"784393cf4539dec455f2264d3af1cc9c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108759987,
-    "wof:lastmodified":1566638237,
+    "wof:lastmodified":1695886303,
     "wof:name":"Krachi",
     "wof:parent_id":85671357,
     "wof:placetype":"county",

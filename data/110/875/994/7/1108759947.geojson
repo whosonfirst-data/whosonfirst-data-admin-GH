@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.121888,
-    "geom:area_square_m":1480926713.596677,
+    "geom:area_square_m":1480926684.910563,
     "geom:bbox":"-1.013311,10.510134,-0.522563,10.893322",
     "geom:latitude":10.708327,
     "geom:longitude":-0.759305,
@@ -158,9 +158,10 @@
     "wof:concordances":{
         "hasc:id":"GH.UE.BG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330074,
-    "wof:geomhash":"87b6b30ecb375aeaad9d48436d7859da",
+    "wof:geomhash":"0165658fabe5d0beebe74e412d883b3d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -170,7 +171,7 @@
         }
     ],
     "wof:id":1108759947,
-    "wof:lastmodified":1636502230,
+    "wof:lastmodified":1695886054,
     "wof:name":"Bolgatanga",
     "wof:parent_id":85671323,
     "wof:placetype":"county",

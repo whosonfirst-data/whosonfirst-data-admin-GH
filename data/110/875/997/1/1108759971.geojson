@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.208475,
-    "geom:area_square_m":2561019335.276718,
+    "geom:area_square_m":2561020005.831599,
     "geom:bbox":"0.2041,6.290078,0.753891,6.94039",
     "geom:latitude":6.54573,
     "geom:longitude":0.493064,
@@ -92,9 +92,10 @@
     "wof:concordances":{
         "hasc:id":"GH.TV.HO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330088,
-    "wof:geomhash":"8157d1577494952e74d59a229f31e5fa",
+    "wof:geomhash":"2a27d7b8ae2a783fd3222e3e7a36394f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108759971,
-    "wof:lastmodified":1636502230,
+    "wof:lastmodified":1695886054,
     "wof:name":"Ho",
     "wof:parent_id":85671357,
     "wof:placetype":"county",

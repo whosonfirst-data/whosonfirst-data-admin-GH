@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.163497,
-    "geom:area_square_m":2013106272.514603,
+    "geom:area_square_m":2013106358.5944,
     "geom:bbox":"-1.988381,4.901716,-1.436478,5.632496",
     "geom:latitude":5.271334,
     "geom:longitude":-1.718249,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"GH.WP.MW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330107,
-    "wof:geomhash":"a1ae83a768567991011efd0798b4e86b",
+    "wof:geomhash":"41ae2d2924e1ae245cdc170da5d5682a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108760005,
-    "wof:lastmodified":1627522155,
+    "wof:lastmodified":1695886625,
     "wof:name":"Mpohor Wassa East",
     "wof:parent_id":85671347,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087697,
-    "geom:area_square_m":1075121236.994555,
+    "geom:area_square_m":1075121043.940191,
     "geom:bbox":"-2.861971,7.297586,-2.423966,7.679834",
     "geom:latitude":7.495984,
     "geom:longitude":-2.626169,
@@ -126,9 +126,10 @@
         "hasc:id":"GH.BA.BE",
         "wd:id":"Q261596"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330005,
-    "wof:geomhash":"88be96598ecad511bdaabce40f45efaa",
+    "wof:geomhash":"e14f6fd8c9f6dcf7df597b4e98867aa6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108759819,
-    "wof:lastmodified":1690921681,
+    "wof:lastmodified":1695886054,
     "wof:name":"Berekum",
     "wof:parent_id":85671337,
     "wof:placetype":"county",

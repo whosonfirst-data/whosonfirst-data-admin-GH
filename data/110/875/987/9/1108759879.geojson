@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.100664,
-    "geom:area_square_m":1238230236.780379,
+    "geom:area_square_m":1238230083.606893,
     "geom:bbox":"-1.233685,5.705611,-0.686166,6.038893",
     "geom:latitude":5.858435,
     "geom:longitude":-0.957251,
@@ -111,9 +111,10 @@
         "hasc:id":"GH.EP.BS",
         "wd:id":"Q749692"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330036,
-    "wof:geomhash":"d67ad09adbc6c98681d383ceaf1710a8",
+    "wof:geomhash":"ee0c5adc0f0e5112428dd53e9f959dd5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":1108759879,
-    "wof:lastmodified":1690921676,
+    "wof:lastmodified":1695886308,
     "wof:name":"Birim South",
     "wof:parent_id":85671343,
     "wof:placetype":"county",

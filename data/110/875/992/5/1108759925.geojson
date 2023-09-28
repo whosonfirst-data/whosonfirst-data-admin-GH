@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.476854,
-    "geom:area_square_m":5807277567.320209,
+    "geom:area_square_m":5807277224.405447,
     "geom:bbox":"-0.762451,9.532549,0.123412,10.36232",
     "geom:latitude":9.972166,
     "geom:longitude":-0.328122,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"GH.NP.GK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330062,
-    "wof:geomhash":"47dc34a7f5dd7635ed85b2264846deb8",
+    "wof:geomhash":"cc3e9bcde4df701c47eb6fdb573e89d1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108759925,
-    "wof:lastmodified":1627522154,
+    "wof:lastmodified":1695886624,
     "wof:name":"Gushiegu/ Karaga",
     "wof:parent_id":85671319,
     "wof:placetype":"county",

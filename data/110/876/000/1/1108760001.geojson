@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.117463,
-    "geom:area_square_m":1446545814.581453,
+    "geom:area_square_m":1446545653.407743,
     "geom:bbox":"-3.110861,4.975774,-2.48231,5.407243",
     "geom:latitude":5.16728,
     "geom:longitude":-2.680297,
@@ -87,9 +87,10 @@
         "hasc:id":"GH.WP.JO",
         "wd:id":"Q1702699"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330104,
-    "wof:geomhash":"98c83a71d9c51fb6da6d3db3273e229a",
+    "wof:geomhash":"50adb81c9d5fa5592df0cec5b9138592",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1108760001,
-    "wof:lastmodified":1627522155,
+    "wof:lastmodified":1695886625,
     "wof:name":"Jomoro",
     "wof:parent_id":85671347,
     "wof:placetype":"county",

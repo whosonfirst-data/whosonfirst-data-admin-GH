@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.191702,
-    "geom:area_square_m":2358850160.499937,
+    "geom:area_square_m":2358849990.446726,
     "geom:bbox":"-1.607353,5.34019,-1.05493,5.948663",
     "geom:latitude":5.663592,
     "geom:longitude":-1.315893,
@@ -74,9 +74,10 @@
     "wof:concordances":{
         "hasc:id":"GH.CP.AS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330021,
-    "wof:geomhash":"2c3f3e865323c4954ce6deda63da2953",
+    "wof:geomhash":"a0bff3432b44d087873fea86221bf757",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1108759849,
-    "wof:lastmodified":1627522153,
+    "wof:lastmodified":1695886622,
     "wof:name":"Assin",
     "wof:parent_id":85671341,
     "wof:placetype":"county",

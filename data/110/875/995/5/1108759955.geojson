@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.160135,
-    "geom:area_square_m":1945747486.268648,
+    "geom:area_square_m":1945747392.100867,
     "geom:bbox":"-2.853592,10.419444,-2.320309,11.002222",
     "geom:latitude":10.687563,
     "geom:longitude":-2.599095,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"GH.UW.JL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330079,
-    "wof:geomhash":"be936aed32b9500b95ffb62809aa5512",
+    "wof:geomhash":"b04683380aecd0abfc2edfe8177e14f4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108759955,
-    "wof:lastmodified":1627522155,
+    "wof:lastmodified":1695886625,
     "wof:name":"Jirapa/ Lambussie",
     "wof:parent_id":85671327,
     "wof:placetype":"county",

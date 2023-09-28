@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.181316,
-    "geom:area_square_m":2213348249.975391,
+    "geom:area_square_m":2213348680.075601,
     "geom:bbox":"0.166615,8.769354,0.566955,9.500684",
     "geom:latitude":9.169668,
     "geom:longitude":0.374748,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"GH.NP.ZT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330071,
-    "wof:geomhash":"323b3d60746cc52f07ab471692fba8c7",
+    "wof:geomhash":"346185bf9cd081134709d8102373a7e5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108759939,
-    "wof:lastmodified":1627522157,
+    "wof:lastmodified":1695886626,
     "wof:name":"Zabzugu/ Tatale",
     "wof:parent_id":85671319,
     "wof:placetype":"county",

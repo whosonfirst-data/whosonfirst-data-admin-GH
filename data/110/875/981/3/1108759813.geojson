@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.138965,
-    "geom:area_square_m":1705650055.942134,
+    "geom:area_square_m":1705650055.942128,
     "geom:bbox":"-2.79642546857,6.65102893774,-2.22693987986,7.18307027375",
     "geom:latitude":6.962326,
     "geom:longitude":-2.46256,
@@ -93,9 +93,10 @@
         "hasc:id":"GH.BA.AT",
         "wd:id":"Q752527"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330003,
-    "wof:geomhash":"c3a62a967bf487fc111a702dc1f005d5",
+    "wof:geomhash":"8f3dbc208e24dd0f1495e901795bfabc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108759813,
-    "wof:lastmodified":1566638262,
+    "wof:lastmodified":1695886310,
     "wof:name":"Asutifi",
     "wof:parent_id":85671337,
     "wof:placetype":"county",

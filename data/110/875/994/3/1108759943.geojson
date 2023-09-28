@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.162261,
-    "geom:area_square_m":1970174311.929201,
+    "geom:area_square_m":1970174754.475909,
     "geom:bbox":"-0.39436,10.607791,0.034421,11.166667",
     "geom:latitude":10.901132,
     "geom:longitude":-0.200198,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"GH.UE.BE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330072,
-    "wof:geomhash":"345377b06057a1315bc9f7a37efe7245",
+    "wof:geomhash":"caa47099ff46ddc901c4ea31503d2ef1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108759943,
-    "wof:lastmodified":1627522154,
+    "wof:lastmodified":1695886624,
     "wof:name":"Bawku East",
     "wof:parent_id":85671323,
     "wof:placetype":"county",

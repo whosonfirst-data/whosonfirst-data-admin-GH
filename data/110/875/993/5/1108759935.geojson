@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.189974,
-    "geom:area_square_m":2315705359.278851,
+    "geom:area_square_m":2315705467.975378,
     "geom:bbox":"-1.328965,9.316695,-0.896686,10.094298",
     "geom:latitude":9.66581,
     "geom:longitude":-1.106067,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"GH.NP.TK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330068,
-    "wof:geomhash":"506c99929815be589dd074846e3a0071",
+    "wof:geomhash":"1eead24f529f7ee1210f1bfd2781f71b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108759935,
-    "wof:lastmodified":1627522156,
+    "wof:lastmodified":1695886626,
     "wof:name":"Tolon/ Kumbungu",
     "wof:parent_id":85671319,
     "wof:placetype":"county",

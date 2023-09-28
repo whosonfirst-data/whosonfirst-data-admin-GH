@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.175291,
-    "geom:area_square_m":2158845078.504574,
+    "geom:area_square_m":2158845333.841947,
     "geom:bbox":"-2.559549,4.818722,-2.09691,5.398509",
     "geom:latitude":5.122337,
     "geom:longitude":-2.307355,
@@ -102,9 +102,10 @@
         "hasc:id":"GH.WP.NE",
         "wd:id":"Q991487"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330109,
-    "wof:geomhash":"9b7113e23d429d13567018af8ec29509",
+    "wof:geomhash":"22c2800fee6ceb98f8af44941b104fd6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1108760007,
-    "wof:lastmodified":1690921682,
+    "wof:lastmodified":1695886626,
     "wof:name":"Nzema East",
     "wof:parent_id":85671347,
     "wof:placetype":"county",

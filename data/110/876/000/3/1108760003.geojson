@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.342763,
-    "geom:area_square_m":4210880947.295938,
+    "geom:area_square_m":4210880807.354954,
     "geom:bbox":"-3.260676,6.097872,-2.657083,7.003051",
     "geom:latitude":6.520611,
     "geom:longitude":-2.979883,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"GH.WP.JB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330106,
-    "wof:geomhash":"f7a87b5a9242b295f201125d507c4c4c",
+    "wof:geomhash":"0255497effbfa87d39b1811486158e7c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108760003,
-    "wof:lastmodified":1627522155,
+    "wof:lastmodified":1695886625,
     "wof:name":"Juabeso/ Bia",
     "wof:parent_id":85671347,
     "wof:placetype":"county",

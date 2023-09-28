@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054629,
-    "geom:area_square_m":671560312.563244,
+    "geom:area_square_m":671560295.573642,
     "geom:bbox":"-0.329028,5.997351,0.0571,6.338013",
     "geom:latitude":6.191066,
     "geom:longitude":-0.150061,
@@ -97,9 +97,10 @@
         "hasc:id":"GH.EP.YK",
         "wd:id":"Q3572285"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330048,
-    "wof:geomhash":"78092582f2b64999601b7335d82c7b42",
+    "wof:geomhash":"9a22c953aa5d13da04dcd559c8ffb4f9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108759899,
-    "wof:lastmodified":1690921679,
+    "wof:lastmodified":1695886309,
     "wof:name":"Yilo Krobo",
     "wof:parent_id":85671343,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.146697,
-    "geom:area_square_m":1781573201.657984,
+    "geom:area_square_m":1781573176.807292,
     "geom:bbox":"-1.524838,10.49078,-0.889933,11.02692",
     "geom:latitude":10.839121,
     "geom:longitude":-1.170665,
@@ -87,9 +87,10 @@
         "hasc:id":"GH.UE.KN",
         "wd:id":"Q749266"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330078,
-    "wof:geomhash":"6bdbc625be2ff589e88f05b0b3103b3e",
+    "wof:geomhash":"b3d575f480f8777bab716302bddcdacc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1108759953,
-    "wof:lastmodified":1690921673,
+    "wof:lastmodified":1695886307,
     "wof:name":"Kasena/ Nankani",
     "wof:parent_id":85671323,
     "wof:placetype":"county",

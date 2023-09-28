@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015124,
-    "geom:area_square_m":185739334.975946,
+    "geom:area_square_m":185739334.975943,
     "geom:bbox":"-1.696846,6.630943,-1.52479,6.756009",
     "geom:latitude":6.694023,
     "geom:longitude":-1.610251,
@@ -65,12 +65,13 @@
     "wof:concordances":{
         "hasc:id":"GH.AH.KM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         421168961
     ],
     "wof:country":"GH",
     "wof:created":1481329996,
-    "wof:geomhash":"b50944280bd5c694ec5c8132912af61d",
+    "wof:geomhash":"bff954bdbc6ace61cf4ab972ff18a27b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1108759801,
-    "wof:lastmodified":1627522153,
+    "wof:lastmodified":1695886622,
     "wof:name":"Kumasi Metro",
     "wof:parent_id":85671331,
     "wof:placetype":"county",

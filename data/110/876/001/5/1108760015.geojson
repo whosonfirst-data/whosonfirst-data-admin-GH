@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.401169,
-    "geom:area_square_m":4935615330.359058,
+    "geom:area_square_m":4935615284.917389,
     "geom:bbox":"-2.620783,5.344206,-1.721975,6.112571",
     "geom:latitude":5.74307,
     "geom:longitude":-2.229907,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"GH.WP.WA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330113,
-    "wof:geomhash":"df84004b3659257c3662f39277585c97",
+    "wof:geomhash":"72c75e44bf8162be67771556140b8137",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108760015,
-    "wof:lastmodified":1627522157,
+    "wof:lastmodified":1695886626,
     "wof:name":"Wassa Amenfi",
     "wof:parent_id":85671347,
     "wof:placetype":"county",

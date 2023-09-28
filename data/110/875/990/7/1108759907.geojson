@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.133569,
-    "geom:area_square_m":1642809864.266237,
+    "geom:area_square_m":1642810028.549654,
     "geom:bbox":"-0.11682,5.689384,0.427044,6.126875",
     "geom:latitude":5.916637,
     "geom:longitude":0.152559,
@@ -103,9 +103,10 @@
         "hasc:id":"GH.AA.DW",
         "wd:id":"Q2304316"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330052,
-    "wof:geomhash":"17330a66c8b5382d76ec84ca435bc695",
+    "wof:geomhash":"392627cd485a2913a8dcea1159284809",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1108759907,
-    "wof:lastmodified":1690921664,
+    "wof:lastmodified":1695886305,
     "wof:name":"Dangme West",
     "wof:parent_id":85671353,
     "wof:placetype":"county",

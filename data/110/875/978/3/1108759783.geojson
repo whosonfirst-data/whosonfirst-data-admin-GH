@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.165537,
-    "geom:area_square_m":2034553974.671004,
+    "geom:area_square_m":2034553716.226714,
     "geom:bbox":"-1.97215,6.007876,-1.186804,6.531742",
     "geom:latitude":6.293655,
     "geom:longitude":-1.596909,
@@ -102,9 +102,10 @@
         "hasc:id":"GH.AH.AM",
         "wd:id":"Q454460"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481329986,
-    "wof:geomhash":"ca9826a99d212bb355c5c3f4875d19bd",
+    "wof:geomhash":"3768d6f645a0380c7bd28382c54a1dc3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1108759783,
-    "wof:lastmodified":1690921670,
+    "wof:lastmodified":1695886306,
     "wof:name":"Amansie East",
     "wof:parent_id":85671331,
     "wof:placetype":"county",

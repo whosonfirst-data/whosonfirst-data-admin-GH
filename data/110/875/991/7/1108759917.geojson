@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.236471,
-    "geom:area_square_m":2875423274.600525,
+    "geom:area_square_m":2875423809.074105,
     "geom:bbox":"-0.669934,10.241714,0.197466,10.707606",
     "geom:latitude":10.458808,
     "geom:longitude":-0.235639,
@@ -109,9 +109,10 @@
         "hasc:id":"GH.NP.EM",
         "wd:id":"Q824725"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330058,
-    "wof:geomhash":"08b38564efc2c870a71ce7108d0f8865",
+    "wof:geomhash":"c4d12070b0e97d85f90d13ec90f6c1d8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":1108759917,
-    "wof:lastmodified":1690921662,
+    "wof:lastmodified":1695886304,
     "wof:name":"East Mamprusi",
     "wof:parent_id":85671319,
     "wof:placetype":"county",

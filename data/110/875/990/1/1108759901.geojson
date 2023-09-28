@@ -65,12 +65,13 @@
     "wof:concordances":{
         "hasc:id":"GH.AA.AC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         421168965
     ],
     "wof:country":"GH",
     "wof:created":1481330049,
-    "wof:geomhash":"42ef6f7a252ce616a66b1a59c43362ea",
+    "wof:geomhash":"9b594d720afb683470240f4ff1bf52a1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1108759901,
-    "wof:lastmodified":1627522154,
+    "wof:lastmodified":1695886623,
     "wof:name":"Accra Metro",
     "wof:parent_id":85671353,
     "wof:placetype":"county",

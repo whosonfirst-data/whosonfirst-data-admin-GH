@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.227725,
-    "geom:area_square_m":2801510408.999076,
+    "geom:area_square_m":2801510285.367657,
     "geom:bbox":"-3.093231,5.345369,-2.486319,6.172079",
     "geom:latitude":5.784421,
     "geom:longitude":-2.78353,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"GH.WP.AS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330101,
-    "wof:geomhash":"9ebe7bda318af8cef00ef221848680b4",
+    "wof:geomhash":"5cacc334cf7a762ec92bd99c986955c1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108759997,
-    "wof:lastmodified":1627522153,
+    "wof:lastmodified":1695886623,
     "wof:name":"Aowin/ Suaman",
     "wof:parent_id":85671347,
     "wof:placetype":"county",
