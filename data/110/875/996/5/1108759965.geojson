@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.496797,
-    "geom:area_square_m":6049784089.825269,
+    "geom:area_square_m":6049784004.51792,
     "geom:bbox":"-2.803333,9.620274,-1.573742,10.362667",
     "geom:latitude":9.992887,
     "geom:longitude":-2.235957,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"GH.UW.WA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330084,
-    "wof:geomhash":"96b7445b1c17554627d01e6b3acd781c",
+    "wof:geomhash":"8adefef6633d0c1ebc647b3c6553cc7e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1108759965,
-    "wof:lastmodified":1636502230,
+    "wof:lastmodified":1695886054,
     "wof:name":"Wa",
     "wof:parent_id":85671327,
     "wof:placetype":"county",

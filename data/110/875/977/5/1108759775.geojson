@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05945,
-    "geom:area_square_m":729635329.698175,
+    "geom:area_square_m":729635260.036816,
     "geom:bbox":"-1.712466,6.809711,-1.409881,7.16426",
     "geom:latitude":6.993586,
     "geom:longitude":-1.563028,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"GH.AH.AF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481329982,
-    "wof:geomhash":"9171b5979efe5752472ebf01598e4d5c",
+    "wof:geomhash":"d034b46bb548300512a272c6aab94156",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108759775,
-    "wof:lastmodified":1627522153,
+    "wof:lastmodified":1695886622,
     "wof:name":"Afigya",
     "wof:parent_id":85671331,
     "wof:placetype":"county",

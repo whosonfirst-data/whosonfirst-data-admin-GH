@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038468,
-    "geom:area_square_m":473757509.399891,
+    "geom:area_square_m":473757719.677543,
     "geom:bbox":"-1.573847,5.030416,-1.300465,5.257501",
     "geom:latitude":5.137287,
     "geom:longitude":-1.44322,
@@ -102,9 +102,10 @@
         "hasc:id":"GH.CP.KE",
         "wd:id":"Q1502262"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330026,
-    "wof:geomhash":"2b1c32ff4b3477efbecf171adcd7c995",
+    "wof:geomhash":"63c145ddeecccb9a8b44c8ca48a9f5cc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1108759859,
-    "wof:lastmodified":1690921671,
+    "wof:lastmodified":1695886307,
     "wof:name":"Komenda/ Edina/ Eguafo",
     "wof:parent_id":85671341,
     "wof:placetype":"county",

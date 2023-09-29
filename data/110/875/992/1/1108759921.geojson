@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.437418,
-    "geom:area_square_m":17543743353.934296,
+    "geom:area_square_m":17543743661.05508,
     "geom:bbox":"-2.221277,8.540148,-0.718326,10.103303",
     "geom:latitude":9.224396,
     "geom:longitude":-1.52315,
@@ -103,9 +103,10 @@
         "hasc:id":"GH.NP.WG",
         "wd:id":"Q3110546"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330061,
-    "wof:geomhash":"3d794ac137bb8cc04320cfe7c4a41dd9",
+    "wof:geomhash":"aaac63e000cab165c739d5a5a9526fff",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1108759921,
-    "wof:lastmodified":1690921674,
+    "wof:lastmodified":1695886308,
     "wof:name":"Gonja West",
     "wof:parent_id":85671319,
     "wof:placetype":"county",

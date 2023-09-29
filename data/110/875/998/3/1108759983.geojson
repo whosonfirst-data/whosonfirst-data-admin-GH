@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059793,
-    "geom:area_square_m":735094004.815382,
+    "geom:area_square_m":735094004.815386,
     "geom:bbox":"0.856149776658,6.01345061749,1.19947914281,6.335475",
     "geom:latitude":6.153968,
     "geom:longitude":1.004817,
@@ -78,9 +78,10 @@
         "hasc:id":"GH.TV.KU",
         "wd:id":"Q1432647"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330094,
-    "wof:geomhash":"f13f1dab176ace31503be17c3a53110a",
+    "wof:geomhash":"cdc4174c7196548fd08d0a0c139bad27",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1108759983,
-    "wof:lastmodified":1566638238,
+    "wof:lastmodified":1695886303,
     "wof:name":"Ketu",
     "wof:parent_id":85671357,
     "wof:placetype":"county",

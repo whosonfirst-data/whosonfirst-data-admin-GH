@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.115575,
-    "geom:area_square_m":1422476261.18234,
+    "geom:area_square_m":1422476182.493802,
     "geom:bbox":"-1.756638,5.241393,-1.284969,5.818326",
     "geom:latitude":5.520316,
     "geom:longitude":-1.52249,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"GH.CP.LD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330028,
-    "wof:geomhash":"460f54e0d2c1ed418d5762e019b398db",
+    "wof:geomhash":"6cc9e43ab4c2d8e7b72e391d38b0541b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108759863,
-    "wof:lastmodified":1627522156,
+    "wof:lastmodified":1695886625,
     "wof:name":"Twifo Heman/ Lower Denkyira",
     "wof:parent_id":85671341,
     "wof:placetype":"county",

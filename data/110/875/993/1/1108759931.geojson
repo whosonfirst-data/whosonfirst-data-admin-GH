@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.177176,
-    "geom:area_square_m":2158877036.964023,
+    "geom:area_square_m":2158877037.426194,
     "geom:bbox":"-1.027579,9.459325,-0.599272,10.183741",
     "geom:latitude":9.792865,
     "geom:longitude":-0.803259,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"GH.NP.SN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330066,
-    "wof:geomhash":"5ff305e1bcc4cc59f356a5ab6feb2bca",
+    "wof:geomhash":"597bd9303679fc17ae40823ad3bda01b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108759931,
-    "wof:lastmodified":1627522156,
+    "wof:lastmodified":1695886626,
     "wof:name":"Savelugu/ Nanton",
     "wof:parent_id":85671319,
     "wof:placetype":"county",

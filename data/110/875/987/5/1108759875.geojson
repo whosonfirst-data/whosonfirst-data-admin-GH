@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.073525,
-    "geom:area_square_m":903525455.459813,
+    "geom:area_square_m":903525543.079771,
     "geom:bbox":"-0.033555,6.119256,0.226648,6.56867",
     "geom:latitude":6.376803,
     "geom:longitude":0.096866,
@@ -111,9 +111,10 @@
         "hasc:id":"GH.EP.AG",
         "wd:id":"Q476705"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330034,
-    "wof:geomhash":"4a783ec1d612754366095fbf97e35f14",
+    "wof:geomhash":"1b5c9e9fd57a45b6781a4d2b78c875d9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":1108759875,
-    "wof:lastmodified":1690921677,
+    "wof:lastmodified":1695886309,
     "wof:name":"Asuogyaman",
     "wof:parent_id":85671343,
     "wof:placetype":"county",

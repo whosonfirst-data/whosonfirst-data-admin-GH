@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060585,
-    "geom:area_square_m":745643941.454371,
+    "geom:area_square_m":745644371.716222,
     "geom:bbox":"-0.667366,5.321278,-0.366651,5.726772",
     "geom:latitude":5.53666,
     "geom:longitude":-0.514216,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"GH.CP.AE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330023,
-    "wof:geomhash":"40427cf54e36dc9cdc9dd1037c537f05",
+    "wof:geomhash":"f272ce2ca1c8a474eb1a0f5fc4cdcdbf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108759853,
-    "wof:lastmodified":1627522154,
+    "wof:lastmodified":1695886623,
     "wof:name":"Awutu Efutu Senya",
     "wof:parent_id":85671341,
     "wof:placetype":"county",

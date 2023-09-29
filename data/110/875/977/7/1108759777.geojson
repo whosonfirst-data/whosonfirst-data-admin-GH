@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056187,
-    "geom:area_square_m":689719513.909108,
+    "geom:area_square_m":689719302.424236,
     "geom:bbox":"-2.374759,6.711703,-2.058173,7.075934",
     "geom:latitude":6.908632,
     "geom:longitude":-2.211316,
@@ -118,9 +118,10 @@
         "hasc:id":"GH.AH.AN",
         "wd:id":"Q399850"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481329983,
-    "wof:geomhash":"165ffd3f4863bca439d124c93aa5cf5a",
+    "wof:geomhash":"84f416949a8c648219c261bf6d2c07c7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":1108759777,
-    "wof:lastmodified":1690921666,
+    "wof:lastmodified":1695886305,
     "wof:name":"Ahafo Ano North",
     "wof:parent_id":85671331,
     "wof:placetype":"county",

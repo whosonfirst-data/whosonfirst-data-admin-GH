@@ -81,9 +81,10 @@
         "hasc:id":"GH.CP.AG",
         "wd:id":"Q395263"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330018,
-    "wof:geomhash":"8bf09065340c435522eef7664ce31ffd",
+    "wof:geomhash":"3ff1338099f00f251904956072ea1e6e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1108759843,
-    "wof:lastmodified":1566638246,
+    "wof:lastmodified":1695886306,
     "wof:name":"Agona",
     "wof:parent_id":85671341,
     "wof:placetype":"county",

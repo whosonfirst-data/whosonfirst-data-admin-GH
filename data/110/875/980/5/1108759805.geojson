@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.120874,
-    "geom:area_square_m":1482768019.464963,
+    "geom:area_square_m":1482768191.999594,
     "geom:bbox":"-2.126603,6.865719,-1.633822,7.476365",
     "geom:latitude":7.22302,
     "geom:longitude":-1.82568,
@@ -87,9 +87,10 @@
         "hasc:id":"GH.AH.OF",
         "wd:id":"Q427664"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481329998,
-    "wof:geomhash":"e38875ae393e6fe9ad2066ff0a2a6416",
+    "wof:geomhash":"0e622d95ac4c33be68dab9ea2aa0ae19",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1108759805,
-    "wof:lastmodified":1690921678,
+    "wof:lastmodified":1695886309,
     "wof:name":"Offinso",
     "wof:parent_id":85671331,
     "wof:placetype":"county",

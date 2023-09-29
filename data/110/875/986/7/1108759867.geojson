@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.436921,
-    "geom:area_square_m":5363468082.564747,
+    "geom:area_square_m":5363467939.159384,
     "geom:bbox":"-0.735377,6.541386,0.247341,7.203637",
     "geom:latitude":6.899841,
     "geom:longitude":-0.178166,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"GH.EP.AP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330031,
-    "wof:geomhash":"6f0bff8308e806623a3e2289096105b2",
+    "wof:geomhash":"2fabdb0e9b6aba94dcbc82baebe19d60",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108759867,
-    "wof:lastmodified":1627522153,
+    "wof:lastmodified":1695886622,
     "wof:name":"Afram Plains",
     "wof:parent_id":85671343,
     "wof:placetype":"county",

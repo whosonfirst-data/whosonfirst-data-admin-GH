@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072911,
-    "geom:area_square_m":896764152.793423,
+    "geom:area_square_m":896764152.793424,
     "geom:bbox":"0.684106110226,5.762055397,1.05894381235,6.09480045623",
     "geom:latitude":5.907833,
     "geom:longitude":0.863583,
@@ -92,9 +92,10 @@
     "wof:concordances":{
         "hasc:id":"GH.TV.KA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330093,
-    "wof:geomhash":"aef3716145c04ea47e057f900d0bf1cb",
+    "wof:geomhash":"ba0d54e47ba8135ff58297aa4b03898f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108759981,
-    "wof:lastmodified":1566638237,
+    "wof:lastmodified":1695886303,
     "wof:name":"Keta",
     "wof:parent_id":85671357,
     "wof:placetype":"county",

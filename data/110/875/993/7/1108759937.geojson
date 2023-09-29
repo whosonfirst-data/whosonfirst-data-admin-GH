@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.376848,
-    "geom:area_square_m":4584975961.881622,
+    "geom:area_square_m":4584975972.246509,
     "geom:bbox":"-1.660359,9.932581,-0.561706,10.637168",
     "geom:latitude":10.280773,
     "geom:longitude":-1.070202,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"GH.NP.WM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330070,
-    "wof:geomhash":"6135d07a4d2f890956c21f7a3efbc8f4",
+    "wof:geomhash":"55b846b3a10fefa237bb872b095877ab",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108759937,
-    "wof:lastmodified":1627522155,
+    "wof:lastmodified":1695886624,
     "wof:name":"West Mamprusi",
     "wof:parent_id":85671319,
     "wof:placetype":"county",

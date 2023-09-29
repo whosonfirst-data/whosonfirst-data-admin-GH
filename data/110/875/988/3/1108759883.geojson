@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.093994,
-    "geom:area_square_m":1154814890.889863,
+    "geom:area_square_m":1154814890.889864,
     "geom:bbox":"-0.512462350057,6.28699316443,-0.129350838477,6.67921801399",
     "geom:latitude":6.48603,
     "geom:longitude":-0.33249,
@@ -84,9 +84,10 @@
         "hasc:id":"GH.EP.FA",
         "wd:id":"Q3066630"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330039,
-    "wof:geomhash":"2b0d698f9a34fc40a9127601796f00d8",
+    "wof:geomhash":"865e2646bf8f4f485eba59c9b76ca2ec",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1108759883,
-    "wof:lastmodified":1566638260,
+    "wof:lastmodified":1695886310,
     "wof:name":"Fanteakwa",
     "wof:parent_id":85671343,
     "wof:placetype":"county",

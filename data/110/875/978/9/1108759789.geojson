@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.095305,
-    "geom:area_square_m":1170902223.598673,
+    "geom:area_square_m":1170902223.598671,
     "geom:bbox":"-1.30140163918,6.20822953036,-0.900509956881,6.75600154037",
     "geom:latitude":6.492391,
     "geom:longitude":-1.110487,
@@ -99,9 +99,10 @@
         "hasc:id":"GH.AH.AU",
         "wd:id":"Q720966"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481329989,
-    "wof:geomhash":"31c852c61a7a3cf9de2c8c3635a16ddb",
+    "wof:geomhash":"dd8a5208fe27eb2b51a1244a618ec39c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108759789,
-    "wof:lastmodified":1566638248,
+    "wof:lastmodified":1695886306,
     "wof:name":"Asante Akim South",
     "wof:parent_id":85671331,
     "wof:placetype":"county",

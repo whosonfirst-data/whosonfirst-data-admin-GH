@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.181292,
-    "geom:area_square_m":2226283429.417366,
+    "geom:area_square_m":2226283507.356987,
     "geom:bbox":"-2.866421,6.363657,-2.385535,6.999956",
     "geom:latitude":6.724748,
     "geom:longitude":-2.62762,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"GH.BA.AN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330002,
-    "wof:geomhash":"2f674f0ba9c1337239e3c988d562d96e",
+    "wof:geomhash":"1dbd237ebe28d8e620882e1b00fc1028",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108759811,
-    "wof:lastmodified":1627522153,
+    "wof:lastmodified":1695886622,
     "wof:name":"Asunafo",
     "wof:parent_id":85671337,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.205425,
-    "geom:area_square_m":2517690081.578558,
+    "geom:area_square_m":2517690081.578556,
     "geom:bbox":"-1.87491040176,7.33958235717,-1.18068457366,7.88277338313",
     "geom:latitude":7.617811,
     "geom:longitude":-1.603033,
@@ -84,9 +84,10 @@
         "hasc:id":"GH.BA.NK",
         "wd:id":"Q1147881"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330010,
-    "wof:geomhash":"0912237247c216724b62f8df4f1b9dc5",
+    "wof:geomhash":"1343fd7136b62e389aa14c2d4c36ad61",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1108759827,
-    "wof:lastmodified":1566638250,
+    "wof:lastmodified":1695886307,
     "wof:name":"Nkoranza",
     "wof:parent_id":85671337,
     "wof:placetype":"county",

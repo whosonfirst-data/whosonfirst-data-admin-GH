@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.162396,
-    "geom:area_square_m":1994643538.11039,
+    "geom:area_square_m":1994643329.222153,
     "geom:bbox":"-0.9722,6.398177,-0.362886,6.869476",
     "geom:latitude":6.625628,
     "geom:longitude":-0.687821,
@@ -96,9 +96,10 @@
         "hasc:id":"GH.EP.KS",
         "wd:id":"Q1433167"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330042,
-    "wof:geomhash":"c7bdc9c027b8016328a89f7717b9c4a0",
+    "wof:geomhash":"2ee403b0a3eca520e432a58ff3fc0ba1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108759889,
-    "wof:lastmodified":1690921680,
+    "wof:lastmodified":1695886310,
     "wof:name":"Kwahu South",
     "wof:parent_id":85671343,
     "wof:placetype":"county",

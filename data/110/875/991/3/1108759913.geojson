@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.829501,
-    "geom:area_square_m":10128737552.837978,
+    "geom:area_square_m":10128737552.837954,
     "geom:bbox":"-2.78023,8.14864817308,-1.74765933274,9.82405673869",
     "geom:latitude":9.055778,
     "geom:longitude":-2.302128,
@@ -86,9 +86,10 @@
     "wof:concordances":{
         "hasc:id":"GH.NP.BO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330055,
-    "wof:geomhash":"76dcfff2dfec3993095490938f87621a",
+    "wof:geomhash":"288ecc7c6f404c1ae35f58c07f48cd85",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108759913,
-    "wof:lastmodified":1566638239,
+    "wof:lastmodified":1695886304,
     "wof:name":"Bole",
     "wof:parent_id":85671319,
     "wof:placetype":"county",

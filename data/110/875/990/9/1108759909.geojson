@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061234,
-    "geom:area_square_m":753444226.530794,
+    "geom:area_square_m":753443952.14194,
     "geom:bbox":"-0.494539,5.494181,-0.138526,5.824605",
     "geom:latitude":5.681976,
     "geom:longitude":-0.336065,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"GH.AA.GA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330053,
-    "wof:geomhash":"83e72396cc54ab08c2ccb18ecc720f1c",
+    "wof:geomhash":"382b7c98ac2ff0604bc9166cdc061f45",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108759909,
-    "wof:lastmodified":1627522154,
+    "wof:lastmodified":1695886623,
     "wof:name":"Ga",
     "wof:parent_id":85671353,
     "wof:placetype":"county",

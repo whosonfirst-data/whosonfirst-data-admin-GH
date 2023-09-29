@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05169,
-    "geom:area_square_m":634824284.441568,
+    "geom:area_square_m":634824765.118113,
     "geom:bbox":"-1.54599,6.418449,-1.245817,6.828817",
     "geom:latitude":6.669502,
     "geom:longitude":-1.38464,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"GH.AH.EJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481329993,
-    "wof:geomhash":"f06464828265428b98d1dc5f81f3005c",
+    "wof:geomhash":"8e4178d49630dbf423b77db3b4800ce4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108759795,
-    "wof:lastmodified":1627522154,
+    "wof:lastmodified":1695886623,
     "wof:name":"Ejisu Juaben",
     "wof:parent_id":85671331,
     "wof:placetype":"county",

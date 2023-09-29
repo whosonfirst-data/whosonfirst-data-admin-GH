@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070647,
-    "geom:area_square_m":868799589.520777,
+    "geom:area_square_m":868799942.975918,
     "geom:bbox":"-0.638767,5.840194,-0.276625,6.135825",
     "geom:latitude":5.986207,
     "geom:longitude":-0.449342,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"GH.EP.SK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330046,
-    "wof:geomhash":"f39d27a66d2e8e2f59c253caecec1d3d",
+    "wof:geomhash":"eb75bf647a398a11873a5a8e323ef46c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108759895,
-    "wof:lastmodified":1627522156,
+    "wof:lastmodified":1695886625,
     "wof:name":"Suhum/ Kraboa/ Coaltar",
     "wof:parent_id":85671343,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027665,
-    "geom:area_square_m":339677997.739136,
+    "geom:area_square_m":339677997.739135,
     "geom:bbox":"-1.71437876928,6.72364001241,-1.43162545996,6.88411269175",
     "geom:latitude":6.805547,
     "geom:longitude":-1.561791,
@@ -93,9 +93,10 @@
         "hasc:id":"GH.AH.KB",
         "wd:id":"Q688970"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481329997,
-    "wof:geomhash":"063ad8338ae27132992b085b69ae2e13",
+    "wof:geomhash":"c6dd9b8f48d556958c2a2ffb41194245",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108759803,
-    "wof:lastmodified":1566638258,
+    "wof:lastmodified":1695886309,
     "wof:name":"Kwabre",
     "wof:parent_id":85671331,
     "wof:placetype":"county",

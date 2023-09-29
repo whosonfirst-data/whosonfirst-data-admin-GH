@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.328832,
-    "geom:area_square_m":4017860438.727248,
+    "geom:area_square_m":4017860698.953727,
     "geom:bbox":"-0.489485,8.502986,0.370776,9.215573",
     "geom:latitude":8.829957,
     "geom:longitude":-0.039667,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"GH.NP.NA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330064,
-    "wof:geomhash":"034a734e2a3bc7b6ac6ab6501169ef14",
+    "wof:geomhash":"1c2d63023d07017f025312a8ef12e2f2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108759927,
-    "wof:lastmodified":1627522156,
+    "wof:lastmodified":1695886625,
     "wof:name":"Nanumba",
     "wof:parent_id":85671319,
     "wof:placetype":"county",

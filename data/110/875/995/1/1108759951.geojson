@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.180532,
-    "geom:area_square_m":2194260874.053723,
+    "geom:area_square_m":2194261138.761945,
     "geom:bbox":"-1.591245,10.281437,-1.061201,10.880287",
     "geom:latitude":10.592773,
     "geom:longitude":-1.306121,
@@ -96,9 +96,10 @@
         "hasc:id":"GH.UE.BU",
         "wd:id":"Q1003075"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330077,
-    "wof:geomhash":"ac3bb5b699fe93170136ef0aa7855eb0",
+    "wof:geomhash":"0b2112bc528a8a48de98421e604df40a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108759951,
-    "wof:lastmodified":1690921673,
+    "wof:lastmodified":1695886307,
     "wof:name":"Builsa",
     "wof:parent_id":85671323,
     "wof:placetype":"county",

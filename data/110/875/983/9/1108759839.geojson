@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.402124,
-    "geom:area_square_m":4924168760.32023,
+    "geom:area_square_m":4924168769.685666,
     "geom:bbox":"-2.602479,7.417361,-1.970653,8.750051",
     "geom:latitude":7.976782,
     "geom:longitude":-2.331096,
@@ -87,9 +87,10 @@
         "hasc:id":"GH.BA.WE",
         "wd:id":"Q1504094"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330016,
-    "wof:geomhash":"223951a41400365a7ed58df7c6981da2",
+    "wof:geomhash":"0b803cc8ac015973fda9bda8bd0c5c37",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1108759839,
-    "wof:lastmodified":1690921666,
+    "wof:lastmodified":1695886306,
     "wof:name":"Wenchi",
     "wof:parent_id":85671337,
     "wof:placetype":"county",

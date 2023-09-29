@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.097593,
-    "geom:area_square_m":1196014757.616518,
+    "geom:area_square_m":1196014757.61653,
     "geom:bbox":"-2.12357132987,7.44327220805,-1.81418293582,7.91953918603",
     "geom:latitude":7.649291,
     "geom:longitude":-1.971436,
@@ -101,9 +101,10 @@
     "wof:concordances":{
         "hasc:id":"GH.BA.TE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330015,
-    "wof:geomhash":"de512e19a1095bac613ce93ba6b9d8fd",
+    "wof:geomhash":"3bfea92269e479cf44f7806e784fabcc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1108759837,
-    "wof:lastmodified":1566638245,
+    "wof:lastmodified":1695886306,
     "wof:name":"Techiman",
     "wof:parent_id":85671337,
     "wof:placetype":"county",

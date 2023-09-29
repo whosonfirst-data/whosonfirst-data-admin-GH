@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.425288,
-    "geom:area_square_m":5208580468.219824,
+    "geom:area_square_m":5208580279.808921,
     "geom:bbox":"-1.433428,7.461623,-0.563784,8.391645",
     "geom:latitude":7.918426,
     "geom:longitude":-1.066073,
@@ -74,9 +74,10 @@
     "wof:concordances":{
         "hasc:id":"GH.BA.AB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330004,
-    "wof:geomhash":"f20e49ae049ba3174f1cc7885cfc05f9",
+    "wof:geomhash":"63940c939f9e468ccc4aa87e87f630be",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1108759817,
-    "wof:lastmodified":1627522153,
+    "wof:lastmodified":1695886622,
     "wof:name":"Atebubu",
     "wof:parent_id":85671337,
     "wof:placetype":"county",

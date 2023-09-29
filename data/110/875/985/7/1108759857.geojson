@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066913,
-    "geom:area_square_m":823699798.661485,
+    "geom:area_square_m":823699798.661484,
     "geom:bbox":"-0.913999835375,5.22262151591,-0.554206397597,5.58476488596",
     "geom:latitude":5.41905,
     "geom:longitude":-0.739964,
@@ -78,9 +78,10 @@
         "hasc:id":"GH.CP.GO",
         "wd:id":"Q688675"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330025,
-    "wof:geomhash":"92b0eb03076b5980acbab57c790d047c",
+    "wof:geomhash":"4f0a8c34f9ed9e8056d770cec0ab8ca1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1108759857,
-    "wof:lastmodified":1566638249,
+    "wof:lastmodified":1695886307,
     "wof:name":"Gomoa",
     "wof:parent_id":85671341,
     "wof:placetype":"county",

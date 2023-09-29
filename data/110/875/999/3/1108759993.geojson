@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040968,
-    "geom:area_square_m":504768590.696636,
+    "geom:area_square_m":504768792.606566,
     "geom:bbox":"-2.202249,4.735417,-1.811399,4.927043",
     "geom:latitude":4.84141,
     "geom:longitude":-2.012499,
@@ -115,9 +115,10 @@
         "hasc:id":"GH.WP.AW",
         "wd:id":"Q399949"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330100,
-    "wof:geomhash":"eb49bdc83b1f6ae3935e8581bbbd035e",
+    "wof:geomhash":"9f65cb97866188f54fd47592e1569b63",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -127,7 +128,7 @@
         }
     ],
     "wof:id":1108759993,
-    "wof:lastmodified":1690921666,
+    "wof:lastmodified":1695886623,
     "wof:name":"Ahanta West",
     "wof:parent_id":85671347,
     "wof:placetype":"county",

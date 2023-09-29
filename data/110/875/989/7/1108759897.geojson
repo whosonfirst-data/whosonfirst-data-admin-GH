@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069408,
-    "geom:area_square_m":853744025.599153,
+    "geom:area_square_m":853744052.567285,
     "geom:bbox":"-0.825118,5.708159,-0.395138,6.038323",
     "geom:latitude":5.868122,
     "geom:longitude":-0.646194,
@@ -96,9 +96,10 @@
         "hasc:id":"GH.EP.WA",
         "wd:id":"Q1432741"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330047,
-    "wof:geomhash":"0cfdf07c3453cc040e29804c6f97d564",
+    "wof:geomhash":"885859ed7fb9a07892a310473d839ad8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108759897,
-    "wof:lastmodified":1690921679,
+    "wof:lastmodified":1695886309,
     "wof:name":"West Akim",
     "wof:parent_id":85671343,
     "wof:placetype":"county",

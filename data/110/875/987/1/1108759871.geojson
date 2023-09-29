@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052985,
-    "geom:area_square_m":651586719.57522,
+    "geom:area_square_m":651586896.313778,
     "geom:bbox":"-0.327872,5.853653,0.000875,6.137033",
     "geom:latitude":5.99162,
     "geom:longitude":-0.15956,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"GH.EP.AN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330032,
-    "wof:geomhash":"a733a3bcde93c7825fb885ab1de46875",
+    "wof:geomhash":"b935522e15f94f0c6334bfbb12188b1a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108759871,
-    "wof:lastmodified":1627522153,
+    "wof:lastmodified":1695886622,
     "wof:name":"Akwapim North",
     "wof:parent_id":85671343,
     "wof:placetype":"county",

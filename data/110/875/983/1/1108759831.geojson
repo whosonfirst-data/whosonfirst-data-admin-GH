@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.110497,
-    "geom:area_square_m":1355019949.552299,
+    "geom:area_square_m":1355019964.058679,
     "geom:bbox":"-2.525694,7.123179,-2.131126,7.606522",
     "geom:latitude":7.37072,
     "geom:longitude":-2.350001,
@@ -96,9 +96,10 @@
         "hasc:id":"GH.BA.SY",
         "wd:id":"Q1786388"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330012,
-    "wof:geomhash":"d930ed247fc75606d3ea5184894985a6",
+    "wof:geomhash":"244780e93a12020e9b2932a0d9226f3a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108759831,
-    "wof:lastmodified":1636502230,
+    "wof:lastmodified":1695886054,
     "wof:name":"Sunyani",
     "wof:parent_id":85671337,
     "wof:placetype":"county",

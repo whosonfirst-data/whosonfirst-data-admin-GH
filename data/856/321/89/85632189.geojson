@@ -1160,6 +1160,7 @@
         "hasc:id":"GH",
         "icao:code":"9G",
         "ioc:id":"GHA",
+        "iso:code":"GH",
         "itu:id":"GHA",
         "loc:id":"n80061117",
         "m49:code":"288",
@@ -1174,6 +1175,7 @@
         "wk:page":"Ghana",
         "wmo:id":"GH"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GH",
     "wof:country_alpha3":"GHA",
     "wof:geom_alt":[
@@ -1198,7 +1200,7 @@
         "ewe",
         "gaa"
     ],
-    "wof:lastmodified":1694639549,
+    "wof:lastmodified":1695881207,
     "wof:name":"Ghana",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

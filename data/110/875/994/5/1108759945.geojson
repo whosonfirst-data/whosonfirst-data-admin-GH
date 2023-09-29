@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.08898,
-    "geom:area_square_m":1080684267.720623,
+    "geom:area_square_m":1080683949.370333,
     "geom:bbox":"-0.618456,10.57276,-0.329909,11.108611",
     "geom:latitude":10.821635,
     "geom:longitude":-0.465068,
@@ -102,9 +102,10 @@
         "hasc:id":"GH.UE.BW",
         "wd:id":"Q812034"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330073,
-    "wof:geomhash":"95ca0d23f31747f1dc4379db611a6524",
+    "wof:geomhash":"fb24c60a434a1904f185d6440141cad2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1108759945,
-    "wof:lastmodified":1690921675,
+    "wof:lastmodified":1695886308,
     "wof:name":"Bawku West",
     "wof:parent_id":85671323,
     "wof:placetype":"county",

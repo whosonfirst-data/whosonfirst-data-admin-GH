@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030938,
-    "geom:area_square_m":381103887.956184,
+    "geom:area_square_m":381103824.269414,
     "geom:bbox":"-1.850814,4.868722,-1.559127,5.103475",
     "geom:latitude":4.99053,
     "geom:longitude":-1.71984,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"GH.WP.SA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330112,
-    "wof:geomhash":"5c2ffb53280ee961df46f4a841649d1f",
+    "wof:geomhash":"dfca5d09734f64cf112afbafe5fc3a8a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108760011,
-    "wof:lastmodified":1627522156,
+    "wof:lastmodified":1695886626,
     "wof:name":"Shama Ahanta East",
     "wof:parent_id":85671347,
     "wof:placetype":"county",

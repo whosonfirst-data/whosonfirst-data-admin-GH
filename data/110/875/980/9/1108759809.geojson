@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.194872,
-    "geom:area_square_m":2390481690.371246,
+    "geom:area_square_m":2390481470.850238,
     "geom:bbox":"-1.543229,6.91566,-0.899502,7.524546",
     "geom:latitude":7.226175,
     "geom:longitude":-1.217579,
@@ -99,9 +99,10 @@
         "hasc:id":"GH.AH.SW",
         "wd:id":"Q1785381"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330001,
-    "wof:geomhash":"8256f8d81f1ebace63425844d9783cbc",
+    "wof:geomhash":"76b90ee9d47daf328dc0087536b8b9d8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108759809,
-    "wof:lastmodified":1690921677,
+    "wof:lastmodified":1695886309,
     "wof:name":"Sekyere West",
     "wof:parent_id":85671331,
     "wof:placetype":"county",

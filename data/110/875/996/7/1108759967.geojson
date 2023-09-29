@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.139707,
-    "geom:area_square_m":1717459097.296868,
+    "geom:area_square_m":1717458948.933098,
     "geom:bbox":"0.13995,5.97871,0.704306,6.339028",
     "geom:latitude":6.183227,
     "geom:longitude":0.417436,
@@ -87,9 +87,10 @@
         "hasc:id":"GH.TV.NT",
         "wd:id":"Q3531554"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481330085,
-    "wof:geomhash":"b673b9ee404d91c0b0c5208597cd58f2",
+    "wof:geomhash":"d3fd1d6cee4f986b5b87ccbf634c4be4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1108759967,
-    "wof:lastmodified":1690921662,
+    "wof:lastmodified":1695886304,
     "wof:name":"Adidome",
     "wof:parent_id":85671357,
     "wof:placetype":"county",

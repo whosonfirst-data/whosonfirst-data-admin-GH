@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.201879,
-    "geom:area_square_m":2479610080.804617,
+    "geom:area_square_m":2479609687.253891,
     "geom:bbox":"-2.448857,6.337209,-1.663592,6.979733",
     "geom:latitude":6.623658,
     "geom:longitude":-2.059519,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"GH.AH.AT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GH",
     "wof:created":1481329990,
-    "wof:geomhash":"d0a9f71ca034c2610beb3ab5edc608bc",
+    "wof:geomhash":"333a5b68e30da42c40aeb59e109af29e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108759791,
-    "wof:lastmodified":1627522154,
+    "wof:lastmodified":1695886623,
     "wof:name":"Atwima",
     "wof:parent_id":85671331,
     "wof:placetype":"county",
